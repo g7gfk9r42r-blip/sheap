@@ -1,0 +1,3781 @@
+[
+  {
+    "id": "R001",
+    "title": "Hähnchenbrust mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Brustfilet",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 4.99,
+        "price_before_eur": 9.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden.",
+      "Paprika und Zwiebeln ebenfalls würfeln.",
+      "In einer Pfanne Öl erhitzen und das Hähnchen anbraten.",
+      "Gemüse hinzufügen und kurz mitbraten.",
+      "Mit Salz, Pfeffer und Zitronensaft abschmecken.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "hahnchenbrust-mit-gemuse",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Zitronensaft (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R001.png"
+  },
+  {
+    "id": "R002",
+    "title": "Gnocchi mit Tomatensauce",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Hilcona Gnocchi",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 3.49,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Oro di Parma Tomaten stückig",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 2,
+        "used_amount": 800.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Gnocchi nach Packungsanweisung kochen.",
+      "Zwiebel würfeln und in einer Pfanne mit Öl anbraten.",
+      "Tomaten hinzufügen und aufkochen lassen.",
+      "Gnocchi in die Sauce geben und gut vermengen.",
+      "Mit frischem Basilikum garnieren und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "gnocchi-mit-tomatensauce",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Basilikum (frisch, 1 Handvoll)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R002.png"
+  },
+  {
+    "id": "R003",
+    "title": "Vegetarische Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Tagliatelle",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Champignon braun",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Zucchini",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Tagliatelle nach Packungsanweisung kochen.",
+      "Champignons und Zucchini in Scheiben schneiden.",
+      "In einer Pfanne mit Öl anbraten, Knoblauch hinzufügen.",
+      "Gekochte Pasta unter das Gemüse mischen.",
+      "Mit Petersilie garnieren und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarische-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Petersilie (frisch, 1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R003.png"
+  },
+  {
+    "id": "R004",
+    "title": "Hähnchen auf Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Hähnchen-Brustfilet",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 4.99,
+        "price_before_eur": 9.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Rucola",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Cocktail Rispentomaten",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet grillen und in Streifen schneiden.",
+      "Rucola waschen und auf Tellern anrichten.",
+      "Tomaten halbieren und dazugeben.",
+      "Hähnchenstreifen darauflegen und mit Olivenöl und Balsamico beträufeln.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "hahnchen-auf-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Olivenöl (2 EL)",
+      "Balsamico (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R004.png"
+  },
+  {
+    "id": "R005",
+    "title": "Veganer Burger",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Rübenburger",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Burgerbrötchen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Avocado",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Rübenburger in einer Pfanne braten.",
+      "Burgerbrötchen aufschneiden und leicht toasten.",
+      "Avocado zerdrücken und auf die Brötchenhälften streichen.",
+      "Burger und Salat darauflegen.",
+      "Mit Tomatenscheiben garnieren und servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "veganer-burger",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (1 Handvoll)",
+      "Tomate (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R005.png"
+  },
+  {
+    "id": "R006",
+    "title": "Fisch Tacos",
+    "description": "",
+    "categories": [
+      "Kalorienarm",
+      "Gluten-free",
+      "High Protein"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Fischfilet",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 4.99,
+        "price_before_eur": 6.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Tortillas",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Kopfsalat",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Fischfilet in einer Pfanne braten.",
+      "Tortillas erwärmen.",
+      "Fisch auf die Tortillas legen und mit Salat garnieren.",
+      "Mit Limettensaft und Koriander abschmecken.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fisch-tacos",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Limette (1 Stk)",
+      "Koriander (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R006.png"
+  },
+  {
+    "id": "R007",
+    "title": "Obstsalat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Äpfel",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Bananen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Erdbeeren",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Äpfel und Bananen in kleine Stücke schneiden.",
+      "Erdbeeren vierteln.",
+      "Alles in einer Schüssel vermengen.",
+      "Mit Zitronensaft und Minze abschmecken.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "obstsalat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zitronensaft (1 EL)",
+      "Minze (frisch, 1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R007.png"
+  },
+  {
+    "id": "R008",
+    "title": "Zucchini Suppe",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Zucchini",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zucchini und Zwiebeln würfeln.",
+      "In einem Topf mit Öl anbraten.",
+      "Mit Gemüsebrühe aufgießen und weich kochen.",
+      "Pürieren und mit Salz und Pfeffer abschmecken.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "zucchini-suppe",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Gemüsebrühe (500 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R008.png"
+  },
+  {
+    "id": "R009",
+    "title": "Quark mit Früchten",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Magerquark",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Heidelbeeren",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Erdbeeren",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Quark in eine Schüssel geben.",
+      "Beeren und Erdbeeren hinzufügen.",
+      "Mit Honig und Zimt verfeinern.",
+      "Gut vermengen und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "quark-mit-fruechten",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)",
+      "Zimt (1 Prise)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R009.png"
+  },
+  {
+    "id": "R010",
+    "title": "Gemüsepfanne",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Zucchini",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Champignon braun",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zucchini, Paprika und Champignons in Stücke schneiden.",
+      "In einer Pfanne mit Öl anbraten.",
+      "Mit Knoblauch und Thymian würzen.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "gemuesepfanne",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Thymian (frisch, 1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R010.png"
+  },
+  {
+    "id": "R011",
+    "title": "Hähnchenbrustfilet mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Brustfilet",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 4.99,
+        "price_before_eur": 9.98
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und in einer Pfanne mit Öl anbraten.",
+      "Paprika und Zwiebeln hinzufügen und kurz mitbraten.",
+      "Mit Salz, Pfeffer und Zitronensaft abschmecken und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "hahnchenbrustfilet-mit-gemuse",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Zitronensaft (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R011.png"
+  },
+  {
+    "id": "R012",
+    "title": "Gnocchi mit Tomatensauce",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Gnocchi",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 2.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Oro di Parma Tomaten stückig",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 2,
+        "used_amount": 800.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Gnocchi nach Packungsanleitung kochen.",
+      "Zwiebel in einer Pfanne anbraten, dann die Tomaten hinzufügen.",
+      "Gnocchi unter die Sauce mischen und mit Basilikum garnieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "gnocchi-mit-tomatensauce-r012",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Basilikum (1 Handvoll)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R012.png"
+  },
+  {
+    "id": "R013",
+    "title": "Vegetarische Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Tagliatelle",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 2.22
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Champignon braun",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Zucchini",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Tagliatelle nach Packungsanleitung kochen.",
+      "Champignons und Zucchini in einer Pfanne anbraten.",
+      "Pasta unter das Gemüse mischen und mit Petersilie garnieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarische-pasta-r013",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R013.png"
+  },
+  {
+    "id": "R014",
+    "title": "Huhn mit Reis",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Hähnchen-Geschnetzeltes",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 800,
+        "packs_used": 1,
+        "used_amount": 800.0,
+        "price_eur": 3.49,
+        "price_before_eur": 5.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Reis",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.29,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Erbsen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchen in einer Pfanne anbraten.",
+      "Reis nach Packungsanleitung kochen.",
+      "Erbsen und Zwiebel zum Hähnchen geben und alles vermischen."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "huhn-mit-reis",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R014.png"
+  },
+  {
+    "id": "R015",
+    "title": "Salat mit Huhn",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Hähnchen-Brustfilet",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 4.99,
+        "price_before_eur": 9.98
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Rucola",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Cocktail Rispentomaten",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet grillen und in Streifen schneiden.",
+      "Rucola und Tomaten in einer Schüssel vermengen.",
+      "Hähnchenstreifen darauflegen und mit Balsamico beträufeln."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "salat-mit-huhn",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Balsamico (2 EL)",
+      "Petersilie (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R015.png"
+  },
+  {
+    "id": "R016",
+    "title": "Tortelloni mit Sauce",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Hilcona Tortelloni",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 3.49,
+        "price_before_eur": 5.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Oro di Parma Tomaten stückig",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 2,
+        "used_amount": 800.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Tortelloni nach Packungsanleitung kochen.",
+      "Zwiebel in einer Pfanne anbraten, dann die Tomaten hinzufügen.",
+      "Tortelloni unter die Sauce mischen und mit Basilikum garnieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "tortelloni-mit-sauce",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Basilikum (1 Handvoll)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R016.png"
+  },
+  {
+    "id": "R017",
+    "title": "Gemüsepfanne",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Zucchini",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Champignon braun",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zucchini, Paprika und Champignons in einer Pfanne anbraten.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "gemusepfanne",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R017.png"
+  },
+  {
+    "id": "R018",
+    "title": "Fruchtiger Salat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Äpfel rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.59,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Trauben hell",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Zitronen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Äpfel und Trauben klein schneiden.",
+      "Mit Zitronensaft und Honig vermengen.",
+      "Mit Minze garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Minze (1 Handvoll)",
+      "Honig (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R018.png"
+  },
+  {
+    "id": "R019",
+    "title": "Schnelle Suppe",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Suppengemüse",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Suppengemüse in einem Topf mit Wasser zum Kochen bringen.",
+      "Zwiebeln und Knoblauch hinzufügen und 10 Minuten köcheln lassen.",
+      "Mit Petersilie garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-suppe",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Petersilie (1 Handvoll)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R019.png"
+  },
+  {
+    "id": "R020",
+    "title": "Fruchtiger Joghurt",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Müller Joghurt mit der Ecke",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 450,
+        "packs_used": 1,
+        "used_amount": 450.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Heidelbeeren",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.25,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Joghurt in eine Schüssel geben.",
+      "Heidelbeeren und Honig hinzufügen.",
+      "Mit Zimt bestreuen und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-joghurt",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)",
+      "Zimt (1 Prise)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R020.png"
+  },
+  {
+    "id": "R021",
+    "title": "Hähnchenbrustfilet mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Brustfilet",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 4.99,
+        "price_before_eur": 9.98
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden.",
+      "Paprika und Zwiebeln ebenfalls würfeln.",
+      "In einer Pfanne Öl erhitzen und das Hähnchen anbraten.",
+      "Gemüse hinzufügen und alles zusammen braten, bis das Gemüse weich ist.",
+      "Mit Salz, Pfeffer und Zitronensaft abschmecken."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "hahnchen-brustfilet-mit-gemuse",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Zitrone (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R021.png"
+  },
+  {
+    "id": "R022",
+    "title": "Vegetarische Pasta mit Sauce",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Tagliatelle",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Oro di Parma Tomaten",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Champignon braun",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Tagliatelle nach Packungsanweisung kochen.",
+      "Champignons in Scheiben schneiden und in einer Pfanne mit Öl anbraten.",
+      "Tomaten hinzufügen und kurz köcheln lassen.",
+      "Mit Salz, Pfeffer und frischem Basilikum würzen.",
+      "Pasta mit der Sauce vermengen und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarische-pasta-mit-sauce",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (1 Zehe)",
+      "Basilikum (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R022.png"
+  },
+  {
+    "id": "R023",
+    "title": "Hähnchen-Geschnetzeltes mit Reis",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Hähnchen-Geschnetzeltes",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 800,
+        "packs_used": 1,
+        "used_amount": 800.0,
+        "price_eur": 5.49,
+        "price_before_eur": 7.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Reis",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Reis nach Packungsanweisung kochen.",
+      "Hähnchen-Geschnetzeltes in einer Pfanne anbraten.",
+      "Paprika und Zwiebel hinzufügen und kurz mitbraten.",
+      "Mit Salz, Pfeffer und Knoblauch würzen.",
+      "Reis auf Tellern anrichten und das Geschnetzelte darauf servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "hahnchen-geschnetzeltes-mit-reis",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R023.png"
+  },
+  {
+    "id": "R024",
+    "title": "Veganes Gemüse-Curry",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Kokosmilch",
+        "brand": "NETTO",
+        "unit": "ml",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Zucchini",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Karotten",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zucchini und Karotten in Würfel schneiden.",
+      "In einer großen Pfanne Öl erhitzen und das Gemüse anbraten.",
+      "Kokosmilch hinzufügen und das Curry köcheln lassen.",
+      "Mit Salz, Pfeffer und Ingwer würzen.",
+      "Mit frischem Koriander garnieren und servieren."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "veganes-gemuse-curry",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Ingwer (1 Stück)",
+      "Koriander (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R024.png"
+  },
+  {
+    "id": "R025",
+    "title": "Fruchtiger Salat mit Nüssen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Äpfel rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.59,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Trauben hell",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Walnüsse",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Äpfel und Trauben klein schneiden.",
+      "In einer Schüssel mit Walnüssen vermengen.",
+      "Mit Honig und Zitronensaft abschmecken.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-salat-mit-nutzen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)",
+      "Zitronensaft (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R025.png"
+  },
+  {
+    "id": "R026",
+    "title": "Schnelle Hackfleischpfanne",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Hackfleisch gemischt",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1500,
+        "packs_used": 1,
+        "used_amount": 1500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 7.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hackfleisch in einer Pfanne anbraten.",
+      "Zwiebeln und Paprika hinzufügen und mitbraten.",
+      "Mit Salz, Pfeffer und Knoblauch würzen.",
+      "Mit frischer Petersilie garnieren und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-hackfleischpfanne",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R026.png"
+  },
+  {
+    "id": "R027",
+    "title": "Fruchtiger Joghurt mit Nüssen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Müller Joghurt",
+        "brand": "Müller",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.89,
+        "price_before_eur": 1.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Himbeeren",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Walnüsse",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Joghurt in Schalen anrichten.",
+      "Himbeeren und Walnüsse darüber streuen.",
+      "Mit Honig und Zimt abschmecken.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-joghurt-mit-nutzen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)",
+      "Zimt (1 Prise)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R027.png"
+  },
+  {
+    "id": "R028",
+    "title": "Schnelle Pizza mit Gemüse",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Bauernbrot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Käse",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Bauernbrot in Scheiben schneiden.",
+      "Mit Tomatensauce bestreichen.",
+      "Mit Käse und Gemüse belegen.",
+      "Im Ofen bei 200°C ca. 10 Minuten backen.",
+      "Mit Oregano und Olivenöl servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-pizza-mit-gemuse",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Oregano (1 TL)",
+      "Olivenöl (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R028.png"
+  },
+  {
+    "id": "R029",
+    "title": "Schnelle Suppe mit Gemüse",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Suppengemüse",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Kartoffeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Suppengemüse und Kartoffeln klein schneiden.",
+      "In einem Topf mit Wasser zum Kochen bringen.",
+      "Zwiebeln hinzufügen und alles ca. 10 Minuten kochen.",
+      "Mit Petersilie und Knoblauch würzen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-suppe-mit-gemuse",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Petersilie (1 Handvoll)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R029.png"
+  },
+  {
+    "id": "R030",
+    "title": "Schnelle Burger mit Hackfleisch",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Hackfleisch gemischt",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1500,
+        "packs_used": 1,
+        "used_amount": 1500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 7.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "Schnittbrötchen",
+        "brand": "NETTO",
+        "unit": "Stück",
+        "pack_size": 6,
+        "packs_used": 1,
+        "used_amount": 6.0,
+        "price_eur": 0.19,
+        "price_before_eur": 0.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O030",
+        "name": "Käse",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hackfleisch in einer Pfanne anbraten.",
+      "Mit Salz und Pfeffer würzen.",
+      "Schnittbrötchen aufschneiden und mit Hackfleisch und Käse belegen.",
+      "Mit Salat und Tomate garnieren und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-burger-mit-hackfleisch",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (1 Handvoll)",
+      "Tomate (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R030.png"
+  },
+  {
+    "id": "R031",
+    "title": "Hähnchenbrustfilet mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Brustfilet",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 4.99,
+        "price_before_eur": 9.98
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden.",
+      "Paprika und Zwiebeln ebenfalls würfeln.",
+      "Öl in einer Pfanne erhitzen und das Hähnchen anbraten.",
+      "Gemüse hinzufügen und alles zusammen ca. 10 Minuten braten.",
+      "Mit Salz, Pfeffer und Zitronensaft abschmecken."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "hahnchen-brustfilet-mit-gemuse-r031",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Zitronensaft (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R031.png"
+  },
+  {
+    "id": "R032",
+    "title": "Gnocchi mit Pilzen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Hilcona Gnocchi",
+        "brand": "Hilcona",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 3.49,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Champignon braun",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Gnocchi nach Packungsanweisung kochen.",
+      "Zwiebeln und Champignons in einer Pfanne mit Öl anbraten.",
+      "Gnocchi hinzufügen und alles gut vermengen.",
+      "Mit Salz, Pfeffer und Petersilie abschmecken."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "gnocchi-mit-pilzen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (1 Zehe)",
+      "Petersilie (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R032.png"
+  },
+  {
+    "id": "R033",
+    "title": "Vegetarische Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Pasta",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Zucchini",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Paprika",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen.",
+      "Zucchini und Paprika in Würfel schneiden und in einer Pfanne anbraten.",
+      "Pasta hinzufügen und alles gut vermengen.",
+      "Mit Oregano, Salz und Pfeffer abschmecken."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarische-pasta-r033",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Oregano (1 TL)",
+      "Olivenöl (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R033.png"
+  },
+  {
+    "id": "R034",
+    "title": "Hühnchen-Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Brustfilet",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 4.99,
+        "price_before_eur": 9.98
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Rucola",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Kirschtomaten",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet grillen und in Streifen schneiden.",
+      "Rucola und Kirschtomaten in eine Schüssel geben.",
+      "Hähnchenstreifen hinzufügen und mit Olivenöl und Balsamico anrichten."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "huhner-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Olivenöl (2 EL)",
+      "Balsamico (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R034.png"
+  },
+  {
+    "id": "R035",
+    "title": "Fruchtiger Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Bananen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Himbeeren",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Mango",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Alle Zutaten in einen Mixer geben.",
+      "Gut pürieren, bis eine cremige Konsistenz erreicht ist.",
+      "In Gläser füllen und sofort servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zitronensaft (1 EL)",
+      "Wasser (200 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R035.png"
+  },
+  {
+    "id": "R036",
+    "title": "Schnelle Omelette",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Eier",
+        "brand": "NETTO",
+        "unit": "Stk",
+        "pack_size": 10,
+        "packs_used": 1,
+        "used_amount": 10.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Käse",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Paprika",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Eier in einer Schüssel verquirlen.",
+      "Paprika klein schneiden und unter die Eier mischen.",
+      "In einer Pfanne mit Öl anbraten und Käse darüber streuen.",
+      "Omelette zusammenklappen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-omelette",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Petersilie (1 TL)",
+      "Öl (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R036.png"
+  },
+  {
+    "id": "R037",
+    "title": "Gemüsepfanne",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Zucchini",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Paprika",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Karotten",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zucchini, Paprika und Karotten in Würfel schneiden.",
+      "In einer Pfanne mit Öl anbraten.",
+      "Mit Sojasauce, Salz und Pfeffer abschmecken."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "gemusepfanne-r037",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Sojasauce (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R037.png"
+  },
+  {
+    "id": "R038",
+    "title": "Fruchtiger Joghurt",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Naturjoghurt",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1500,
+        "packs_used": 1,
+        "used_amount": 1500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Himbeeren",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Bananen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Joghurt in eine Schüssel geben.",
+      "Himbeeren und Bananen hinzufügen und gut vermengen.",
+      "Mit Honig und Zimt abschmecken."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-joghurt-r038",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)",
+      "Zimt (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R038.png"
+  },
+  {
+    "id": "R039",
+    "title": "Schnelle Suppe",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Suppengemüse",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Kartoffeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Suppengemüse und Kartoffeln klein schneiden.",
+      "In einem Topf mit Wasser und Brühe zum Kochen bringen.",
+      "Zwiebeln hinzufügen und alles ca. 10 Minuten köcheln lassen.",
+      "Mit Petersilie, Salz und Pfeffer abschmecken."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-suppe-r039",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Petersilie (1 TL)",
+      "Brühe (1 L)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R039.png"
+  },
+  {
+    "id": "R040",
+    "title": "Fruchtiger Salat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Äpfel",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Trauben",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "Zitronen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Äpfel und Trauben klein schneiden.",
+      "In einer Schüssel vermengen und mit Zitronensaft beträufeln.",
+      "Mit Honig und Minze garnieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-salat-r040",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)",
+      "Minze (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R040.png"
+  },
+  {
+    "id": "R041",
+    "title": "Hähnchen-Bowl mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Brustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 4.99,
+        "price_before_eur": 9.98
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Paprika rot",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und in einer Pfanne mit Öl anbraten.",
+      "Paprika und Zwiebeln in Streifen schneiden und zum Hähnchen geben.",
+      "Mit Salz, Pfeffer und Gewürzen abschmecken und kurz mitbraten.",
+      "Mit Zitronensaft und frischer Petersilie garnieren und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-bowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Zitronensaft (1 EL)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R041.png"
+  },
+  {
+    "id": "R042",
+    "title": "Gemüse-Pfanne mit Tofu",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Tofu",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Brokkoli",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Karotten",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Tofu in Würfel schneiden und in einer Pfanne anbraten.",
+      "Brokkoli und Karotten klein schneiden und zum Tofu geben.",
+      "Mit Sojasauce, Ingwer und Gewürzen abschmecken und kurz anbraten.",
+      "Mit Frühlingszwiebeln garnieren und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-stir-fry",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Sojasauce (2 EL)",
+      "Ingwer (1 Stück)",
+      "Frühlingszwiebeln (2 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R042.png"
+  },
+  {
+    "id": "R043",
+    "title": "Nudelsalat mit Feta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Pasta",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Feta",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Kirschtomaten",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen und abkühlen lassen.",
+      "Kirschtomaten halbieren und Feta zerbröseln.",
+      "Alle Zutaten in einer Schüssel vermengen und mit Olivenöl, Essig, Salz und Pfeffer abschmecken.",
+      "Mit frischem Basilikum garnieren und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pasta-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Basilikum (1 Bund)",
+      "Olivenöl (3 EL)",
+      "Essig (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R043.png"
+  },
+  {
+    "id": "R044",
+    "title": "Kichererbsen-Curry",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Kichererbsen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Kokosmilch",
+        "brand": "NETTO",
+        "unit": "ml",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zwiebeln, Knoblauch und Ingwer klein schneiden und in einer Pfanne anbraten.",
+      "Kichererbsen und Kokosmilch hinzufügen und mit Currypulver, Salz und Pfeffer abschmecken.",
+      "Das Curry 20 Minuten köcheln lassen und servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chickpea-curry",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Currypulver (2 EL)",
+      "Knoblauch (2 Zehen)",
+      "Ingwer (1 Stück)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R044.png"
+  },
+  {
+    "id": "R045",
+    "title": "Frucht-Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Banane",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Heidelbeeren",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 2,
+        "used_amount": 250.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Joghurt",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Banane und Heidelbeeren in einen Mixer geben.",
+      "Joghurt und Honig hinzufügen und alles gut pürieren.",
+      "Mit Zitronensaft abschmecken und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruit-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)",
+      "Zitronensaft (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R045.png"
+  },
+  {
+    "id": "R046",
+    "title": "Schokoladen-Bananenbrot",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Bananen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 3,
+        "used_amount": 3000.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Mehl",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Zucker",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 0.79,
+        "price_before_eur": 1.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Bananen zerdrücken und mit Zucker und Eiern vermengen.",
+      "Mehl, Backpulver und Kakaopulver unterrühren.",
+      "In eine Kastenform füllen und bei 180°C ca. 30 Minuten backen.",
+      "Abkühlen lassen und servieren."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chocolate-banana-bread",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Backpulver (1 Päckchen)",
+      "Kakaopulver (50 g)",
+      "Eier (2 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R046.png"
+  },
+  {
+    "id": "R047",
+    "title": "Würzige Kichererbsen",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Kichererbsen",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Paprika",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Zwiebeln",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zwiebeln und Knoblauch klein schneiden und in einer Pfanne anbraten.",
+      "Kichererbsen und Paprika hinzufügen und mit Chilipulver, Kreuzkümmel, Salz und Pfeffer würzen.",
+      "Kurz anbraten und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "spicy-chickpeas",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Chilipulver (1 TL)",
+      "Knoblauch (1 Zehe)",
+      "Kreuzkümmel (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R047.png"
+  },
+  {
+    "id": "R048",
+    "title": "Zucchini-Nudeln mit Pesto",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Low Carb",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Zucchini",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Pesto",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 190,
+        "packs_used": 2,
+        "used_amount": 380.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Kirschtomaten",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zucchini mit einem Spiralschneider in Nudeln schneiden.",
+      "In einer Pfanne mit Öl kurz anbraten.",
+      "Mit Pesto und Kirschtomaten vermengen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "zucchini-noodles",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Parmesan (50 g)",
+      "Basilikum (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R048.png"
+  },
+  {
+    "id": "R049",
+    "title": "Apfel-Crumble",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Äpfel",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Mehl",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Butter",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Äpfel schälen, entkernen und in Stücke schneiden.",
+      "Mehl, Zucker, Butter und Zimt zu einem Teig vermengen.",
+      "Äpfel in eine Auflaufform geben und mit dem Teig bedecken.",
+      "Bei 180°C ca. 30 Minuten backen und warm servieren."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "apple-crumble",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucker (100 g)",
+      "Zimt (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R049.png"
+  },
+  {
+    "id": "R050",
+    "title": "Schokoladenmousse",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Zartbitterschokolade",
+        "brand": "NETTO",
+        "unit": "g",
+        "pack_size": 100,
+        "packs_used": 2,
+        "used_amount": 200.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "Sahne",
+        "brand": "NETTO",
+        "unit": "ml",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O030",
+        "name": "Eier",
+        "brand": "NETTO",
+        "unit": "Stk",
+        "pack_size": 10,
+        "packs_used": 1,
+        "used_amount": 10.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Schokolade im Wasserbad schmelzen.",
+      "Eier trennen und das Eiweiß steif schlagen.",
+      "Sahne schlagen und unter die geschmolzene Schokolade heben.",
+      "Eischnee vorsichtig unterheben und in Gläser füllen. Kalt stellen und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "medium",
+    "retailer": "NETTO",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chocolate-mousse",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucker (50 g)",
+      "Vanillezucker (1 Päckchen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/netto_R050.png"
+  }
+]

@@ -1,0 +1,3221 @@
+{
+  "retailer": "BIOMARKT",
+  "week_key": "2026-W05",
+  "valid_from": "2026-01-26",
+  "recipes": [
+    {
+      "id": "R001",
+      "slug": "creamy-tofu-stir-fry",
+      "title": "Cremige Tofu-Pfanne",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Tofu geräuchert",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.99,
+          "price_before_eur": 5.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Kombucha",
+          "brand": "VOELKEL",
+          "unit": "l",
+          "pack_size": 0.33,
+          "packs_used": 2,
+          "used_amount": 0.66,
+          "price_eur": 2.0,
+          "price_before_eur": 3.03
+        }
+      ],
+      "without_offers": [
+        "Paprika (1 Stk)",
+        "Zucchini (1 Stk)"
+      ],
+      "steps": [
+        "Tofu in Würfel schneiden und in einer Pfanne mit Öl anbraten.",
+        "Paprika und Zucchini hinzufügen und kurz mitbraten.",
+        "Mit Kombucha ablöschen und einige Minuten köcheln lassen.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R002",
+      "slug": "vegan-pasta-salad",
+      "title": "Veganer Nudelsalat",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Nudeln aus Hülsenfrüchten",
+          "brand": "EXPLORE CUISINE",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 14.95
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Feinkostsalat",
+          "brand": "GRÜNHOF",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 2,
+          "used_amount": 250.0,
+          "price_eur": 5.98,
+          "price_before_eur": 23.29
+        }
+      ],
+      "without_offers": [
+        "Kirschtomaten (200 g)",
+        "Gurke (1 Stk)"
+      ],
+      "steps": [
+        "Nudeln nach Packungsanweisung kochen und abkühlen lassen.",
+        "Gemüse klein schneiden und mit den Nudeln vermengen.",
+        "Feinkostsalat unterheben und mit Salz und Pfeffer abschmecken.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R003",
+      "slug": "spicy-tofu-bowl",
+      "title": "Würzige Tofu-Bowl",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Tofu geräuchert",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.99,
+          "price_before_eur": 5.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Kombucha",
+          "brand": "VOELKEL",
+          "unit": "l",
+          "pack_size": 0.33,
+          "packs_used": 2,
+          "used_amount": 0.66,
+          "price_eur": 2.0,
+          "price_before_eur": 3.03
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Cashewbruch",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 6.49,
+          "price_before_eur": 12.98
+        }
+      ],
+      "without_offers": [
+        "Chili (1 Stk)",
+        "Zwiebel (1 Stk)",
+        "Koriander (1 Bund)"
+      ],
+      "steps": [
+        "Tofu in Würfel schneiden und in einer Pfanne anbraten.",
+        "Chili und Zwiebel hinzufügen und kurz mitbraten.",
+        "Mit Kombucha ablöschen und einige Minuten köcheln lassen.",
+        "In einer Schüssel anrichten und mit Cashewbruch und Koriander garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R004",
+      "slug": "clementine-smoothie",
+      "title": "Clementinen-Smoothie",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Clementinen",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 3.33,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Frischer Haferdrink",
+          "brand": "VELIKE!",
+          "unit": "l",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Ingwer (1 Stück)",
+        "Minze (1 Bund)"
+      ],
+      "steps": [
+        "Clementinen schälen und in den Mixer geben.",
+        "Haferdrink und Ingwer hinzufügen.",
+        "Alles gut pürieren und mit frischer Minze garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R005",
+      "slug": "spicy-pasta-with-pesto",
+      "title": "Würzige Pasta mit Pesto",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Nudeln aus Hülsenfrüchten",
+          "brand": "EXPLORE CUISINE",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 2.99,
+          "price_before_eur": 14.95
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Pesto",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 130,
+          "packs_used": 2,
+          "used_amount": 260.0,
+          "price_eur": 3.58,
+          "price_before_eur": 12.79
+        }
+      ],
+      "without_offers": [
+        "Chili (1 Stk)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Nudeln nach Packungsanweisung kochen.",
+        "In einer Pfanne Öl erhitzen und Chili sowie Knoblauch anbraten.",
+        "Nudeln abgießen und mit Pesto vermengen.",
+        "Mit frischem Basilikum garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R006",
+      "slug": "vegan-burger",
+      "title": "Veganer Burger",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 35,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Vegane Fleischalternative",
+          "brand": "THE VEGAN COW",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 2,
+          "used_amount": 360.0,
+          "price_eur": 5.98,
+          "price_before_eur": 16.61
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Burger-Buns",
+          "brand": "BIOFOURNIL",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 3,
+          "used_amount": 450.0,
+          "price_eur": 6.87,
+          "price_before_eur": 15.27
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Stk)",
+        "Tomate (1 Stk)"
+      ],
+      "steps": [
+        "Vegane Fleischalternative in einer Pfanne braten.",
+        "Burger-Buns aufschneiden und leicht toasten.",
+        "Burger zusammenstellen mit Salat, Tomate und Zwiebel.",
+        "Warm servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R007",
+      "slug": "coconut-chia-pudding",
+      "title": "Kokos-Chia-Pudding",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Kokosöl",
+          "brand": "BIO PLANÈTE",
+          "unit": "ml",
+          "pack_size": 950,
+          "packs_used": 1,
+          "used_amount": 950.0,
+          "price_eur": 13.99,
+          "price_before_eur": 14.73
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Ahornsirup",
+          "brand": "DENNREE",
+          "unit": "ml",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 4.49,
+          "price_before_eur": 17.96
+        }
+      ],
+      "without_offers": [
+        "Chia-Samen (100 g)",
+        "Früchte (nach Wahl)"
+      ],
+      "steps": [
+        "Chia-Samen mit Kokosöl und Ahornsirup vermengen.",
+        "In einem Glas anrichten und über Nacht im Kühlschrank quellen lassen.",
+        "Mit frischen Früchten garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R008",
+      "slug": "vegan-soup",
+      "title": "Vegane Suppe",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Vegane Suppe oder Eintopf",
+          "brand": "WÜNSCH DIR MAHL",
+          "unit": "ml",
+          "pack_size": 380,
+          "packs_used": 2,
+          "used_amount": 760.0,
+          "price_eur": 5.98,
+          "price_before_eur": 7.87
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Vegane Suppe oder Eintopf",
+          "brand": "WÜNSCH DIR MAHL",
+          "unit": "ml",
+          "pack_size": 380,
+          "packs_used": 1,
+          "used_amount": 380.0,
+          "price_eur": 5.98,
+          "price_before_eur": 7.87
+        }
+      ],
+      "without_offers": [
+        "Karotten (2 Stk)"
+      ],
+      "steps": [
+        "Gemüse klein schneiden und in einem Topf mit Wasser zum Kochen bringen.",
+        "Vegane Suppe hinzufügen und alles gut vermengen.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R009",
+      "slug": "vegan-chocolate-mousse",
+      "title": "Vegane Schokoladenmousse",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Vegane RAW-Schokolade",
+          "brand": "LOVECHOCK",
+          "unit": "g",
+          "pack_size": 70,
+          "packs_used": 2,
+          "used_amount": 140.0,
+          "price_eur": 9.98,
+          "price_before_eur": 71.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Frischer Haferdrink",
+          "brand": "VELIKE!",
+          "unit": "l",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Agavendicksaft (nach Geschmack)",
+        "Vanille (1 Stk)"
+      ],
+      "steps": [
+        "Schokolade im Wasserbad schmelzen.",
+        "Haferdrink und Agavendicksaft hinzufügen und gut verrühren.",
+        "In Gläser füllen und für mindestens 2 Stunden kühlen.",
+        "Mit Vanille garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R010",
+      "slug": "vegan-pizza",
+      "title": "Vegane Pizza",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 40,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Vegane Käsealternativen",
+          "brand": "HAPPY CHEEZE",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 2,
+          "used_amount": 300.0,
+          "price_eur": 7.98,
+          "price_before_eur": 39.9
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Tomatensauce",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.79,
+          "price_before_eur": 5.11
+        }
+      ],
+      "without_offers": [
+        "Pizzateig (1 Packung)",
+        "Paprika (1 Stk)"
+      ],
+      "steps": [
+        "Pizzateig ausrollen und mit Tomatensauce bestreichen.",
+        "Paprika und Zwiebel in Ringe schneiden und auf der Pizza verteilen.",
+        "Mit veganem Käse bestreuen und im Ofen backen.",
+        "Warm servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R011",
+      "slug": "tofu-salat",
+      "title": "Tofu-Salat mit Cashew-Dressing",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Tofu geräuchert",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Cashewbruch",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 6.49,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Tofu in Würfel schneiden und in einer Pfanne anbraten.",
+        "Cashewbruch in einem Mixer zu einer cremigen Konsistenz pürieren.",
+        "Zwiebel und Knoblauch fein hacken und mit dem Tofu vermengen.",
+        "Mit Zitronensaft, Salz und Pfeffer abschmecken.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R012",
+      "slug": "veganer-pesto-pasta",
+      "title": "Veganer Pesto Pasta",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Nudeln aus Hülsenfrüchten",
+          "brand": "EXPLORE CUISINE",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Pesto",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 130,
+          "packs_used": 2,
+          "used_amount": 260.0,
+          "price_eur": 1.79,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Pinienkerne (50 g)",
+        "Basilikum (1 Bund)"
+      ],
+      "steps": [
+        "Nudeln nach Packungsanweisung kochen.",
+        "Pesto mit etwas Nudelwasser vermengen.",
+        "Nudeln abgießen und mit Pesto vermischen.",
+        "Mit frischem Basilikum garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R013",
+      "slug": "schupfnudeln-mit-gemuese",
+      "title": "Schupfnudeln mit Gemüse",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Schupfnudeln oder Spätzle",
+          "brand": "PASTA NUOVA",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 2.89,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Tiefkühl-Gemüse",
+          "brand": "NATURAL COOL",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 2,
+          "used_amount": 600.0,
+          "price_eur": 1.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Schupfnudeln nach Packungsanweisung kochen.",
+        "Zwiebel und Knoblauch anbraten, dann das Gemüse hinzufügen.",
+        "Schupfnudeln untermischen und mit Gewürzen abschmecken.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R014",
+      "slug": "clementinen-salat",
+      "title": "Clementinen-Salat",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Clementinen",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 3.33,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Clementinen",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 3.33,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (2 EL)"
+      ],
+      "steps": [
+        "Clementinen schälen und in Stücke schneiden.",
+        "Olivenöl und Honig vermengen und über die Clementinen geben.",
+        "Mit frischer Minze garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R015",
+      "slug": "veganer-burger",
+      "title": "Veganer Burger mit Gemüse",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Vegane Fleischalternative",
+          "brand": "THE VEGAN COW",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 2,
+          "used_amount": 360.0,
+          "price_eur": 2.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Burger-Buns",
+          "brand": "BIOFOURNIL",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 2,
+          "used_amount": 360.0,
+          "price_eur": 2.29,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Salat (2 Blätter)",
+        "Tomate (1 Stk)"
+      ],
+      "steps": [
+        "Vegane Fleischalternative in einer Pfanne anbraten.",
+        "Burger-Buns aufschneiden und leicht toasten.",
+        "Mit Salat, Tomate und Gurke belegen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R016",
+      "slug": "keto-cracker-snack",
+      "title": "Keto-Cracker Snack",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Keto-Cracker",
+          "brand": "JFOODS SA",
+          "unit": "g",
+          "pack_size": 60,
+          "packs_used": 1,
+          "used_amount": 60.0,
+          "price_eur": 1.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Keto-Cracker",
+          "brand": "JFOODS SA",
+          "unit": "g",
+          "pack_size": 60,
+          "packs_used": 1,
+          "used_amount": 60.0,
+          "price_eur": 1.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Guacamole (100 g)"
+      ],
+      "steps": [
+        "Keto-Cracker auf einen Teller anrichten.",
+        "Mit Guacamole, Salsa und Oliven servieren.",
+        "Genießen als Snack."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R017",
+      "slug": "papaya-smoothie",
+      "title": "Papaya-Smoothie",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Papaya",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 7.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Papaya",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 7.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Banane (1 Stk)"
+      ],
+      "steps": [
+        "Papaya schälen und in Stücke schneiden.",
+        "Mit Banane, Mandelmilch und Honig in einen Mixer geben.",
+        "Pürieren und in Gläser füllen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R018",
+      "slug": "fruchtiger-salat",
+      "title": "Fruchtiger Salat",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Trauben kernlos",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 8.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Trauben kernlos",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 8.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Äpfel (2 Stk)"
+      ],
+      "steps": [
+        "Trauben waschen und halbieren.",
+        "Äpfel in Stücke schneiden und mit Trauben vermengen.",
+        "Mit Zitronensaft und Minze garnieren.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R019",
+      "slug": "veganer-eintopf",
+      "title": "Veganer Eintopf",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 40,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Vegane Suppe oder Eintopf",
+          "brand": "WÜNSCH DIR MAHL",
+          "unit": "ml",
+          "pack_size": 380,
+          "packs_used": 2,
+          "used_amount": 760.0,
+          "price_eur": 2.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Vegane Suppe oder Eintopf",
+          "brand": "WÜNSCH DIR MAHL",
+          "unit": "ml",
+          "pack_size": 380,
+          "packs_used": 1,
+          "used_amount": 380.0,
+          "price_eur": 2.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Karotten (2 Stk)"
+      ],
+      "steps": [
+        "Gemüse klein schneiden und in einem Topf anbraten.",
+        "Vegane Suppe oder Eintopf hinzufügen und aufkochen.",
+        "Mit Gewürzen abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R020",
+      "slug": "apfelschorle-drink",
+      "title": "Erfrischende Apfelschorle",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Apfelschorle",
+          "brand": "DENNREE",
+          "unit": "l",
+          "pack_size": 0.5,
+          "packs_used": 4,
+          "used_amount": 2.0,
+          "price_eur": 0.89,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Apfelschorle",
+          "brand": "DENNREE",
+          "unit": "l",
+          "pack_size": 0.5,
+          "packs_used": 1,
+          "used_amount": 0.5,
+          "price_eur": 0.89,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Zitrone (1/2 Stk)"
+      ],
+      "steps": [
+        "Apfelschorle in Gläser füllen.",
+        "Mit Zitronensaft und Minze garnieren.",
+        "Eiswürfel hinzufügen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R021",
+      "slug": "creamy-tofu-stir-fry-r021",
+      "title": "Cremige Tofu-Pfanne",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Tofu geräuchert",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.99,
+          "price_before_eur": 5.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Frischer Haferdrink",
+          "brand": "VELIKE!",
+          "unit": "l",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Kombucha",
+          "brand": "VOELKEL",
+          "unit": "l",
+          "pack_size": 0.33,
+          "packs_used": 3,
+          "used_amount": 0.99,
+          "price_eur": 3.0,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (2 Zehen)",
+        "Paprika (1 Stk)"
+      ],
+      "steps": [
+        "Tofu in Würfel schneiden und in einer Pfanne mit Öl anbraten.",
+        "Zwiebel und Knoblauch hinzufügen und glasig dünsten.",
+        "Paprika in Streifen schneiden und dazugeben, kurz anbraten.",
+        "Mit Haferdrink ablöschen und köcheln lassen.",
+        "Mit Salz, Pfeffer und Gewürzen abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R022",
+      "slug": "vegan-pasta-salad-r022",
+      "title": "Veganer Nudelsalat",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 6,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Nudeln aus Hülsenfrüchten",
+          "brand": "EXPLORE CUISINE",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Tomatensauce",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.79,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Feinkostsalat",
+          "brand": "GRÜNHOF",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 3,
+          "used_amount": 375.0,
+          "price_eur": 2.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Gurke (1 Stk)",
+        "Zwiebel (1 Stk)",
+        "Oliven (100 g)"
+      ],
+      "steps": [
+        "Nudeln nach Packungsanweisung kochen und abkühlen lassen.",
+        "Gurke, Zwiebel und Oliven klein schneiden.",
+        "Nudeln mit Tomatensauce und Feinkostsalat vermengen.",
+        "Gemüse hinzufügen und gut vermischen.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R023",
+      "slug": "spicy-tofu-bowl-r023",
+      "title": "Würzige Tofu-Bowl",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Tofu geräuchert",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.99,
+          "price_before_eur": 5.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Kombucha",
+          "brand": "VOELKEL",
+          "unit": "l",
+          "pack_size": 0.33,
+          "packs_used": 3,
+          "used_amount": 0.99,
+          "price_eur": 3.0,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Cashewbruch",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 6.49,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Chili (1 Stk)",
+        "Zwiebel (1 Stk)",
+        "Koriander (1 Bund)"
+      ],
+      "steps": [
+        "Tofu in Würfel schneiden und in einer Pfanne anbraten.",
+        "Zwiebel und Chili hinzufügen und kurz anbraten.",
+        "Mit Kombucha ablöschen und köcheln lassen.",
+        "In einer Schüssel anrichten und mit Cashewbruch und Koriander garnieren.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R024",
+      "slug": "citrus-salad",
+      "title": "Zitrus-Salat",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Clementinen",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 3.33,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Mini-Gurken",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 5.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Papaya",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 7.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (3 EL)",
+        "Zitronensaft (2 EL)",
+        "Pfeffer (nach Geschmack)"
+      ],
+      "steps": [
+        "Clementinen schälen und in Stücke teilen.",
+        "Mini-Gurken in Scheiben schneiden.",
+        "Papaya schälen und würfeln.",
+        "Alle Zutaten in einer Schüssel vermengen.",
+        "Mit Olivenöl, Zitronensaft und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R025",
+      "slug": "tofu-burger",
+      "title": "Tofu-Burger",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 35,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Tofu geräuchert",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.99,
+          "price_before_eur": 5.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Burger-Buns",
+          "brand": "BIOFOURNIL",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 1,
+          "used_amount": 180.0,
+          "price_eur": 2.29,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Pesto",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 130,
+          "packs_used": 1,
+          "used_amount": 130.0,
+          "price_eur": 1.79,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Handvoll)",
+        "Tomate (1 Stk)",
+        "Gurke (1 Stk)"
+      ],
+      "steps": [
+        "Tofu in Scheiben schneiden und in einer Pfanne anbraten.",
+        "Burger-Buns aufschneiden und leicht toasten.",
+        "Pesto auf die Buns streichen.",
+        "Tofu-Scheiben darauflegen und mit Salat, Tomate und Gurke garnieren.",
+        "Zusammenklappen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R026",
+      "slug": "chickpea-curry",
+      "title": "Kichererbsen-Curry",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Kombucha",
+          "brand": "VOELKEL",
+          "unit": "l",
+          "pack_size": 0.33,
+          "packs_used": 3,
+          "used_amount": 0.99,
+          "price_eur": 3.0,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Tomatensauce",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.79,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Cashewbruch",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 6.49,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Kichererbsen (400 g)",
+        "Zwiebel (1 Stk)",
+        "Knoblauch (2 Zehen)"
+      ],
+      "steps": [
+        "Zwiebel und Knoblauch in einer Pfanne anbraten.",
+        "Kichererbsen und Tomatensauce hinzufügen und köcheln lassen.",
+        "Mit Kombucha ablöschen und Cashewbruch unterrühren.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R027",
+      "slug": "sweet-potato-fries",
+      "title": "Süßkartoffel-Pommes",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Süßkartoffeln",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 3.0,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Kräutertee",
+          "brand": "ALLOS",
+          "unit": "Packung",
+          "pack_size": 20,
+          "packs_used": 1,
+          "used_amount": 20.0,
+          "price_eur": 2.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O021",
+          "name": "Olivenöl",
+          "brand": "BIOMARKT",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 8.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Paprika (1 TL)",
+        "Salz (nach Geschmack)",
+        "Pfeffer (nach Geschmack)"
+      ],
+      "steps": [
+        "Süßkartoffeln schälen und in Pommes schneiden.",
+        "Mit Olivenöl, Paprika, Salz und Pfeffer vermengen.",
+        "Auf ein Backblech legen und bei 200°C ca. 25 Minuten backen.",
+        "Mit Kräutertee servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R028",
+      "slug": "vegan-chili",
+      "title": "Veganer Chili",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 6,
+      "duration_minutes": 40,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O022",
+          "name": "Kombucha",
+          "brand": "VOELKEL",
+          "unit": "l",
+          "pack_size": 0.33,
+          "packs_used": 3,
+          "used_amount": 0.99,
+          "price_eur": 3.0,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O023",
+          "name": "Tomatensauce",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.79,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O024",
+          "name": "Cashewbruch",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 6.49,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Kidneybohnen (400 g)",
+        "Zwiebel (1 Stk)",
+        "Knoblauch (2 Zehen)"
+      ],
+      "steps": [
+        "Zwiebel und Knoblauch in einer Pfanne anbraten.",
+        "Kidneybohnen und Tomatensauce hinzufügen und köcheln lassen.",
+        "Mit Kombucha ablöschen und Cashewbruch unterrühren.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R029",
+      "slug": "vegan-smoothie",
+      "title": "Veganer Smoothie",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O025",
+          "name": "Papaya",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 7.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O026",
+          "name": "Clementinen",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 3.33,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O027",
+          "name": "Frischer Haferdrink",
+          "brand": "VELIKE!",
+          "unit": "l",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.99,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Ingwer (1 Stück)",
+        "Zimt (1 Prise)",
+        "Honig (nach Geschmack)"
+      ],
+      "steps": [
+        "Papaya und Clementinen schälen und in Stücke schneiden.",
+        "Alle Zutaten in einen Mixer geben und pürieren.",
+        "In Gläser füllen und sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R030",
+      "slug": "vegan-burger-r030",
+      "title": "Veganer Burger",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O028",
+          "name": "Vegane Fleischalternative",
+          "brand": "THE VEGAN COW",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 1,
+          "used_amount": 180.0,
+          "price_eur": 2.99,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O029",
+          "name": "Burger-Buns",
+          "brand": "BIOFOURNIL",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 1,
+          "used_amount": 180.0,
+          "price_eur": 2.29,
+          "price_before_eur": 0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O030",
+          "name": "Pesto",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 130,
+          "packs_used": 1,
+          "used_amount": 130.0,
+          "price_eur": 1.79,
+          "price_before_eur": 0
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Handvoll)",
+        "Tomate (1 Stk)",
+        "Gurke (1 Stk)"
+      ],
+      "steps": [
+        "Vegane Fleischalternative in Scheiben schneiden und in einer Pfanne anbraten.",
+        "Burger-Buns aufschneiden und leicht toasten.",
+        "Pesto auf die Buns streichen.",
+        "Vegane Fleischalternative darauflegen und mit Salat, Tomate und Gurke garnieren.",
+        "Zusammenklappen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R031",
+      "slug": "tofu-salat-r031",
+      "title": "Tofu-Salat mit Cashew-Dressing",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Tofu geräuchert",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.99,
+          "price_before_eur": 5.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Cashewbruch",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 6.49,
+          "price_before_eur": 12.98
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Paprika (1 Stk)"
+      ],
+      "steps": [
+        "Tofu in Würfel schneiden und in einer Pfanne anbraten.",
+        "Cashewbruch in einem Mixer zu einer Paste verarbeiten.",
+        "Zwiebel und Paprika klein schneiden und mit dem Tofu vermengen.",
+        "Cashew-Dressing hinzufügen und alles gut vermischen.",
+        "Mit frischem Koriander garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R032",
+      "slug": "pasta-mit-pesto",
+      "title": "Pasta mit Pesto und Gemüse",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Nudeln aus Hülsenfrüchten",
+          "brand": "EXPLORE CUISINE",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 2.99,
+          "price_before_eur": 14.95
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Pesto",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 130,
+          "packs_used": 1,
+          "used_amount": 130.0,
+          "price_eur": 1.79,
+          "price_before_eur": 13.77
+        }
+      ],
+      "without_offers": [
+        "Zucchini (1 Stk)",
+        "Tomaten (2 Stk)"
+      ],
+      "steps": [
+        "Nudeln nach Packungsanweisung kochen.",
+        "Zucchini und Tomaten klein schneiden und in einer Pfanne anbraten.",
+        "Nudeln abgießen und mit dem Pesto vermengen.",
+        "Das gebratene Gemüse hinzufügen und gut vermischen.",
+        "Mit frischem Basilikum garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R033",
+      "slug": "veganer-burger-r033",
+      "title": "Veganer Burger mit Gemüse",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Vegane Fleischalternative",
+          "brand": "THE VEGAN COW",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 1,
+          "used_amount": 180.0,
+          "price_eur": 2.99,
+          "price_before_eur": 16.61
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Burger-Buns",
+          "brand": "BIOFOURNIL",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 2,
+          "used_amount": 300.0,
+          "price_eur": 2.29,
+          "price_before_eur": 15.27
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Blatt)",
+        "Tomate (1 Stk)"
+      ],
+      "steps": [
+        "Vegane Fleischalternative in einer Pfanne braten.",
+        "Burger-Buns aufschneiden und leicht toasten.",
+        "Salat, Tomate und Gurke vorbereiten.",
+        "Die gebratene Fleischalternative auf die Bun-Hälften legen.",
+        "Mit Gemüse belegen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R034",
+      "slug": "schupfnudeln-mit-gemuese-r034",
+      "title": "Schupfnudeln mit Gemüse",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Schupfnudeln oder Spätzle",
+          "brand": "PASTA NUOVA",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 2.89,
+          "price_before_eur": 7.23
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Schupfnudeln oder Spätzle",
+          "brand": "PASTA NUOVA",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 2.89,
+          "price_before_eur": 7.23
+        }
+      ],
+      "without_offers": [
+        "Karotte (1 Stk)"
+      ],
+      "steps": [
+        "Schupfnudeln nach Packungsanweisung kochen.",
+        "Karotte und Brokkoli klein schneiden und in einer Pfanne anbraten.",
+        "Zwiebel würfeln und dazugeben.",
+        "Die gekochten Schupfnudeln hinzufügen und alles gut vermengen.",
+        "Mit Gewürzen abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R035",
+      "slug": "clementinen-salat-r035",
+      "title": "Clementinen-Salat mit Nüssen",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Clementinen",
+          "brand": "BIOMARKT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 3.33,
+          "price_before_eur": ""
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Cashewbruch",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 6.49,
+          "price_before_eur": 12.98
+        }
+      ],
+      "without_offers": [
+        "Rucola (100 g)",
+        "Olivenöl (2 EL)"
+      ],
+      "steps": [
+        "Clementinen schälen und in Stücke schneiden.",
+        "Rucola waschen und auf Tellern anrichten.",
+        "Clementinen und Cashewbruch darauf verteilen.",
+        "Mit Olivenöl und Honig beträufeln.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R036",
+      "slug": "veganer-eintopf-r036",
+      "title": "Veganer Eintopf mit Gemüse",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 40,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Tiefkühl-Gemüse",
+          "brand": "NATURAL COOL",
+          "unit": "g",
+          "pack_size": 450,
+          "packs_used": 1,
+          "used_amount": 450.0,
+          "price_eur": 1.99,
+          "price_before_eur": 6.63
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Tiefkühl-Gemüse",
+          "brand": "NATURAL COOL",
+          "unit": "g",
+          "pack_size": 450,
+          "packs_used": 1,
+          "used_amount": 450.0,
+          "price_eur": 1.99,
+          "price_before_eur": 6.63
+        }
+      ],
+      "without_offers": [
+        "Kartoffeln (300 g)"
+      ],
+      "steps": [
+        "Kartoffeln schälen und würfeln.",
+        "Zwiebel und Knoblauch klein schneiden und in einem Topf anbraten.",
+        "Tiefkühl-Gemüse und Kartoffeln hinzufügen.",
+        "Mit Wasser aufgießen und zum Kochen bringen.",
+        "30 Minuten köcheln lassen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R037",
+      "slug": "apfelschorle-smoothie",
+      "title": "Apfelschorle-Smoothie",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Apfelschorle",
+          "brand": "DENNREE",
+          "unit": "l",
+          "pack_size": 0.5,
+          "packs_used": 1,
+          "used_amount": 0.5,
+          "price_eur": 0.89,
+          "price_before_eur": 1.78
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Apfelschorle",
+          "brand": "DENNREE",
+          "unit": "l",
+          "pack_size": 0.5,
+          "packs_used": 1,
+          "used_amount": 0.5,
+          "price_eur": 0.89,
+          "price_before_eur": 1.78
+        }
+      ],
+      "without_offers": [
+        "Banane (1 Stk)"
+      ],
+      "steps": [
+        "Banane und Spinat in einen Mixer geben.",
+        "Apfelschorle hinzufügen.",
+        "Alles gut pürieren und in Gläser füllen.",
+        "Mit Zimt bestreuen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R038",
+      "slug": "veganer-dip",
+      "title": "Veganer Dip mit Gemüse-Sticks",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Tomatensauce",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.79,
+          "price_before_eur": 5.11
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Tomatensauce",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.79,
+          "price_before_eur": 5.11
+        }
+      ],
+      "without_offers": [
+        "Karotten (2 Stk)"
+      ],
+      "steps": [
+        "Gemüse in Sticks schneiden.",
+        "Tomatensauce in eine Schüssel geben.",
+        "Gemüse-Sticks dazu servieren.",
+        "Dip genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R039",
+      "slug": "fruchtiger-smoothie",
+      "title": "Fruchtiger Smoothie mit Aroniabeeren",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Aroniabeerensaft",
+          "brand": "ARONIA ORIGINAL",
+          "unit": "l",
+          "pack_size": 0.7,
+          "packs_used": 1,
+          "used_amount": 0.7,
+          "price_eur": 5.99,
+          "price_before_eur": 8.56
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Aroniabeerensaft",
+          "brand": "ARONIA ORIGINAL",
+          "unit": "l",
+          "pack_size": 0.7,
+          "packs_used": 1,
+          "used_amount": 0.7,
+          "price_eur": 5.99,
+          "price_before_eur": 8.56
+        }
+      ],
+      "without_offers": [
+        "Banane (1 Stk)"
+      ],
+      "steps": [
+        "Banane und Spinat in einen Mixer geben.",
+        "Aroniabeerensaft hinzufügen.",
+        "Alles gut pürieren und in Gläser füllen.",
+        "Mit Honig süßen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R040",
+      "slug": "veganer-kuchen",
+      "title": "Veganer Kuchen mit Schokolade",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 8,
+      "duration_minutes": 45,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienreich",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Vegane RAW-Schokolade",
+          "brand": "LOVECHOCK",
+          "unit": "g",
+          "pack_size": 70,
+          "packs_used": 2,
+          "used_amount": 140.0,
+          "price_eur": 4.99,
+          "price_before_eur": 71.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Vegane RAW-Schokolade",
+          "brand": "LOVECHOCK",
+          "unit": "g",
+          "pack_size": 70,
+          "packs_used": 1,
+          "used_amount": 70.0,
+          "price_eur": 4.99,
+          "price_before_eur": 71.29
+        }
+      ],
+      "without_offers": [
+        "Mehl (200 g)"
+      ],
+      "steps": [
+        "Mehl, Zucker und Backpulver in einer Schüssel vermengen.",
+        "Vegane RAW-Schokolade schmelzen und hinzufügen.",
+        "Teig gut vermischen und in eine Backform füllen.",
+        "Im vorgeheizten Ofen bei 180°C ca. 30 Minuten backen.",
+        "Abkühlen lassen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R041",
+      "slug": "feta-salat-mit-gemuse",
+      "title": "Feta-Salat mit Gemüse",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Feta",
+          "brand": "THAMOS",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 1,
+          "used_amount": 180.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Feta",
+          "brand": "THAMOS",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 1,
+          "used_amount": 180.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        }
+      ],
+      "without_offers": [
+        "Tomaten (2 Stk)"
+      ],
+      "steps": [
+        "Feta in kleine Würfel schneiden.",
+        "Tomaten und Gurke würfeln.",
+        "Alle Zutaten in einer Schüssel vermengen und mit Olivenöl, Salz und Pfeffer abschmecken."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R042",
+      "slug": "tofu-gemuse-pfanne",
+      "title": "Tofu-Gemüse-Pfanne",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Tofu geräuchert",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.99,
+          "price_before_eur": 5.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Tofu geräuchert",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.99,
+          "price_before_eur": 5.69
+        }
+      ],
+      "without_offers": [
+        "Paprika (1 Stk)"
+      ],
+      "steps": [
+        "Tofu in Würfel schneiden und in einer Pfanne anbraten.",
+        "Paprika und Zucchini würfeln und zum Tofu geben.",
+        "Mit Sojasauce, Salz und Pfeffer würzen und alles gut vermengen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R043",
+      "slug": "kombucha-smoothie",
+      "title": "Kombucha-Smoothie",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Kombucha",
+          "brand": "VOELKEL",
+          "unit": "ml",
+          "pack_size": 330,
+          "packs_used": 1,
+          "used_amount": 330.0,
+          "price_eur": 1.0,
+          "price_before_eur": 3.03
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Kombucha",
+          "brand": "VOELKEL",
+          "unit": "ml",
+          "pack_size": 330,
+          "packs_used": 1,
+          "used_amount": 330.0,
+          "price_eur": 1.0,
+          "price_before_eur": 3.03
+        }
+      ],
+      "without_offers": [
+        "Banane (1 Stk)"
+      ],
+      "steps": [
+        "Banane und Spinat in einen Mixer geben.",
+        "Kombucha und Chiasamen hinzufügen.",
+        "Alles gut pürieren und in Gläser füllen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R044",
+      "slug": "cashew-nudeln",
+      "title": "Cashew-Nudeln",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Laktosefrei",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Cashewbruch",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 6.49,
+          "price_before_eur": 12.98
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Cashewbruch",
+          "brand": "DENNREE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 6.49,
+          "price_before_eur": 12.98
+        }
+      ],
+      "without_offers": [
+        "Nudeln (250 g)"
+      ],
+      "steps": [
+        "Nudeln nach Packungsanweisung kochen.",
+        "Zucchini in Würfel schneiden und in einer Pfanne anbraten.",
+        "Gekochte Nudeln, Zucchini und Pesto vermengen und mit Cashewbruch bestreuen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R045",
+      "slug": "schupfnudeln-mit-salat",
+      "title": "Schupfnudeln mit Salat",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Vegan",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Schupfnudeln",
+          "brand": "PASTA NUOVA",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 2.89,
+          "price_before_eur": 7.23
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Schupfnudeln",
+          "brand": "PASTA NUOVA",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 2.89,
+          "price_before_eur": 7.23
+        }
+      ],
+      "without_offers": [
+        "Rucola (100 g)"
+      ],
+      "steps": [
+        "Schupfnudeln nach Packungsanweisung zubereiten.",
+        "Rucola und Kirschtomaten in einer Schüssel vermengen.",
+        "Mit Balsamico und den Schupfnudeln servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R046",
+      "slug": "veganer-burger-r046",
+      "title": "Veganer Burger",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Vegane Fleischalternative",
+          "brand": "THE VEGAN COW",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 1,
+          "used_amount": 180.0,
+          "price_eur": 2.99,
+          "price_before_eur": 16.61
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Vegane Fleischalternative",
+          "brand": "THE VEGAN COW",
+          "unit": "g",
+          "pack_size": 180,
+          "packs_used": 1,
+          "used_amount": 180.0,
+          "price_eur": 2.99,
+          "price_before_eur": 16.61
+        }
+      ],
+      "without_offers": [
+        "Burger-Buns (4 Stk)"
+      ],
+      "steps": [
+        "Vegane Fleischalternative in einer Pfanne braten.",
+        "Burger-Buns aufschneiden und leicht toasten.",
+        "Mit Salat und Tomate belegen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R047",
+      "slug": "veganer-pesto-pasta-r047",
+      "title": "Veganer Pesto Pasta",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Pesto",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 140,
+          "packs_used": 1,
+          "used_amount": 140.0,
+          "price_eur": 1.79,
+          "price_before_eur": 12.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Pesto",
+          "brand": "GUSTONI",
+          "unit": "g",
+          "pack_size": 140,
+          "packs_used": 1,
+          "used_amount": 140.0,
+          "price_eur": 1.79,
+          "price_before_eur": 12.79
+        }
+      ],
+      "without_offers": [
+        "Nudeln (250 g)"
+      ],
+      "steps": [
+        "Nudeln nach Packungsanweisung kochen.",
+        "Zucchini in Würfel schneiden und anbraten.",
+        "Mit Pesto und Pinienkernen vermengen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R048",
+      "slug": "veganer-fruchtsalat",
+      "title": "Veganer Fruchtsalat",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Clementinen",
+          "brand": "N/A",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Clementinen",
+          "brand": "N/A",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        }
+      ],
+      "without_offers": [
+        "Banane (1 Stk)"
+      ],
+      "steps": [
+        "Clementinen schälen und in Stücke teilen.",
+        "Banane und Äpfel in Würfel schneiden.",
+        "Alles in einer Schüssel vermengen und mit Zitronensaft beträufeln."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R049",
+      "slug": "veganer-aufstrich",
+      "title": "Veganer Aufstrich",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Protein- Aufstrich „Lupi-Love“",
+          "brand": "ZWERGENWIESE",
+          "unit": "g",
+          "pack_size": 135,
+          "packs_used": 1,
+          "used_amount": 135.0,
+          "price_eur": 1.79,
+          "price_before_eur": 13.26
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Protein- Aufstrich „Lupi-Love“",
+          "brand": "ZWERGENWIESE",
+          "unit": "g",
+          "pack_size": 135,
+          "packs_used": 1,
+          "used_amount": 135.0,
+          "price_eur": 1.79,
+          "price_before_eur": 13.26
+        }
+      ],
+      "without_offers": [
+        "Brot (4 Scheiben)"
+      ],
+      "steps": [
+        "Aufstrich auf Brotscheiben verteilen.",
+        "Gurke und Paprika in Scheiben schneiden und dazu servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R050",
+      "slug": "veganer-gewurze-salat",
+      "title": "Veganer Gewürze-Salat",
+      "retailer": "BIOMARKT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Vegane Käsealternativen",
+          "brand": "HAPPY CHEEZE",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 3.99,
+          "price_before_eur": 39.9
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Vegane Käsealternativen",
+          "brand": "HAPPY CHEEZE",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 3.99,
+          "price_before_eur": 39.9
+        }
+      ],
+      "without_offers": [
+        "Salatmix (200 g)"
+      ],
+      "steps": [
+        "Salatmix und Kirschtomaten in einer Schüssel vermengen.",
+        "Vegane Käsealternativen darüber streuen und mit Olivenöl beträufeln."
+      ],
+      "notes": ""
+    }
+  ]
+}

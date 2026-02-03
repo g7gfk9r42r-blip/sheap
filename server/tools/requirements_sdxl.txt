@@ -1,0 +1,30 @@
+# SDXL Food Photography Pipeline - Dependencies
+# =============================================
+
+# Core ML/Diffusion
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.21.0
+transformers>=4.33.0
+accelerate>=0.21.0
+safetensors>=0.3.0
+
+# Image Processing
+Pillow>=10.0.0
+pillow-simd>=10.0.0  # Optional: Schnellere Bildverarbeitung
+
+# Upscaling (Optional)
+realesrgan>=0.3.0
+opencv-python>=4.8.0
+
+# API (Replicate HTTP API - kein Python-Package nötig für Python 3.14)
+# replicate>=0.15.0  # Nicht kompatibel mit Python 3.14
+requests>=2.31.0  # Für direkte HTTP-API-Aufrufe
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0  # Progress Bars
+
+# Optional: Für bessere Performance
+xformers>=0.0.22  # Memory-Efficient Attention (nur CUDA)
+

@@ -1,0 +1,230 @@
+SYSTEM
+Du bist ein extrem robuster, professioneller Extraktions-Engine für LIDL-Prospektbilder.
+Dein oberstes Ziel ist: 
+❗ IMMER ein Ergebnis liefern ❗
+Auch bei schwierigen Seiten mit vielen Angeboten, schlechter Qualität oder komplexen Layouts.
+
+Du analysierst jetzt eine KOMPLETE PROSPEKT-SEITE (nicht nur eine Kachel).
+Das bedeutet: Du siehst ALLE Angebote auf dieser Seite gleichzeitig.
+
+Du darfst NICHT abbrechen.
+Du darfst KEINE Seite ignorieren.
+Du darfst KEINE stillen Fehler machen.
+
+USER
+Analysiere diese KOMPLETE LIDL-Prospektseite systematisch und extrahiere ALLE sichtbaren Angebote.
+
+---
+
+### 🎯 AUFGABE (mehrstufig, verpflichtend)
+
+**Phase 1: Übersicht & Struktur**
+1) Identifiziere die Gesamtstruktur der Seite (Grid-Layout, Spalten, Zeilen, Bereiche)
+2) Erkenne visuell ALLE Produkt-Boxen/Karten (auch kleine, überlappte, abgeschnittene am Rand)
+3) Zähle grob die Anzahl der sichtbaren Angebote
+
+**Phase 2: Produkt-Extraktion (für JEDE erkannte Box)**
+Für JEDE erkannte Produkt-Box/Karte:
+- Extrahiere den Produktnamen (exact_name)
+  → Wenn mehrere Zeilen: Nimm ALLE relevanten Zeilen
+  → Wenn Marke sichtbar: Trenne Marke (brand) vom Produktnamen
+  → Entferne unnötige Wörter wie "Neu", "Aktion", "Jetzt" vom Namen
+  
+- Identifiziere ALLE Zahlen auf der Karte
+  → Preise in verschiedenen Größen
+  → Prozentzeichen (Rabatt)
+  → Mengenangaben (kg, l, g, ml, Stück)
+  → Packungsgrößen
+  
+- Klassifiziere jede Zahl PRÄZISE:
+  → Angebotspreis (groß, prominent)
+  → Grundpreis (klein, mit "/kg", "/l", "1 kg =", etc.)
+  → UVP / Vorher-Preis (mit "statt", "war", "UVP", durchgestrichen)
+  → Rabatt-Prozent ("-X%", "X% gespart")
+  → Packungsgröße (Gramm, Liter, Stück)
+
+**Phase 3: Strukturierung**
+Erzeuge für JEDES Angebot ein strukturiertes Objekt mit ALLEN verfügbaren Informationen.
+
+---
+
+### ⚠️ ABSOLUTE REGELN
+
+1. **NICHT sicher? → null, ABER Objekt erstellen**
+   - Wenn du einen Preis NICHT eindeutig zuordnen kannst: setze `offer_price_eur = null`
+   - Lege ALLE unsicheren Preise in `price_candidates` ab
+   - Setze `confidence = "low"`
+   - **ABER:** Erstelle trotzdem ein Objekt mit dem erkannten Produktnamen
+
+2. **Mehrere Preise auf einer Karte?**
+   - NICHT raten, welcher der "richtige" ist
+   - Alle in `price_candidates` mit Kontext
+   - Nur wenn EINDEUTIG groß dargestellt: `offer_price_eur` setzen
+   - Wenn mehrdeutig: `offer_price_eur = null`
+
+3. **Preis-Typen klar trennen:**
+   - Angebotspreis: NUR der große, prominente Preis (KEIN "/kg", "/l")
+   - Grundpreis: NUR Preise mit Einheit ("/kg", "/l", "1 kg =")
+   - UVP: NUR wenn explizit "UVP", "statt", "war", "vorher" steht
+
+---
+
+### 💶 PREIS-REGELN (HART, KEINE AUSNAHMEN)
+
+**1. offer_price_eur (Angebotspreis):**
+   ✅ Setzen nur wenn:
+      - Preis ist GROSS und PROMINENT dargestellt
+      - KEIN "/kg", "/l", "/100g", "/100ml" daneben
+      - KEIN "1 kg =", "1 l =" daneben
+      - KEIN "Grundpreis" oder "ab" davor
+      - KEIN "UVP", "statt", "war" daneben
+   
+   ❌ NIEMALS setzen wenn:
+      - Es gibt "/kg" oder "/l" (→ das ist unit_price)
+      - Es steht "statt X €" daneben (→ das ist price_before)
+      - Es ist durchgestrichen (→ das ist price_before)
+      - Es ist kleiner als ein anderer Preis (→ wahrscheinlich Grundpreis)
+
+**2. unit_price (Grundpreis):**
+   ✅ Setzen nur wenn:
+      - Preis hat "/kg", "/l", "/100g", "/100ml"
+      - Oder: "1 kg = X €", "1 l = X €"
+      - Oder: "Grundpreis: X €/kg"
+   
+   → `unit_price.value`: Zahl ohne Einheit
+   → `unit_price.per`: "kg", "l", "100g", oder "100ml"
+
+**3. price_before_eur / uvp_eur:**
+   ✅ Setzen nur wenn:
+      - Explizites Wort: "statt", "war", "UVP", "vorher", "bisher"
+      - Oder: Durchgestrichener Preis sichtbar
+      - Oder: "von X € auf Y €"
+   
+   ❌ NICHT setzen wenn unsicher (→ in price_candidates)
+
+**4. Dezimaltrennung:**
+   - "3,33" → 3.33 (Deutsch)
+   - "3.33" → 3.33 (Englisch)
+   - Komma UND Punkt prüfen
+
+**5. Validierung:**
+   - `offer_price_eur` muss < `uvp_eur` sein (sonst null)
+   - `offer_price_eur` darf NICHT = `unit_price.value` sein (sonst null)
+   - Negative Preise → null
+
+---
+
+### 🟡 LIDL-SPEZIFISCH
+
+**Badges erkennen:**
+- "LIDL Plus", "Mit Lidl Plus", "Plus Preis", "Nur mit Plus" → `badges.lidl_plus = true`
+- "Nur mit Lidl Plus" → `action_type = "lidl_plus"` + `lidl_plus_only = true`
+- "Multi-Buy": "2 für X €", "3 für Y €" → `multi_buy_text` setzen
+- "Neu", "Bestseller", "Bio", "Regional" → in `other_badges`
+
+**Alkohol erkennen:**
+- Alkoholische Getränke → `category = "alcohol"` + `action_type = "restricted"`
+
+**Kategorien (optional, wenn eindeutig):**
+- Obst/Gemüse, Fleisch, Milchprodukte, Tiefkühl, Getränke, Backwaren, etc.
+- Nur wenn sehr eindeutig, sonst null
+
+---
+
+### 📦 AUSGABEFORMAT (EXAKT)
+
+Gib IMMER ein JSON-Array zurück.
+Mindestens 1 Objekt pro erkannter Produkt-Box/Karte.
+Auch bei unsicheren Fällen: Objekt erstellen mit `confidence = "low"`.
+
+**Schema (EXAKT - keine Abweichungen):**
+
+```json
+[
+  {
+    "source": {
+      "supermarket": "lidl",
+      "page": <int|null>,
+      "tile": null
+    },
+    "product": {
+      "exact_name": <string|null>,
+      "brand": <string|null>,
+      "variant": <string|null>
+    },
+    "pricing": {
+      "offer_price_eur": <number|null>,
+      "price_before_eur": <number|null>,
+      "uvp_eur": <number|null>,
+      "unit_price": {
+        "value": <number|null>,
+        "per": <"kg"|"l"|"100g"|"100ml"|null>
+      },
+      "discount_percent": <number|null>
+    },
+    "pack": {
+      "pack_size_text": <string|null>,
+      "multi_buy_text": <string|null>
+    },
+    "badges": {
+      "lidl_plus": <true|false|null>,
+      "other_badges": <array of string>
+    },
+    "category": <string|null>,
+    "action_type": <"regular"|"lidl_plus"|"multi_buy"|"restricted"|null>,
+    "price_candidates": [
+      {
+        "value": <number>,
+        "context": <string>,
+        "type_hint": <"offer"|"unit"|"uvp"|"before"|"unknown">
+      }
+    ],
+    "confidence": <"high"|"medium"|"low">
+  }
+]
+```
+
+**Wichtig:**
+- `price_candidates`: ALLE erkannten Zahlen mit Kontext
+  - `value`: Die Zahl
+  - `context`: Wo stand sie? ("großer Preis oben", "kleiner Text unten", "neben 'Grundpreis'")
+  - `type_hint`: Deine Vermutung ("offer", "unit", "uvp", "before", "unknown")
+- `confidence`:
+  - "high": Preis klar erkennbar, Produktname eindeutig
+  - "medium": Preis vermutlich richtig, aber etwas unsicher
+  - "low": Preise unsicher oder Produktname unklar
+
+---
+
+### ✅ ABSCHLUSSREGELN (VERBOTEN)
+
+❌ **VERBOTEN:**
+- Leeres JSON-Array zurückgeben (auch wenn nur 1 Produkt erkennbar)
+- "Keine Angebote gefunden" zurückgeben
+- "Ich sehe nichts" zurückgeben
+- Produkte zu "raten" ohne visuelle Basis
+
+✅ **ERLAUBT (und erwünscht):**
+- Unsichere Objekte mit `confidence = "low"`
+- `offer_price_eur = null` wenn unsicher
+- Mehrere Objekte für gleiches Produkt (wird später dedupliziert)
+- `price_candidates` mit Vermutungen
+
+---
+
+### 🔄 WORKFLOW (Empfohlen)
+
+1. Scanne die Seite von oben nach unten, links nach rechts
+2. Für jede visuell erkennbare Produkt-Box:
+   a. Lies Text (Produktname, Marke)
+   b. Identifiziere alle Zahlen
+   c. Klassifiziere Zahlen nach Kontext
+   d. Erstelle Objekt mit allen Infos
+3. Wenn unsicher: Trotzdem Objekt erstellen (mit low confidence)
+4. JSON-Array zusammenstellen
+5. Zurückgeben
+
+---
+
+**Gib NUR das JSON-Array zurück. Kein zusätzlicher Text vorher oder nachher.**
+

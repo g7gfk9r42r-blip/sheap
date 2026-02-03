@@ -1,0 +1,18 @@
+{
+  "name": "pdf_offers",
+  "version": "1.0.0",
+  "description": "Extract supermarket offers from official PDF leaflets via OCR",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "scripts": {
+    "ingest": "node ingest_pdf.mjs",
+    "ingest:kaufland:w44": "node ingest_pdf.mjs supermarket=Kaufland pdf=../../media/prospekte/kaufland/2025/W44/kaufland_w44.pdf from=2025-10-30 to=2025-11-05 out=../../../../assets/data/offers_kaufland_2025-10-30.json",
+    "ingest:norma:w44": "node ingest_pdf.mjs supermarket=Norma pdf=../../media/prospekte/norma/2025/W44/norma_w44.pdf from=2025-10-27 to=2025-11-01 out=../../../../assets/data/offers_norma_2025-10-27.json",
+    "ingest:aldi-sued:w44": "node ingest_pdf.mjs supermarket=\"ALDI SÜD\" pdf=../../media/prospekte/aldi_sued/2025/W44/aldi_sued_w44.pdf from=2025-10-27 to=2025-11-01 out=../../../../assets/data/offers_aldi_sued_2025-10-27.json",
+    "ingest:aldi-nord:w44": "node ingest_pdf.mjs supermarket=\"ALDI Nord\" pdf=../../media/prospekte/aldi_nord/2025/W44/aldi_nord_w44.pdf from=2025-10-27 to=2025-11-01 out=../../../../assets/data/offers_aldi_nord_2025-10-27.json",
+    "ingest:lidl:w44": "node ingest_pdf.mjs supermarket=Lidl pdf=../../media/prospekte/lidl/2025/W44/lidl_w44.pdf from=2025-10-27 to=2025-11-01 out=../../../../assets/data/offers_lidl_2025-10-27.json"
+  }
+}

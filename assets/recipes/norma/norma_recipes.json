@@ -1,0 +1,3753 @@
+[
+  {
+    "id": "R001",
+    "title": "Chicken Nugget Burger",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Hot-Dog Brötchen / Hamburger Brötchen XXL",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Nuggets nach Packungsanleitung im Ofen backen.",
+      "Währenddessen die Hamburger Brötchen aufschneiden und leicht toasten.",
+      "Die Nuggets auf die Brötchen legen, mit Salat und Tomate belegen und Ketchup hinzufügen.",
+      "Die Brötchen zusammenklappen und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-nugget-burger",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (2 Blätter)",
+      "Tomate (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R001.png"
+  },
+  {
+    "id": "R002",
+    "title": "Vegetarischer Nudelsalat",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanleitung kochen und abkühlen lassen.",
+      "Die Pilze und Paprika klein schneiden und in einer Pfanne anbraten.",
+      "Die abgekühlte Pasta mit den gebratenen Zutaten, Gurken und Olivenöl vermengen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarian-pasta-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pasta (250 g)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R002.png"
+  },
+  {
+    "id": "R003",
+    "title": "Kartoffel-Wedges mit Dip",
+    "description": "",
+    "categories": [
+      "Kalorienarm",
+      "Vegan",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 1.59
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 1.59
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Potato Wedges nach Packungsanleitung im Ofen backen.",
+      "In der Zwischenzeit den Joghurt mit gehacktem Knoblauch und Schnittlauch vermengen.",
+      "Die Wedges mit dem Dip servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "potato-wedges-with-dip",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Joghurt (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R003.png"
+  },
+  {
+    "id": "R004",
+    "title": "Chicken Nugget Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Nuggets nach Packungsanleitung zubereiten.",
+      "Salat und Tomate klein schneiden und in einer Schüssel vermengen.",
+      "Die Nuggets auf den Salat legen und mit Balsamico beträufeln.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-nugget-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (2 Blätter)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R004.png"
+  },
+  {
+    "id": "R005",
+    "title": "Pilz-Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanleitung kochen.",
+      "Die Zwiebel und Pilze klein schneiden und in einer Pfanne anbraten.",
+      "Die gekochte Pasta mit den Pilzen vermengen und mit Olivenöl beträufeln.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "mushroom-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pasta (250 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R005.png"
+  },
+  {
+    "id": "R006",
+    "title": "Kartoffel-Wedges Burger",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 1.59
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 1.59
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Potato Wedges nach Packungsanleitung im Ofen backen.",
+      "Die Burger-Brötchen aufschneiden und leicht toasten.",
+      "Die Wedges auf die Brötchen legen, mit Salat und Tomate belegen.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "potato-wedges-burger",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Burger-Brötchen (4 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R006.png"
+  },
+  {
+    "id": "R007",
+    "title": "Chicken Nugget Wrap",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Nuggets nach Packungsanleitung zubereiten.",
+      "Die Wraps mit Salat belegen und die Nuggets darauflegen.",
+      "Mit Ketchup beträufeln, einrollen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-nugget-wrap",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Wraps (4 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R007.png"
+  },
+  {
+    "id": "R008",
+    "title": "Pilz-Risotto",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Zwiebel klein schneiden und in einem Topf mit Öl anbraten.",
+      "Die Pilze hinzufügen und kurz mitbraten.",
+      "Den Risotto-Reis dazugeben und mit Gemüsebrühe auffüllen.",
+      "Das Risotto 20 Minuten köcheln lassen und regelmäßig umrühren.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "mushroom-risotto",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Risotto-Reis (250 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R008.png"
+  },
+  {
+    "id": "R009",
+    "title": "Kartoffel-Wedges Salat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 1.59
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 1.59
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Potato Wedges nach Packungsanleitung im Ofen backen.",
+      "Salat und Tomate klein schneiden und in einer Schüssel vermengen.",
+      "Die Wedges mit dem Salat vermengen und mit Olivenöl beträufeln.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "potato-wedges-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (2 Blätter)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R009.png"
+  },
+  {
+    "id": "R010",
+    "title": "Chicken Nugget Tacos",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Nuggets nach Packungsanleitung zubereiten.",
+      "Die Taco-Schalen mit Salat belegen und die Nuggets darauflegen.",
+      "Mit Salsa beträufeln und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-nugget-tacos",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Taco-Schalen (4 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R010.png"
+  },
+  {
+    "id": "R011",
+    "title": "Chicken Nuggets Bowl",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Nuggets nach Packungsanweisung im Ofen zubereiten.",
+      "Die Pommes Frites ebenfalls im Ofen goldbraun backen.",
+      "Zwiebel und Knoblauch fein hacken und in einer Pfanne mit etwas Öl anbraten.",
+      "Paprika in Streifen schneiden und kurz mit anbraten.",
+      "Alles in einer Schüssel anrichten und mit Gurken garnieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-nuggets-bowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R011.png"
+  },
+  {
+    "id": "R012",
+    "title": "Vegetarische Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Hot-Dog Brötchen",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanweisung kochen.",
+      "In einer Pfanne die Pilze mit Zwiebel und Knoblauch anbraten.",
+      "Die gekochte Pasta mit der Pilzmischung vermengen und mit Basilikum garnieren.",
+      "Mit Gurken servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarian-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (1 Zehe)",
+      "Basilikum (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R012.png"
+  },
+  {
+    "id": "R013",
+    "title": "Kartoffel-Wedges-Salat",
+    "description": "",
+    "categories": [
+      "Low Carb",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Potato Wedges nach Packungsanweisung im Ofen zubereiten.",
+      "Zwiebel und Paprika in Würfel schneiden und in einer Schüssel vermengen.",
+      "Die Wedges mit dem Salat vermischen und mit Gurken garnieren.",
+      "Mit Rucola servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "potato-wedges-salad-r013",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Paprika (1 Stk)",
+      "Rucola (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R013.png"
+  },
+  {
+    "id": "R014",
+    "title": "Chicken Burger",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Hot-Dog Brötchen",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Nuggets nach Packungsanweisung zubereiten.",
+      "Die Brötchen aufschneiden und leicht toasten.",
+      "Die Nuggets in die Brötchen legen und mit Salat, Tomate und Zwiebel garnieren.",
+      "Mit Gurken servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-burger",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (1 Handvoll)",
+      "Tomate (1 Stk)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R014.png"
+  },
+  {
+    "id": "R015",
+    "title": "Chili Cheese Nuggets",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Fingerfood",
+        "brand": "TIME TO TASTE",
+        "unit": "g",
+        "pack_size": 375,
+        "packs_used": 1,
+        "used_amount": 375.0,
+        "price_eur": 3.19,
+        "price_before_eur": 4.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Hot-Dog Brötchen",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chili Cheese Nuggets nach Packungsanweisung im Ofen zubereiten.",
+      "Die Pommes Frites ebenfalls im Ofen goldbraun backen.",
+      "Zwiebel und Chili fein hacken und in einer Schüssel vermengen.",
+      "Die Brötchen aufschneiden, Nuggets und Zwiebel-Chili-Mischung hineinlegen und mit Käse bestreuen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chili-cheese-nuggets",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Chili (1 Stk)",
+      "Zwiebel (1 Stk)",
+      "Käse (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R015.png"
+  },
+  {
+    "id": "R016",
+    "title": "Pilz-Risotto",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Hot-Dog Brötchen",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pilze in einer Pfanne mit Zwiebel und Knoblauch anbraten.",
+      "Reis hinzufügen und kurz mitbraten.",
+      "Mit Wasser ablöschen und köcheln lassen, bis der Reis gar ist.",
+      "Mit Parmesan bestreuen und servieren."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "mushroom-risotto-r016",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Parmesan (50 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R016.png"
+  },
+  {
+    "id": "R017",
+    "title": "Scharfer Hähnchensalat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Hähnchen-Innenfilets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 800,
+        "packs_used": 1,
+        "used_amount": 800.0,
+        "price_eur": 6.99,
+        "price_before_eur": 9.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Hähnchen-Innenfilets in einer Pfanne anbraten.",
+      "Chili und Zwiebel hinzufügen und kurz mitbraten.",
+      "Mit Salat anrichten und mit Gurken garnieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "spicy-chicken-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (1 Handvoll)",
+      "Chili (1 Stk)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R017.png"
+  },
+  {
+    "id": "R018",
+    "title": "Schokoladenkuchen",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Laktosefrei"
+    ],
+    "servings": 8,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Marmor-/ Zitronenkuchen",
+        "brand": "JOMO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.39
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Kakaotafeln",
+        "brand": "YUMMY",
+        "unit": "g",
+        "pack_size": 85,
+        "packs_used": 1,
+        "used_amount": 85.0,
+        "price_eur": 0.79,
+        "price_before_eur": 1.09
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Blütenhonig",
+        "brand": "BEE GARDEN",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 6.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Eier mit Zucker und Butter schaumig schlagen.",
+      "Das Mehl und die Kakaotafeln unterheben.",
+      "Den Teig in eine Form füllen und backen.",
+      "Mit Blütenhonig servieren."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chocolate-cake",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (4 Stk)",
+      "Butter (200 g)",
+      "Mehl (300 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R018.png"
+  },
+  {
+    "id": "R019",
+    "title": "Scharfer Kartoffelsalat",
+    "description": "",
+    "categories": [
+      "Low Carb",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Wellen Pommes nach Packungsanweisung im Ofen zubereiten.",
+      "Zwiebel und Chili fein hacken und in einer Schüssel vermengen.",
+      "Die Pommes mit der Zwiebel-Chili-Mischung anrichten und mit Gurken garnieren.",
+      "Mit Koriander servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "spicy-potato-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Chili (1 Stk)",
+      "Koriander (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R019.png"
+  },
+  {
+    "id": "R020",
+    "title": "Käse-Kartoffel-Bites",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Kroketten / Rösti Ecken",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O030",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kroketten nach Packungsanweisung im Ofen zubereiten.",
+      "Zwiebel fein hacken und in einer Schüssel vermengen.",
+      "Die Kroketten mit Käse und Sour Cream servieren und mit Gurken garnieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "cheesy-potato-bites",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Käse (100 g)",
+      "Sour Cream (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R020.png"
+  },
+  {
+    "id": "R021",
+    "title": "Chicken Nuggets Bowl",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Nuggets nach Packungsanweisung im Ofen oder in der Pfanne zubereiten.",
+      "Die Pommes Frites ebenfalls nach Packungsanweisung zubereiten.",
+      "Während die Nuggets und Pommes garen, die Zwiebel und Paprika in Würfel schneiden und in einer Pfanne mit etwas Öl anbraten.",
+      "Die Burger-/ Sandwich Gurken in Scheiben schneiden.",
+      "In einer Schüssel die Nuggets, Pommes, gebratene Zwiebeln und Paprika sowie die Gurken anrichten."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-nuggets-bowl-r021",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "Für eine schärfere Note können Sie Chili hinzufügen.",
+    "image_path": "assets/images/recipes/norma_R021.png"
+  },
+  {
+    "id": "R022",
+    "title": "Vegetable Pizza",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Hot-Dog Brötchen / Hamburger Brötchen XXL",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Fingerfood",
+        "brand": "TIME TO TASTE",
+        "unit": "g",
+        "pack_size": 375,
+        "packs_used": 1,
+        "used_amount": 375.0,
+        "price_eur": 3.19,
+        "price_before_eur": 4.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Brötchen aufschneiden und mit Tomatensauce bestreichen.",
+      "Die Pilze und Zucchini in Scheiben schneiden und auf den Brötchen verteilen.",
+      "Die Oliven und Fingerfood darüber streuen.",
+      "Im Ofen bei 180°C ca. 15 Minuten backen, bis die Brötchen knusprig sind."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-pizza",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucchini (1 Stk)",
+      "Oliven (50 g)",
+      "Tomatensauce (100 g)"
+    ],
+    "notes": "Mit frischen Kräutern garnieren.",
+    "image_path": "assets/images/recipes/norma_R022.png"
+  },
+  {
+    "id": "R023",
+    "title": "Potato Wedges Salad",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Kroketten / Rösti Ecken",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Potato Wedges nach Packungsanweisung zubereiten.",
+      "Rucola und Kirschtomaten in einer Schüssel vermengen.",
+      "Die Wedges auf den Salat legen und mit Balsamico beträufeln."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "potato-wedges-salad-r023",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Rucola (100 g)",
+      "Kirschtomaten (200 g)",
+      "Balsamico (50 ml)"
+    ],
+    "notes": "Ideal als Beilage oder Hauptgericht.",
+    "image_path": "assets/images/recipes/norma_R023.png"
+  },
+  {
+    "id": "R024",
+    "title": "Chocolate Cake",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Laktosefrei"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Marmor-/ Zitronenkuchen",
+        "brand": "JOMO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.39
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Kakaotafeln",
+        "brand": "YUMMY",
+        "unit": "g",
+        "pack_size": 85,
+        "packs_used": 1,
+        "used_amount": 85.0,
+        "price_eur": 0.79,
+        "price_before_eur": 1.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Blütenhonig",
+        "brand": "BEE GARDEN",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 6.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den Kuchen nach Packungsanweisung zubereiten.",
+      "Die Kakaotafeln schmelzen und mit dem Blütenhonig vermengen.",
+      "Die Mischung auf den Kuchen geben und fest werden lassen."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chocolate-cake-r024",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (3 Stk)",
+      "Butter (200 g)",
+      "Vanille (1 Pck)"
+    ],
+    "notes": "Für eine besondere Note mit Nüssen garnieren.",
+    "image_path": "assets/images/recipes/norma_R024.png"
+  },
+  {
+    "id": "R025",
+    "title": "Spicy Chicken Burger",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Hähnchenschenkel",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 6.99,
+        "price_before_eur": 8.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Hot-Dog Brötchen / Hamburger Brötchen XXL",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Fingerfood",
+        "brand": "TIME TO TASTE",
+        "unit": "g",
+        "pack_size": 375,
+        "packs_used": 1,
+        "used_amount": 375.0,
+        "price_eur": 3.19,
+        "price_before_eur": 4.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Hähnchenschenkel grillen oder braten.",
+      "Die Brötchen aufschneiden und mit Salat, Tomate und Zwiebel belegen.",
+      "Die Hähnchenschenkel auf die Brötchen legen und servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "spicy-chicken-burger",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (1 Kopf)",
+      "Tomate (1 Stk)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "Mit einer scharfen Sauce verfeinern.",
+    "image_path": "assets/images/recipes/norma_R025.png"
+  },
+  {
+    "id": "R026",
+    "title": "Creamy Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Pasta",
+        "brand": "N/A",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Fingerfood",
+        "brand": "TIME TO TASTE",
+        "unit": "g",
+        "pack_size": 375,
+        "packs_used": 1,
+        "used_amount": 375.0,
+        "price_eur": 3.19,
+        "price_before_eur": 4.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanweisung kochen.",
+      "Die Pilze in einer Pfanne anbraten und mit Sahne ablöschen.",
+      "Die gekochte Pasta unter die Pilze mischen und mit Parmesan bestreuen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "creamy-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Sahne (200 ml)",
+      "Parmesan (50 g)",
+      "Petersilie (1 Stk)"
+    ],
+    "notes": "Mit frischen Kräutern garnieren.",
+    "image_path": "assets/images/recipes/norma_R026.png"
+  },
+  {
+    "id": "R027",
+    "title": "Fruit Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Riesen-Mandarinen",
+        "brand": "DREAM-FRÜCHTE",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Erdnüsse",
+        "brand": "ÜLTJE",
+        "unit": "g",
+        "pack_size": 180,
+        "packs_used": 1,
+        "used_amount": 180.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Blütenhonig",
+        "brand": "BEE GARDEN",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 6.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Mandarinen schälen und zusammen mit der Banane in einen Mixer geben.",
+      "Die Erdnüsse und den Honig hinzufügen.",
+      "Mit Joghurt und einer Prise Zimt verfeinern und gut mixen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruit-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Joghurt (150 g)",
+      "Zimt (1 Prise)"
+    ],
+    "notes": "Ideal als Frühstück oder Snack.",
+    "image_path": "assets/images/recipes/norma_R027.png"
+  },
+  {
+    "id": "R028",
+    "title": "Spicy Soup",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Fingerfood",
+        "brand": "TIME TO TASTE",
+        "unit": "g",
+        "pack_size": 375,
+        "packs_used": 1,
+        "used_amount": 375.0,
+        "price_eur": 3.19,
+        "price_before_eur": 4.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pilze und Karotten in einem Topf anbraten.",
+      "Mit Wasser ablöschen und die Zwiebel sowie Chili hinzufügen.",
+      "Die Suppe köcheln lassen und mit Fingerfood verfeinern."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "spicy-soup",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Karotten (2 Stk)",
+      "Zwiebel (1 Stk)",
+      "Chili (1 Stk)"
+    ],
+    "notes": "Mit frischen Kräutern garnieren.",
+    "image_path": "assets/images/recipes/norma_R028.png"
+  },
+  {
+    "id": "R029",
+    "title": "Sweet Pancakes",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Marmor-/ Zitronenkuchen",
+        "brand": "JOMO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.39
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Kakaotafeln",
+        "brand": "YUMMY",
+        "unit": "g",
+        "pack_size": 85,
+        "packs_used": 1,
+        "used_amount": 85.0,
+        "price_eur": 0.79,
+        "price_before_eur": 1.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Blütenhonig",
+        "brand": "BEE GARDEN",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 6.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Eier mit der Milch verquirlen.",
+      "Den Marmor-/ Zitronenkuchen klein schneiden und in die Mischung geben.",
+      "In einer Pfanne kleine Pancakes backen und mit Honig servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "sweet-pancakes",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (2 Stk)",
+      "Milch (200 ml)",
+      "Zimt (1 Prise)"
+    ],
+    "notes": "Mit frischen Früchten garnieren.",
+    "image_path": "assets/images/recipes/norma_R029.png"
+  },
+  {
+    "id": "R030",
+    "title": "Tasty Salad",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Riesen-Mandarinen",
+        "brand": "DREAM-FRÜCHTE",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "Erdnüsse",
+        "brand": "ÜLTJE",
+        "unit": "g",
+        "pack_size": 180,
+        "packs_used": 1,
+        "used_amount": 180.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O030",
+        "name": "Blütenhonig",
+        "brand": "BEE GARDEN",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 6.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den Salat waschen und in eine Schüssel geben.",
+      "Die Mandarinen und Erdnüsse hinzufügen.",
+      "Mit Blütenhonig beträufeln und gut vermengen."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "tasty-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (1 Kopf)",
+      "Tomate (1 Stk)",
+      "Gurke (1 Stk)"
+    ],
+    "notes": "Ideal als Beilage oder leichtes Hauptgericht.",
+    "image_path": "assets/images/recipes/norma_R030.png"
+  },
+  {
+    "id": "R031",
+    "title": "Chicken Nuggets mit Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Nuggets nach Packungsanweisung im Ofen backen.",
+      "Währenddessen die Pommes Frites ebenfalls im Ofen zubereiten.",
+      "Salat, Tomate und Zwiebel klein schneiden und in einer Schüssel vermengen.",
+      "Die Chicken Nuggets und Pommes Frites auf Tellern anrichten und mit dem Salat servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-nuggets-with-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (200 g)",
+      "Tomate (1 Stk)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R031.png"
+  },
+  {
+    "id": "R032",
+    "title": "Vegetarische Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Hot-Dog Brötchen / Hamburger Brötchen XXL",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Tortilla Chips",
+        "brand": "PFIFF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanweisung kochen.",
+      "In einer Pfanne die Pilze und Zucchini anbraten.",
+      "Die gekochte Pasta hinzufügen und mit Knoblauch würzen.",
+      "Mit Tortilla Chips servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarian-pasta-r032",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pasta (300 g)",
+      "Zucchini (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R032.png"
+  },
+  {
+    "id": "R033",
+    "title": "Potato Wedges mit Dip",
+    "description": "",
+    "categories": [
+      "Kalorienarm",
+      "Gluten-free",
+      "Vegan"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 1.59
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Fingerfood",
+        "brand": "TIME TO TASTE",
+        "unit": "g",
+        "pack_size": 375,
+        "packs_used": 1,
+        "used_amount": 375.0,
+        "price_eur": 3.19,
+        "price_before_eur": 3.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Potato Wedges nach Packungsanweisung im Ofen backen.",
+      "Für den Dip Joghurt mit Sahne und Kräutern vermengen.",
+      "Die Wedges mit dem Dip servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "potato-wedges-with-dip-r033",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Joghurt (200 g)",
+      "Sahne (100 ml)",
+      "Kräuter (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R033.png"
+  },
+  {
+    "id": "R034",
+    "title": "Chicken Burger",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Hähnchenschenkel",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 6.99,
+        "price_before_eur": 6.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Hot-Dog Brötchen / Hamburger Brötchen XXL",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Hähnchenschenkel grillen und in Stücke schneiden.",
+      "Die Brötchen aufschneiden und mit Salat, Tomate und Zwiebel belegen.",
+      "Das Hähnchenfleisch darauflegen und die Gurken hinzufügen."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-burger-r034",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (100 g)",
+      "Tomate (1 Stk)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R034.png"
+  },
+  {
+    "id": "R035",
+    "title": "Gemüsepfanne",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Fingerfood",
+        "brand": "TIME TO TASTE",
+        "unit": "g",
+        "pack_size": 375,
+        "packs_used": 1,
+        "used_amount": 375.0,
+        "price_eur": 3.19,
+        "price_before_eur": 3.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Paprika und Zucchini klein schneiden und in einer Pfanne anbraten.",
+      "Die Pilze hinzufügen und weiterbraten.",
+      "Mit Knoblauch würzen und mit Wellen Pommes servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-stir-fry",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)",
+      "Zucchini (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R035.png"
+  },
+  {
+    "id": "R036",
+    "title": "Fisch-Tacos",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Pazifische Wildlachsfilets",
+        "brand": "FJORDKRONE",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 3.69,
+        "price_before_eur": 3.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Hot-Dog Brötchen / Hamburger Brötchen XXL",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Lachsfilets braten und in Stücke schneiden.",
+      "Die Tortillas mit Lachs, Gurken und Koriander füllen.",
+      "Mit Limettensaft beträufeln und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fish-tacos",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tortilla (4 Stk)",
+      "Koriander (1 Bund)",
+      "Limette (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R036.png"
+  },
+  {
+    "id": "R037",
+    "title": "Scharfer Hähnchensalat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Hähnchen-Innenfilets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 800,
+        "packs_used": 1,
+        "used_amount": 800.0,
+        "price_eur": 6.99,
+        "price_before_eur": 6.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Hähnchen-Innenfilets braten und in Streifen schneiden.",
+      "Salat, Chili und Zwiebel klein schneiden und vermengen.",
+      "Die Hähnchenstreifen darauflegen und mit Pommes servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "spicy-chicken-salad-r037",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (200 g)",
+      "Chili (1 Stk)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R037.png"
+  },
+  {
+    "id": "R038",
+    "title": "Süßkartoffel-Pommes",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Fingerfood",
+        "brand": "TIME TO TASTE",
+        "unit": "g",
+        "pack_size": 375,
+        "packs_used": 1,
+        "used_amount": 375.0,
+        "price_eur": 3.19,
+        "price_before_eur": 3.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Süßkartoffeln schälen und in Pommes schneiden.",
+      "Mit Paprika und Knoblauch würzen und im Ofen backen.",
+      "Mit Wellen Pommes servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "sweet-potato-fries",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Süßkartoffel (500 g)",
+      "Paprika (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R038.png"
+  },
+  {
+    "id": "R039",
+    "title": "Schokoladenkuchen",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Marmor-/ Zitronenkuchen",
+        "brand": "JOMO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.39
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Kakaotafeln",
+        "brand": "YUMMY",
+        "unit": "g",
+        "pack_size": 85,
+        "packs_used": 1,
+        "used_amount": 85.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Blütenhonig",
+        "brand": "BEE GARDEN",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 6.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Eier mit Zucker und Honig schaumig schlagen.",
+      "Das Mehl und Backpulver unterheben und die Kakaotafeln hinzufügen.",
+      "In einer Form backen und abkühlen lassen."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chocolate-cake-r039",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (4 Stk)",
+      "Mehl (250 g)",
+      "Backpulver (1 Päckchen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R039.png"
+  },
+  {
+    "id": "R040",
+    "title": "Obstsalat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Riesen-Mandarinen",
+        "brand": "DREAM-FRÜCHTE",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "Erdnüsse",
+        "brand": "ÜLTJE",
+        "unit": "g",
+        "pack_size": 180,
+        "packs_used": 1,
+        "used_amount": 180.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O030",
+        "name": "Katzennassnahrung",
+        "brand": "WHISKAS",
+        "unit": "g",
+        "pack_size": 6800,
+        "packs_used": 1,
+        "used_amount": 6800.0,
+        "price_eur": 20.99,
+        "price_before_eur": 20.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Das Obst klein schneiden und in einer Schüssel vermengen.",
+      "Mit Erdnüssen bestreuen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruit-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (2 Stk)",
+      "Äpfel (2 Stk)",
+      "Trauben (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R040.png"
+  },
+  {
+    "id": "R041",
+    "title": "Chicken Nuggets Bowl",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "12 Chicken Nuggets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Pommes Frites",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Nuggets nach Packungsanweisung im Ofen backen.",
+      "Die Pommes Frites ebenfalls im Ofen zubereiten.",
+      "In einer Schüssel die gebackenen Nuggets und Pommes anrichten.",
+      "Mit Gurken, Zwiebeln und frischem Salat garnieren.",
+      "Mit Ketchup servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-nuggets-bowl-r041",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Ketchup (100 g)",
+      "Zwiebel (1 Stk)",
+      "Salat (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R041.png"
+  },
+  {
+    "id": "R042",
+    "title": "Vegetarische Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Hot-Dog Brötchen / Hamburger Brötchen XXL",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Tortilla Chips",
+        "brand": "PFIFF",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pilze in einer Pfanne mit etwas Öl anbraten.",
+      "Die Zucchini in Würfel schneiden und zu den Pilzen geben.",
+      "Die Pasta nach Packungsanweisung kochen.",
+      "Die gebratene Mischung mit der Pasta vermengen.",
+      "Mit Parmesan und Tortilla Chips servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarian-pasta-r042",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Zucchini (1 Stk)",
+      "Parmesan (50 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R042.png"
+  },
+  {
+    "id": "R043",
+    "title": "Würzige Potato Wedges",
+    "description": "",
+    "categories": [
+      "Low Carb",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Potato Wedges",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Fingerfood",
+        "brand": "TIME TO TASTE",
+        "unit": "g",
+        "pack_size": 375,
+        "packs_used": 1,
+        "used_amount": 375.0,
+        "price_eur": 3.19,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Potato Wedges nach Packungsanweisung im Ofen backen.",
+      "Die Paprika und Chili in kleine Stücke schneiden.",
+      "Die Wedges mit Paprika und Chili bestreuen.",
+      "Mit Knoblauchpulver würzen und servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "spicy-potato-wedges",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)",
+      "Chili (1 Stk)",
+      "Knoblauchpulver (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R043.png"
+  },
+  {
+    "id": "R044",
+    "title": "Schokoladen-Brownies",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Laktosefrei"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Marmor-/ Zitronenkuchen",
+        "brand": "JOMO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.39
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Kakaotafeln",
+        "brand": "YUMMY",
+        "unit": "g",
+        "pack_size": 85,
+        "packs_used": 1,
+        "used_amount": 85.0,
+        "price_eur": 0.79,
+        "price_before_eur": 1.09
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Erdnüsse",
+        "brand": "ÜLTJE",
+        "unit": "g",
+        "pack_size": 180,
+        "packs_used": 1,
+        "used_amount": 180.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den Ofen auf 180 Grad vorheizen.",
+      "Die Kakaotafeln schmelzen und mit Zucker und Butter vermengen.",
+      "Die Erdnüsse grob hacken und unter die Masse heben.",
+      "In eine Backform füllen und 25-30 Minuten backen.",
+      "Abkühlen lassen und in Stücke schneiden."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chocolate-brownies",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucker (200 g)",
+      "Butter (100 g)",
+      "Vanilleextrakt (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R044.png"
+  },
+  {
+    "id": "R045",
+    "title": "Würziges Chicken Sandwich",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Hähnchenschenkel",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 6.99,
+        "price_before_eur": 8.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Hot-Dog Brötchen / Hamburger Brötchen XXL",
+        "brand": "GOLDBLUME",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Hähnchenschenkel grillen oder braten.",
+      "Die Brötchen aufschneiden und leicht toasten.",
+      "Die Hähnchenschenkel in die Brötchen legen.",
+      "Mit Gurken, Salat und Chili garnieren.",
+      "Mit Mayonnaise servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "spicy-chicken-sandwich",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Chili (1 Stk)",
+      "Salat (100 g)",
+      "Mayonnaise (50 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R045.png"
+  },
+  {
+    "id": "R046",
+    "title": "Lachsfilet Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Pazifische Wildlachsfilets",
+        "brand": "FJORDKRONE",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 3.69,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Lachsfilets braten oder grillen.",
+      "Rucola waschen und in eine Schüssel geben.",
+      "Die Pilze und Gurken in Scheiben schneiden und zum Rucola hinzufügen.",
+      "Den Lachs auf den Salat legen und mit Zitrone beträufeln.",
+      "Mit Zwiebeln garnieren und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "lachsfilet-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Rucola (100 g)",
+      "Zwiebel (1 Stk)",
+      "Zitrone (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R046.png"
+  },
+  {
+    "id": "R047",
+    "title": "Chili con Carne",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Hähnchen-Innenfilets",
+        "brand": "GUT LANGENHOF",
+        "unit": "g",
+        "pack_size": 800,
+        "packs_used": 1,
+        "used_amount": 800.0,
+        "price_eur": 6.99,
+        "price_before_eur": 8.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Hähnchen-Innenfilets in einer Pfanne anbraten.",
+      "Die Zwiebel und den Knoblauch würfeln und hinzufügen.",
+      "Die Chili klein schneiden und ebenfalls dazugeben.",
+      "Alles gut vermengen und 20 Minuten köcheln lassen.",
+      "Mit Wellen Pommes servieren."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chili-con-carne",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Chili (2 Stk)",
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R047.png"
+  },
+  {
+    "id": "R048",
+    "title": "Frucht-Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Riesen-Mandarinen",
+        "brand": "DREAM-FRÜCHTE",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Blütenhonig",
+        "brand": "BEE GARDEN",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 6.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Erdnüsse",
+        "brand": "ÜLTJE",
+        "unit": "g",
+        "pack_size": 180,
+        "packs_used": 1,
+        "used_amount": 180.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Mandarinen schälen und in den Mixer geben.",
+      "Die Banane und Joghurt hinzufügen.",
+      "Mit Erdnüssen und Honig verfeinern.",
+      "Alles gut pürieren und in Gläser füllen.",
+      "Mit Zimt bestreuen und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruit-smoothie-r048",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Joghurt (100 g)",
+      "Zimt (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R048.png"
+  },
+  {
+    "id": "R049",
+    "title": "Schokoladenmousse",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Kakaotafeln",
+        "brand": "YUMMY",
+        "unit": "g",
+        "pack_size": 85,
+        "packs_used": 1,
+        "used_amount": 85.0,
+        "price_eur": 0.79,
+        "price_before_eur": 1.09
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Marmor-/ Zitronenkuchen",
+        "brand": "JOMO",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.39
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Erdnüsse",
+        "brand": "ÜLTJE",
+        "unit": "g",
+        "pack_size": 180,
+        "packs_used": 1,
+        "used_amount": 180.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kakaotafeln schmelzen und mit Zucker vermengen.",
+      "Die Sahne steif schlagen und unter die Schokoladenmasse heben.",
+      "Die Erdnüsse grob hacken und hinzufügen.",
+      "In Gläser füllen und kalt stellen.",
+      "Vor dem Servieren mit Erdnüssen dekorieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chocolate-mousse",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucker (100 g)",
+      "Sahne (200 ml)",
+      "Vanilleextrakt (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R049.png"
+  },
+  {
+    "id": "R050",
+    "title": "Gemüse-Pfanne",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Pilze",
+        "brand": "NIKLAS",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "Burger-/ Sandwich Gurken",
+        "brand": "KÜHNE",
+        "unit": "g",
+        "pack_size": 330,
+        "packs_used": 1,
+        "used_amount": 330.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O030",
+        "name": "Wellen Pommes",
+        "brand": "POTATO MASTER",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pilze in einer Pfanne anbraten.",
+      "Paprika und Zucchini in Würfel schneiden und hinzufügen.",
+      "Mit Sojasauce würzen und alles gut vermengen.",
+      "Mit Wellen Pommes servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "NORMA",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-stir-fry-r050",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)",
+      "Zucchini (1 Stk)",
+      "Sojasauce (50 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/norma_R050.png"
+  }
+]

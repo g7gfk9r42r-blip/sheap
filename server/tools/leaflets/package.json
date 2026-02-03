@@ -1,0 +1,21 @@
+{
+  "name": "leaflets",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tools to download leaflet pages and generate PDFs",
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "leaflet": "node download_marktguru_leaflet.mjs",
+    "lidl:view": "node download_lidl_viewer.mjs"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "pdf-lib": "^1.17.1",
+    "puppeteer": "^22.15.0"
+  }
+}

@@ -1,0 +1,1644 @@
+[
+  {
+    "id": "rewe-1",
+    "title": "Cremige Gnocchi mit Saint Agur",
+    "description": "Schnelle und cremige Gnocchi mit würzigem Saint Agur Käse.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "vegetarisch",
+      "cremig"
+    ],
+    "total_cost": 5.27,
+    "total_cost_original": 7.47,
+    "savings_total": 2.2,
+    "cost_per_portion": 2.64,
+    "ingredients": [
+      {
+        "name": "Bürger Gnocchi",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Bürger Gnocchi",
+        "offer_price": 1.79,
+        "brand": "Bürger",
+        "package_size": "500g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Saint Agur",
+        "amount": "50g",
+        "is_offer_product": true,
+        "offer_title_match": "Saint Agur oder Etorki",
+        "offer_price": 1.99,
+        "brand": "Saint Agur",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Rama Culinesse",
+        "amount": "50ml",
+        "is_offer_product": true,
+        "offer_title_match": "Rama Culinesse",
+        "offer_price": 1.49,
+        "brand": "Rama",
+        "package_size": "500ml",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Gnocchi in kochendem Wasser nach Packungsanweisung garen.",
+      "Rama Culinesse in einer Pfanne erhitzen.",
+      "Gekochte Gnocchi in die Pfanne geben und kurz anbraten.",
+      "Saint Agur in kleinen Stücken hinzufügen und schmelzen lassen.",
+      "Gut umrühren und sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/rewe-1.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "rewe-2",
+    "title": "Geflügel-Fleischwurst mit Rahm-Königsgemüse",
+    "description": "Herzhafte Geflügel-Fleischwurst mit cremigem Rahm-Königsgemüse.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "einfach",
+      "schnell"
+    ],
+    "total_cost": 5.18,
+    "total_cost_original": 7.97,
+    "savings_total": 2.79,
+    "cost_per_portion": 2.59,
+    "ingredients": [
+      {
+        "name": "Gutfried Geflügel-Fleischwurst",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Gutfried Geflügel-Fleischwurst",
+        "offer_price": 2.79,
+        "brand": "Gutfried",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Iglo Rahm-Königsgemüse",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Iglo Rahm-Königsgemüse",
+        "offer_price": 2.39,
+        "brand": "Iglo",
+        "package_size": "500g",
+        "supermarket_location": "Tiefkühlregal"
+      }
+    ],
+    "steps": [
+      "Geflügel-Fleischwurst in Scheiben schneiden.",
+      "Rahm-Königsgemüse nach Packungsanweisung erhitzen.",
+      "Fleischwurst in einer Pfanne anbraten, bis sie leicht gebräunt ist.",
+      "Rahm-Königsgemüse auf Teller verteilen und Fleischwurst darauf anrichten.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/rewe-2.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "rewe-3",
+    "title": "Lachs-Burrata Salat",
+    "description": "Frischer Salat mit zartem Wildlachs und cremiger Burrata.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frisch",
+      "gesund",
+      "schnell"
+    ],
+    "total_cost": 9.77,
+    "total_cost_original": 13.25,
+    "savings_total": 3.48,
+    "cost_per_portion": 4.89,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs oder Kodiak Sockeye Wildlachs",
+        "offer_price": 3.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Zum Dorfkrug Frische Salatsauce",
+        "amount": "125ml",
+        "is_offer_product": true,
+        "offer_title_match": "Zum Dorfkrug Frische Salatsauce",
+        "offer_price": 1.49,
+        "brand": "Zum Dorfkrug",
+        "package_size": "250ml",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Wildlachs in feine Scheiben schneiden.",
+      "Burrata in Stücke zerteilen.",
+      "Salat auf Teller verteilen.",
+      "Lachs und Burrata auf dem Salat anrichten.",
+      "Mit Salatsauce beträufeln und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/rewe-3.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "rewe-4",
+    "title": "Pasta mit Pesto alla Genovese",
+    "description": "Klassische Pasta mit aromatischem Pesto alla Genovese.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "klassisch",
+      "schnell",
+      "vegetarisch"
+    ],
+    "total_cost": 3.37,
+    "total_cost_original": 5.27,
+    "savings_total": 1.9,
+    "cost_per_portion": 1.69,
+    "ingredients": [
+      {
+        "name": "Barilla Classic Pasta",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Classic Pasta",
+        "offer_price": 0.79,
+        "brand": "Barilla",
+        "package_size": "500g",
+        "supermarket_location": "Nudelregal"
+      },
+      {
+        "name": "Barilla Pesto alla Genovese",
+        "amount": "95g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Pesto alla Genovese",
+        "offer_price": 1.79,
+        "brand": "Barilla",
+        "package_size": "190g",
+        "supermarket_location": "Nudelregal"
+      }
+    ],
+    "steps": [
+      "Pasta in kochendem Salzwasser nach Packungsanweisung garen.",
+      "Pesto in einer großen Schüssel bereitstellen.",
+      "Gekochte Pasta abgießen und mit Pesto vermengen.",
+      "Gut umrühren und sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/rewe-4.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "rewe-5",
+    "title": "Mozzarella-Tomaten Croissants",
+    "description": "Knusprige Croissants gefüllt mit Mozzarella und Tomaten.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "knusprig",
+      "vegetarisch",
+      "schnell"
+    ],
+    "total_cost": 4.23,
+    "total_cost_original": 6.23,
+    "savings_total": 2.0,
+    "cost_per_portion": 2.12,
+    "ingredients": [
+      {
+        "name": "Knack & Back Fertigteig Croissants",
+        "amount": "240g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Croissants",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "240g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "ja! Mozzarella",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "ja! Mozzarella",
+        "offer_price": 0.85,
+        "brand": "ja!",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Bio Konfitüre Extra",
+        "amount": "50g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Bio Konfitüre Extra",
+        "offer_price": 1.19,
+        "brand": "REWE Bio",
+        "package_size": "330g",
+        "supermarket_location": "Konfitürenregal"
+      }
+    ],
+    "steps": [
+      "Ofen auf 180°C vorheizen.",
+      "Croissant-Teig ausrollen und in Dreiecke schneiden.",
+      "Mozzarella in Scheiben schneiden und auf die Dreiecke legen.",
+      "Mit Konfitüre bestreichen und aufrollen.",
+      "Auf einem Backblech 15 Minuten backen, bis sie goldbraun sind."
+    ],
+    "image_path": "server/media/recipe_images/unknown/rewe-5.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "rewe-6",
+    "title": "Fischstäbchen mit italienischem Gemüse",
+    "description": "Knusprige Fischstäbchen mit würzigem italienischem Gemüse.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 35,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "knusprig",
+      "fisch",
+      "schnell"
+    ],
+    "total_cost": 5.18,
+    "total_cost_original": 7.97,
+    "savings_total": 2.79,
+    "cost_per_portion": 2.59,
+    "ingredients": [
+      {
+        "name": "Frosta Fischstäbchen",
+        "amount": "225g",
+        "is_offer_product": true,
+        "offer_title_match": "Frosta Fischstäbchen",
+        "offer_price": 2.79,
+        "brand": "Frosta",
+        "package_size": "450g",
+        "supermarket_location": "Tiefkühlregal"
+      },
+      {
+        "name": "Iglo Gemüse-Ideen Italienisch",
+        "amount": "240g",
+        "is_offer_product": true,
+        "offer_title_match": "Iglo Gemüse-Ideen Italienisch",
+        "offer_price": 2.39,
+        "brand": "Iglo",
+        "package_size": "480g",
+        "supermarket_location": "Tiefkühlregal"
+      }
+    ],
+    "steps": [
+      "Fischstäbchen nach Packungsanweisung im Ofen backen.",
+      "Gemüse-Ideen in einer Pfanne erhitzen.",
+      "Fischstäbchen und Gemüse auf Teller anrichten.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/rewe-6.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "rewe-7",
+    "title": "Burrata mit Pumpernickel und Ajvar",
+    "description": "Cremige Burrata auf Pumpernickel mit würzigem Ajvar.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "cremig"
+    ],
+    "total_cost": 5.07,
+    "total_cost_original": 7.67,
+    "savings_total": 2.6,
+    "cost_per_portion": 2.54,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Mestemacher Gourmet Pumpernickel-Rolle",
+        "amount": "125g",
+        "is_offer_product": true,
+        "offer_title_match": "Mestemacher Gourmet Pumpernickel-Rolle",
+        "offer_price": 1.39,
+        "brand": "Mestemacher",
+        "package_size": "250g",
+        "supermarket_location": "Brotregal"
+      },
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "106ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konservenregal"
+      }
+    ],
+    "steps": [
+      "Pumpernickel in Scheiben schneiden.",
+      "Burrata in Stücke zerteilen.",
+      "Ajvar auf Pumpernickel streichen.",
+      "Burrata darauf anrichten und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/rewe-7.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "rewe-8",
+    "title": "Prosciutto Cotto mit Mozzarella und Croissants",
+    "description": "Feiner Prosciutto Cotto mit Mozzarella und knusprigen Croissants.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "schnell",
+      "italienisch"
+    ],
+    "total_cost": 6.03,
+    "total_cost_original": 8.57,
+    "savings_total": 2.54,
+    "cost_per_portion": 3.02,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Prosciutto Cotto",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Prosciutto Cotto",
+        "offer_price": 3.49,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "ja! Mozzarella",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "ja! Mozzarella",
+        "offer_price": 0.85,
+        "brand": "ja!",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Knack & Back Fertigteig Croissants",
+        "amount": "240g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Croissants",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "240g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Ofen auf 180°C vorheizen.",
+      "Croissant-Teig ausrollen und backen.",
+      "Mozzarella in Scheiben schneiden.",
+      "Croissants mit Prosciutto und Mozzarella füllen.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/rewe-8.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "rewe-9",
+    "title": "Schlemmerfilet mit Brokkoli Mandel",
+    "description": "Zartes Schlemmerfilet mit Brokkoli und Mandeln.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 40,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "gesund",
+      "schnell"
+    ],
+    "total_cost": 5.18,
+    "total_cost_original": 7.97,
+    "savings_total": 2.79,
+    "cost_per_portion": 2.59,
+    "ingredients": [
+      {
+        "name": "Frosta Schlemmerfilet Brokkoli Mandel",
+        "amount": "360g",
+        "is_offer_product": true,
+        "offer_title_match": "Frosta Schlemmerfilet Brokkoli Mandel",
+        "offer_price": 2.79,
+        "brand": "Frosta",
+        "package_size": "360g",
+        "supermarket_location": "Tiefkühlregal"
+      },
+      {
+        "name": "Iglo Rahm-Königsgemüse",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Iglo Rahm-Königsgemüse",
+        "offer_price": 2.39,
+        "brand": "Iglo",
+        "package_size": "500g",
+        "supermarket_location": "Tiefkühlregal"
+      }
+    ],
+    "steps": [
+      "Schlemmerfilet nach Packungsanweisung im Ofen backen.",
+      "Rahm-Königsgemüse in einer Pfanne erhitzen.",
+      "Schlemmerfilet und Gemüse auf Teller anrichten.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-10",
+    "title": "Sonntags-Brötchen mit Hähnchen-Fleischwurst",
+    "description": "Frische Sonntags-Brötchen mit würziger Hähnchen-Fleischwurst.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frühstück",
+      "schnell",
+      "herzhaft"
+    ],
+    "total_cost": 4.48,
+    "total_cost_original": 7.27,
+    "savings_total": 2.79,
+    "cost_per_portion": 2.24,
+    "ingredients": [
+      {
+        "name": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Gutfried Hähnchen-Fleischwurst",
+        "amount": "175g",
+        "is_offer_product": true,
+        "offer_title_match": "Gutfried Hähnchen-Fleischwurst",
+        "offer_price": 2.79,
+        "brand": "Gutfried",
+        "package_size": "350g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Ofen auf 180°C vorheizen.",
+      "Sonntags-Brötchen nach Packungsanweisung backen.",
+      "Hähnchen-Fleischwurst in Scheiben schneiden.",
+      "Brötchen aufschneiden und mit Fleischwurst belegen.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-11",
+    "title": "High Protein Milchreis mit Blaubeeren",
+    "description": "Proteinreicher Milchreis mit frischen Blaubeeren.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "proteinreich",
+      "schnell"
+    ],
+    "total_cost": 3.98,
+    "total_cost_original": 5.97,
+    "savings_total": 1.99,
+    "cost_per_portion": 1.99,
+    "ingredients": [
+      {
+        "name": "Dr. Oetker High Protein Milchreis",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Dr. Oetker High Protein Milchreis",
+        "offer_price": 1.99,
+        "brand": "Dr. Oetker",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Innocent Saft Blue Break",
+        "amount": "375ml",
+        "is_offer_product": true,
+        "offer_title_match": "Innocent Saft Blue Break",
+        "offer_price": 2.69,
+        "brand": "Innocent",
+        "package_size": "750ml",
+        "supermarket_location": "Getränkeregal"
+      }
+    ],
+    "steps": [
+      "Milchreis in Schalen verteilen.",
+      "Mit Blue Break Saft übergießen.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-12",
+    "title": "Bistro Baguette mit Pesto Rosso",
+    "description": "Knuspriges Baguette mit würzigem Pesto Rosso.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "knusprig",
+      "vegetarisch"
+    ],
+    "total_cost": 3.28,
+    "total_cost_original": 5.07,
+    "savings_total": 1.79,
+    "cost_per_portion": 1.64,
+    "ingredients": [
+      {
+        "name": "Dr. Oetker Bistro Baguette",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Dr. Oetker Bistro Baguette",
+        "offer_price": 1.49,
+        "brand": "Dr. Oetker",
+        "package_size": "250g",
+        "supermarket_location": "Tiefkühlregal"
+      },
+      {
+        "name": "Barilla Pesto Rosso",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Pesto Rosso",
+        "offer_price": 1.79,
+        "brand": "Barilla",
+        "package_size": "200g",
+        "supermarket_location": "Nudelregal"
+      }
+    ],
+    "steps": [
+      "Bistro Baguette nach Packungsanweisung im Ofen backen.",
+      "Mit Pesto Rosso bestreichen.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-13",
+    "title": "Soja-Joghurt mit Schoko Pudding",
+    "description": "Cremiger Soja-Joghurt mit Schokoladenpudding.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "vegetarisch",
+      "schnell"
+    ],
+    "total_cost": 3.48,
+    "total_cost_original": 5.47,
+    "savings_total": 1.99,
+    "cost_per_portion": 1.74,
+    "ingredients": [
+      {
+        "name": "Alpro Soja ohne Zucker",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Alpro Soja ohne Zucker",
+        "offer_price": 1.49,
+        "brand": "Alpro",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Dr. Oetker Sahne Pudding Schoko",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Dr. Oetker Sahne Pudding Schoko",
+        "offer_price": 1.99,
+        "brand": "Dr. Oetker",
+        "package_size": "500g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Soja-Joghurt in Schalen verteilen.",
+      "Schoko Pudding darüber geben.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-14",
+    "title": "Gnocchi mit Etorki und Gemüse",
+    "description": "Herzhafte Gnocchi mit würzigem Etorki und italienischem Gemüse.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "herzhaft"
+    ],
+    "total_cost": 6.17,
+    "total_cost_original": 8.56,
+    "savings_total": 2.39,
+    "cost_per_portion": 3.09,
+    "ingredients": [
+      {
+        "name": "Bürger Gnocchi",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Bürger Gnocchi",
+        "offer_price": 1.79,
+        "brand": "Bürger",
+        "package_size": "500g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Saint Agur oder Etorki",
+        "amount": "50g",
+        "is_offer_product": true,
+        "offer_title_match": "Saint Agur oder Etorki",
+        "offer_price": 1.99,
+        "brand": "Saint Agur",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Iglo Gemüse-Ideen Italienisch",
+        "amount": "240g",
+        "is_offer_product": true,
+        "offer_title_match": "Iglo Gemüse-Ideen Italienisch",
+        "offer_price": 2.39,
+        "brand": "Iglo",
+        "package_size": "480g",
+        "supermarket_location": "Tiefkühlregal"
+      }
+    ],
+    "steps": [
+      "Gnocchi in kochendem Wasser nach Packungsanweisung garen.",
+      "Gemüse-Ideen in einer Pfanne erhitzen.",
+      "Gekochte Gnocchi hinzufügen und gut vermengen.",
+      "Etorki in kleinen Stücken darüber streuen und schmelzen lassen.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-15",
+    "title": "Mozzarella-Pesto Pasta",
+    "description": "Köstliche Pasta mit Mozzarella und Pesto alla Genovese.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "italienisch"
+    ],
+    "total_cost": 3.43,
+    "total_cost_original": 5.13,
+    "savings_total": 1.7,
+    "cost_per_portion": 1.72,
+    "ingredients": [
+      {
+        "name": "Barilla Classic Pasta",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Classic Pasta",
+        "offer_price": 0.79,
+        "brand": "Barilla",
+        "package_size": "500g",
+        "supermarket_location": "Nudelregal"
+      },
+      {
+        "name": "Barilla Pesto alla Genovese",
+        "amount": "95g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Pesto alla Genovese",
+        "offer_price": 1.79,
+        "brand": "Barilla",
+        "package_size": "190g",
+        "supermarket_location": "Nudelregal"
+      },
+      {
+        "name": "ja! Mozzarella",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "ja! Mozzarella",
+        "offer_price": 0.85,
+        "brand": "ja!",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Pasta in kochendem Salzwasser nach Packungsanweisung garen.",
+      "Mozzarella in kleine Würfel schneiden.",
+      "Gekochte Pasta abgießen und mit Pesto vermengen.",
+      "Mozzarella unterheben und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-16",
+    "title": "Geflügel-Fleischwurst mit Kartoffel-Gemüse",
+    "description": "Deftige Geflügel-Fleischwurst mit Kartoffeln und Gemüse.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 35,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "einfach",
+      "schnell"
+    ],
+    "total_cost": 5.18,
+    "total_cost_original": 7.97,
+    "savings_total": 2.79,
+    "cost_per_portion": 2.59,
+    "ingredients": [
+      {
+        "name": "Gutfried Geflügel-Fleischwurst",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Gutfried Geflügel-Fleischwurst",
+        "offer_price": 2.79,
+        "brand": "Gutfried",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Iglo Rahm-Königsgemüse",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Iglo Rahm-Königsgemüse",
+        "offer_price": 2.39,
+        "brand": "Iglo",
+        "package_size": "500g",
+        "supermarket_location": "Tiefkühlregal"
+      }
+    ],
+    "steps": [
+      "Geflügel-Fleischwurst in Scheiben schneiden.",
+      "Rahm-Königsgemüse nach Packungsanweisung erhitzen.",
+      "Fleischwurst in einer Pfanne anbraten, bis sie leicht gebräunt ist.",
+      "Gemüse auf Teller verteilen und Fleischwurst darauf anrichten.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-17",
+    "title": "Wildlachs mit Burrata und Salat",
+    "description": "Zarter Wildlachs mit cremiger Burrata und frischem Salat.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "gesund",
+      "schnell"
+    ],
+    "total_cost": 9.77,
+    "total_cost_original": 13.25,
+    "savings_total": 3.48,
+    "cost_per_portion": 4.89,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs oder Kodiak Sockeye Wildlachs",
+        "offer_price": 3.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Zum Dorfkrug Frische Salatsauce",
+        "amount": "125ml",
+        "is_offer_product": true,
+        "offer_title_match": "Zum Dorfkrug Frische Salatsauce",
+        "offer_price": 1.49,
+        "brand": "Zum Dorfkrug",
+        "package_size": "250ml",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Wildlachs in feine Scheiben schneiden.",
+      "Burrata in Stücke zerteilen.",
+      "Salat auf Teller verteilen.",
+      "Lachs und Burrata auf dem Salat anrichten.",
+      "Mit Salatsauce beträufeln und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-18",
+    "title": "Pasta mit Pesto Rosso und Mozzarella",
+    "description": "Köstliche Pasta mit würzigem Pesto Rosso und Mozzarella.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "italienisch"
+    ],
+    "total_cost": 3.43,
+    "total_cost_original": 5.13,
+    "savings_total": 1.7,
+    "cost_per_portion": 1.72,
+    "ingredients": [
+      {
+        "name": "Barilla Classic Pasta",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Classic Pasta",
+        "offer_price": 0.79,
+        "brand": "Barilla",
+        "package_size": "500g",
+        "supermarket_location": "Nudelregal"
+      },
+      {
+        "name": "Barilla Pesto Rosso",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Pesto Rosso",
+        "offer_price": 1.79,
+        "brand": "Barilla",
+        "package_size": "200g",
+        "supermarket_location": "Nudelregal"
+      },
+      {
+        "name": "ja! Mozzarella",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "ja! Mozzarella",
+        "offer_price": 0.85,
+        "brand": "ja!",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Pasta in kochendem Salzwasser nach Packungsanweisung garen.",
+      "Mozzarella in kleine Würfel schneiden.",
+      "Gekochte Pasta abgießen und mit Pesto vermengen.",
+      "Mozzarella unterheben und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-19",
+    "title": "Sonntags-Brötchen mit Prosciutto und Burrata",
+    "description": "Frische Sonntags-Brötchen mit Prosciutto Cotto und Burrata.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frühstück",
+      "schnell",
+      "italienisch"
+    ],
+    "total_cost": 7.07,
+    "total_cost_original": 10.56,
+    "savings_total": 3.49,
+    "cost_per_portion": 3.54,
+    "ingredients": [
+      {
+        "name": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Prosciutto Cotto",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Prosciutto Cotto",
+        "offer_price": 3.49,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Ofen auf 180°C vorheizen.",
+      "Sonntags-Brötchen nach Packungsanweisung backen.",
+      "Prosciutto in Scheiben schneiden.",
+      "Brötchen aufschneiden und mit Prosciutto und Burrata belegen.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-20",
+    "title": "Fischstäbchen mit Rahm-Gemüse",
+    "description": "Knusprige Fischstäbchen mit cremigem Rahm-Gemüse.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 35,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "schnell",
+      "knusprig"
+    ],
+    "total_cost": 5.18,
+    "total_cost_original": 7.97,
+    "savings_total": 2.79,
+    "cost_per_portion": 2.59,
+    "ingredients": [
+      {
+        "name": "Frosta Fischstäbchen",
+        "amount": "225g",
+        "is_offer_product": true,
+        "offer_title_match": "Frosta Fischstäbchen",
+        "offer_price": 2.79,
+        "brand": "Frosta",
+        "package_size": "450g",
+        "supermarket_location": "Tiefkühlregal"
+      },
+      {
+        "name": "Iglo Rahm-Königsgemüse",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Iglo Rahm-Königsgemüse",
+        "offer_price": 2.39,
+        "brand": "Iglo",
+        "package_size": "500g",
+        "supermarket_location": "Tiefkühlregal"
+      }
+    ],
+    "steps": [
+      "Fischstäbchen nach Packungsanweisung im Ofen backen.",
+      "Rahm-Königsgemüse in einer Pfanne erhitzen.",
+      "Fischstäbchen und Gemüse auf Teller anrichten.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-21",
+    "title": "Gnocchi mit Burrata und Ajvar",
+    "description": "Herzhafte Gnocchi mit cremiger Burrata und würzigem Ajvar.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "herzhaft"
+    ],
+    "total_cost": 5.47,
+    "total_cost_original": 7.96,
+    "savings_total": 2.49,
+    "cost_per_portion": 2.74,
+    "ingredients": [
+      {
+        "name": "Bürger Gnocchi",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Bürger Gnocchi",
+        "offer_price": 1.79,
+        "brand": "Bürger",
+        "package_size": "500g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "106ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konservenregal"
+      }
+    ],
+    "steps": [
+      "Gnocchi in kochendem Wasser nach Packungsanweisung garen.",
+      "Burrata in Stücke zerteilen.",
+      "Gekochte Gnocchi mit Burrata und Ajvar vermengen.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-22",
+    "title": "Mozzarella-Croissants mit Pesto",
+    "description": "Knusprige Croissants gefüllt mit Mozzarella und Pesto.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "knusprig"
+    ],
+    "total_cost": 4.33,
+    "total_cost_original": 6.33,
+    "savings_total": 2.0,
+    "cost_per_portion": 2.17,
+    "ingredients": [
+      {
+        "name": "Knack & Back Fertigteig Croissants",
+        "amount": "240g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Croissants",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "240g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "ja! Mozzarella",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "ja! Mozzarella",
+        "offer_price": 0.85,
+        "brand": "ja!",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Barilla Pesto alla Genovese",
+        "amount": "95g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Pesto alla Genovese",
+        "offer_price": 1.79,
+        "brand": "Barilla",
+        "package_size": "190g",
+        "supermarket_location": "Nudelregal"
+      }
+    ],
+    "steps": [
+      "Ofen auf 180°C vorheizen.",
+      "Croissant-Teig ausrollen und in Dreiecke schneiden.",
+      "Mozzarella in Scheiben schneiden und auf die Dreiecke legen.",
+      "Mit Pesto bestreichen und aufrollen.",
+      "Auf einem Backblech 15 Minuten backen, bis sie goldbraun sind."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-23",
+    "title": "Sonntags-Brötchen mit Lachs und Burrata",
+    "description": "Frische Sonntags-Brötchen mit Lachs und cremiger Burrata.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frühstück",
+      "schnell",
+      "fisch"
+    ],
+    "total_cost": 9.47,
+    "total_cost_original": 13.36,
+    "savings_total": 3.89,
+    "cost_per_portion": 4.74,
+    "ingredients": [
+      {
+        "name": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs oder Kodiak Sockeye Wildlachs",
+        "offer_price": 3.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Ofen auf 180°C vorheizen.",
+      "Sonntags-Brötchen nach Packungsanweisung backen.",
+      "Lachs in Scheiben schneiden.",
+      "Brötchen aufschneiden und mit Lachs und Burrata belegen.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-24",
+    "title": "Geflügel-Fleischwurst mit Gemüse und Pesto",
+    "description": "Herzhafte Geflügel-Fleischwurst mit Gemüse und Pesto.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "einfach",
+      "schnell"
+    ],
+    "total_cost": 6.97,
+    "total_cost_original": 9.36,
+    "savings_total": 2.39,
+    "cost_per_portion": 3.49,
+    "ingredients": [
+      {
+        "name": "Gutfried Geflügel-Fleischwurst",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Gutfried Geflügel-Fleischwurst",
+        "offer_price": 2.79,
+        "brand": "Gutfried",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Iglo Gemüse-Ideen Italienisch",
+        "amount": "240g",
+        "is_offer_product": true,
+        "offer_title_match": "Iglo Gemüse-Ideen Italienisch",
+        "offer_price": 2.39,
+        "brand": "Iglo",
+        "package_size": "480g",
+        "supermarket_location": "Tiefkühlregal"
+      },
+      {
+        "name": "Barilla Pesto alla Genovese",
+        "amount": "95g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Pesto alla Genovese",
+        "offer_price": 1.79,
+        "brand": "Barilla",
+        "package_size": "190g",
+        "supermarket_location": "Nudelregal"
+      }
+    ],
+    "steps": [
+      "Geflügel-Fleischwurst in Scheiben schneiden.",
+      "Gemüse-Ideen in einer Pfanne erhitzen.",
+      "Fleischwurst hinzufügen und gut vermengen.",
+      "Mit Pesto vermengen und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-25",
+    "title": "Burrata mit Pumpernickel und Pesto",
+    "description": "Cremige Burrata auf Pumpernickel mit würzigem Pesto.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "cremig"
+    ],
+    "total_cost": 5.07,
+    "total_cost_original": 7.67,
+    "savings_total": 2.6,
+    "cost_per_portion": 2.54,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Mestemacher Gourmet Pumpernickel-Rolle",
+        "amount": "125g",
+        "is_offer_product": true,
+        "offer_title_match": "Mestemacher Gourmet Pumpernickel-Rolle",
+        "offer_price": 1.39,
+        "brand": "Mestemacher",
+        "package_size": "250g",
+        "supermarket_location": "Brotregal"
+      },
+      {
+        "name": "Barilla Pesto alla Genovese",
+        "amount": "95g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Pesto alla Genovese",
+        "offer_price": 1.79,
+        "brand": "Barilla",
+        "package_size": "190g",
+        "supermarket_location": "Nudelregal"
+      }
+    ],
+    "steps": [
+      "Pumpernickel in Scheiben schneiden.",
+      "Burrata in Stücke zerteilen.",
+      "Pesto auf Pumpernickel streichen.",
+      "Burrata darauf anrichten und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-26",
+    "title": "Lachs-Burrata Croissants",
+    "description": "Knusprige Croissants gefüllt mit Lachs und Burrata.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "schnell",
+      "knusprig"
+    ],
+    "total_cost": 9.47,
+    "total_cost_original": 13.36,
+    "savings_total": 3.89,
+    "cost_per_portion": 4.74,
+    "ingredients": [
+      {
+        "name": "Knack & Back Fertigteig Croissants",
+        "amount": "240g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Croissants",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "240g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs oder Kodiak Sockeye Wildlachs",
+        "offer_price": 3.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Ofen auf 180°C vorheizen.",
+      "Croissant-Teig ausrollen und in Dreiecke schneiden.",
+      "Lachs in Scheiben schneiden und auf die Dreiecke legen.",
+      "Burrata darauf verteilen und aufrollen.",
+      "Auf einem Backblech 15 Minuten backen, bis sie goldbraun sind."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-27",
+    "title": "Geflügel-Fleischwurst mit Brokkoli Mandel",
+    "description": "Herzhafte Geflügel-Fleischwurst mit Brokkoli und Mandeln.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 35,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "einfach",
+      "schnell"
+    ],
+    "total_cost": 5.18,
+    "total_cost_original": 7.97,
+    "savings_total": 2.79,
+    "cost_per_portion": 2.59,
+    "ingredients": [
+      {
+        "name": "Gutfried Geflügel-Fleischwurst",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Gutfried Geflügel-Fleischwurst",
+        "offer_price": 2.79,
+        "brand": "Gutfried",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Frosta Schlemmerfilet Brokkoli Mandel",
+        "amount": "360g",
+        "is_offer_product": true,
+        "offer_title_match": "Frosta Schlemmerfilet Brokkoli Mandel",
+        "offer_price": 2.79,
+        "brand": "Frosta",
+        "package_size": "360g",
+        "supermarket_location": "Tiefkühlregal"
+      }
+    ],
+    "steps": [
+      "Schlemmerfilet nach Packungsanweisung im Ofen backen.",
+      "Geflügel-Fleischwurst in Scheiben schneiden.",
+      "Fleischwurst in einer Pfanne anbraten, bis sie leicht gebräunt ist.",
+      "Schlemmerfilet und Fleischwurst auf Teller anrichten.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-28",
+    "title": "Burrata mit Ajvar und Pumpernickel",
+    "description": "Cremige Burrata auf Pumpernickel mit würzigem Ajvar.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "cremig"
+    ],
+    "total_cost": 5.07,
+    "total_cost_original": 7.67,
+    "savings_total": 2.6,
+    "cost_per_portion": 2.54,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Mestemacher Gourmet Pumpernickel-Rolle",
+        "amount": "125g",
+        "is_offer_product": true,
+        "offer_title_match": "Mestemacher Gourmet Pumpernickel-Rolle",
+        "offer_price": 1.39,
+        "brand": "Mestemacher",
+        "package_size": "250g",
+        "supermarket_location": "Brotregal"
+      },
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "106ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konservenregal"
+      }
+    ],
+    "steps": [
+      "Pumpernickel in Scheiben schneiden.",
+      "Burrata in Stücke zerteilen.",
+      "Ajvar auf Pumpernickel streichen.",
+      "Burrata darauf anrichten und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-29",
+    "title": "Lachs-Burrata Brötchen",
+    "description": "Frische Brötchen mit Lachs und cremiger Burrata.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frühstück",
+      "schnell",
+      "fisch"
+    ],
+    "total_cost": 9.47,
+    "total_cost_original": 13.36,
+    "savings_total": 3.89,
+    "cost_per_portion": 4.74,
+    "ingredients": [
+      {
+        "name": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Kodiak Graved Sockeye Wildlachs oder Kodiak Sockeye Wildlachs",
+        "offer_price": 3.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Ofen auf 180°C vorheizen.",
+      "Sonntags-Brötchen nach Packungsanweisung backen.",
+      "Lachs in Scheiben schneiden.",
+      "Brötchen aufschneiden und mit Lachs und Burrata belegen.",
+      "Sofort servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-30",
+    "title": "Geflügel-Fleischwurst mit Pesto und Gemüse",
+    "description": "Herzhafte Geflügel-Fleischwurst mit Pesto und Gemüse.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "einfach",
+      "schnell"
+    ],
+    "total_cost": 6.97,
+    "total_cost_original": 9.36,
+    "savings_total": 2.39,
+    "cost_per_portion": 3.49,
+    "ingredients": [
+      {
+        "name": "Gutfried Geflügel-Fleischwurst",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Gutfried Geflügel-Fleischwurst",
+        "offer_price": 2.79,
+        "brand": "Gutfried",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Iglo Gemüse-Ideen Italienisch",
+        "amount": "240g",
+        "is_offer_product": true,
+        "offer_title_match": "Iglo Gemüse-Ideen Italienisch",
+        "offer_price": 2.39,
+        "brand": "Iglo",
+        "package_size": "480g",
+        "supermarket_location": "Tiefkühlregal"
+      },
+      {
+        "name": "Barilla Pesto alla Genovese",
+        "amount": "95g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Pesto alla Genovese",
+        "offer_price": 1.79,
+        "brand": "Barilla",
+        "package_size": "190g",
+        "supermarket_location": "Nudelregal"
+      }
+    ],
+    "steps": [
+      "Geflügel-Fleischwurst in Scheiben schneiden.",
+      "Gemüse-Ideen in einer Pfanne erhitzen.",
+      "Fleischwurst hinzufügen und gut vermengen.",
+      "Mit Pesto vermengen und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  }
+]

@@ -1,0 +1,3638 @@
+[
+  {
+    "id": "R001",
+    "title": "Linguine mit Austernpilzen & Olivenöl",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Linguine in kochendem Wasser garen",
+      "Austernpilze in Olivenöl anbraten, bis sie Farbe haben",
+      "Linguine abgießen, unterheben und kurz schwenken"
+    ],
+    "ingredients": [
+      {
+        "name": "Frische Linguine",
+        "brand": "BIO-VERDE",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Austernpilze",
+        "brand": null,
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 14.93,
+      "total_now": 14.93,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R002",
+    "title": "Tomaten-Marmande-Linguine mit Mozzarella",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Linguine garen",
+      "Tomaten würfeln und in Olivenöl kurz einkochen, bis eine Sauce entsteht",
+      "Mozzarella in Scheiben schneiden und unter die heißen Nudeln geben"
+    ],
+    "ingredients": [
+      {
+        "name": "Frische Linguine",
+        "brand": "BIO-VERDE",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten Marmande",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 5.99,
+        "price_before": null
+      },
+      {
+        "name": "Mozzarella Stange",
+        "brand": "ZÜGER FRISCHKÄSE",
+        "quantity": 300,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 20.92,
+      "total_now": 20.92,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R003",
+    "title": "Fenchel-Orangen-Salat mit Oliven",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Fenchel fein hobeln",
+      "Orangen filetieren oder in Stücke schneiden",
+      "Mit Oliven und Dressing mischen und kurz ziehen lassen"
+    ],
+    "ingredients": [
+      {
+        "name": "Fenchel",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 3.5,
+        "price_before": null
+      },
+      {
+        "name": "Orangen",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Feinkost-Saucen oder -Dressings",
+        "brand": "EMILS",
+        "quantity": 250,
+        "unit": "ml",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 12.47,
+      "total_now": 12.47,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R004",
+    "title": "Feldsalat-Mix mit Orangen & Trüffelkäse",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Feldsalat waschen",
+      "Orangen in Stücke schneiden",
+      "Trüffelkäse würfeln, alles mit Dressing mischen"
+    ],
+    "ingredients": [
+      {
+        "name": "Feldsalat oder Feldsalat-Mix",
+        "brand": null,
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Orangen",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Supreme Trüffel",
+        "brand": "HOOIDAMMER",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.79,
+        "price_before": null
+      },
+      {
+        "name": "Feinkost-Saucen oder -Dressings",
+        "brand": "EMILS",
+        "quantity": 250,
+        "unit": "ml",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 10.26,
+      "total_now": 10.26,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R005",
+    "title": "Blumenkohl-Gratin mit Gratinkäse",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Blumenkohl in Röschen teilen und bissfest garen",
+      "In eine Form geben, mit Weidemilch angießen",
+      "Gratinkäse darüber und im Ofen goldbraun backen"
+    ],
+    "ingredients": [
+      {
+        "name": "Blumenkohl",
+        "brand": null,
+        "quantity": 1,
+        "unit": "Stueck",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Frische Weidemilch",
+        "brand": "DENNREE",
+        "quantity": 1,
+        "unit": "l",
+        "price_now": 1.19,
+        "price_before": null
+      },
+      {
+        "name": "Gratinkäse",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.67,
+      "total_now": 5.67,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R006",
+    "title": "Kohl-Pfanne mit Kasseler & Silberzwiebeln",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Kohl in Streifen schneiden",
+      "Kasseler in Stücke schneiden und in Olivenöl anbraten",
+      "Kohl und Silberzwiebeln dazugeben und schmoren"
+    ],
+    "ingredients": [
+      {
+        "name": "Rot- oder Weißkohl",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 2.22,
+        "price_before": null
+      },
+      {
+        "name": "Kasseler",
+        "brand": "BIOLUST",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.3,
+        "price_before": null
+      },
+      {
+        "name": "Silberzwiebeln",
+        "brand": "MACHANDEL",
+        "quantity": 350,
+        "unit": "g",
+        "price_now": 1.29,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 15.76,
+      "total_now": 15.76,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R007",
+    "title": "Rindergulasch mit Wok-Gemüse & Reis",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Reis nach Packungsangabe kochen",
+      "Rindergulasch anbraten und kurz schmoren",
+      "Wok-Gemüse dazugeben, erwärmen und mit Reis servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Rindergulasch",
+        "brand": "KÖNIGSHOFER",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.79,
+        "price_before": null
+      },
+      {
+        "name": "❄ Gemüse",
+        "brand": "FOLLOWFOOD",
+        "quantity": 300,
+        "unit": "g",
+        "price_now": 1.89,
+        "price_before": null
+      },
+      {
+        "name": "Reis oder Hülsenfrüchte",
+        "brand": "SPIELBERGER",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 7.67,
+      "total_now": 7.67,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R008",
+    "title": "Tempeh-Bowl mit Wok-Gemüse & Olivenöl",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Reis kochen",
+      "Tempeh in Würfel schneiden und in Olivenöl anbraten",
+      "Wok-Gemüse dazugeben, heiß werden lassen, mit Reis anrichten"
+    ],
+    "ingredients": [
+      {
+        "name": "Tempeh",
+        "brand": "PEACEFUL DELICIOUS",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "❄ Gemüse",
+        "brand": "FOLLOWFOOD",
+        "quantity": 300,
+        "unit": "g",
+        "price_now": 1.89,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      },
+      {
+        "name": "Reis oder Hülsenfrüchte",
+        "brand": "SPIELBERGER",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 17.82,
+      "total_now": 17.82,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R009",
+    "title": "Tomaten-Pilz-Pfanne mit Käse in Scheiben",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Tomaten würfeln, Pilze zupfen",
+      "Beides in Olivenöl anbraten, bis es saftig ist",
+      "Käse in Scheiben darüberlegen, kurz schmelzen lassen"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Austernpilze",
+        "brand": null,
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Käse in Scheiben",
+        "brand": "ANDECHSER NATUR",
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 16.12,
+      "total_now": 16.12,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R010",
+    "title": "Antipasti-Nudel-Salat mit Oliven",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Nudeln kochen und abkühlen lassen",
+      "Antipasti und Oliven unterheben",
+      "Mit Dressing mischen und ziehen lassen"
+    ],
+    "ingredients": [
+      {
+        "name": "Italienische Nudeln",
+        "brand": "BYODO",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Antipasti",
+        "brand": "RAPUNZEL",
+        "quantity": 120,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Feinkost-Saucen oder -Dressings",
+        "brand": "EMILS",
+        "quantity": 250,
+        "unit": "ml",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 11.56,
+      "total_now": 11.56,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Laktosefrei",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R011",
+    "title": "Mozzarella-Tomaten-Platte mit Olivenöl",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Mozzarella in Scheiben schneiden",
+      "Tomaten in Scheiben schneiden",
+      "Auf Teller schichten und mit Olivenöl beträufeln"
+    ],
+    "ingredients": [
+      {
+        "name": "Mozzarella Stange",
+        "brand": "ZÜGER FRISCHKÄSE",
+        "quantity": 300,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten Marmande",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 5.99,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 18.93,
+      "total_now": 18.93,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R012",
+    "title": "Käse-Baguette aus dem Ofen",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Baguette nach Packung backen",
+      "Kurz vor Ende Gratinkäse darüberstreuen",
+      "Fertigbacken, bis der Käse schmilzt"
+    ],
+    "ingredients": [
+      {
+        "name": "❄ Kräuter- oder Knoblauch-Baguette",
+        "brand": "FOLLOWFOOD",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 1.69,
+        "price_before": null
+      },
+      {
+        "name": "Gratinkäse",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 3.68,
+      "total_now": 3.68,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R013",
+    "title": "Fisch-Nuggets mit Ofengemüse",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Fisch-Nuggets und Gemüse auf einem Blech verteilen",
+      "Im Ofen backen, bis alles heiß und knusprig ist"
+    ],
+    "ingredients": [
+      {
+        "name": "❄ Fisch-Nuggets",
+        "brand": "FOLLOWFOOD",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 3.99,
+        "price_before": null
+      },
+      {
+        "name": "❄ Gemüse",
+        "brand": "FOLLOWFOOD",
+        "quantity": 300,
+        "unit": "g",
+        "price_now": 1.89,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.88,
+      "total_now": 5.88,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R014",
+    "title": "Käsesticks mit Feinkostsalat",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Käsesticks im Ofen oder in der Pfanne zubereiten",
+      "Mit Feinkostsalat servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "❄ Käsesticks",
+        "brand": "FOLLOWFOOD",
+        "quantity": 160,
+        "unit": "g",
+        "price_now": 3.99,
+        "price_before": null
+      },
+      {
+        "name": "Feinkostsalat",
+        "brand": "GRÜNHOF",
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.98,
+      "total_now": 5.98,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R015",
+    "title": "Mini-Wiener mit Senf & Silberzwiebeln",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Mini-Wiener erwärmen",
+      "Mit Senf und Silberzwiebeln servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Mini-Wiener-Würstchen",
+        "brand": "BIOLUST",
+        "quantity": 120,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Senf",
+        "brand": "ZWERGENWIESE",
+        "quantity": 160,
+        "unit": "ml",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Silberzwiebeln",
+        "brand": "MACHANDEL",
+        "quantity": 350,
+        "unit": "g",
+        "price_now": 1.29,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.77,
+      "total_now": 5.77,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R016",
+    "title": "Wiener Würstchen mit Wildpreiselbeeren",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Wiener Würstchen erwärmen",
+      "Mit Wildpreiselbeeren als Beilage servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Wiener Würstchen",
+        "brand": "BIOLUST",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Wildpreiselbeeren",
+        "brand": "ANNES FEINSTE",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 6.48,
+      "total_now": 6.48,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R017",
+    "title": "Raclette-Teller Bio: Berg-Raclette & Gemüse",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Gemüse in mundgerechte Stücke schneiden und kurz vorgaren",
+      "Berg-Raclette auf dem Raclette-Grill schmelzen",
+      "Mit Gemüse kombinieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Berg-Raclette",
+        "brand": "SCHWEIZER KÄSESPEZIALITÄTEN",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Blumenkohl",
+        "brand": null,
+        "quantity": 1,
+        "unit": "Stueck",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Fenchel",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 3.5,
+        "price_before": null
+      },
+      {
+        "name": "Orangen",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 10.47,
+      "total_now": 10.47,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R018",
+    "title": "Vegetarischer Raclette-Teller: Trüffelkäse & Oliven",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Käse portionieren",
+      "Oliven und Silberzwiebeln vorbereiten",
+      "Käse im Pfännchen schmelzen und mit Beilagen essen"
+    ],
+    "ingredients": [
+      {
+        "name": "Supreme Trüffel",
+        "brand": "HOOIDAMMER",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.79,
+        "price_before": null
+      },
+      {
+        "name": "Berg-Raclette",
+        "brand": "SCHWEIZER KÄSESPEZIALITÄTEN",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Silberzwiebeln",
+        "brand": "MACHANDEL",
+        "quantity": 350,
+        "unit": "g",
+        "price_now": 1.29,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 10.06,
+      "total_now": 10.06,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R019",
+    "title": "Linguine mit Trüffelkäse",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Linguine kochen",
+      "Mit etwas Olivenöl mischen",
+      "Trüffelkäse reiben oder würfeln und unterheben"
+    ],
+    "ingredients": [
+      {
+        "name": "Frische Linguine",
+        "brand": "BIO-VERDE",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Supreme Trüffel",
+        "brand": "HOOIDAMMER",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.79,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 14.73,
+      "total_now": 14.73,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R020",
+    "title": "Linguine mit Gratinkäse 'cremig'",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Linguine kochen",
+      "In einem Topf Weidemilch erwärmen und Gratinkäse darin schmelzen",
+      "Nudeln in die Sauce geben und mischen"
+    ],
+    "ingredients": [
+      {
+        "name": "Frische Linguine",
+        "brand": "BIO-VERDE",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Frische Weidemilch",
+        "brand": "DENNREE",
+        "quantity": 1,
+        "unit": "l",
+        "price_now": 1.19,
+        "price_before": null
+      },
+      {
+        "name": "Gratinkäse",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.17,
+      "total_now": 5.17,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R021",
+    "title": "Tempeh-Tomaten-Pfanne",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Tempeh anbraten",
+      "Tomaten dazugeben und kurz einkochen",
+      "Alles zusammen schwenken"
+    ],
+    "ingredients": [
+      {
+        "name": "Tempeh",
+        "brand": "PEACEFUL DELICIOUS",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 13.83,
+      "total_now": 13.83,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegan",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R022",
+    "title": "Fenchel-Gratin mit Käse in Scheiben",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Fenchel in Scheiben schneiden und kurz vorgaren",
+      "In Form, mit Weidemilch angießen",
+      "Käse in Scheiben oben drauf und backen"
+    ],
+    "ingredients": [
+      {
+        "name": "Fenchel",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 3.5,
+        "price_before": null
+      },
+      {
+        "name": "Käse in Scheiben",
+        "brand": "ANDECHSER NATUR",
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Frische Weidemilch",
+        "brand": "DENNREE",
+        "quantity": 1,
+        "unit": "l",
+        "price_now": 1.19,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 6.98,
+      "total_now": 6.98,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R023",
+    "title": "Kohl-Nudel-Pfanne mit Salami",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Nudeln kochen",
+      "Salami anbraten, Kohl dazugeben und schmoren",
+      "Nudeln unterheben"
+    ],
+    "ingredients": [
+      {
+        "name": "Rot- oder Weißkohl",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 2.22,
+        "price_before": null
+      },
+      {
+        "name": "Italienische Nudeln",
+        "brand": "BYODO",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Salami",
+        "brand": "KÖNIGSHOFER",
+        "quantity": 80,
+        "unit": "g",
+        "price_now": 2.79,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 17.25,
+      "total_now": 17.25,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R024",
+    "title": "Tomaten-Oliven-Salat mit Brotaufstrich-Crostini",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Tomaten würfeln, mit Oliven mischen",
+      "Snäckebrot mit Brotaufstrich bestreichen",
+      "Zusammen servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Snäckebrot",
+        "brand": "BOHLSENER MÜHLE",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Brotaufstrich",
+        "brand": "ALLOS",
+        "quantity": 135,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 9.16,
+      "total_now": 9.16,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Laktosefrei",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R025",
+    "title": "Käseplatte: Altbierkäse, Walnusskäse & Oliven",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Käse in Stücke schneiden",
+      "Mit Oliven und Snäckebrot anrichten"
+    ],
+    "ingredients": [
+      {
+        "name": "Altbierkäse",
+        "brand": "SÖBBEKE",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.59,
+        "price_before": null
+      },
+      {
+        "name": "Edler Weisser Walnuss",
+        "brand": "ÖMA",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.19,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Snäckebrot",
+        "brand": "BOHLSENER MÜHLE",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 10.76,
+      "total_now": 10.76,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R026",
+    "title": "Joghurt-Müsli-Bowl mit Fruchtaufstrich",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Joghurt in eine Schüssel geben",
+      "Müsli darüberstreuen",
+      "Mit Fruchtaufstrich toppen"
+    ],
+    "ingredients": [
+      {
+        "name": "Naturjoghurt",
+        "brand": "SÖBBEKE",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 1.59,
+        "price_before": null
+      },
+      {
+        "name": "Crunchy Müsli",
+        "brand": "ALLOS",
+        "quantity": 350,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Fruchtaufstrich",
+        "brand": "DIE BEERENBAUERN",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 3.29,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 8.37,
+      "total_now": 8.37,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R027",
+    "title": "Pistazien-Joghurt-Bowl",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Joghurt cremig rühren",
+      "Pistazien-Creme einrühren oder als Topping daraufgeben"
+    ],
+    "ingredients": [
+      {
+        "name": "Naturjoghurt",
+        "brand": "SÖBBEKE",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 1.59,
+        "price_before": null
+      },
+      {
+        "name": "Pistazien-Creme",
+        "brand": "BRINKERS",
+        "quantity": 270,
+        "unit": "g",
+        "price_now": 3.79,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.38,
+      "total_now": 5.38,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R028",
+    "title": "Samba-Haselnuss-Joghurt-Dessert",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Joghurt in Gläser füllen",
+      "Samba Haselnuss als Schicht oder Topping daraufgeben"
+    ],
+    "ingredients": [
+      {
+        "name": "Naturjoghurt",
+        "brand": "SÖBBEKE",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 1.59,
+        "price_before": null
+      },
+      {
+        "name": "Samba Haselnuss",
+        "brand": "RAPUNZEL",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 8.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 10.08,
+      "total_now": 10.08,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R029",
+    "title": "Eiscreme mit Pistazien-Creme",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Eiscreme portionieren",
+      "Pistazien-Creme kurz erwärmen oder direkt darübergeben"
+    ],
+    "ingredients": [
+      {
+        "name": "❄ Eiscreme",
+        "brand": "SCHROZBERGER MILCHBAUERN",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 4.99,
+        "price_before": null
+      },
+      {
+        "name": "Pistazien-Creme",
+        "brand": "BRINKERS",
+        "quantity": 270,
+        "unit": "g",
+        "price_now": 3.79,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 8.78,
+      "total_now": 8.78,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R030",
+    "title": "Eiscreme mit Fruchtaufstrich",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Eiscreme in Schale geben",
+      "Fruchtaufstrich als Sauce darüber verteilen"
+    ],
+    "ingredients": [
+      {
+        "name": "❄ Eiscreme",
+        "brand": "SCHROZBERGER MILCHBAUERN",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 4.99,
+        "price_before": null
+      },
+      {
+        "name": "Fruchtaufstrich",
+        "brand": "DIE BEERENBAUERN",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 3.29,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 8.28,
+      "total_now": 8.28,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R031",
+    "title": "Smoothie-Bowl mit Müsli",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Smoothie in eine Schüssel gießen",
+      "Müsli darüber geben und direkt essen"
+    ],
+    "ingredients": [
+      {
+        "name": "Smoothies",
+        "brand": "VOELKEL",
+        "quantity": 250,
+        "unit": "ml",
+        "price_now": 2.19,
+        "price_before": null
+      },
+      {
+        "name": "Crunchy Müsli",
+        "brand": "ALLOS",
+        "quantity": 350,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.68,
+      "total_now": 5.68,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R032",
+    "title": "Orangen-Smoothie 'einfach'",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Orangen auspressen oder in Stücke geben (nach Möglichkeit)",
+      "Mit Smoothie mischen und kalt servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Smoothies",
+        "brand": "VOELKEL",
+        "quantity": 250,
+        "unit": "ml",
+        "price_now": 2.19,
+        "price_before": null
+      },
+      {
+        "name": "Orangen",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 4.18,
+      "total_now": 4.18,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R033",
+    "title": "Glutenfreies 'Käse-Sandwich' mit Tomate",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Backware aufschneiden",
+      "Käse und Tomatenscheiben hineinlegen",
+      "Kurz in Pfanne/Ofen erwärmen"
+    ],
+    "ingredients": [
+      {
+        "name": "Glutenfreie Backwaren",
+        "brand": "SCHNITZER",
+        "quantity": 160,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Käse in Scheiben",
+        "brand": "ANDECHSER NATUR",
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.67,
+      "total_now": 5.67,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R034",
+    "title": "Kräuterbaguette mit Antipasti",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Baguette backen",
+      "Antipasti daneben anrichten und zusammen essen"
+    ],
+    "ingredients": [
+      {
+        "name": "❄ Kräuter- oder Knoblauch-Baguette",
+        "brand": "FOLLOWFOOD",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 1.69,
+        "price_before": null
+      },
+      {
+        "name": "Antipasti",
+        "brand": "RAPUNZEL",
+        "quantity": 120,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 3.98,
+      "total_now": 3.98,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R035",
+    "title": "Reis mit Gemüse im Glas & Tempeh",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Reis kochen",
+      "Tempeh in Olivenöl anbraten",
+      "Gemüse im Glas dazugeben, erwärmen und über Reis servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Reis oder Hülsenfrüchte",
+        "brand": "SPIELBERGER",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Gemüse im Glas",
+        "brand": "DENNREE",
+        "quantity": 330,
+        "unit": "g",
+        "price_now": 1.11,
+        "price_before": null
+      },
+      {
+        "name": "Tempeh",
+        "brand": "PEACEFUL DELICIOUS",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 17.04,
+      "total_now": 17.04,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R036",
+    "title": "Reis mit Fischspezialität & Oliven",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Reis kochen",
+      "Fischspezialität erwärmen oder kalt servieren",
+      "Mit Oliven kombinieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Reis oder Hülsenfrüchte",
+        "brand": "SPIELBERGER",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Fischspezialitäten oder Vegane Fisch-Alternativen",
+        "brand": "FOLLOWFOOD",
+        "quantity": 110,
+        "unit": "g",
+        "price_now": 2.79,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 9.27,
+      "total_now": 9.27,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R037",
+    "title": "Tomaten-Mozzarella-Gratin",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Tomaten und Mozzarella in Scheiben in eine Form schichten",
+      "Gratinkäse darüber",
+      "Im Ofen backen bis goldbraun"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Mozzarella Stange",
+        "brand": "ZÜGER FRISCHKÄSE",
+        "quantity": 300,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Gratinkäse",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.87,
+      "total_now": 5.87,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R038",
+    "title": "Blumenkohl-Pilz-Auflauf",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Blumenkohl garen, Pilze anbraten",
+      "In Form geben, mit Weidemilch angießen",
+      "Käse darüber und backen"
+    ],
+    "ingredients": [
+      {
+        "name": "Blumenkohl",
+        "brand": null,
+        "quantity": 1,
+        "unit": "Stueck",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Austernpilze",
+        "brand": null,
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Gratinkäse",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Frische Weidemilch",
+        "brand": "DENNREE",
+        "quantity": 1,
+        "unit": "l",
+        "price_now": 1.19,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 8.66,
+      "total_now": 8.66,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R039",
+    "title": "Fenchel-Tomaten-Pfanne",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Fenchel in Streifen schneiden",
+      "In Olivenöl anbraten",
+      "Tomaten dazugeben und weich schmoren"
+    ],
+    "ingredients": [
+      {
+        "name": "Fenchel",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 3.5,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 14.34,
+      "total_now": 14.34,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R040",
+    "title": "Kohl 'leicht' mit Senf-Dressing",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Kohl fein schneiden (roh oder kurz blanchiert)",
+      "Mit Senf und Dressing mischen",
+      "Kurz ziehen lassen"
+    ],
+    "ingredients": [
+      {
+        "name": "Rot- oder Weißkohl",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 2.22,
+        "price_before": null
+      },
+      {
+        "name": "Senf",
+        "brand": "ZWERGENWIESE",
+        "quantity": 160,
+        "unit": "ml",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Feinkost-Saucen oder -Dressings",
+        "brand": "EMILS",
+        "quantity": 250,
+        "unit": "ml",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 7.7,
+      "total_now": 7.7,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R041",
+    "title": "Käse-Oliven-Teller mit Silberzwiebeln",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Käse aufschneiden",
+      "Mit Oliven, Silberzwiebeln und Snäckebrot servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Käse in Scheiben",
+        "brand": "ANDECHSER NATUR",
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Silberzwiebeln",
+        "brand": "MACHANDEL",
+        "quantity": 350,
+        "unit": "g",
+        "price_now": 1.29,
+        "price_before": null
+      },
+      {
+        "name": "Snäckebrot",
+        "brand": "BOHLSENER MÜHLE",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 9.56,
+      "total_now": 9.56,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R042",
+    "title": "Vegane Bratwurst mit Tomatensalat",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Vegane Bratwurst in Pfanne oder Ofen braten",
+      "Tomaten würfeln und mit Dressing mischen",
+      "Zusammen servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Helle vegane Brat+Grillwurst",
+        "brand": "WHEATY",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Feinkost-Saucen oder -Dressings",
+        "brand": "EMILS",
+        "quantity": 250,
+        "unit": "ml",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 6.37,
+      "total_now": 6.37,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegan",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R043",
+    "title": "Vegane Spezialitäten-Platte mit Antipasti",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Vegane Spezialitäten nach Packung zubereiten",
+      "Mit Antipasti und Oliven anrichten"
+    ],
+    "ingredients": [
+      {
+        "name": "Vegetarische oder Vegane Spezialitäten",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Antipasti",
+        "brand": "RAPUNZEL",
+        "quantity": 120,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 8.27,
+      "total_now": 8.27,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegan",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R044",
+    "title": "Rinder-Bugfilet 'Kurzbraten' mit Tomaten",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Bugfilet-Braten (Portion) in Olivenöl anbraten",
+      "Tomaten dazugeben und kurz schmoren",
+      "Direkt servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Rinder-Bugfilet-Braten",
+        "brand": "KÖNIGSHOFER",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 13.33,
+      "total_now": 13.33,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R045",
+    "title": "Rinder-Bugfilet mit Wildpreiselbeeren",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Bugfilet-Braten anbraten",
+      "Mit Wildpreiselbeeren als Beilage servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Rinder-Bugfilet-Braten",
+        "brand": "KÖNIGSHOFER",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Wildpreiselbeeren",
+        "brand": "ANNES FEINSTE",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.48,
+      "total_now": 5.48,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R046",
+    "title": "Rindergulasch 'schnell' mit Tomaten",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Rindergulasch anbraten",
+      "Tomaten klein schneiden und zugeben",
+      "Alles weich schmoren lassen"
+    ],
+    "ingredients": [
+      {
+        "name": "Rindergulasch",
+        "brand": "KÖNIGSHOFER",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.79,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten Marmande",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 5.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 8.78,
+      "total_now": 8.78,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R047",
+    "title": "Kasseler-Baguette mit Käse",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Baguette halb backen",
+      "Kasseler in Scheiben darauflegen, Käse darüber",
+      "Fertig backen"
+    ],
+    "ingredients": [
+      {
+        "name": "❄ Kräuter- oder Knoblauch-Baguette",
+        "brand": "FOLLOWFOOD",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 1.69,
+        "price_before": null
+      },
+      {
+        "name": "Kasseler",
+        "brand": "BIOLUST",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.3,
+        "price_before": null
+      },
+      {
+        "name": "Gratinkäse",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.98,
+      "total_now": 5.98,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R048",
+    "title": "Salami-Baguette 'überbacken'",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Baguette backen",
+      "Salami darauf, Käse drüber",
+      "Kurz im Ofen überbacken"
+    ],
+    "ingredients": [
+      {
+        "name": "❄ Kräuter- oder Knoblauch-Baguette",
+        "brand": "FOLLOWFOOD",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 1.69,
+        "price_before": null
+      },
+      {
+        "name": "Salami",
+        "brand": "KÖNIGSHOFER",
+        "quantity": 80,
+        "unit": "g",
+        "price_now": 2.79,
+        "price_before": null
+      },
+      {
+        "name": "Gratinkäse",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 6.47,
+      "total_now": 6.47,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R049",
+    "title": "Pilz-Käse-Baguette",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Pilze anbraten",
+      "Baguette anbacken, Pilze darauf verteilen",
+      "Mit Gratinkäse überbacken"
+    ],
+    "ingredients": [
+      {
+        "name": "❄ Kräuter- oder Knoblauch-Baguette",
+        "brand": "FOLLOWFOOD",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 1.69,
+        "price_before": null
+      },
+      {
+        "name": "Austernpilze",
+        "brand": null,
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Gratinkäse",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 6.67,
+      "total_now": 6.67,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R050",
+    "title": "Oliven-Pasta mit Antipasti",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Nudeln kochen",
+      "Oliven und Antipasti in etwas Olivenöl erwärmen",
+      "Nudeln unterheben"
+    ],
+    "ingredients": [
+      {
+        "name": "Italienische Nudeln",
+        "brand": "BYODO",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Antipasti",
+        "brand": "RAPUNZEL",
+        "quantity": 120,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 18.02,
+      "total_now": 18.02,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R051",
+    "title": "Tomaten-Pasta 'pur' mit Olivenöl",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Nudeln kochen",
+      "Tomaten in Olivenöl kurz einkochen",
+      "Nudeln mit Sauce mischen"
+    ],
+    "ingredients": [
+      {
+        "name": "Italienische Nudeln",
+        "brand": "BYODO",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 13.13,
+      "total_now": 13.13,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R052",
+    "title": "Mozzarella-Pasta mit Tomaten",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Nudeln kochen",
+      "Tomaten würfeln, Mozzarella würfeln",
+      "Mit heißen Nudeln mischen, bis Mozzarella leicht schmilzt"
+    ],
+    "ingredients": [
+      {
+        "name": "Italienische Nudeln",
+        "brand": "BYODO",
+        "quantity": 250,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Mozzarella Stange",
+        "brand": "ZÜGER FRISCHKÄSE",
+        "quantity": 300,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 6.17,
+      "total_now": 6.17,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R053",
+    "title": "Feldsalat mit Käsewürfeln & Silberzwiebeln",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Feldsalat waschen",
+      "Käse würfeln, Silberzwiebeln abtropfen lassen",
+      "Mit Dressing mischen"
+    ],
+    "ingredients": [
+      {
+        "name": "Feldsalat oder Feldsalat-Mix",
+        "brand": null,
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Käse in Scheiben",
+        "brand": "ANDECHSER NATUR",
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Silberzwiebeln",
+        "brand": "MACHANDEL",
+        "quantity": 350,
+        "unit": "g",
+        "price_now": 1.29,
+        "price_before": null
+      },
+      {
+        "name": "Feinkost-Saucen oder -Dressings",
+        "brand": "EMILS",
+        "quantity": 250,
+        "unit": "ml",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 9.06,
+      "total_now": 9.06,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R054",
+    "title": "Feldsalat mit Tempeh-Crunch",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Tempeh würfeln und in Olivenöl knusprig braten",
+      "Feldsalat mit Dressing mischen",
+      "Tempeh darüber geben"
+    ],
+    "ingredients": [
+      {
+        "name": "Feldsalat oder Feldsalat-Mix",
+        "brand": null,
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Tempeh",
+        "brand": "PEACEFUL DELICIOUS",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      },
+      {
+        "name": "Feinkost-Saucen oder -Dressings",
+        "brand": "EMILS",
+        "quantity": 250,
+        "unit": "ml",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 18.42,
+      "total_now": 18.42,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegan",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R055",
+    "title": "Fenchel-Reis-Pfanne mit Gemüse im Glas",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Reis kochen",
+      "Fenchel in Olivenöl anbraten",
+      "Gemüse im Glas dazugeben und mit Reis vermengen"
+    ],
+    "ingredients": [
+      {
+        "name": "Fenchel",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 3.5,
+        "price_before": null
+      },
+      {
+        "name": "Reis oder Hülsenfrüchte",
+        "brand": "SPIELBERGER",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Gemüse im Glas",
+        "brand": "DENNREE",
+        "quantity": 330,
+        "unit": "g",
+        "price_now": 1.11,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 17.55,
+      "total_now": 17.55,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R056",
+    "title": "Reis 'Mediterran' mit Antipasti & Oliven",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Reis kochen",
+      "Antipasti und Oliven unterheben",
+      "Warm oder kalt servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Reis oder Hülsenfrüchte",
+        "brand": "SPIELBERGER",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Antipasti",
+        "brand": "RAPUNZEL",
+        "quantity": 120,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 8.77,
+      "total_now": 8.77,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R057",
+    "title": "Reis mit Senf-Dressing & Wiener",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Reis kochen",
+      "Wiener erwärmen",
+      "Reis mit Senf (nach Geschmack) mischen und mit Wiener servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Reis oder Hülsenfrüchte",
+        "brand": "SPIELBERGER",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Senf",
+        "brand": "ZWERGENWIESE",
+        "quantity": 160,
+        "unit": "ml",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Wiener Würstchen",
+        "brand": "BIOLUST",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 8.47,
+      "total_now": 8.47,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "High Protein",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R058",
+    "title": "Käse-Omelette-Ersatz: Vegane Käsealternative warm",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Vegane Käsealternative in Scheiben schneiden",
+      "In Olivenöl kurz anbraten, bis sie warm ist",
+      "Mit Tomaten servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Vegane Käsealternative",
+        "brand": "VEGGI FILATA",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 13.33,
+      "total_now": 13.33,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R059",
+    "title": "Pilz-Raclette-Pfännchen",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Pilze in Olivenöl kurz anbraten",
+      "Ins Pfännchen geben und Raclette darüber",
+      "Schmelzen lassen"
+    ],
+    "ingredients": [
+      {
+        "name": "Austernpilze",
+        "brand": null,
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Berg-Raclette",
+        "brand": "SCHWEIZER KÄSESPEZIALITÄTEN",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 15.43,
+      "total_now": 15.43,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R060",
+    "title": "Tomaten-Raclette-Pfännchen",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Tomaten würfeln",
+      "Ins Pfännchen geben, Raclette darauf",
+      "Schmelzen lassen und servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Berg-Raclette",
+        "brand": "SCHWEIZER KÄSESPEZIALITÄTEN",
+        "quantity": 100,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 3.38,
+      "total_now": 3.38,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R061",
+    "title": "Kohl-Gratin mit Käse",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Kohl fein schneiden und kurz vorgaren",
+      "In Form, mit Milch angießen",
+      "Käse drauf und backen"
+    ],
+    "ingredients": [
+      {
+        "name": "Rot- oder Weißkohl",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 2.22,
+        "price_before": null
+      },
+      {
+        "name": "Frische Weidemilch",
+        "brand": "DENNREE",
+        "quantity": 1,
+        "unit": "l",
+        "price_now": 1.19,
+        "price_before": null
+      },
+      {
+        "name": "Gratinkäse",
+        "brand": "DENNREE",
+        "quantity": 150,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.4,
+      "total_now": 5.4,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R062",
+    "title": "Kartöpfelchen 'Snack' mit Käse",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Kartöpfelchen längs halbieren",
+      "Mit Käse belegen",
+      "Kurz im Ofen erwärmen, bis der Käse schmilzt"
+    ],
+    "ingredients": [
+      {
+        "name": "Kartöpfelchen",
+        "brand": "SCHEDEL",
+        "quantity": 1,
+        "unit": "Stueck",
+        "price_now": 0.75,
+        "price_before": null
+      },
+      {
+        "name": "Käse in Scheiben",
+        "brand": "ANDECHSER NATUR",
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 3.04,
+      "total_now": 3.04,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R063",
+    "title": "Tomaten-Käse-Snäckebrot",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Snäckebrot belegen",
+      "Tomaten in Scheiben darauf",
+      "Käse darauf, kurz erwärmen"
+    ],
+    "ingredients": [
+      {
+        "name": "Snäckebrot",
+        "brand": "BOHLSENER MÜHLE",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Tomaten",
+        "brand": "DENNREE",
+        "quantity": 400,
+        "unit": "g",
+        "price_now": 0.89,
+        "price_before": null
+      },
+      {
+        "name": "Käse in Scheiben",
+        "brand": "ANDECHSER NATUR",
+        "quantity": 125,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.67,
+      "total_now": 5.67,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R064",
+    "title": "Brotaufstrich-Snäckebrot mit Oliven",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Snäckebrot mit Brotaufstrich bestreichen",
+      "Oliven darüber geben"
+    ],
+    "ingredients": [
+      {
+        "name": "Snäckebrot",
+        "brand": "BOHLSENER MÜHLE",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Brotaufstrich",
+        "brand": "ALLOS",
+        "quantity": 135,
+        "unit": "g",
+        "price_now": 2.29,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 8.27,
+      "total_now": 8.27,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R065",
+    "title": "Kesselchips mit Dip aus Joghurt & Senf",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Joghurt mit etwas Senf verrühren",
+      "Als Dip zu Kesselchips servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Kesselchips",
+        "brand": "LISAS",
+        "quantity": 115,
+        "unit": "g",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Naturjoghurt",
+        "brand": "SÖBBEKE",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 1.59,
+        "price_before": null
+      },
+      {
+        "name": "Senf",
+        "brand": "ZWERGENWIESE",
+        "quantity": 160,
+        "unit": "ml",
+        "price_now": 1.99,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.57,
+      "total_now": 5.57,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R066",
+    "title": "Knabber-Snack mit Pistazien-Creme-Dip",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Pistazien-Creme als Dip bereitstellen",
+      "Knabber-Snack dazu essen"
+    ],
+    "ingredients": [
+      {
+        "name": "Knabber-Snack",
+        "brand": "LANDGARTEN",
+        "quantity": 50,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Pistazien-Creme",
+        "brand": "BRINKERS",
+        "quantity": 270,
+        "unit": "g",
+        "price_now": 3.79,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 6.28,
+      "total_now": 6.28,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R067",
+    "title": "Glutenfreie Backware mit Fruchtaufstrich",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Backware aufschneiden",
+      "Mit Fruchtaufstrich bestreichen"
+    ],
+    "ingredients": [
+      {
+        "name": "Glutenfreie Backwaren",
+        "brand": "SCHNITZER",
+        "quantity": 160,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Fruchtaufstrich",
+        "brand": "DIE BEERENBAUERN",
+        "quantity": 200,
+        "unit": "g",
+        "price_now": 3.29,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 5.78,
+      "total_now": 5.78,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R068",
+    "title": "Glutenfreie Backware mit Samba Haselnuss",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Backware aufschneiden",
+      "Mit Samba Haselnuss bestreichen"
+    ],
+    "ingredients": [
+      {
+        "name": "Glutenfreie Backwaren",
+        "brand": "SCHNITZER",
+        "quantity": 160,
+        "unit": "g",
+        "price_now": 2.49,
+        "price_before": null
+      },
+      {
+        "name": "Samba Haselnuss",
+        "brand": "RAPUNZEL",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 8.49,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 10.98,
+      "total_now": 10.98,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R069",
+    "title": "Tomaten-Marmande-Salat mit Mozzarella & Oliven",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Tomaten und Mozzarella würfeln",
+      "Oliven dazu",
+      "Mit Olivenöl mischen"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomaten Marmande",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 5.99,
+        "price_before": null
+      },
+      {
+        "name": "Mozzarella Stange",
+        "brand": "ZÜGER FRISCHKÄSE",
+        "quantity": 300,
+        "unit": "g",
+        "price_now": 2.99,
+        "price_before": null
+      },
+      {
+        "name": "Oliven",
+        "brand": "MANI",
+        "quantity": 175,
+        "unit": "g",
+        "price_now": 3.49,
+        "price_before": null
+      },
+      {
+        "name": "Griechisches Olivenöl",
+        "brand": "MANI",
+        "quantity": 500,
+        "unit": "ml",
+        "price_now": 9.95,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 22.42,
+      "total_now": 22.42,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R070",
+    "title": "Orangen-Fenchel-Joghurt-Salat",
+    "retailer": "BIOMARKT",
+    "servings": 2,
+    "prep_minutes": 10,
+    "cook_minutes": 15,
+    "steps": [
+      "Fenchel fein schneiden",
+      "Orange in Stücke schneiden",
+      "Mit Joghurt vermengen und kalt servieren"
+    ],
+    "ingredients": [
+      {
+        "name": "Orangen",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 1.99,
+        "price_before": null
+      },
+      {
+        "name": "Fenchel",
+        "brand": null,
+        "quantity": 1,
+        "unit": "kg",
+        "price_now": 3.5,
+        "price_before": null
+      },
+      {
+        "name": "Naturjoghurt",
+        "brand": "SÖBBEKE",
+        "quantity": 500,
+        "unit": "g",
+        "price_now": 1.59,
+        "price_before": null
+      }
+    ],
+    "offers_used": [],
+    "recipe_pricing": {
+      "currency": "EUR",
+      "total_before": 7.08,
+      "total_now": 7.08,
+      "savings_amount": 0.0,
+      "savings_percent": 0.0
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienarm"
+    ]
+  }
+]

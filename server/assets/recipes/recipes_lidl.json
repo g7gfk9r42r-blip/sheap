@@ -1,0 +1,3279 @@
+[
+  {
+    "id": "7421883c-2972-4c64-9879-252055f3f3be",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Hähnchen-Gemüse-Pfanne mit Reis",
+    "servings": 3,
+    "time": {
+      "prepMinutes": 10,
+      "cookMinutes": 25,
+      "totalMinutes": 35
+    },
+    "difficulty": "mittel",
+    "diet": "vegetarisch",
+    "tags": [
+      "budget",
+      "gesund",
+      "one-pot",
+      "vegetarisch"
+    ],
+    "allergensMayContain": [
+      "sellerie"
+    ],
+    "ingredients": [
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.46,
+          "offerPrice": 2.35,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.89,
+          "offerPrice": 4.06,
+          "discountPercent": 17
+        }
+      },
+      {
+        "name": "Feta",
+        "amount": 150,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.36,
+          "offerPrice": 1.74,
+          "discountPercent": 26
+        }
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 1,
+        "unit": "Kugel",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.99,
+          "offerPrice": 0.75,
+          "discountPercent": 24
+        }
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.99,
+          "offerPrice": 1.79,
+          "discountPercent": 10
+        }
+      },
+      {
+        "name": "Bohnen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.71,
+          "offerPrice": 2.31,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Avocado",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.83,
+          "offerPrice": 1.5,
+          "discountPercent": 18
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.42,
+          "offerPrice": 0.97,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Beeren (TK)",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.19,
+          "offerPrice": 1.94,
+          "discountPercent": 11
+        }
+      },
+      {
+        "name": "Haferflocken",
+        "amount": 80,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.47,
+          "offerPrice": 2.87,
+          "discountPercent": 17
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 412,
+      "protein_g": 27,
+      "carbs_g": 57,
+      "fat_g": 28
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 25.3,
+      "estimatedBasketOffer": 20.28,
+      "estimatedSavings": 5.02
+    }
+  },
+  {
+    "id": "a05384a4-04f0-44cb-83ae-a75768b4d327",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Ofenlachs mit Zitronen-Kartoffeln",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 20,
+      "cookMinutes": 20,
+      "totalMinutes": 40
+    },
+    "difficulty": "mittel",
+    "diet": "vegetarisch",
+    "tags": [
+      "low-carb",
+      "meal-prep",
+      "proteinreich",
+      "schnell"
+    ],
+    "allergensMayContain": [],
+    "ingredients": [
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.29,
+          "offerPrice": 1.08,
+          "discountPercent": 16
+        }
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.25,
+          "offerPrice": 3.82,
+          "discountPercent": 10
+        }
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.33,
+          "offerPrice": 3.37,
+          "discountPercent": 22
+        }
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.84,
+          "offerPrice": 1.87,
+          "discountPercent": 34
+        }
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 1,
+        "unit": "Kugel",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.05,
+          "offerPrice": 0.69,
+          "discountPercent": 34
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.21,
+          "offerPrice": 2.41,
+          "discountPercent": 25
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.8,
+          "offerPrice": 3.27,
+          "discountPercent": 14
+        }
+      },
+      {
+        "name": "Pesto",
+        "amount": 1,
+        "unit": "Glas",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.93,
+          "offerPrice": 1.58,
+          "discountPercent": 18
+        }
+      },
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.71,
+          "offerPrice": 3.84,
+          "discountPercent": 19
+        }
+      },
+      {
+        "name": "Salatmix",
+        "amount": 150,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.45,
+          "offerPrice": 1.97,
+          "discountPercent": 19
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 464,
+      "protein_g": 33,
+      "carbs_g": 78,
+      "fat_g": 11
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 29.84,
+      "estimatedBasketOffer": 23.9,
+      "estimatedSavings": 5.94
+    }
+  },
+  {
+    "id": "f47a8f8f-2d45-4bd6-835a-4751a6986019",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Cremige Tomatenpasta mit Mozzarella",
+    "servings": 3,
+    "time": {
+      "prepMinutes": 10,
+      "cookMinutes": 25,
+      "totalMinutes": 35
+    },
+    "difficulty": "mittel",
+    "diet": "vegan",
+    "tags": [
+      "gesund",
+      "low-carb",
+      "ofen",
+      "schnell"
+    ],
+    "allergensMayContain": [
+      "sellerie"
+    ],
+    "ingredients": [
+      {
+        "name": "Rinderhack",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.69,
+          "offerPrice": 2.48,
+          "discountPercent": 33
+        }
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.13,
+          "offerPrice": 3.87,
+          "discountPercent": 6
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 2,
+        "unit": "Zehe",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.85,
+          "offerPrice": 0.68,
+          "discountPercent": 20
+        }
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.96,
+          "offerPrice": 0.87,
+          "discountPercent": 10
+        }
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.86,
+          "offerPrice": 3.62,
+          "discountPercent": 26
+        }
+      },
+      {
+        "name": "Salatmix",
+        "amount": 150,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.08,
+          "offerPrice": 0.74,
+          "discountPercent": 31
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.71,
+          "offerPrice": 1.13,
+          "discountPercent": 34
+        }
+      },
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.94,
+          "offerPrice": 0.7,
+          "discountPercent": 26
+        }
+      },
+      {
+        "name": "Reis",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.86,
+          "offerPrice": 0.57,
+          "discountPercent": 34
+        }
+      },
+      {
+        "name": "Pesto",
+        "amount": 1,
+        "unit": "Glas",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.53,
+          "offerPrice": 3.97,
+          "discountPercent": 12
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 456,
+      "protein_g": 37,
+      "carbs_g": 34,
+      "fat_g": 35
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 23.61,
+      "estimatedBasketOffer": 18.63,
+      "estimatedSavings": 4.98
+    }
+  },
+  {
+    "id": "5599849e-e7f2-4c95-8be7-e2ede8b68df2",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Bunte Bowl mit Kichererbsen & Avocado",
+    "servings": 3,
+    "time": {
+      "prepMinutes": 20,
+      "cookMinutes": 25,
+      "totalMinutes": 45
+    },
+    "difficulty": "leicht",
+    "diet": "vegetarisch",
+    "tags": [
+      "budget",
+      "meal-prep",
+      "ofen",
+      "one-pot"
+    ],
+    "allergensMayContain": [
+      "sesam"
+    ],
+    "ingredients": [
+      {
+        "name": "Brokkoli",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.82,
+          "offerPrice": 2.26,
+          "discountPercent": 20
+        }
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.16,
+          "offerPrice": 1.04,
+          "discountPercent": 10
+        }
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.1,
+          "offerPrice": 1.03,
+          "discountPercent": 6
+        }
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 1,
+        "unit": "Kugel",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.87,
+          "offerPrice": 0.57,
+          "discountPercent": 34
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.23,
+          "offerPrice": 0.89,
+          "discountPercent": 27
+        }
+      },
+      {
+        "name": "Lachsfilet",
+        "amount": 350,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.26,
+          "offerPrice": 1.69,
+          "discountPercent": 25
+        }
+      },
+      {
+        "name": "Beeren (TK)",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.16,
+          "offerPrice": 0.86,
+          "discountPercent": 26
+        }
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.22,
+          "offerPrice": 2.82,
+          "discountPercent": 12
+        }
+      },
+      {
+        "name": "Spinat",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.22,
+          "offerPrice": 2.09,
+          "discountPercent": 6
+        }
+      },
+      {
+        "name": "Haferflocken",
+        "amount": 80,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.97,
+          "offerPrice": 1.49,
+          "discountPercent": 24
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 455,
+      "protein_g": 39,
+      "carbs_g": 91,
+      "fat_g": 13
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 18.01,
+      "estimatedBasketOffer": 14.74,
+      "estimatedSavings": 3.26
+    }
+  },
+  {
+    "id": "540245bd-77fa-497b-9e15-ee6459813674",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Rinderhack-Chili mit Bohnen",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40
+    },
+    "difficulty": "leicht",
+    "diet": "pescetarisch",
+    "tags": [
+      "budget",
+      "familie",
+      "ofen",
+      "schnell"
+    ],
+    "allergensMayContain": [
+      "senf"
+    ],
+    "ingredients": [
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.16,
+          "offerPrice": 1.9,
+          "discountPercent": 12
+        }
+      },
+      {
+        "name": "Thunfisch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.08,
+          "offerPrice": 2.13,
+          "discountPercent": 31
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.4,
+          "offerPrice": 1.11,
+          "discountPercent": 21
+        }
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.9,
+          "offerPrice": 1.75,
+          "discountPercent": 8
+        }
+      },
+      {
+        "name": "Beeren (TK)",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.33,
+          "offerPrice": 1.56,
+          "discountPercent": 33
+        }
+      },
+      {
+        "name": "Linsen",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.79,
+          "offerPrice": 1.18,
+          "discountPercent": 34
+        }
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.17,
+          "offerPrice": 0.83,
+          "discountPercent": 29
+        }
+      },
+      {
+        "name": "Pesto",
+        "amount": 1,
+        "unit": "Glas",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.16,
+          "offerPrice": 0.79,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 2,
+        "unit": "Zehe",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.58,
+          "offerPrice": 3.84,
+          "discountPercent": 16
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.14,
+          "offerPrice": 1.9,
+          "discountPercent": 12
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 534,
+      "protein_g": 38,
+      "carbs_g": 87,
+      "fat_g": 19
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 21.72,
+      "estimatedBasketOffer": 16.99,
+      "estimatedSavings": 4.73
+    }
+  },
+  {
+    "id": "dabe73b2-69ff-4672-85cd-555820cd22c4",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Gnocchi-Spinat-Pfanne",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 15,
+      "cookMinutes": 15,
+      "totalMinutes": 30
+    },
+    "difficulty": "leicht",
+    "diet": "vegetarisch",
+    "tags": [
+      "ofen",
+      "one-pot",
+      "proteinreich",
+      "schnell"
+    ],
+    "allergensMayContain": [
+      "fisch",
+      "milch"
+    ],
+    "ingredients": [
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.16,
+          "offerPrice": 0.88,
+          "discountPercent": 24
+        }
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.04,
+          "offerPrice": 2.72,
+          "discountPercent": 33
+        }
+      },
+      {
+        "name": "Bohnen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.9,
+          "offerPrice": 1.46,
+          "discountPercent": 23
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.69,
+          "offerPrice": 1.21,
+          "discountPercent": 28
+        }
+      },
+      {
+        "name": "Pasta",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.03,
+          "offerPrice": 0.9,
+          "discountPercent": 12
+        }
+      },
+      {
+        "name": "Rinderhack",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.56,
+          "offerPrice": 1.14,
+          "discountPercent": 27
+        }
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 1,
+        "unit": "Kugel",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.45,
+          "offerPrice": 2.34,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Bulgur",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.66,
+          "offerPrice": 3.5,
+          "discountPercent": 25
+        }
+      },
+      {
+        "name": "Reis",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.69,
+          "offerPrice": 3.35,
+          "discountPercent": 9
+        }
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.35,
+          "offerPrice": 3.03,
+          "discountPercent": 10
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 651,
+      "protein_g": 49,
+      "carbs_g": 45,
+      "fat_g": 11
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 26.53,
+      "estimatedBasketOffer": 20.54,
+      "estimatedSavings": 5.99
+    }
+  },
+  {
+    "id": "1a60942b-5568-45c4-9eb4-fe7c7382cf9b",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Kartoffelgratin mit Brokkoli",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "totalMinutes": 25
+    },
+    "difficulty": "mittel",
+    "diet": "vegan",
+    "tags": [
+      "familie",
+      "gesund",
+      "proteinreich",
+      "schnell"
+    ],
+    "allergensMayContain": [
+      "ei"
+    ],
+    "ingredients": [
+      {
+        "name": "Pesto",
+        "amount": 1,
+        "unit": "Glas",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.55,
+          "offerPrice": 2.0,
+          "discountPercent": 21
+        }
+      },
+      {
+        "name": "Bohnen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.37,
+          "offerPrice": 3.08,
+          "discountPercent": 9
+        }
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.31,
+          "offerPrice": 1.01,
+          "discountPercent": 23
+        }
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.9,
+          "offerPrice": 1.36,
+          "discountPercent": 28
+        }
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.7,
+          "offerPrice": 3.1,
+          "discountPercent": 16
+        }
+      },
+      {
+        "name": "Parmesan",
+        "amount": 40,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.91,
+          "offerPrice": 1.3,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.14,
+          "offerPrice": 1.91,
+          "discountPercent": 11
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.87,
+          "offerPrice": 0.8,
+          "discountPercent": 7
+        }
+      },
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.13,
+          "offerPrice": 2.94,
+          "discountPercent": 6
+        }
+      },
+      {
+        "name": "Rinderhack",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.4,
+          "offerPrice": 3.48,
+          "discountPercent": 21
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 697,
+      "protein_g": 38,
+      "carbs_g": 69,
+      "fat_g": 29
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 25.28,
+      "estimatedBasketOffer": 21.0,
+      "estimatedSavings": 4.28
+    }
+  },
+  {
+    "id": "a65fd898-c5ae-4a49-8104-9799d395a2b7",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Asia-Nudelpfanne mit Gemüse",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "totalMinutes": 30
+    },
+    "difficulty": "mittel",
+    "diet": "vegetarisch",
+    "tags": [
+      "budget",
+      "gesund",
+      "ofen",
+      "proteinreich"
+    ],
+    "allergensMayContain": [
+      "gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Pesto",
+        "amount": 1,
+        "unit": "Glas",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.04,
+          "offerPrice": 3.35,
+          "discountPercent": 17
+        }
+      },
+      {
+        "name": "Beeren (TK)",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.9,
+          "offerPrice": 2.14,
+          "discountPercent": 26
+        }
+      },
+      {
+        "name": "Reis",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.46,
+          "offerPrice": 2.41,
+          "discountPercent": 31
+        }
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.94,
+          "offerPrice": 3.97,
+          "discountPercent": 20
+        }
+      },
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.3,
+          "offerPrice": 1.89,
+          "discountPercent": 18
+        }
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.14,
+          "offerPrice": 3.05,
+          "discountPercent": 26
+        }
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": 700,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.95,
+          "offerPrice": 2.68,
+          "discountPercent": 9
+        }
+      },
+      {
+        "name": "Rinderhack",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.17,
+          "offerPrice": 0.94,
+          "discountPercent": 19
+        }
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.68,
+          "offerPrice": 3.36,
+          "discountPercent": 28
+        }
+      },
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.76,
+          "offerPrice": 3.45,
+          "discountPercent": 8
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 508,
+      "protein_g": 51,
+      "carbs_g": 85,
+      "fat_g": 25
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 34.35,
+      "estimatedBasketOffer": 27.23,
+      "estimatedSavings": 7.12
+    }
+  },
+  {
+    "id": "f9056cf0-2a9c-4322-847a-7cbcad09fb13",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Wraps mit Joghurt-Dip & Salat",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 15,
+      "cookMinutes": 15,
+      "totalMinutes": 30
+    },
+    "difficulty": "leicht",
+    "diet": "omnivor",
+    "tags": [
+      "meal-prep",
+      "one-pot",
+      "proteinreich",
+      "vegetarisch"
+    ],
+    "allergensMayContain": [
+      "ei",
+      "fisch"
+    ],
+    "ingredients": [
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.17,
+          "offerPrice": 0.87,
+          "discountPercent": 25
+        }
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.03,
+          "offerPrice": 1.8,
+          "discountPercent": 12
+        }
+      },
+      {
+        "name": "Feta",
+        "amount": 150,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.69,
+          "offerPrice": 1.27,
+          "discountPercent": 25
+        }
+      },
+      {
+        "name": "Joghurt",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.14,
+          "offerPrice": 3.21,
+          "discountPercent": 23
+        }
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.58,
+          "offerPrice": 1.34,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Bohnen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.94,
+          "offerPrice": 2.61,
+          "discountPercent": 11
+        }
+      },
+      {
+        "name": "Avocado",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.2,
+          "offerPrice": 2.23,
+          "discountPercent": 30
+        }
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.21,
+          "offerPrice": 3.45,
+          "discountPercent": 18
+        }
+      },
+      {
+        "name": "Parmesan",
+        "amount": 40,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.66,
+          "offerPrice": 3.28,
+          "discountPercent": 30
+        }
+      },
+      {
+        "name": "Bulgur",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.81,
+          "offerPrice": 2.03,
+          "discountPercent": 27
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 482,
+      "protein_g": 26,
+      "carbs_g": 42,
+      "fat_g": 32
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 28.42,
+      "estimatedBasketOffer": 22.1,
+      "estimatedSavings": 6.32
+    }
+  },
+  {
+    "id": "4df1a301-b312-4a4f-bba7-83de6a96d0df",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Shakshuka mit Feta",
+    "servings": 3,
+    "time": {
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "totalMinutes": 40
+    },
+    "difficulty": "leicht",
+    "diet": "vegan",
+    "tags": [
+      "budget",
+      "gesund",
+      "meal-prep",
+      "proteinreich"
+    ],
+    "allergensMayContain": [
+      "sesam"
+    ],
+    "ingredients": [
+      {
+        "name": "Beeren (TK)",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.74,
+          "offerPrice": 1.47,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.65,
+          "offerPrice": 1.83,
+          "discountPercent": 31
+        }
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.92,
+          "offerPrice": 0.65,
+          "discountPercent": 30
+        }
+      },
+      {
+        "name": "Spinat",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.54,
+          "offerPrice": 2.84,
+          "discountPercent": 20
+        }
+      },
+      {
+        "name": "Pasta",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.26,
+          "offerPrice": 1.11,
+          "discountPercent": 12
+        }
+      },
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.36,
+          "offerPrice": 2.0,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.1,
+          "offerPrice": 1.42,
+          "discountPercent": 33
+        }
+      },
+      {
+        "name": "Thunfisch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.98,
+          "offerPrice": 0.76,
+          "discountPercent": 23
+        }
+      },
+      {
+        "name": "Joghurt",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.88,
+          "offerPrice": 4.34,
+          "discountPercent": 11
+        }
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.56,
+          "offerPrice": 2.3,
+          "discountPercent": 10
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 727,
+      "protein_g": 31,
+      "carbs_g": 35,
+      "fat_g": 31
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 23.01,
+      "estimatedBasketOffer": 18.7,
+      "estimatedSavings": 4.31
+    }
+  },
+  {
+    "id": "a2122c51-a7ac-4411-b163-a8ed47fcfcf0",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Quark-Pancakes mit Beeren",
+    "servings": 4,
+    "time": {
+      "prepMinutes": 20,
+      "cookMinutes": 15,
+      "totalMinutes": 35
+    },
+    "difficulty": "leicht",
+    "diet": "omnivor",
+    "tags": [
+      "familie",
+      "meal-prep",
+      "proteinreich",
+      "vegetarisch"
+    ],
+    "allergensMayContain": [
+      "fisch"
+    ],
+    "ingredients": [
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.19,
+          "offerPrice": 1.95,
+          "discountPercent": 11
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.17,
+          "offerPrice": 1.01,
+          "discountPercent": 14
+        }
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.14,
+          "offerPrice": 1.51,
+          "discountPercent": 29
+        }
+      },
+      {
+        "name": "Avocado",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.76,
+          "offerPrice": 2.22,
+          "discountPercent": 20
+        }
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.01,
+          "offerPrice": 1.43,
+          "discountPercent": 29
+        }
+      },
+      {
+        "name": "Lachsfilet",
+        "amount": 350,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.47,
+          "offerPrice": 3.24,
+          "discountPercent": 27
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.86,
+          "offerPrice": 2.61,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Spinat",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.08,
+          "offerPrice": 0.91,
+          "discountPercent": 16
+        }
+      },
+      {
+        "name": "Reis",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.38,
+          "offerPrice": 1.25,
+          "discountPercent": 10
+        }
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.14,
+          "offerPrice": 3.07,
+          "discountPercent": 26
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 760,
+      "protein_g": 28,
+      "carbs_g": 73,
+      "fat_g": 14
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 25.2,
+      "estimatedBasketOffer": 19.2,
+      "estimatedSavings": 6.0
+    }
+  },
+  {
+    "id": "743ac070-de3e-4a2d-9710-da51163ad393",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Linsensuppe mit Wurzelgemüse",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 20,
+      "cookMinutes": 25,
+      "totalMinutes": 45
+    },
+    "difficulty": "leicht",
+    "diet": "omnivor",
+    "tags": [
+      "familie",
+      "gesund",
+      "meal-prep",
+      "proteinreich"
+    ],
+    "allergensMayContain": [],
+    "ingredients": [
+      {
+        "name": "Thunfisch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.84,
+          "offerPrice": 0.61,
+          "discountPercent": 27
+        }
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": 700,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.93,
+          "offerPrice": 1.39,
+          "discountPercent": 28
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.2,
+          "offerPrice": 2.73,
+          "discountPercent": 35
+        }
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.74,
+          "offerPrice": 3.35,
+          "discountPercent": 11
+        }
+      },
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.61,
+          "offerPrice": 3.96,
+          "discountPercent": 14
+        }
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.28,
+          "offerPrice": 0.96,
+          "discountPercent": 25
+        }
+      },
+      {
+        "name": "Bulgur",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.51,
+          "offerPrice": 4.28,
+          "discountPercent": 5
+        }
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.65,
+          "offerPrice": 1.8,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Pasta",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.62,
+          "offerPrice": 1.18,
+          "discountPercent": 27
+        }
+      },
+      {
+        "name": "Rinderhack",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.75,
+          "offerPrice": 3.0,
+          "discountPercent": 20
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 669,
+      "protein_g": 42,
+      "carbs_g": 85,
+      "fat_g": 18
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 29.12,
+      "estimatedBasketOffer": 23.26,
+      "estimatedSavings": 5.86
+    }
+  },
+  {
+    "id": "fdd71195-32dc-4aac-8cef-7f5fc4f71eae",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Ofengemüse mit Kräuterquark",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "totalMinutes": 50
+    },
+    "difficulty": "leicht",
+    "diet": "pescetarisch",
+    "tags": [
+      "budget",
+      "meal-prep",
+      "proteinreich",
+      "vegetarisch"
+    ],
+    "allergensMayContain": [
+      "fisch"
+    ],
+    "ingredients": [
+      {
+        "name": "Kichererbsen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.66,
+          "offerPrice": 3.18,
+          "discountPercent": 13
+        }
+      },
+      {
+        "name": "Feta",
+        "amount": 150,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.59,
+          "offerPrice": 2.75,
+          "discountPercent": 23
+        }
+      },
+      {
+        "name": "Salatmix",
+        "amount": 150,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.93,
+          "offerPrice": 0.88,
+          "discountPercent": 5
+        }
+      },
+      {
+        "name": "Lachsfilet",
+        "amount": 350,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.0,
+          "offerPrice": 1.35,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.82,
+          "offerPrice": 0.7,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.16,
+          "offerPrice": 3.75,
+          "discountPercent": 10
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.39,
+          "offerPrice": 2.15,
+          "discountPercent": 10
+        }
+      },
+      {
+        "name": "Thunfisch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.02,
+          "offerPrice": 1.58,
+          "discountPercent": 22
+        }
+      },
+      {
+        "name": "Linsen",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.3,
+          "offerPrice": 1.66,
+          "discountPercent": 28
+        }
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.99,
+          "offerPrice": 1.59,
+          "discountPercent": 20
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 749,
+      "protein_g": 33,
+      "carbs_g": 39,
+      "fat_g": 26
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 23.86,
+      "estimatedBasketOffer": 19.59,
+      "estimatedSavings": 4.27
+    }
+  },
+  {
+    "id": "4a14f7a9-9e1b-4eb8-b26a-1decd66e1adc",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Pesto-Hähnchen auf Blech",
+    "servings": 3,
+    "time": {
+      "prepMinutes": 20,
+      "cookMinutes": 15,
+      "totalMinutes": 35
+    },
+    "difficulty": "mittel",
+    "diet": "pescetarisch",
+    "tags": [
+      "low-carb",
+      "meal-prep",
+      "one-pot",
+      "proteinreich"
+    ],
+    "allergensMayContain": [
+      "sellerie",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.61,
+          "offerPrice": 1.27,
+          "discountPercent": 22
+        }
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.38,
+          "offerPrice": 1.93,
+          "discountPercent": 19
+        }
+      },
+      {
+        "name": "Kichererbsen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.37,
+          "offerPrice": 2.7,
+          "discountPercent": 20
+        }
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.48,
+          "offerPrice": 1.04,
+          "discountPercent": 30
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 2,
+        "unit": "Zehe",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.73,
+          "offerPrice": 1.28,
+          "discountPercent": 26
+        }
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 1,
+        "unit": "Kugel",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.8,
+          "offerPrice": 1.44,
+          "discountPercent": 20
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.87,
+          "offerPrice": 3.22,
+          "discountPercent": 17
+        }
+      },
+      {
+        "name": "Linsen",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.67,
+          "offerPrice": 2.08,
+          "discountPercent": 22
+        }
+      },
+      {
+        "name": "Beeren (TK)",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.21,
+          "offerPrice": 2.82,
+          "discountPercent": 12
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.43,
+          "offerPrice": 1.34,
+          "discountPercent": 7
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 475,
+      "protein_g": 21,
+      "carbs_g": 70,
+      "fat_g": 15
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 23.56,
+      "estimatedBasketOffer": 19.12,
+      "estimatedSavings": 4.44
+    }
+  },
+  {
+    "id": "a67df81f-bd48-4b16-9373-40146af59ea1",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Thunfisch-Salat mit Mais",
+    "servings": 3,
+    "time": {
+      "prepMinutes": 20,
+      "cookMinutes": 15,
+      "totalMinutes": 35
+    },
+    "difficulty": "mittel",
+    "diet": "pescetarisch",
+    "tags": [
+      "familie",
+      "gesund",
+      "one-pot",
+      "proteinreich"
+    ],
+    "allergensMayContain": [
+      "milch"
+    ],
+    "ingredients": [
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.85,
+          "offerPrice": 3.81,
+          "discountPercent": 21
+        }
+      },
+      {
+        "name": "Gurke",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.5,
+          "offerPrice": 2.89,
+          "discountPercent": 17
+        }
+      },
+      {
+        "name": "Lachsfilet",
+        "amount": 350,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.24,
+          "offerPrice": 1.96,
+          "discountPercent": 13
+        }
+      },
+      {
+        "name": "Haferflocken",
+        "amount": 80,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.52,
+          "offerPrice": 3.21,
+          "discountPercent": 9
+        }
+      },
+      {
+        "name": "Reis",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.62,
+          "offerPrice": 3.94,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Joghurt",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.06,
+          "offerPrice": 0.74,
+          "discountPercent": 30
+        }
+      },
+      {
+        "name": "Bulgur",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.69,
+          "offerPrice": 1.55,
+          "discountPercent": 8
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.5,
+          "offerPrice": 2.35,
+          "discountPercent": 33
+        }
+      },
+      {
+        "name": "Avocado",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.72,
+          "offerPrice": 2.69,
+          "discountPercent": 28
+        }
+      },
+      {
+        "name": "Spinat",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.21,
+          "offerPrice": 3.52,
+          "discountPercent": 16
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 576,
+      "protein_g": 41,
+      "carbs_g": 68,
+      "fat_g": 27
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 32.91,
+      "estimatedBasketOffer": 26.67,
+      "estimatedSavings": 6.24
+    }
+  },
+  {
+    "id": "31ba8bb8-acc7-452c-9f51-d0c47482a4b7",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Veggie-Curry mit Kokosmilch",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 10,
+      "cookMinutes": 25,
+      "totalMinutes": 35
+    },
+    "difficulty": "leicht",
+    "diet": "pescetarisch",
+    "tags": [
+      "budget",
+      "familie",
+      "gesund",
+      "low-carb"
+    ],
+    "allergensMayContain": [
+      "gluten"
+    ],
+    "ingredients": [
+      {
+        "name": "Kartoffeln",
+        "amount": 700,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.35,
+          "offerPrice": 2.01,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Kokosmilch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.34,
+          "offerPrice": 0.9,
+          "discountPercent": 33
+        }
+      },
+      {
+        "name": "Pasta",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.66,
+          "offerPrice": 2.06,
+          "discountPercent": 23
+        }
+      },
+      {
+        "name": "Rinderhack",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.52,
+          "offerPrice": 2.46,
+          "discountPercent": 30
+        }
+      },
+      {
+        "name": "Linsen",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.8,
+          "offerPrice": 0.68,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.98,
+          "offerPrice": 2.6,
+          "discountPercent": 13
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 2,
+        "unit": "Zehe",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.19,
+          "offerPrice": 0.92,
+          "discountPercent": 23
+        }
+      },
+      {
+        "name": "Haferflocken",
+        "amount": 80,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.67,
+          "offerPrice": 1.91,
+          "discountPercent": 28
+        }
+      },
+      {
+        "name": "Thunfisch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.12,
+          "offerPrice": 2.85,
+          "discountPercent": 9
+        }
+      },
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.42,
+          "offerPrice": 3.22,
+          "discountPercent": 27
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 444,
+      "protein_g": 27,
+      "carbs_g": 29,
+      "fat_g": 21
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 25.06,
+      "estimatedBasketOffer": 19.61,
+      "estimatedSavings": 5.44
+    }
+  },
+  {
+    "id": "1288a3f2-035e-44ab-a0a7-25af8a1ccbdf",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Rührei-Bagel mit Spinat",
+    "servings": 4,
+    "time": {
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "totalMinutes": 40
+    },
+    "difficulty": "leicht",
+    "diet": "pescetarisch",
+    "tags": [
+      "meal-prep",
+      "ofen",
+      "one-pot",
+      "proteinreich"
+    ],
+    "allergensMayContain": [
+      "gluten",
+      "soja"
+    ],
+    "ingredients": [
+      {
+        "name": "Paprika",
+        "amount": 2,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.95,
+          "offerPrice": 3.12,
+          "discountPercent": 21
+        }
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": 700,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.95,
+          "offerPrice": 2.19,
+          "discountPercent": 26
+        }
+      },
+      {
+        "name": "Feta",
+        "amount": 150,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.57,
+          "offerPrice": 3.18,
+          "discountPercent": 30
+        }
+      },
+      {
+        "name": "Bulgur",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.98,
+          "offerPrice": 3.76,
+          "discountPercent": 6
+        }
+      },
+      {
+        "name": "Linsen",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.99,
+          "offerPrice": 0.86,
+          "discountPercent": 13
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.72,
+          "offerPrice": 2.11,
+          "discountPercent": 22
+        }
+      },
+      {
+        "name": "Joghurt",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.34,
+          "offerPrice": 2.13,
+          "discountPercent": 9
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 2,
+        "unit": "Zehe",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.35,
+          "offerPrice": 3.1,
+          "discountPercent": 29
+        }
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.18,
+          "offerPrice": 0.94,
+          "discountPercent": 20
+        }
+      },
+      {
+        "name": "Bohnen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.91,
+          "offerPrice": 4.48,
+          "discountPercent": 9
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 468,
+      "protein_g": 38,
+      "carbs_g": 78,
+      "fat_g": 10
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 31.94,
+      "estimatedBasketOffer": 25.87,
+      "estimatedSavings": 6.07
+    }
+  },
+  {
+    "id": "96090cad-46d6-4331-8da5-5fbe9a3f8fdf",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Bulgur-Salat mit Gurke & Tomate",
+    "servings": 4,
+    "time": {
+      "prepMinutes": 20,
+      "cookMinutes": 30,
+      "totalMinutes": 50
+    },
+    "difficulty": "mittel",
+    "diet": "pescetarisch",
+    "tags": [
+      "familie",
+      "low-carb",
+      "ofen",
+      "one-pot"
+    ],
+    "allergensMayContain": [
+      "milch",
+      "nüsse"
+    ],
+    "ingredients": [
+      {
+        "name": "Bohnen",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.71,
+          "offerPrice": 1.15,
+          "discountPercent": 33
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.96,
+          "offerPrice": 3.14,
+          "discountPercent": 21
+        }
+      },
+      {
+        "name": "Hähnchenbrust",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.65,
+          "offerPrice": 2.05,
+          "discountPercent": 23
+        }
+      },
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.59,
+          "offerPrice": 2.45,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Bulgur",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.12,
+          "offerPrice": 2.88,
+          "discountPercent": 8
+        }
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.78,
+          "offerPrice": 3.36,
+          "discountPercent": 30
+        }
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 1,
+        "unit": "Kugel",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.06,
+          "offerPrice": 0.74,
+          "discountPercent": 30
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.17,
+          "offerPrice": 0.93,
+          "discountPercent": 21
+        }
+      },
+      {
+        "name": "Wraps",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.12,
+          "offerPrice": 0.91,
+          "discountPercent": 18
+        }
+      },
+      {
+        "name": "Eier",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.68,
+          "offerPrice": 3.9,
+          "discountPercent": 17
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 690,
+      "protein_g": 19,
+      "carbs_g": 28,
+      "fat_g": 17
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 27.84,
+      "estimatedBasketOffer": 21.53,
+      "estimatedSavings": 6.31
+    }
+  },
+  {
+    "id": "bdbd54f4-f97c-45ea-8fdb-85c5e23666b2",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Zucchini-Nudeln mit Parmesan",
+    "servings": 4,
+    "time": {
+      "prepMinutes": 10,
+      "cookMinutes": 25,
+      "totalMinutes": 35
+    },
+    "difficulty": "mittel",
+    "diet": "pescetarisch",
+    "tags": [
+      "budget",
+      "meal-prep",
+      "one-pot",
+      "schnell"
+    ],
+    "allergensMayContain": [],
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.83,
+          "offerPrice": 2.1,
+          "discountPercent": 26
+        }
+      },
+      {
+        "name": "Rinderhack",
+        "amount": 400,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.89,
+          "offerPrice": 0.76,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.39,
+          "offerPrice": 1.24,
+          "discountPercent": 11
+        }
+      },
+      {
+        "name": "Lachsfilet",
+        "amount": 350,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.71,
+          "offerPrice": 1.57,
+          "discountPercent": 8
+        }
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 1,
+        "unit": "Kugel",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.18,
+          "offerPrice": 0.86,
+          "discountPercent": 27
+        }
+      },
+      {
+        "name": "Spinat",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.88,
+          "offerPrice": 1.27,
+          "discountPercent": 32
+        }
+      },
+      {
+        "name": "Feta",
+        "amount": 150,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.8,
+          "offerPrice": 2.98,
+          "discountPercent": 22
+        }
+      },
+      {
+        "name": "Linsen",
+        "amount": 250,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.79,
+          "offerPrice": 2.74,
+          "discountPercent": 28
+        }
+      },
+      {
+        "name": "Thunfisch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.28,
+          "offerPrice": 2.47,
+          "discountPercent": 25
+        }
+      },
+      {
+        "name": "Beeren (TK)",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.78,
+          "offerPrice": 3.55,
+          "discountPercent": 26
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 395,
+      "protein_g": 25,
+      "carbs_g": 88,
+      "fat_g": 33
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 25.55,
+      "estimatedBasketOffer": 19.54,
+      "estimatedSavings": 6.01
+    }
+  },
+  {
+    "id": "72b28025-5a9d-4b14-9b42-8f087a01d660",
+    "supermarket": "lidl",
+    "weekKey": "2026-W01",
+    "title": "Apfel-Zimt-Porridge",
+    "servings": 2,
+    "time": {
+      "prepMinutes": 20,
+      "cookMinutes": 15,
+      "totalMinutes": 35
+    },
+    "difficulty": "mittel",
+    "diet": "omnivor",
+    "tags": [
+      "budget",
+      "familie",
+      "gesund",
+      "low-carb"
+    ],
+    "allergensMayContain": [],
+    "ingredients": [
+      {
+        "name": "Zitrone",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 2.88,
+          "offerPrice": 2.61,
+          "discountPercent": 9
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": true,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.99,
+          "offerPrice": 3.4,
+          "discountPercent": 15
+        }
+      },
+      {
+        "name": "Brokkoli",
+        "amount": 300,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 0.84,
+          "offerPrice": 0.73,
+          "discountPercent": 13
+        }
+      },
+      {
+        "name": "Thunfisch",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.63,
+          "offerPrice": 1.17,
+          "discountPercent": 28
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amount": 4,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.11,
+          "offerPrice": 0.99,
+          "discountPercent": 11
+        }
+      },
+      {
+        "name": "Kartoffeln",
+        "amount": 700,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.46,
+          "offerPrice": 1.23,
+          "discountPercent": 16
+        }
+      },
+      {
+        "name": "Avocado",
+        "amount": 1,
+        "unit": "Stk",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.97,
+          "offerPrice": 3.29,
+          "discountPercent": 17
+        }
+      },
+      {
+        "name": "Bulgur",
+        "amount": 200,
+        "unit": "g",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 4.95,
+          "offerPrice": 3.39,
+          "discountPercent": 31
+        }
+      },
+      {
+        "name": "Mozzarella",
+        "amount": 1,
+        "unit": "Kugel",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 3.14,
+          "offerPrice": 2.86,
+          "discountPercent": 9
+        }
+      },
+      {
+        "name": "Mais",
+        "amount": 1,
+        "unit": "Dose",
+        "isStaple": false,
+        "pricing": {
+          "currency": "EUR",
+          "regularPrice": 1.14,
+          "offerPrice": 1.08,
+          "discountPercent": 6
+        }
+      }
+    ],
+    "instructions": [
+      "Zutaten vorbereiten (waschen, schneiden, abwiegen).",
+      "Pfanne/Topf erhitzen und ggf. Zwiebel/Knoblauch anschwitzen.",
+      "Hauptzutat anbraten bzw. garen, dann Gemüse zugeben.",
+      "Mit Gewürzen abschmecken und nach Rezept fertigstellen.",
+      "Anrichten und optional mit Kräutern oder Käse toppen."
+    ],
+    "nutritionPerServing": {
+      "kcal": 398,
+      "protein_g": 29,
+      "carbs_g": 87,
+      "fat_g": 26
+    },
+    "pricingSummary": {
+      "currency": "EUR",
+      "estimatedBasketRegular": 25.11,
+      "estimatedBasketOffer": 20.75,
+      "estimatedSavings": 4.36
+    }
+  }
+]

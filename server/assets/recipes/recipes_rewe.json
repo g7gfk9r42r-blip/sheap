@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "R001",
+    "name": "Vegan Spinat-Tomaten-Pasta mit Veggie-Filet & Cuisine",
+    "ingredients": [
+      {
+        "name": "De Cecco — Pasta (500 g)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O061",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "De Cecco",
+        "product": "Pasta (500 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "The Vegetarian Butcher — Vegane Alternativen (180 g Pack)",
+        "quantity": 180,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 2.39,
+        "price_before_eur": 2.49,
+        "brand": "The Vegetarian Butcher",
+        "product": "Vegane Alternativen (180 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Hafer- oder Sojacreme Cuisine (200 ml)",
+        "quantity": 200,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.69,
+        "price_before_eur": 0.69,
+        "brand": "REWE Bio + vegan",
+        "product": "Hafer- oder Sojacreme Cuisine (200 ml)",
+        "note": null
+      },
+      {
+        "name": "Knoblauch",
+        "quantity": 2,
+        "unit": "Zehen",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Italienische Kräuter",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Einen großen Topf mit reichlich Salzwasser aufsetzen und zum Kochen bringen.",
+      "Pasta nach Packungsangabe al dente kochen. 1 kleine Kelle Nudelwasser für die Sauce aufheben.",
+      "Währenddessen Gemüse waschen/schneiden und in einer großen Pfanne in etwas Öl (oder einem Schuss Wasser) anschwitzen.",
+      "Veggie-Alternative (Vegetarian Butcher) in Streifen schneiden und in der Pfanne 3–4 Minuten anbraten, bis sie Farbe bekommt.",
+      "Sauce-Zutaten zugeben, kurz aufkochen lassen und mit Nudelwasser cremig rühren.",
+      "Pasta in die Pfanne geben, alles 1–2 Minuten durchschwenken und mit Salz/Pfeffer/ggf. Kräutern abschmecken.",
+      "Direkt servieren. Optional mit frischen Kräutern oder etwas zusätzlicher Sauce toppen."
+    ],
+    "price_total_before_eur": 7.75,
+    "price_total_eur": 7.65,
+    "savings_percent": 1.3,
+    "diet_categories": [
+      "Vegan",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R002",
+    "name": "Raclette-Kartoffel-Blech mit Zwiebeln & ja! Raclette-Käse",
+    "ingredients": [
+      {
+        "name": "REWE — Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "REWE",
+        "product": "Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "ja! — Raclette Käse in Scheiben (400 g)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O053",
+        "price_eur": 3.99,
+        "price_before_eur": 3.99,
+        "brand": "ja!",
+        "product": "Raclette Käse in Scheiben (400 g)",
+        "note": null
+      },
+      {
+        "name": "Rosmarin (getrocknet)",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Öl",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C vorheizen.",
+      "Raclette-Kartoffeln gründlich waschen (nach Wunsch schälen) und in 5–7 mm dicke Scheiben schneiden.",
+      "Zwiebeln schälen und in feine Streifen schneiden.",
+      "Kartoffeln und Zwiebeln auf ein Blech geben, mit Öl, Salz, Pfeffer und Rosmarin vermengen.",
+      "25 Minuten backen, bis die Kartoffeln fast gar sind.",
+      "ja! Raclette-Käse in Scheiben darüberlegen und weitere 8–10 Minuten backen, bis alles goldbraun ist.",
+      "Kurz abkühlen lassen und direkt servieren."
+    ],
+    "price_total_before_eur": 6.05,
+    "price_total_eur": 6.05,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R003",
+    "name": "Knusprige Veggie-Schnitzel-Salat-Bowl mit veganer Remoulade",
+    "ingredients": [
+      {
+        "name": "REWE Beste Wahl — Veganes Schnitzel (200 g Schale)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O043",
+        "price_eur": 1.59,
+        "price_before_eur": 1.59,
+        "brand": "REWE Beste Wahl",
+        "product": "Veganes Schnitzel (200 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Bonduelle — Kopfsalat (175 g Beutel)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Bonduelle",
+        "product": "Kopfsalat (175 g Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Salat-Mayo oder Remoulade (250 ml)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.39,
+        "price_before_eur": 1.39,
+        "brand": "REWE Bio + vegan",
+        "product": "Salat-Mayo oder Remoulade (250 ml)",
+        "note": null
+      },
+      {
+        "name": "Gurke",
+        "quantity": 1,
+        "unit": "St",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Zitronensaft",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Veganes Schnitzel nach Packungsangabe in Pfanne oder Ofen knusprig garen und in Streifen schneiden.",
+      "Kopfsalat waschen, trocken schleudern und zerpflücken; Snacktomaten halbieren (Gurke optional würfeln).",
+      "Für das Dressing veganen Mayo/Remoulade mit Zitronensaft, Salz und Pfeffer verrühren.",
+      "Salat und Gemüse in eine Bowl geben, Schnitzelstreifen darüber legen.",
+      "Dressing darüber geben, kurz mischen und sofort servieren."
+    ],
+    "price_total_before_eur": 6.26,
+    "price_total_eur": 6.26,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "Kalorienarm",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R004",
+    "name": "Skyr-Apfel-Zimt-Bowl mit Cini-Minis-Crunch",
+    "ingredients": [
+      {
+        "name": "Arla — Skyr (450 g Becher)",
+        "quantity": 450,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O038",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "Arla",
+        "product": "Skyr (450 g Becher)",
+        "note": null
+      },
+      {
+        "name": "REWE — Rote Tafeläpfel (1 kg Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O022",
+        "price_eur": 1.69,
+        "price_before_eur": 1.69,
+        "brand": "REWE",
+        "product": "Rote Tafeläpfel (1 kg Schale)",
+        "note": null
+      },
+      {
+        "name": "Nestlé — Cini Minis (375 g)",
+        "quantity": 375,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O056",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Nestlé",
+        "product": "Cini Minis (375 g)",
+        "note": null
+      },
+      {
+        "name": "Zimt",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Honig oder Ahornsirup",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Joghurt/Skyr in eine Schüssel geben und glatt rühren.",
+      "Obst waschen, ggf. schälen und in Stücke schneiden.",
+      "In Gläsern oder Schüsseln schichten: Joghurt/Skyr, Obst, Crunch/Topping.",
+      "Optional mit etwas Zimt oder Süße (z. B. Honig/Ahornsirup) abschmecken.",
+      "Direkt genießen oder 10 Minuten kalt stellen, damit es etwas fester wird."
+    ],
+    "price_total_before_eur": 5.67,
+    "price_total_eur": 5.67,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R005",
+    "name": "Activia-Frucht-Parfait mit Trauben & Ananas",
+    "ingredients": [
+      {
+        "name": "Danone — Activia Joghurt (4 x 115 g = 460 g Packung)",
+        "quantity": 460,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 1.29,
+        "price_before_eur": 1.49,
+        "brand": "Danone",
+        "product": "Activia Joghurt (4 x 115 g = 460 g Packung)",
+        "note": null
+      },
+      {
+        "name": "REWE — Helle Tafeltrauben (500 g Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O007",
+        "price_eur": 1.29,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Helle Tafeltrauben (500 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Sweet — Ananas Würfel (200 g)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O046",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Sweet",
+        "product": "Ananas Würfel (200 g)",
+        "note": null
+      },
+      {
+        "name": "Vanille",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Joghurt/Skyr in eine Schüssel geben und glatt rühren.",
+      "Obst waschen, ggf. schälen und in Stücke schneiden.",
+      "In Gläsern oder Schüsseln schichten: Joghurt/Skyr, Obst, Crunch/Topping.",
+      "Optional mit etwas Zimt oder Süße (z. B. Honig/Ahornsirup) abschmecken.",
+      "Direkt genießen oder 10 Minuten kalt stellen, damit es etwas fester wird."
+    ],
+    "price_total_before_eur": 4.77,
+    "price_total_eur": 4.37,
+    "savings_percent": 8.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R006",
+    "name": "Warmer Falafel-Spinat-Salat mit Trauben",
+    "ingredients": [
+      {
+        "name": "REWE Bio + vegan — Falafel-Bällchen / Gemüse-Hafer-Bällchen (200 g)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O040",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE Bio + vegan",
+        "product": "Falafel-Bällchen / Gemüse-Hafer-Bällchen (200 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Helle Tafeltrauben (500 g Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O007",
+        "price_eur": 1.29,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Helle Tafeltrauben (500 g Schale)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Salat-Mayo oder Remoulade (250 ml)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.39,
+        "price_before_eur": 1.39,
+        "brand": "REWE Bio + vegan",
+        "product": "Salat-Mayo oder Remoulade (250 ml)",
+        "note": null
+      },
+      {
+        "name": "Zitronensaft",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Salat, Gemüse und Obst gründlich waschen. Trocken schleudern, dann in mundgerechte Stücke schneiden.",
+      "Für das Dressing in einer Schüssel Öl, Säure (z. B. Zitronensaft/Essig), Salz und Pfeffer verrühren.",
+      "Falafel-Bällchen in einer Pfanne mit wenig Öl 4–5 Minuten rundum anbraten (oder im Ofen erwärmen).",
+      "Protein-/Topping-Zutaten vorbereiten (z. B. Falafel kurz anbraten oder Aufschnitt in Streifen schneiden).",
+      "Alles in einer großen Schüssel mischen, Dressing darübergeben und vorsichtig unterheben.",
+      "5 Minuten ziehen lassen, dann abschmecken und servieren."
+    ],
+    "price_total_before_eur": 6.46,
+    "price_total_eur": 6.26,
+    "savings_percent": 3.1,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R007",
+    "name": "Weißwurst-Brotzeit mit Mini-Brötchen & Krautsalat",
+    "ingredients": [
+      {
+        "name": "Zimmermann — 5 Münchner Weißwürste (5 x 60 g = 300 g)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O041",
+        "price_eur": 2.69,
+        "price_before_eur": 2.69,
+        "brand": "Zimmermann",
+        "product": "5 Münchner Weißwürste (5 x 60 g = 300 g)",
+        "note": null
+      },
+      {
+        "name": "Dermaris — Mini Brötchen Natur (250 g)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O058",
+        "price_eur": 1.59,
+        "price_before_eur": 1.59,
+        "brand": "Dermaris",
+        "product": "Mini Brötchen Natur (250 g)",
+        "note": null
+      },
+      {
+        "name": "ja! — Krautsalat mit grüner Paprika (1000 g Eimer)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O054",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "ja!",
+        "product": "Krautsalat mit grüner Paprika (1000 g Eimer)",
+        "note": null
+      },
+      {
+        "name": "Süßer Senf",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Einen Topf mit Wasser erhitzen (nicht kochen lassen – nur heiß ziehen).",
+      "Weißwürste aus der Packung nehmen und 10 Minuten im heißen Wasser ziehen lassen.",
+      "Krautsalat in einer Schüssel kurz durchrühren, ggf. mit Pfeffer abschmecken.",
+      "Mini-Brötchen nach Wunsch kurz aufbacken oder bei Zimmertemperatur servieren.",
+      "Weißwürste mit süßem Senf, Brötchen und Krautsalat anrichten."
+    ],
+    "price_total_before_eur": 6.77,
+    "price_total_eur": 6.77,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R008",
+    "name": "Kopfsalat-Tomaten-Salat mit Prosciutto-Streifen",
+    "ingredients": [
+      {
+        "name": "Bonduelle — Kopfsalat (175 g Beutel)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Bonduelle",
+        "product": "Kopfsalat (175 g Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Citterio — Prosciutto di Parma (70 g Pack)",
+        "quantity": 70,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O036",
+        "price_eur": 2.29,
+        "price_before_eur": 2.29,
+        "brand": "Citterio",
+        "product": "Prosciutto di Parma (70 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Thomy — Reines Sonnenblumenöl (750 ml)",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O066",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Thomy",
+        "product": "Reines Sonnenblumenöl (750 ml)",
+        "note": null
+      },
+      {
+        "name": "Balsamico oder Zitronensaft",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Salat, Gemüse und Obst gründlich waschen. Trocken schleudern, dann in mundgerechte Stücke schneiden.",
+      "Für das Dressing in einer Schüssel Öl, Säure (z. B. Zitronensaft/Essig), Salz und Pfeffer verrühren.",
+      "Protein-/Topping-Zutaten vorbereiten (z. B. Falafel kurz anbraten oder Aufschnitt in Streifen schneiden).",
+      "Alles in einer großen Schüssel mischen, Dressing darübergeben und vorsichtig unterheben.",
+      "5 Minuten ziehen lassen, dann abschmecken und servieren."
+    ],
+    "price_total_before_eur": 8.06,
+    "price_total_eur": 8.06,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Low Carb",
+      "High Protein",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R009",
+    "name": "Ofenkartoffeln mit Spinat & Almette-Creme",
+    "ingredients": [
+      {
+        "name": "REWE — Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "REWE",
+        "product": "Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Almette — Frischkäse (150 g Pack)",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O034",
+        "price_eur": 1.11,
+        "price_before_eur": 1.11,
+        "brand": "Almette",
+        "product": "Frischkäse (150 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Thomy — Reines Sonnenblumenöl (750 ml)",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O066",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Thomy",
+        "product": "Reines Sonnenblumenöl (750 ml)",
+        "note": null
+      },
+      {
+        "name": "Knoblauch",
+        "quantity": 1,
+        "unit": "Zehe",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C vorheizen.",
+      "Kartoffeln waschen, längs halbieren, mit Öl, Salz und Pfeffer einreiben und mit der Schnittfläche nach oben aufs Blech legen.",
+      "25–30 Minuten backen, bis die Kartoffeln weich sind.",
+      "Babyspinat in einer Pfanne kurz zusammenfallen lassen, mit Salz/Pfeffer würzen.",
+      "Almette mit etwas Wasser und Knoblauch verrühren, bis eine cremige Sauce entsteht.",
+      "Spinat auf die Kartoffelhälften geben, Almette-Creme darüber verteilen und 5 Minuten nachbacken.",
+      "Heiß servieren."
+    ],
+    "price_total_before_eur": 6.68,
+    "price_total_eur": 6.68,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R010",
+    "name": "Vegane Nuggets-Bowl mit Kopfsalat & Remoulade",
+    "ingredients": [
+      {
+        "name": "REWE Beste Wahl — Nuggets vegan (300 g, TK)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O052",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE Beste Wahl",
+        "product": "Nuggets vegan (300 g, TK)",
+        "note": null
+      },
+      {
+        "name": "Bonduelle — Kopfsalat (175 g Beutel)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Bonduelle",
+        "product": "Kopfsalat (175 g Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Salat-Mayo oder Remoulade (250 ml)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.39,
+        "price_before_eur": 1.39,
+        "brand": "REWE Bio + vegan",
+        "product": "Salat-Mayo oder Remoulade (250 ml)",
+        "note": null
+      },
+      {
+        "name": "Paprikapulver",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Vegane Nuggets nach Packungsangabe knusprig garen (Ofen oder Airfryer).",
+      "Kopfsalat waschen, trocken schleudern und zerpflücken; Tomaten halbieren.",
+      "Veganen Mayo/Remoulade mit Paprikapulver, Salz und Pfeffer abschmecken.",
+      "Salat und Tomaten in eine Bowl geben, Nuggets darauf anrichten.",
+      "Remoulade darüber geben oder als Dip dazu servieren."
+    ],
+    "price_total_before_eur": 6.46,
+    "price_total_eur": 6.46,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R011",
+    "name": "Erasco-Eintopf mit Extra-Gemüse (Möhren & Sellerie)",
+    "ingredients": [
+      {
+        "name": "Erasco — Eintopf (400 g Dose)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O016",
+        "price_eur": 1.29,
+        "price_before_eur": 1.49,
+        "brand": "Erasco",
+        "product": "Eintopf (400 g Dose)",
+        "note": null
+      },
+      {
+        "name": "REWE — Speisemöhren (1 kg Beutel)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "REWE",
+        "product": "Speisemöhren (1 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Staudensellerie (1 Stück)",
+        "quantity": 1,
+        "unit": "St",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 0.99,
+        "price_before_eur": 0.99,
+        "brand": "REWE",
+        "product": "Staudensellerie (1 Stück)",
+        "note": null
+      },
+      {
+        "name": "Thomy — Reines Sonnenblumenöl (750 ml)",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O066",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Thomy",
+        "product": "Reines Sonnenblumenöl (750 ml)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "nach Bedarf"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Möhren schälen und in kleine Würfel schneiden; Sellerie in Scheiben schneiden.",
+      "Öl in einem Topf erhitzen und Möhren/Sellerie 3–4 Minuten anschwitzen.",
+      "Erasco Eintopf dazugeben und alles 8 Minuten köcheln lassen, bis das Gemüse weich ist.",
+      "Mit Salz und Pfeffer abschmecken.",
+      "Heiß servieren."
+    ],
+    "price_total_before_eur": 5.76,
+    "price_total_eur": 5.56,
+    "savings_percent": 3.5,
+    "diet_categories": [
+      "Laktosefrei",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R012",
+    "name": "Kichererbsen-Kokos-Eintopf mit Spinat-Twist",
+    "ingredients": [
+      {
+        "name": "REWE Bio — Kichererbsen-Kokos-Eintopf (400 ml Dose)",
+        "quantity": 400,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O065",
+        "price_eur": 1.69,
+        "price_before_eur": 1.69,
+        "brand": "REWE Bio",
+        "product": "Kichererbsen-Kokos-Eintopf (400 ml Dose)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "Curry",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Zwiebeln schälen und fein würfeln, in einem Topf kurz anschwitzen (mit etwas Öl oder Wasser).",
+      "Kichererbsen-Kokos-Eintopf aus der Dose zugeben und 6–8 Minuten erwärmen.",
+      "Babyspinat unterrühren und 1–2 Minuten zusammenfallen lassen.",
+      "Mit Curry, Salz und Pfeffer abschmecken.",
+      "Heiß servieren – passt auch gut zu Reis (optional, nicht im Angebot)."
+    ],
+    "price_total_before_eur": 4.25,
+    "price_total_eur": 4.25,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R013",
+    "name": "Chili con Quinoa Upgrade mit Spinat & Tomaten",
+    "ingredients": [
+      {
+        "name": "Frosta — Chili Con Quinoa (500 g)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O051",
+        "price_eur": 2.99,
+        "price_before_eur": 2.99,
+        "brand": "Frosta",
+        "product": "Chili Con Quinoa (500 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Limettensaft oder Zitronensaft",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Chilipulver",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Tiefkühlgericht nach Packungsangabe zubereiten (Pfanne oder Mikrowelle).",
+      "In der letzten Garzeit frisches Gemüse hinzufügen und kurz mitgaren, damit es bissfest bleibt.",
+      "Mit Gewürzen, etwas Sauce oder einer kleinen Portion Creme verfeinern.",
+      "Alles gut durchmischen und 1 Minute ziehen lassen.",
+      "Heiß servieren – optional mit Salat oder frischem Topping."
+    ],
+    "price_total_before_eur": 6.27,
+    "price_total_eur": 6.27,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "High Protein",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R014",
+    "name": "Bami Goreng Upgrade mit Möhren & Zwiebeln",
+    "ingredients": [
+      {
+        "name": "Frosta — Bami Goreng (450 g)",
+        "quantity": 450,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 2.99,
+        "price_before_eur": 2.99,
+        "brand": "Frosta",
+        "product": "Bami Goreng (450 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Speisemöhren (1 kg Beutel)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "REWE",
+        "product": "Speisemöhren (1 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "Sojasauce",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Tiefkühlgericht nach Packungsangabe zubereiten (Pfanne oder Mikrowelle).",
+      "In der letzten Garzeit frisches Gemüse hinzufügen und kurz mitgaren, damit es bissfest bleibt.",
+      "Mit Gewürzen, etwas Sauce oder einer kleinen Portion Creme verfeinern.",
+      "Alles gut durchmischen und 1 Minute ziehen lassen.",
+      "Heiß servieren – optional mit Salat oder frischem Topping."
+    ],
+    "price_total_before_eur": 4.55,
+    "price_total_eur": 4.55,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Laktosefrei",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R015",
+    "name": "Pizza Margherita Deluxe mit Spinat & Almette-Tupfern",
+    "ingredients": [
+      {
+        "name": "Gustavo Gusto — Pizza Margherita (410 g)",
+        "quantity": 410,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O048",
+        "price_eur": 3.49,
+        "price_before_eur": 3.49,
+        "brand": "Gustavo Gusto",
+        "product": "Pizza Margherita (410 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Almette — Frischkäse (150 g Pack)",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O034",
+        "price_eur": 1.11,
+        "price_before_eur": 1.11,
+        "brand": "Almette",
+        "product": "Frischkäse (150 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Olivenöl",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Backofen gemäß Pizza-Packung vorheizen.",
+      "Pizza Margherita auf ein Blech legen und wie angegeben backen.",
+      "Nach ca. 8 Minuten Babyspinat locker auf der Pizza verteilen, damit er kurz mitgart.",
+      "Kurz vor Ende Almette in kleinen Tupfern darauf geben.",
+      "Fertig backen, 2 Minuten ruhen lassen, anschneiden und servieren."
+    ],
+    "price_total_before_eur": 6.39,
+    "price_total_eur": 6.39,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R016",
+    "name": "Pizza Salame mit frischem Kopfsalat-Tomaten-Side",
+    "ingredients": [
+      {
+        "name": "Gustavo Gusto — Pizza Salame (460 g)",
+        "quantity": 460,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O049",
+        "price_eur": 3.49,
+        "price_before_eur": 3.49,
+        "brand": "Gustavo Gusto",
+        "product": "Pizza Salame (460 g)",
+        "note": null
+      },
+      {
+        "name": "Bonduelle — Kopfsalat (175 g Beutel)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Bonduelle",
+        "product": "Kopfsalat (175 g Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Thomy — Reines Sonnenblumenöl (750 ml)",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O066",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Thomy",
+        "product": "Reines Sonnenblumenöl (750 ml)",
+        "note": null
+      },
+      {
+        "name": "Essig oder Zitronensaft",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Pizza Salame nach Packungsangabe im Ofen backen.",
+      "Währenddessen Kopfsalat waschen und zerpflücken, Tomaten halbieren.",
+      "Für das Dressing Öl, Essig/Zitrone, Salz und Pfeffer verrühren.",
+      "Salat mischen und kalt stellen, bis die Pizza fertig ist.",
+      "Pizza mit dem frischen Salat servieren."
+    ],
+    "price_total_before_eur": 9.26,
+    "price_total_eur": 9.26,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Kalorienreich",
+      "High Protein",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R017",
+    "name": "Kartoffel-Raclette-Bites mit Farmlandschinken",
+    "ingredients": [
+      {
+        "name": "REWE — Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "REWE",
+        "product": "Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "ja! — Raclette Käse in Scheiben (400 g)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O053",
+        "price_eur": 3.99,
+        "price_before_eur": 3.99,
+        "brand": "ja!",
+        "product": "Raclette Käse in Scheiben (400 g)",
+        "note": null
+      },
+      {
+        "name": "Zimmermann — Farmlandschinken über Buchenholz geräuchert (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O006",
+        "price_eur": 1.7,
+        "price_before_eur": 1.89,
+        "brand": "Zimmermann",
+        "product": "Farmlandschinken über Buchenholz geräuchert (100 g)",
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Paprikapulver",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Backofen auf 210°C vorheizen.",
+      "Kartoffeln waschen und in ca. 1 cm dicke Scheiben schneiden. Auf ein Blech legen und leicht würzen.",
+      "Kartoffelscheiben 20 Minuten backen, bis sie außen leicht knusprig sind.",
+      "Raclette-Käse in passende Stücke schneiden und auf jede Kartoffelscheibe legen.",
+      "Farmlandschinken in kleine Stücke zupfen und auf dem Käse verteilen.",
+      "Weitere 6–8 Minuten backen, bis der Käse schmilzt. Heiß als Snack oder Beilage servieren."
+    ],
+    "price_total_before_eur": 7.17,
+    "price_total_eur": 6.98,
+    "savings_percent": 2.6,
+    "diet_categories": [
+      "High Protein",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R018",
+    "name": "Veganer Krautsalat mit Fleischwurst-Streifen & Sellerie-Crunch",
+    "ingredients": [
+      {
+        "name": "ja! — Krautsalat mit grüner Paprika (1000 g Eimer)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O054",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "ja!",
+        "product": "Krautsalat mit grüner Paprika (1000 g Eimer)",
+        "note": null
+      },
+      {
+        "name": "REWE Beste Wahl — Wurst Typ Fleischwurst vegan (175 g)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O042",
+        "price_eur": 1.19,
+        "price_before_eur": 1.19,
+        "brand": "REWE Beste Wahl",
+        "product": "Wurst Typ Fleischwurst vegan (175 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Staudensellerie (1 Stück)",
+        "quantity": 1,
+        "unit": "St",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 0.99,
+        "price_before_eur": 0.99,
+        "brand": "REWE",
+        "product": "Staudensellerie (1 Stück)",
+        "note": null
+      },
+      {
+        "name": "Apfelessig",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Veganen Krautsalat in eine große Schüssel geben und kurz auflockern.",
+      "Sellerie waschen, in sehr dünne Scheiben schneiden und unterheben.",
+      "Vegane Fleischwurst in Streifen schneiden und dazugeben.",
+      "Mit Apfelessig und Pfeffer abschmecken, alles gut mischen.",
+      "10 Minuten ziehen lassen und als Beilage oder leichter Hauptgang servieren."
+    ],
+    "price_total_before_eur": 4.67,
+    "price_total_eur": 4.67,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R019",
+    "name": "Möhren-Apfel-Slaw mit veganer Mayo",
+    "ingredients": [
+      {
+        "name": "REWE — Speisemöhren (1 kg Beutel)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "REWE",
+        "product": "Speisemöhren (1 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Rote Tafeläpfel (1 kg Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O022",
+        "price_eur": 1.69,
+        "price_before_eur": 1.69,
+        "brand": "REWE",
+        "product": "Rote Tafeläpfel (1 kg Schale)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Salat-Mayo oder Remoulade (250 ml)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.39,
+        "price_before_eur": 1.39,
+        "brand": "REWE Bio + vegan",
+        "product": "Salat-Mayo oder Remoulade (250 ml)",
+        "note": null
+      },
+      {
+        "name": "Zitronensaft",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Möhren schälen und grob raspeln.",
+      "Äpfel waschen und grob raspeln oder in feine Stifte schneiden.",
+      "Veganen Mayo/Remoulade mit Zitronensaft, Salz und Pfeffer zu einem Dressing rühren.",
+      "Möhren und Äpfel mit dem Dressing vermengen.",
+      "15 Minuten ziehen lassen – dann erneut abschmecken und servieren."
+    ],
+    "price_total_before_eur": 3.87,
+    "price_total_eur": 3.87,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R020",
+    "name": "Tropischer Actimel-Kokos-Smoothie mit Ananas",
+    "ingredients": [
+      {
+        "name": "Danone — Actimel Drink (8 x 100 g = 800 g Pack)",
+        "quantity": 800,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O010",
+        "price_eur": 1.92,
+        "price_before_eur": 2.22,
+        "brand": "Danone",
+        "product": "Actimel Drink (8 x 100 g = 800 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Vita Coco — Kokosnusswasser (330 ml)",
+        "quantity": 330,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O045",
+        "price_eur": 1.59,
+        "price_before_eur": 1.59,
+        "brand": "Vita Coco",
+        "product": "Kokosnusswasser (330 ml)",
+        "note": null
+      },
+      {
+        "name": "Sweet — Ananas Würfel (200 g)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O046",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Sweet",
+        "product": "Ananas Würfel (200 g)",
+        "note": null
+      },
+      {
+        "name": "Eiswürfel",
+        "quantity": 6,
+        "unit": "St",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Limettensaft",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Obst vorbereiten: waschen, ggf. schälen und grob würfeln.",
+      "Alles in einen Mixer geben (Flüssigkeit zuerst).",
+      "30–60 Sekunden mixen, bis der Smoothie cremig ist.",
+      "Bei Bedarf mit mehr Flüssigkeit verdünnen oder mit Eiswürfeln kälter machen.",
+      "In ein Glas füllen und sofort trinken."
+    ],
+    "price_total_before_eur": 5.6,
+    "price_total_eur": 5.3,
+    "savings_percent": 5.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R021",
+    "name": "Iced Coffee Shake (Haferdrink + Kaffee + Ice Cream)",
+    "ingredients": [
+      {
+        "name": "Oatly — Haferdrink Barista (1 l Pack)",
+        "quantity": 1000,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 1.59,
+        "price_before_eur": 1.69,
+        "brand": "Oatly",
+        "product": "Haferdrink Barista (1 l Pack)",
+        "note": null
+      },
+      {
+        "name": "Jacobs — Auslese/Meisterröstung gemahlener Kaffee (500 g)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O057",
+        "price_eur": 6.49,
+        "price_before_eur": 6.49,
+        "brand": "Jacobs",
+        "product": "Auslese/Meisterröstung gemahlener Kaffee (500 g)",
+        "note": null
+      },
+      {
+        "name": "Ben & Jerry’s — Ice Cream (465 ml Becher)",
+        "quantity": 465,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O005",
+        "price_eur": 3.49,
+        "price_before_eur": 3.99,
+        "brand": "Ben & Jerry’s",
+        "product": "Ice Cream (465 ml Becher)",
+        "note": null
+      },
+      {
+        "name": "Eiswürfel",
+        "quantity": 8,
+        "unit": "St",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Zucker oder Sirup",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Kaffee (Jacobs) kräftig aufbrühen und vollständig abkühlen lassen (oder kurz ins Gefrierfach stellen).",
+      "Haferdrink, abgekühlten Kaffee und Ben & Jerry’s in den Mixer geben.",
+      "Optional süßen, dann 30–40 Sekunden cremig mixen.",
+      "In ein großes Glas füllen, Eiswürfel dazugeben.",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 12.17,
+    "price_total_eur": 11.57,
+    "savings_percent": 4.9,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R022",
+    "name": "Dessert-Bowl: Grand Dessert, Joghurt-Ecke & Schoko-Bons",
+    "ingredients": [
+      {
+        "name": "Ehrmann — Grand Dessert (190 g Becher)",
+        "quantity": 190,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O030",
+        "price_eur": 0.59,
+        "price_before_eur": 0.59,
+        "brand": "Ehrmann",
+        "product": "Grand Dessert (190 g Becher)",
+        "note": null
+      },
+      {
+        "name": "Müller — Joghurt mit der Ecke (150 g Becher)",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O032",
+        "price_eur": 0.39,
+        "price_before_eur": 0.39,
+        "brand": "Müller",
+        "product": "Joghurt mit der Ecke (150 g Becher)",
+        "note": null
+      },
+      {
+        "name": "Kinder — Schoko-Bons (200 g)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O067",
+        "price_eur": 2.79,
+        "price_before_eur": 2.79,
+        "brand": "Kinder",
+        "product": "Schoko-Bons (200 g)",
+        "note": null
+      },
+      {
+        "name": "Obst nach Wahl",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Schoko-Bons grob hacken (oder ganz lassen).",
+      "Grand Dessert und Joghurt mit der Ecke in eine große Schüssel geben.",
+      "Optional zusätzliches Obst unterheben.",
+      "Mit den Schoko-Bons toppen.",
+      "Direkt löffeln – perfekt als schneller Dessert-Mix."
+    ],
+    "price_total_before_eur": 3.77,
+    "price_total_eur": 3.77,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R023",
+    "name": "Käse-Trauben-Cracker-Board (Almzeit, Milram, Trauben)",
+    "ingredients": [
+      {
+        "name": "Bergader — Almzeit / Bavaria blu (175 g Pack)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O031",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "Bergader",
+        "product": "Almzeit / Bavaria blu (175 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Milram — Müritzer Original Schnittkäse 55% i.Tr. (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O033",
+        "price_eur": 0.99,
+        "price_before_eur": 0.99,
+        "brand": "Milram",
+        "product": "Müritzer Original Schnittkäse 55% i.Tr. (100 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Helle Tafeltrauben (500 g Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O007",
+        "price_eur": 1.29,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Helle Tafeltrauben (500 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Lorenz — Saltletts Pausen Cracker (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O069",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "Lorenz",
+        "product": "Saltletts Pausen Cracker (100 g)",
+        "note": null
+      },
+      {
+        "name": "Honig",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Nüsse",
+        "quantity": 50,
+        "unit": "g",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Käse aus der Packung nehmen: Almzeit/Bavaria blu in Stücke schneiden, Milram in Scheiben oder Würfel schneiden.",
+      "Trauben waschen und ggf. vom Stiel lösen.",
+      "Cracker in eine Schale geben.",
+      "Alles auf einem Board anrichten: Käse, Trauben, Cracker; optional Honig und Nüsse dazu.",
+      "Zum Snacken servieren."
+    ],
+    "price_total_before_eur": 5.96,
+    "price_total_eur": 5.76,
+    "savings_percent": 3.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R024",
+    "name": "Spinat-Tomaten-Salat mit Ziegenkäse",
+    "ingredients": [
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Bettine — Ziegenkäse Natur (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O035",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Bettine",
+        "product": "Ziegenkäse Natur (100 g)",
+        "note": null
+      },
+      {
+        "name": "Thomy — Reines Sonnenblumenöl (750 ml)",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O066",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Thomy",
+        "product": "Reines Sonnenblumenöl (750 ml)",
+        "note": null
+      },
+      {
+        "name": "Balsamico",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Salat, Gemüse und Obst gründlich waschen. Trocken schleudern, dann in mundgerechte Stücke schneiden.",
+      "Für das Dressing in einer Schüssel Öl, Säure (z. B. Zitronensaft/Essig), Salz und Pfeffer verrühren.",
+      "Protein-/Topping-Zutaten vorbereiten (z. B. Falafel kurz anbraten oder Aufschnitt in Streifen schneiden).",
+      "Alles in einer großen Schüssel mischen, Dressing darübergeben und vorsichtig unterheben.",
+      "5 Minuten ziehen lassen, dann abschmecken und servieren."
+    ],
+    "price_total_before_eur": 7.56,
+    "price_total_eur": 7.56,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Low Carb",
+      "Vegetarisch",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R025",
+    "name": "Cremige Spinat-Pasta mit Kaergården & Edelcreme",
+    "ingredients": [
+      {
+        "name": "De Cecco — Pasta (500 g)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O061",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "De Cecco",
+        "product": "Pasta (500 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Arla — Kaergården (200 g Becher)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O008",
+        "price_eur": 1.59,
+        "price_before_eur": 1.79,
+        "brand": "Arla",
+        "product": "Kaergården (200 g Becher)",
+        "note": null
+      },
+      {
+        "name": "Adler — Edelcreme Sahne Schmelzkäse 60% i.Tr. (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O012",
+        "price_eur": 1.09,
+        "price_before_eur": 1.29,
+        "brand": "Adler",
+        "product": "Edelcreme Sahne Schmelzkäse 60% i.Tr. (100 g)",
+        "note": null
+      },
+      {
+        "name": "Knoblauch",
+        "quantity": 1,
+        "unit": "Zehe",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Muskat",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Einen großen Topf mit reichlich Salzwasser aufsetzen und zum Kochen bringen.",
+      "Pasta nach Packungsangabe al dente kochen. 1 kleine Kelle Nudelwasser für die Sauce aufheben.",
+      "Währenddessen Gemüse waschen/schneiden und in einer großen Pfanne in etwas Öl (oder einem Schuss Wasser) anschwitzen.",
+      "Kaergården in der Pfanne schmelzen lassen, Knoblauch kurz darin anschwitzen und dann Babyspinat zugeben.",
+      "Sauce-Zutaten zugeben, kurz aufkochen lassen und mit Nudelwasser cremig rühren.",
+      "Pasta in die Pfanne geben, alles 1–2 Minuten durchschwenken und mit Salz/Pfeffer/ggf. Kräutern abschmecken.",
+      "Direkt servieren. Optional mit frischen Kräutern oder etwas zusätzlicher Sauce toppen."
+    ],
+    "price_total_before_eur": 6.16,
+    "price_total_eur": 5.76,
+    "savings_percent": 6.5,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R026",
+    "name": "Vegane „Bolognese“ mit Veggie-Filet & Knorr Fix",
+    "ingredients": [
+      {
+        "name": "De Cecco — Pasta (500 g)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O061",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "De Cecco",
+        "product": "Pasta (500 g)",
+        "note": null
+      },
+      {
+        "name": "Knorr — Fix Spaghetti Bolognese (40 g)",
+        "quantity": 40,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O060",
+        "price_eur": 0.44,
+        "price_before_eur": 0.44,
+        "brand": "Knorr",
+        "product": "Fix Spaghetti Bolognese (40 g)",
+        "note": null
+      },
+      {
+        "name": "The Vegetarian Butcher — Vegane Alternativen (180 g Pack)",
+        "quantity": 180,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 2.39,
+        "price_before_eur": 2.49,
+        "brand": "The Vegetarian Butcher",
+        "product": "Vegane Alternativen (180 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "Wasser",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Öl",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Pasta in Salzwasser al dente kochen.",
+      "Zwiebeln würfeln und in einer Pfanne mit etwas Öl glasig anschwitzen.",
+      "Snacktomaten grob hacken/halbieren und 3 Minuten mitbraten.",
+      "Vegane Alternative (Vegetarian Butcher) klein schneiden und 3–4 Minuten anbraten.",
+      "Knorr Fix Spaghetti Bolognese mit Wasser anrühren, in die Pfanne geben und 5 Minuten köcheln lassen.",
+      "Sauce abschmecken, Pasta unterheben und servieren."
+    ],
+    "price_total_before_eur": 6.48,
+    "price_total_eur": 6.38,
+    "savings_percent": 1.5,
+    "diet_categories": [
+      "Vegan",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R027",
+    "name": "Veganes Chili (mit Knorr Fix) + Veggie-Protein & Gemüse",
+    "ingredients": [
+      {
+        "name": "Knorr — Fix Chili Con Carne (33 g)",
+        "quantity": 33,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O059",
+        "price_eur": 0.44,
+        "price_before_eur": 0.44,
+        "brand": "Knorr",
+        "product": "Fix Chili Con Carne (33 g)",
+        "note": null
+      },
+      {
+        "name": "The Vegetarian Butcher — Vegane Alternativen (180 g Pack)",
+        "quantity": 180,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 2.39,
+        "price_before_eur": 2.49,
+        "brand": "The Vegetarian Butcher",
+        "product": "Vegane Alternativen (180 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "REWE — Speisemöhren (1 kg Beutel)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "REWE",
+        "product": "Speisemöhren (1 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "Kidneybohnen (Dose)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Tomaten (Dose)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Wasser",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Zwiebeln würfeln, Möhren schälen und klein würfeln.",
+      "Gemüse in einem Topf 5 Minuten anschwitzen.",
+      "Vegane Alternative (Vegetarian Butcher) zugeben und kurz mitbraten.",
+      "Kidneybohnen und Dosentomaten dazugeben.",
+      "Knorr Fix Chili Con Carne mit Wasser anrühren, einrühren und 10–12 Minuten köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "price_total_before_eur": 4.49,
+    "price_total_eur": 4.39,
+    "savings_percent": 2.2,
+    "diet_categories": [
+      "Vegan",
+      "High Protein",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R028",
+    "name": "Maggi Ravioli Deluxe mit Spinat & Zwiebeln",
+    "ingredients": [
+      {
+        "name": "Maggi — Ravioli (800 g Dose)",
+        "quantity": 800,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O063",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "Maggi",
+        "product": "Ravioli (800 g Dose)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Chiliflocken",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Zwiebeln würfeln und in einem Topf kurz anschwitzen (mit etwas Öl oder Wasser).",
+      "Maggi Ravioli dazugeben und 6–8 Minuten bei mittlerer Hitze erwärmen.",
+      "Babyspinat unterrühren und 1–2 Minuten zusammenfallen lassen.",
+      "Mit Pfeffer und optional Chili abschmecken.",
+      "Heiß servieren."
+    ],
+    "price_total_before_eur": 4.55,
+    "price_total_eur": 4.55,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R029",
+    "name": "Vegan Creamy Tomato-Spinach Pasta (mit Cuisine & Veggie-Protein)",
+    "ingredients": [
+      {
+        "name": "De Cecco — Pasta (500 g)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O061",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "De Cecco",
+        "product": "Pasta (500 g)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Hafer- oder Sojacreme Cuisine (200 ml)",
+        "quantity": 200,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.69,
+        "price_before_eur": 0.69,
+        "brand": "REWE Bio + vegan",
+        "product": "Hafer- oder Sojacreme Cuisine (200 ml)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "The Vegetarian Butcher — Vegane Alternativen (180 g Pack)",
+        "quantity": 180,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 2.39,
+        "price_before_eur": 2.49,
+        "brand": "The Vegetarian Butcher",
+        "product": "Vegane Alternativen (180 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Knoblauch",
+        "quantity": 2,
+        "unit": "Zehen",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Einen großen Topf mit reichlich Salzwasser aufsetzen und zum Kochen bringen.",
+      "Pasta nach Packungsangabe al dente kochen. 1 kleine Kelle Nudelwasser für die Sauce aufheben.",
+      "Währenddessen Gemüse waschen/schneiden und in einer großen Pfanne in etwas Öl (oder einem Schuss Wasser) anschwitzen.",
+      "Vegane Cuisine in die Pfanne geben, kurz erwärmen, dann Tomaten und Spinat einarbeiten.",
+      "Sauce-Zutaten zugeben, kurz aufkochen lassen und mit Nudelwasser cremig rühren.",
+      "Pasta in die Pfanne geben, alles 1–2 Minuten durchschwenken und mit Salz/Pfeffer/ggf. Kräutern abschmecken.",
+      "Direkt servieren. Optional mit frischen Kräutern oder etwas zusätzlicher Sauce toppen."
+    ],
+    "price_total_before_eur": 7.75,
+    "price_total_eur": 7.65,
+    "savings_percent": 1.3,
+    "diet_categories": [
+      "Vegan",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R030",
+    "name": "Protein-Salat mit Geflügel-Aufschnitt, Spinat & Tomaten",
+    "ingredients": [
+      {
+        "name": "Gutfried — Geflügel-Aufschnitt (80 g Pack)",
+        "quantity": 80,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O039",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "Gutfried",
+        "product": "Geflügel-Aufschnitt (80 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Thomy — Reines Sonnenblumenöl (750 ml)",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O066",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Thomy",
+        "product": "Reines Sonnenblumenöl (750 ml)",
+        "note": null
+      },
+      {
+        "name": "Essig",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Salat, Gemüse und Obst gründlich waschen. Trocken schleudern, dann in mundgerechte Stücke schneiden.",
+      "Für das Dressing in einer Schüssel Öl, Säure (z. B. Zitronensaft/Essig), Salz und Pfeffer verrühren.",
+      "Geflügel-Aufschnitt in Streifen schneiden und kurz in einer Pfanne ohne zusätzliches Fett anrösten (optional).",
+      "Protein-/Topping-Zutaten vorbereiten (z. B. Falafel kurz anbraten oder Aufschnitt in Streifen schneiden).",
+      "Alles in einer großen Schüssel mischen, Dressing darübergeben und vorsichtig unterheben.",
+      "5 Minuten ziehen lassen, dann abschmecken und servieren."
+    ],
+    "price_total_before_eur": 7.06,
+    "price_total_eur": 7.06,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Low Carb",
+      "High Protein",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R031",
+    "name": "Obstsalat mit Äpfeln & Clementinen auf Activia",
+    "ingredients": [
+      {
+        "name": "REWE — Rote Tafeläpfel (1 kg Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O022",
+        "price_eur": 1.69,
+        "price_before_eur": 1.69,
+        "brand": "REWE",
+        "product": "Rote Tafeläpfel (1 kg Schale)",
+        "note": null
+      },
+      {
+        "name": "REWE — Blattclementinen/Mandarinen (750 g Pack)",
+        "quantity": 750,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O023",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "REWE",
+        "product": "Blattclementinen/Mandarinen (750 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Danone — Activia Joghurt (4 x 115 g = 460 g Packung)",
+        "quantity": 460,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 1.29,
+        "price_before_eur": 1.49,
+        "brand": "Danone",
+        "product": "Activia Joghurt (4 x 115 g = 460 g Packung)",
+        "note": null
+      },
+      {
+        "name": "Zimt",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Zitronensaft",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Äpfel waschen, entkernen und würfeln.",
+      "Clementinen schälen und in Stücke teilen.",
+      "Optional mit etwas Zitronensaft mischen, damit die Äpfel nicht braun werden.",
+      "Activia Joghurt in Schüsseln geben und das Obst darauf verteilen.",
+      "Optional mit Zimt toppen und direkt servieren."
+    ],
+    "price_total_before_eur": 5.17,
+    "price_total_eur": 4.97,
+    "savings_percent": 3.9,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R032",
+    "name": "Skyr-Bowl mit Birnen & Trauben",
+    "ingredients": [
+      {
+        "name": "Arla — Skyr (450 g Becher)",
+        "quantity": 450,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O038",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "Arla",
+        "product": "Skyr (450 g Becher)",
+        "note": null
+      },
+      {
+        "name": "REWE — Bunte Tafelbirnen (1 kg)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O024",
+        "price_eur": 2.99,
+        "price_before_eur": 2.99,
+        "brand": "REWE",
+        "product": "Bunte Tafelbirnen (1 kg)",
+        "note": null
+      },
+      {
+        "name": "REWE — Helle Tafeltrauben (500 g Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O007",
+        "price_eur": 1.29,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Helle Tafeltrauben (500 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Nüsse oder Kerne",
+        "quantity": 30,
+        "unit": "g",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Joghurt/Skyr in eine Schüssel geben und glatt rühren.",
+      "Obst waschen, ggf. schälen und in Stücke schneiden.",
+      "In Gläsern oder Schüsseln schichten: Joghurt/Skyr, Obst, Crunch/Topping.",
+      "Optional mit etwas Zimt oder Süße (z. B. Honig/Ahornsirup) abschmecken.",
+      "Direkt genießen oder 10 Minuten kalt stellen, damit es etwas fester wird."
+    ],
+    "price_total_before_eur": 5.97,
+    "price_total_eur": 5.77,
+    "savings_percent": 3.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R033",
+    "name": "Kartoffel-Möhren-Suppe mit Kaergården",
+    "ingredients": [
+      {
+        "name": "REWE — Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "REWE",
+        "product": "Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Speisemöhren (1 kg Beutel)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "REWE",
+        "product": "Speisemöhren (1 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "Arla — Kaergården (200 g Becher)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O008",
+        "price_eur": 1.59,
+        "price_before_eur": 1.79,
+        "brand": "Arla",
+        "product": "Kaergården (200 g Becher)",
+        "note": null
+      },
+      {
+        "name": "Gemüsebrühe",
+        "quantity": 800,
+        "unit": "ml",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Zwiebeln würfeln, Möhren schälen und in Scheiben schneiden, Kartoffeln würfeln.",
+      "Kaergården in einem Topf schmelzen lassen und Zwiebeln 3 Minuten anschwitzen.",
+      "Möhren und Kartoffeln zugeben, 2 Minuten mitrösten.",
+      "Mit Gemüsebrühe aufgießen und 15–20 Minuten köcheln, bis alles weich ist.",
+      "Mit dem Stabmixer fein pürieren (oder leicht stückig lassen).",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "price_total_before_eur": 4.64,
+    "price_total_eur": 4.44,
+    "savings_percent": 4.3,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R034",
+    "name": "Vegane Kartoffel-Möhren-Suppe (mit Cuisine)",
+    "ingredients": [
+      {
+        "name": "REWE — Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "REWE",
+        "product": "Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Speisemöhren (1 kg Beutel)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "REWE",
+        "product": "Speisemöhren (1 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Hafer- oder Sojacreme Cuisine (200 ml)",
+        "quantity": 200,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.69,
+        "price_before_eur": 0.69,
+        "brand": "REWE Bio + vegan",
+        "product": "Hafer- oder Sojacreme Cuisine (200 ml)",
+        "note": null
+      },
+      {
+        "name": "Gemüsebrühe",
+        "quantity": 800,
+        "unit": "ml",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Muskat",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Zwiebeln würfeln, Möhren und Kartoffeln schälen und würfeln.",
+      "Zwiebeln in einem Topf mit einem Schuss Öl oder Wasser anschwitzen.",
+      "Möhren und Kartoffeln zugeben, kurz mitrösten, dann mit Gemüsebrühe aufgießen.",
+      "15–20 Minuten köcheln, bis alles weich ist.",
+      "Vegane Cuisine einrühren und die Suppe pürieren.",
+      "Mit Salz, Pfeffer und Muskat abschmecken."
+    ],
+    "price_total_before_eur": 3.54,
+    "price_total_eur": 3.54,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R035",
+    "name": "Blech-Falafel mit Kartoffel-Wedges & Remoulade",
+    "ingredients": [
+      {
+        "name": "REWE Bio + vegan — Falafel-Bällchen / Gemüse-Hafer-Bällchen (200 g)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O040",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE Bio + vegan",
+        "product": "Falafel-Bällchen / Gemüse-Hafer-Bällchen (200 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "REWE",
+        "product": "Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Salat-Mayo oder Remoulade (250 ml)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.39,
+        "price_before_eur": 1.39,
+        "brand": "REWE Bio + vegan",
+        "product": "Salat-Mayo oder Remoulade (250 ml)",
+        "note": null
+      },
+      {
+        "name": "Paprikapulver",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Öl",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Backofen auf 210°C vorheizen.",
+      "Kartoffeln waschen, in Spalten schneiden und mit Öl, Salz, Pfeffer und Paprika würzen.",
+      "Wedges auf ein Blech geben und 20 Minuten backen.",
+      "Falafel-Bällchen mit aufs Blech legen und weitere 12–15 Minuten backen, bis alles knusprig ist.",
+      "Veganen Mayo/Remoulade als Dip anrühren (ggf. mit Zitronensaft).",
+      "Wedges und Falafel mit Dip servieren."
+    ],
+    "price_total_before_eur": 5.24,
+    "price_total_eur": 5.24,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R036",
+    "name": "Vegane Nuggets mit Krautsalat & Remoulade",
+    "ingredients": [
+      {
+        "name": "REWE Beste Wahl — Nuggets vegan (300 g, TK)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O052",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE Beste Wahl",
+        "product": "Nuggets vegan (300 g, TK)",
+        "note": null
+      },
+      {
+        "name": "ja! — Krautsalat mit grüner Paprika (1000 g Eimer)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O054",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "ja!",
+        "product": "Krautsalat mit grüner Paprika (1000 g Eimer)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Salat-Mayo oder Remoulade (250 ml)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.39,
+        "price_before_eur": 1.39,
+        "brand": "REWE Bio + vegan",
+        "product": "Salat-Mayo oder Remoulade (250 ml)",
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Zitronensaft",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Vegane Nuggets nach Packungsangabe knusprig garen.",
+      "Krautsalat in einer Schüssel auflockern und ggf. mit etwas Pfeffer abschmecken.",
+      "Veganen Mayo/Remoulade als Dip anrichten (optional mit Zitronensaft verrühren).",
+      "Nuggets mit Krautsalat servieren, Dip dazu reichen."
+    ],
+    "price_total_before_eur": 5.67,
+    "price_total_eur": 5.67,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R037",
+    "name": "Mini-Brötchen-„Grilled Cheese“ mit Spinat & Milram",
+    "ingredients": [
+      {
+        "name": "Dermaris — Mini Brötchen Natur (250 g)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O058",
+        "price_eur": 1.59,
+        "price_before_eur": 1.59,
+        "brand": "Dermaris",
+        "product": "Mini Brötchen Natur (250 g)",
+        "note": null
+      },
+      {
+        "name": "Milram — Müritzer Original Schnittkäse 55% i.Tr. (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O033",
+        "price_eur": 0.99,
+        "price_before_eur": 0.99,
+        "brand": "Milram",
+        "product": "Müritzer Original Schnittkäse 55% i.Tr. (100 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Butter oder Öl",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Mini-Brötchen halbieren.",
+      "Eine Pfanne erhitzen und die Schnittflächen kurz anrösten.",
+      "Babyspinat kurz in der Pfanne zusammenfallen lassen, leicht würzen.",
+      "Milram Käse auf die unteren Brötchenhälften legen, Spinat und Tomaten darauf verteilen.",
+      "Brötchen zuklappen und in der Pfanne (mit wenig Butter/Öl) 2–3 Minuten pro Seite knusprig braten, bis der Käse schmilzt.",
+      "Warm servieren."
+    ],
+    "price_total_before_eur": 5.86,
+    "price_total_eur": 5.86,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R038",
+    "name": "Veganes „Wurstbrötchen“ mit Kopfsalat & Tomaten",
+    "ingredients": [
+      {
+        "name": "Dermaris — Mini Brötchen Natur (250 g)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O058",
+        "price_eur": 1.59,
+        "price_before_eur": 1.59,
+        "brand": "Dermaris",
+        "product": "Mini Brötchen Natur (250 g)",
+        "note": null
+      },
+      {
+        "name": "REWE Beste Wahl — Wurst Typ Fleischwurst vegan (175 g)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O042",
+        "price_eur": 1.19,
+        "price_before_eur": 1.19,
+        "brand": "REWE Beste Wahl",
+        "product": "Wurst Typ Fleischwurst vegan (175 g)",
+        "note": null
+      },
+      {
+        "name": "Bonduelle — Kopfsalat (175 g Beutel)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Bonduelle",
+        "product": "Kopfsalat (175 g Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Senf",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Mini-Brötchen halbieren.",
+      "Kopfsalat waschen und zerpflücken, Tomaten halbieren.",
+      "Brötchen mit Senf bestreichen, vegane Fleischwurst darauf legen.",
+      "Salat und Tomaten dazugeben, zuklappen.",
+      "Optional kurz in einer Pfanne anrösten oder direkt servieren."
+    ],
+    "price_total_before_eur": 6.06,
+    "price_total_eur": 6.06,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R039",
+    "name": "Hafer-Kakao (Nesquik) mit Apfel-Snack",
+    "ingredients": [
+      {
+        "name": "Oatly — Haferdrink Barista (1 l Pack)",
+        "quantity": 1000,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 1.59,
+        "price_before_eur": 1.69,
+        "brand": "Oatly",
+        "product": "Haferdrink Barista (1 l Pack)",
+        "note": null
+      },
+      {
+        "name": "Nestlé — Nesquik (330 g)",
+        "quantity": 330,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O055",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Nestlé",
+        "product": "Nesquik (330 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Rote Tafeläpfel (1 kg Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O022",
+        "price_eur": 1.69,
+        "price_before_eur": 1.69,
+        "brand": "REWE",
+        "product": "Rote Tafeläpfel (1 kg Schale)",
+        "note": null
+      },
+      {
+        "name": "Zimt",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Haferdrink in einem Topf oder in der Mikrowelle erwärmen (nicht kochen).",
+      "Nesquik-Pulver einrühren, bis keine Klümpchen mehr da sind.",
+      "Optional mit einer Prise Zimt verfeinern.",
+      "Apfel waschen, in Spalten schneiden und dazu snacken.",
+      "Warm genießen."
+    ],
+    "price_total_before_eur": 5.87,
+    "price_total_eur": 5.77,
+    "savings_percent": 1.7,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R040",
+    "name": "Movie-Night Trio: Popcorn + Chips + Knabe Kola",
+    "ingredients": [
+      {
+        "name": "Chio — Ready Made Popcorn süß (120 g Beutel)",
+        "quantity": 120,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O001",
+        "price_eur": 0.89,
+        "price_before_eur": 0.99,
+        "brand": "Chio",
+        "product": "Ready Made Popcorn süß (120 g Beutel)",
+        "note": null
+      },
+      {
+        "name": "funny-frisch — Chipsfrisch XXL ungarisch (215 g)",
+        "quantity": 215,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O018",
+        "price_eur": 1.69,
+        "price_before_eur": 1.79,
+        "brand": "funny-frisch",
+        "product": "Chipsfrisch XXL ungarisch (215 g)",
+        "note": null
+      },
+      {
+        "name": "Knabe — Kola koffeinhaltig (0,33 l Dose)",
+        "quantity": 330,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O020",
+        "price_eur": 0.79,
+        "price_before_eur": 0.89,
+        "brand": "Knabe",
+        "product": "Kola koffeinhaltig (0,33 l Dose)",
+        "note": "zzgl. 0,25 € Pfand"
+      }
+    ],
+    "steps": [
+      "Alle Snacks in Schüsseln bereitstellen oder auf einem großen Board anrichten.",
+      "Optional: süß und salzig in getrennten Bereichen platzieren, damit nichts aufweicht.",
+      "Für Gäste-Portionen kleine Schälchen füllen – so bleibt der Rest frisch.",
+      "Dazu ein Getränk kalt stellen und servieren.",
+      "Reste luftdicht verschließen."
+    ],
+    "price_total_before_eur": 3.67,
+    "price_total_eur": 3.37,
+    "savings_percent": 8.2,
+    "diet_categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R041",
+    "name": "Party-Bowls: Haribo + Schoko-Bons + Rosmarin-Chips",
+    "ingredients": [
+      {
+        "name": "Haribo — Fruchtgummi (750 g Dose)",
+        "quantity": 750,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O019",
+        "price_eur": 3.49,
+        "price_before_eur": 3.79,
+        "brand": "Haribo",
+        "product": "Fruchtgummi (750 g Dose)",
+        "note": null
+      },
+      {
+        "name": "Kinder — Schoko-Bons (200 g)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O067",
+        "price_eur": 2.79,
+        "price_before_eur": 2.79,
+        "brand": "Kinder",
+        "product": "Schoko-Bons (200 g)",
+        "note": null
+      },
+      {
+        "name": "Lorenz — Naturals Rosmarin Chips (95 g)",
+        "quantity": 95,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O068",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "Lorenz",
+        "product": "Naturals Rosmarin Chips (95 g)",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Alle Snacks in Schüsseln bereitstellen oder auf einem großen Board anrichten.",
+      "Optional: süß und salzig in getrennten Bereichen platzieren, damit nichts aufweicht.",
+      "Für Gäste-Portionen kleine Schälchen füllen – so bleibt der Rest frisch.",
+      "Dazu ein Getränk kalt stellen und servieren.",
+      "Reste luftdicht verschließen."
+    ],
+    "price_total_before_eur": 8.07,
+    "price_total_eur": 7.77,
+    "savings_percent": 3.7,
+    "diet_categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R042",
+    "name": "Apfel-Birnen-Kompott mit Activia-Topping",
+    "ingredients": [
+      {
+        "name": "REWE — Rote Tafeläpfel (1 kg Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O022",
+        "price_eur": 1.69,
+        "price_before_eur": 1.69,
+        "brand": "REWE",
+        "product": "Rote Tafeläpfel (1 kg Schale)",
+        "note": null
+      },
+      {
+        "name": "REWE — Bunte Tafelbirnen (1 kg)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O024",
+        "price_eur": 2.99,
+        "price_before_eur": 2.99,
+        "brand": "REWE",
+        "product": "Bunte Tafelbirnen (1 kg)",
+        "note": null
+      },
+      {
+        "name": "Danone — Activia Joghurt (4 x 115 g = 460 g Packung)",
+        "quantity": 460,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 1.29,
+        "price_before_eur": 1.49,
+        "brand": "Danone",
+        "product": "Activia Joghurt (4 x 115 g = 460 g Packung)",
+        "note": null
+      },
+      {
+        "name": "Zimt",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Wasser",
+        "quantity": 100,
+        "unit": "ml",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Äpfel und Birnen waschen, entkernen und in Würfel schneiden (Schale kann dranbleiben).",
+      "Obst mit Wasser und Zimt in einen Topf geben.",
+      "Bei mittlerer Hitze 10–12 Minuten köcheln, bis es weich ist; nach Wunsch leicht zerdrücken.",
+      "Kompott kurz abkühlen lassen.",
+      "Activia auf Schüsseln verteilen und das lauwarme Kompott darüber geben."
+    ],
+    "price_total_before_eur": 6.17,
+    "price_total_eur": 5.97,
+    "savings_percent": 3.2,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R043",
+    "name": "Veganer Nudelsalat mit Tomaten, Spinat & Veggie-Protein",
+    "ingredients": [
+      {
+        "name": "De Cecco — Pasta (500 g)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O061",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "De Cecco",
+        "product": "Pasta (500 g)",
+        "note": null
+      },
+      {
+        "name": "REWE Bio + vegan — Salat-Mayo oder Remoulade (250 ml)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.39,
+        "price_before_eur": 1.39,
+        "brand": "REWE Bio + vegan",
+        "product": "Salat-Mayo oder Remoulade (250 ml)",
+        "note": null
+      },
+      {
+        "name": "REWE — Snacktomaten Mix (300 g Schale)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Snacktomaten Mix (300 g Schale)",
+        "note": null
+      },
+      {
+        "name": "REWE — Baby Spinat (250 g Pack)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "REWE",
+        "product": "Baby Spinat (250 g Pack)",
+        "note": null
+      },
+      {
+        "name": "The Vegetarian Butcher — Vegane Alternativen (180 g Pack)",
+        "quantity": 180,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 2.39,
+        "price_before_eur": 2.49,
+        "brand": "The Vegetarian Butcher",
+        "product": "Vegane Alternativen (180 g Pack)",
+        "note": null
+      },
+      {
+        "name": "Essig",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Pasta in Salzwasser kochen, abgießen und kurz abkühlen lassen.",
+      "Vegane Alternative in Würfel/Streifen schneiden und in einer Pfanne anbraten.",
+      "Tomaten halbieren, Spinat grob schneiden.",
+      "Für das Dressing: veganen Mayo/Remoulade mit Essig, Salz und Pfeffer verrühren.",
+      "Alles in einer Schüssel mischen, 10 Minuten ziehen lassen und servieren."
+    ],
+    "price_total_before_eur": 8.45,
+    "price_total_eur": 8.35,
+    "savings_percent": 1.2,
+    "diet_categories": [
+      "Vegan",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R044",
+    "name": "Oat-Latte & Saltletts-Cracker Snack",
+    "ingredients": [
+      {
+        "name": "Jacobs — Auslese/Meisterröstung gemahlener Kaffee (500 g)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O057",
+        "price_eur": 6.49,
+        "price_before_eur": 6.49,
+        "brand": "Jacobs",
+        "product": "Auslese/Meisterröstung gemahlener Kaffee (500 g)",
+        "note": null
+      },
+      {
+        "name": "Oatly — Haferdrink Barista (1 l Pack)",
+        "quantity": 1000,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 1.59,
+        "price_before_eur": 1.69,
+        "brand": "Oatly",
+        "product": "Haferdrink Barista (1 l Pack)",
+        "note": null
+      },
+      {
+        "name": "Lorenz — Saltletts Pausen Cracker (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O069",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "Lorenz",
+        "product": "Saltletts Pausen Cracker (100 g)",
+        "note": null
+      },
+      {
+        "name": "Zimt",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Süße",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Kaffee aufbrühen (Jacobs) und nach Wunsch leicht abkühlen lassen.",
+      "Haferdrink erwärmen und optional aufschäumen.",
+      "Kaffee mit Haferdrink mischen; nach Wunsch süßen oder mit Zimt bestäuben.",
+      "Saltletts-Cracker dazu snacken.",
+      "Perfekt als schnelle Pause."
+    ],
+    "price_total_before_eur": 9.67,
+    "price_total_eur": 9.57,
+    "savings_percent": 1.0,
+    "diet_categories": [
+      "Vegan",
+      "Laktosefrei",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R045",
+    "name": "Kartoffelpfanne mit Zwiebeln, Schlemmersauce & Milram",
+    "ingredients": [
+      {
+        "name": "REWE — Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "REWE",
+        "product": "Speisekartoffeln »Raclette« (1,5 kg Beutel)",
+        "note": null
+      },
+      {
+        "name": "REWE — Gelbe Speisezwiebeln (1 kg Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "REWE",
+        "product": "Gelbe Speisezwiebeln (1 kg Netz)",
+        "note": null
+      },
+      {
+        "name": "Knorr — Schlemmersauce (250 ml Flasche)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O011",
+        "price_eur": 0.79,
+        "price_before_eur": 0.99,
+        "brand": "Knorr",
+        "product": "Schlemmersauce (250 ml Flasche)",
+        "note": null
+      },
+      {
+        "name": "Milram — Müritzer Original Schnittkäse 55% i.Tr. (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O033",
+        "price_eur": 0.99,
+        "price_before_eur": 0.99,
+        "brand": "Milram",
+        "product": "Müritzer Original Schnittkäse 55% i.Tr. (100 g)",
+        "note": null
+      },
+      {
+        "name": "Thomy — Reines Sonnenblumenöl (750 ml)",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O066",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Thomy",
+        "product": "Reines Sonnenblumenöl (750 ml)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Paprika",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Kartoffeln waschen, in Würfel schneiden und in einer Pfanne mit etwas Öl 12–15 Minuten braten, bis sie gar sind.",
+      "Zwiebeln in Streifen schneiden und 5 Minuten mitbraten.",
+      "Knorr Schlemmersauce dazugeben und kurz aufkochen lassen.",
+      "Milram Käse klein würfeln und unterrühren, bis er leicht schmilzt.",
+      "Mit Salz, Pfeffer und Paprika abschmecken und heiß servieren."
+    ],
+    "price_total_before_eur": 6.53,
+    "price_total_eur": 6.33,
+    "savings_percent": 3.1,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R046",
+    "name": "Kopfsalat mit Bavaria blu & Birnen (Winter-Salat)",
+    "ingredients": [
+      {
+        "name": "Bonduelle — Kopfsalat (175 g Beutel)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Bonduelle",
+        "product": "Kopfsalat (175 g Beutel)",
+        "note": null
+      },
+      {
+        "name": "Bergader — Almzeit / Bavaria blu (175 g Pack)",
+        "quantity": 175,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O031",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "Bergader",
+        "product": "Almzeit / Bavaria blu (175 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Bunte Tafelbirnen (1 kg)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O024",
+        "price_eur": 2.99,
+        "price_before_eur": 2.99,
+        "brand": "REWE",
+        "product": "Bunte Tafelbirnen (1 kg)",
+        "note": null
+      },
+      {
+        "name": "Thomy — Reines Sonnenblumenöl (750 ml)",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O066",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "Thomy",
+        "product": "Reines Sonnenblumenöl (750 ml)",
+        "note": null
+      },
+      {
+        "name": "Walnüsse",
+        "quantity": 40,
+        "unit": "g",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Balsamico",
+        "quantity": 2,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "TL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Kopfsalat waschen, trocknen und zerpflücken.",
+      "Birne waschen, entkernen und in dünne Spalten schneiden.",
+      "Bavaria blu/Almzeit in Stücke brechen.",
+      "Dressing aus Öl, Balsamico und Pfeffer anrühren.",
+      "Alles in einer Schüssel mischen, optional Walnüsse darüber geben und servieren."
+    ],
+    "price_total_before_eur": 9.26,
+    "price_total_eur": 9.26,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R047",
+    "name": "Cracker-Bites mit Ziegenkäse & Trauben",
+    "ingredients": [
+      {
+        "name": "Lorenz — Saltletts Pausen Cracker (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O069",
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "Lorenz",
+        "product": "Saltletts Pausen Cracker (100 g)",
+        "note": null
+      },
+      {
+        "name": "Bettine — Ziegenkäse Natur (100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O035",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Bettine",
+        "product": "Ziegenkäse Natur (100 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Helle Tafeltrauben (500 g Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O007",
+        "price_eur": 1.29,
+        "price_before_eur": 1.49,
+        "brand": "REWE",
+        "product": "Helle Tafeltrauben (500 g Schale)",
+        "note": null
+      },
+      {
+        "name": "Honig",
+        "quantity": 1,
+        "unit": "EL",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": 1,
+        "unit": "Prise",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      }
+    ],
+    "steps": [
+      "Cracker auf einem Teller auslegen.",
+      "Ziegenkäse in kleine Stücke schneiden und auf die Cracker setzen.",
+      "Trauben waschen und halbieren; je eine Hälfte auf jeden Cracker legen.",
+      "Optional mit einem Tropfen Honig und etwas Pfeffer toppen.",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 4.77,
+    "price_total_eur": 4.57,
+    "savings_percent": 4.2,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R048",
+    "name": "Veganer Obst-Shake (Haferdrink + Ananas + Apfel)",
+    "ingredients": [
+      {
+        "name": "Oatly — Haferdrink Barista (1 l Pack)",
+        "quantity": 1000,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 1.59,
+        "price_before_eur": 1.69,
+        "brand": "Oatly",
+        "product": "Haferdrink Barista (1 l Pack)",
+        "note": null
+      },
+      {
+        "name": "Sweet — Ananas Würfel (200 g)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O046",
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "Sweet",
+        "product": "Ananas Würfel (200 g)",
+        "note": null
+      },
+      {
+        "name": "REWE — Rote Tafeläpfel (1 kg Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O022",
+        "price_eur": 1.69,
+        "price_before_eur": 1.69,
+        "brand": "REWE",
+        "product": "Rote Tafeläpfel (1 kg Schale)",
+        "note": null
+      },
+      {
+        "name": "Eiswürfel",
+        "quantity": 6,
+        "unit": "St",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Ingwer",
+        "quantity": 5,
+        "unit": "g",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Obst vorbereiten: waschen, ggf. schälen und grob würfeln.",
+      "Alles in einen Mixer geben (Flüssigkeit zuerst).",
+      "30–60 Sekunden mixen, bis der Smoothie cremig ist.",
+      "Bei Bedarf mit mehr Flüssigkeit verdünnen oder mit Eiswürfeln kälter machen.",
+      "In ein Glas füllen und sofort trinken."
+    ],
+    "price_total_before_eur": 5.17,
+    "price_total_eur": 5.07,
+    "savings_percent": 1.9,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R049",
+    "name": "Citrus-Kokos-Spritz (Kokoswasser + Clementine + Water+)",
+    "ingredients": [
+      {
+        "name": "Vita Coco — Kokosnusswasser (330 ml)",
+        "quantity": 330,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O045",
+        "price_eur": 1.59,
+        "price_before_eur": 1.59,
+        "brand": "Vita Coco",
+        "product": "Kokosnusswasser (330 ml)",
+        "note": null
+      },
+      {
+        "name": "REWE — Blattclementinen/Mandarinen (750 g Pack)",
+        "quantity": 750,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O023",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "REWE",
+        "product": "Blattclementinen/Mandarinen (750 g Pack)",
+        "note": null
+      },
+      {
+        "name": "REWE — Water+ (0,5 l)",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O072",
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "REWE",
+        "product": "Water+ (0,5 l)",
+        "note": "zzgl. 0,25 € Pfand"
+      },
+      {
+        "name": "Eiswürfel",
+        "quantity": 8,
+        "unit": "St",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Minze",
+        "quantity": 5,
+        "unit": "Blätter",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Clementinen schälen, Stücke in ein Glas geben und leicht andrücken (oder Saft auspressen).",
+      "Eiswürfel ins Glas geben.",
+      "Kokoswasser und Water+ aufgießen.",
+      "Kurz umrühren und optional mit Minze servieren.",
+      "Sofort trinken."
+    ],
+    "price_total_before_eur": 4.37,
+    "price_total_eur": 4.37,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R050",
+    "name": "Schneller „Mocktail“: Energy + Saft + Water+",
+    "ingredients": [
+      {
+        "name": "Effect — Energy Drink (0,33 l Dose)",
+        "quantity": 330,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O070",
+        "price_eur": 0.69,
+        "price_before_eur": 0.69,
+        "brand": "Effect",
+        "product": "Energy Drink (0,33 l Dose)",
+        "note": "zzgl. 0,25 € Pfand"
+      },
+      {
+        "name": "Pfanner — Direktsaft oder Nektar (1 l)",
+        "quantity": 1000,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O071",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "Pfanner",
+        "product": "Direktsaft oder Nektar (1 l)",
+        "note": null
+      },
+      {
+        "name": "REWE — Water+ (0,5 l)",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O072",
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "REWE",
+        "product": "Water+ (0,5 l)",
+        "note": "zzgl. 0,25 € Pfand"
+      },
+      {
+        "name": "Eiswürfel",
+        "quantity": 10,
+        "unit": "St",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": null
+      },
+      {
+        "name": "Zitronenscheibe",
+        "quantity": 1,
+        "unit": "St",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": null,
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Ein großes Glas mit Eiswürfeln füllen.",
+      "Pfanner Saft/Nektar einfüllen.",
+      "Energy Drink und anschließend Water+ vorsichtig aufgießen.",
+      "Kurz umrühren und optional eine Zitronenscheibe dazugeben.",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 2.77,
+    "price_total_eur": 2.77,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ]
+  }
+]

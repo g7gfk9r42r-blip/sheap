@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "R001",
+    "title": "Bio-Fleischkäse Sandwich",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "WILTMANN Bio-Fleischkäse",
+        "brand": "WILTMANN",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 1,
+        "used_amount": 80.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "K-CLASSIC Hamburger-Brötchen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Hamburger-Brötchen aufschneiden und leicht toasten.",
+      "Den Bio-Fleischkäse in einer Pfanne anbraten, bis er goldbraun ist.",
+      "Die Brötchen mit Senf bestreichen, dann den Fleischkäse und die Röstzwiebeln darauflegen.",
+      "Mit Salat und Tomate garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fleischkaese-sandwich",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Senf (2 EL)",
+      "Salat (2 Blätter)",
+      "Tomate (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R001.png"
+  },
+  {
+    "id": "R002",
+    "title": "Bio-Walnuss Salat",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Span. Bio-Rispentomaten",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Rispentomaten vierteln und in eine Schüssel geben.",
+      "Die roten Kidney-Bohnen abtropfen lassen und hinzufügen.",
+      "Die Walnüsse grob hacken und unter den Salat mischen.",
+      "Mit Olivenöl, Zitronensaft, Salz und Pfeffer abschmecken und mit Petersilie garnieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-walnuss-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Olivenöl (3 EL)",
+      "Zitronensaft (1 EL)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R002.png"
+  },
+  {
+    "id": "R003",
+    "title": "Ahornsirup Pancakes",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "K-BIO Kanad. Bio-Ahornsirup",
+        "brand": "K-BIO",
+        "unit": "ml",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.75
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "K-CLASSIC Haferflocken",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.38
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "K-CLASSIC Frittieröl",
+        "brand": "K-CLASSIC",
+        "unit": "ml",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 4.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Haferflocken mit Milch und Eiern vermengen.",
+      "Backpulver und eine Prise Salz hinzufügen und gut verrühren.",
+      "In einer Pfanne das Frittieröl erhitzen und kleine Portionen des Teigs hineingeben.",
+      "Die Pancakes von beiden Seiten goldbraun backen und mit Ahornsirup servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "ahornsirup-pancakes",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (2 Stk)",
+      "Milch (200 ml)",
+      "Backpulver (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R003.png"
+  },
+  {
+    "id": "R004",
+    "title": "Bio-Fruchtsnack Müsli",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "K-CLASSIC Haferflocken",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.38
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Haferflocken in eine Schüssel geben.",
+      "Den Bio-Fruchtsnack klein schneiden und hinzufügen.",
+      "Die Walnüsse grob hacken und unter das Müsli mischen.",
+      "Mit Joghurt und Honig servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fruchtsnack-muesli",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Joghurt (200 g)",
+      "Honig (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R004.png"
+  },
+  {
+    "id": "R005",
+    "title": "Bio-Geflügel-Lyoner Wrap",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "WILTMANN Bio-Geflügel-Lyoner",
+        "brand": "WILTMANN",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 1,
+        "used_amount": 80.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "K-CLASSIC Hot-Dog-Brötchen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Hot-Dog-Brötchen aufschneiden und leicht toasten.",
+      "Die Bio-Geflügel-Lyoner in einer Pfanne anbraten.",
+      "Die Brötchen mit Senf bestreichen, dann die Lyoner und die Röstzwiebeln darauflegen.",
+      "Mit Salat und Tomate garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-gefluegel-lyoner-wrap",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (2 Blätter)",
+      "Tomate (1 Stk)",
+      "Senf (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R005.png"
+  },
+  {
+    "id": "R006",
+    "title": "Bio-Fruchtsnack Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "K-BIO Kanad. Bio-Ahornsirup",
+        "brand": "K-BIO",
+        "unit": "ml",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.75
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Bio-Fruchtsnacks in einen Mixer geben.",
+      "Mit Wasser und Eiswürfeln vermengen und gut pürieren.",
+      "In Gläser füllen und mit Walnüssen garnieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fruchtsnack-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Wasser (200 ml)",
+      "Eiswürfel (nach Bedarf)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R006.png"
+  },
+  {
+    "id": "R007",
+    "title": "Bio-Geflügel-Lyoner Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "WILTMANN Bio-Geflügel-Lyoner",
+        "brand": "WILTMANN",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 1,
+        "used_amount": 80.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Lyoner in Streifen schneiden.",
+      "Die roten Kidney-Bohnen abtropfen lassen und in eine Schüssel geben.",
+      "Die Lyoner und Röstzwiebeln hinzufügen.",
+      "Mit Salat, Gurke und Essig abschmecken und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-gefluegel-lyoner-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (2 Blätter)",
+      "Gurke (1 Stk)",
+      "Essig (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R007.png"
+  },
+  {
+    "id": "R008",
+    "title": "Bio-Walnuss Pesto",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "K-BIO Kanad. Bio-Ahornsirup",
+        "brand": "K-BIO",
+        "unit": "ml",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.75
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "K-CLASSIC Frittieröl",
+        "brand": "K-CLASSIC",
+        "unit": "ml",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 4.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Walnüsse in einem Mixer grob hacken.",
+      "Basilikum, Knoblauch und Zitronensaft hinzufügen und pürieren.",
+      "Mit Frittieröl und Ahornsirup vermengen, bis eine cremige Konsistenz entsteht.",
+      "Mit Salz und Pfeffer abschmecken."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-walnuss-pesto",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Basilikum (1 Bund)",
+      "Knoblauch (1 Zehe)",
+      "Zitronensaft (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R008.png"
+  },
+  {
+    "id": "R009",
+    "title": "Bio-Geflügel-Lyoner Pasta",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "WILTMANN Bio-Geflügel-Lyoner",
+        "brand": "WILTMANN",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 1,
+        "used_amount": 80.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "K-CLASSIC Frittieröl",
+        "brand": "K-CLASSIC",
+        "unit": "ml",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 4.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanweisung kochen.",
+      "Die Lyoner in Streifen schneiden und in einer Pfanne mit Zwiebel und Knoblauch anbraten.",
+      "Die gekochte Pasta hinzufügen und gut vermengen.",
+      "Mit Frittieröl und Gewürzen abschmecken."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-gefluegel-lyoner-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pasta (300 g)",
+      "Zwiebel (1 Stk)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R009.png"
+  },
+  {
+    "id": "R010",
+    "title": "Bio-Walnuss Brownies",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "K-CLASSIC Frittieröl",
+        "brand": "K-CLASSIC",
+        "unit": "ml",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 4.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O030",
+        "name": "DR. OETKER Backmischung",
+        "brand": "DR. OETKER",
+        "unit": "g",
+        "pack_size": 462,
+        "packs_used": 1,
+        "used_amount": 462.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Backmischung mit Eiern und Zucker vermengen.",
+      "Die Walnüsse grob hacken und unter den Teig mischen.",
+      "In einer gefetteten Form bei 180 Grad ca. 25 Minuten backen.",
+      "Abkühlen lassen und in Stücke schneiden."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-walnuss-brownies",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (2 Stk)",
+      "Zucker (100 g)",
+      "Vanillezucker (1 Päckchen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R010.png"
+  },
+  {
+    "id": "R011",
+    "title": "Bio-Fleischkäse Sandwich",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "WILTMANN Bio-Fleischkäse",
+        "brand": "WILTMANN",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 1,
+        "used_amount": 80.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "K-CLASSIC Hamburger-Brötchen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Brötchen aufschneiden und leicht toasten.",
+      "Fleischkäse in einer Pfanne anbraten.",
+      "Brötchen mit Salat, Tomate und Senf belegen.",
+      "Fleischkäse darauflegen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fleischkaese-sandwich-r011",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (4 Blätter)",
+      "Tomate (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R011.png"
+  },
+  {
+    "id": "R012",
+    "title": "Bio-Walnuss Salat",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Span. Bio-Rispentomaten",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Rucola waschen und in eine Schüssel geben.",
+      "Tomaten würfeln und hinzufügen.",
+      "Walnüsse grob hacken und unter den Salat mischen.",
+      "Mit Olivenöl und Balsamico anrichten."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-walnuss-salat-r012",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Rucola (100 g)",
+      "Olivenöl (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R012.png"
+  },
+  {
+    "id": "R013",
+    "title": "Pancakes mit Ahornsirup",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "K-BIO Kanad. Bio-Ahornsirup",
+        "brand": "K-BIO",
+        "unit": "ml",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.75
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "K-CLASSIC Haferflocken",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.38
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Haferflocken mit Milch, Ei und Backpulver vermengen.",
+      "Teig in einer Pfanne ausbacken.",
+      "Pancakes stapeln und mit Ahornsirup servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "ahornsirup-pancakes-r013",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Milch (200 ml)",
+      "Ei (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R013.png"
+  },
+  {
+    "id": "R014",
+    "title": "Müsli mit Bio-Fruchtsnack",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "K-CLASSIC Haferflocken",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.38
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Haferflocken in eine Schüssel geben.",
+      "Joghurt und Fruchtsnack hinzufügen.",
+      "Mit Honig süßen und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fruchtsnack-muesli-r014",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Joghurt (200 g)",
+      "Honig (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R014.png"
+  },
+  {
+    "id": "R015",
+    "title": "Wrap mit Bio-Geflügel-Lyoner",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "WILTMANN Bio-Geflügel-Lyoner",
+        "brand": "WILTMANN",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 1,
+        "used_amount": 80.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "K-CLASSIC Hot-Dog-Brötchen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Brötchen aufschneiden und leicht toasten.",
+      "Lyoner in einer Pfanne anbraten.",
+      "Brötchen mit Salat, Paprika und Dressing belegen.",
+      "Lyoner darauflegen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-gefluegel-lyoner-wrap-r015",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (4 Blätter)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R015.png"
+  },
+  {
+    "id": "R016",
+    "title": "Pasta mit Walnüssen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "LA MOLISANA Pasta",
+        "brand": "LA MOLISANA",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanleitung kochen.",
+      "Walnüsse und Knoblauch in einer Pfanne anbraten.",
+      "Pasta abgießen und mit der Walnussmischung vermengen.",
+      "Mit Parmesan bestreuen und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-walnuss-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Olivenöl (2 EL)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R016.png"
+  },
+  {
+    "id": "R017",
+    "title": "Salat mit Bio-Geflügel-Lyoner",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "WILTMANN Bio-Geflügel-Lyoner",
+        "brand": "WILTMANN",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 1,
+        "used_amount": 80.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Span. Bio-Rispentomaten",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Rucola waschen und in eine Schüssel geben.",
+      "Tomaten würfeln und hinzufügen.",
+      "Lyoner in Streifen schneiden und unter den Salat mischen.",
+      "Mit Olivenöl und Balsamico anrichten."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-gefluegel-lyoner-salat-r017",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Rucola (100 g)",
+      "Olivenöl (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R017.png"
+  },
+  {
+    "id": "R018",
+    "title": "Yoghurt mit Bio-Fruchtsnack",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "LANDLIEBE Joghurt",
+        "brand": "LANDLIEBE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 2.39
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Joghurt in eine Schüssel geben.",
+      "Fruchtsnack hinzufügen und gut vermischen.",
+      "Mit Honig süßen und servieren."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fruchtsnack-yoghurt",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R018.png"
+  },
+  {
+    "id": "R019",
+    "title": "Pasta mit Bio-Geflügel-Lyoner",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "WILTMANN Bio-Geflügel-Lyoner",
+        "brand": "WILTMANN",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 1,
+        "used_amount": 80.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "LA MOLISANA Pasta",
+        "brand": "LA MOLISANA",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanleitung kochen.",
+      "Lyoner in Streifen schneiden und in einer Pfanne anbraten.",
+      "Pasta abgießen und mit der Lyonermischung vermengen.",
+      "Mit Parmesan bestreuen und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-gefluegel-lyoner-pasta-r019",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Olivenöl (2 EL)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R019.png"
+  },
+  {
+    "id": "R020",
+    "title": "Walnuss-Brotaufstrich",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "K-CLASSIC Sandwichgurken",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 530,
+        "packs_used": 1,
+        "used_amount": 530.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Walnüsse grob hacken.",
+      "Frischkäse mit Zitronensaft und Walnüssen vermengen.",
+      "Auf Brot oder Brötchen streichen und genießen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-walnuss-brotaufstrich",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Frischkäse (200 g)",
+      "Zitronensaft (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R020.png"
+  },
+  {
+    "id": "R021",
+    "title": "Bio Hackfleisch Bowl",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "K-PURLAND Hackfleisch gemischt",
+        "brand": "K-PURLAND",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 3.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hackfleisch in einer Pfanne mit etwas Öl anbraten.",
+      "Zwiebel und Knoblauch fein hacken und zum Hackfleisch geben.",
+      "Paprika würfeln und ebenfalls in die Pfanne geben.",
+      "Kidney-Bohnen abtropfen lassen und hinzufügen.",
+      "Mit Salz, Pfeffer und Gewürzen abschmecken und alles gut vermischen.",
+      "Die Bowl anrichten und mit Röstzwiebeln garnieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-hackfleisch-bowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Paprika (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R021.png"
+  },
+  {
+    "id": "R022",
+    "title": "Bio Fruchtsnack Smoothie",
+    "description": "",
+    "categories": [
+      "Kalorienarm",
+      "Vegan",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Fruchtsnack, Banane und Ingwer in einen Mixer geben.",
+      "Zitronensaft hinzufügen und alles gut pürieren.",
+      "In Gläser füllen und sofort servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fruchtsnack-smoothie-r022",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R022.png"
+  },
+  {
+    "id": "R023",
+    "title": "Bio Salat mit Walnüssen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Rucola waschen und in eine Schüssel geben.",
+      "Tomaten und Gurke würfeln und hinzufügen.",
+      "Walnüsse grob hacken und über den Salat streuen.",
+      "Mit Öl, Salz und Pfeffer anmachen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-salat-mit-walnuessen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Rucola (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R023.png"
+  },
+  {
+    "id": "R024",
+    "title": "Bio Pasta mit Sauce",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "LA MOLISANA Pasta",
+        "brand": "LA MOLISANA",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "LA MOLISANA Pasta",
+        "brand": "LA MOLISANA",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen.",
+      "Zwiebel würfeln und in einer Pfanne anbraten.",
+      "Tomatensauce hinzufügen und kurz köcheln lassen.",
+      "Pasta abgießen, mit der Sauce vermengen und mit Basilikum garnieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-pasta-mit-sauce",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tomatensauce (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R024.png"
+  },
+  {
+    "id": "R025",
+    "title": "Bio Fruchtsalat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Peruan. Kulturheidelbeeren",
+        "brand": "Peruan.",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Peruan. Kulturheidelbeeren",
+        "brand": "Peruan.",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Heidelbeeren, Banane und Apfel klein schneiden.",
+      "In einer Schüssel vermengen und mit Zitronensaft beträufeln.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fruchtsalat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R025.png"
+  },
+  {
+    "id": "R026",
+    "title": "Bio Hühnerbrust mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "K-PURLAND Hähnchenbrustfilet- Teilstücke XXL",
+        "brand": "K-PURLAND",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 7.77,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "K-PURLAND Hähnchenbrustfilet- Teilstücke XXL",
+        "brand": "K-PURLAND",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 7.77,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrust in Würfel schneiden und in einer Pfanne anbraten.",
+      "Paprika, Zucchini und Zwiebel klein schneiden und hinzufügen.",
+      "Mit Salz und Pfeffer würzen und alles gut garen.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-huehnerbrust-mit-gemuese",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R026.png"
+  },
+  {
+    "id": "R027",
+    "title": "Bio Smoothie Bowl",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Fruchtsnack, Banane und Haferflocken in einen Mixer geben.",
+      "Chiasamen hinzufügen und alles gut pürieren.",
+      "In Schalen füllen und nach Belieben garnieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-smoothie-bowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R027.png"
+  },
+  {
+    "id": "R028",
+    "title": "Bio Sandwich mit Salat",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "K-CLASSIC Hamburger-Brötchen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "K-CLASSIC Hamburger-Brötchen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Brötchen aufschneiden und mit Salat belegen.",
+      "Tomate und Gurke in Scheiben schneiden und hinzufügen.",
+      "Zusammenklappen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-sandwich-mit-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R028.png"
+  },
+  {
+    "id": "R029",
+    "title": "Bio Pizza mit Gemüse",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "TANTE FANNY Frischer Blech-Pizzateig",
+        "brand": "TANTE FANNY",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "TANTE FANNY Frischer Blech-Pizzateig",
+        "brand": "TANTE FANNY",
+        "unit": "g",
+        "pack_size": 600,
+        "packs_used": 1,
+        "used_amount": 600.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pizzateig ausrollen und auf ein Blech legen.",
+      "Tomatensauce gleichmäßig darauf verteilen.",
+      "Paprika und Zucchini in Scheiben schneiden und auf der Pizza verteilen.",
+      "Im Ofen backen, bis der Teig goldbraun ist."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-pizza-mit-gemuese",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tomatensauce (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R029.png"
+  },
+  {
+    "id": "R030",
+    "title": "Bio Omelette mit Gemüse",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Eier verquirlen und mit Salz und Pfeffer würzen.",
+      "Paprika und Spinat klein schneiden und in einer Pfanne anbraten.",
+      "Eiermasse darüber gießen und stocken lassen.",
+      "Mit Röstzwiebeln garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-omelette-mit-gemuese",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (4 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R030.png"
+  },
+  {
+    "id": "R031",
+    "title": "Bio Hackfleisch Pfanne",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "K-PURLAND Rinder-Hackfleisch »Natürlich High Protein«",
+        "brand": "K-PURLAND",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 4.99,
+        "price_before_eur": 6.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hackfleisch in einer Pfanne mit etwas Öl anbraten.",
+      "Zwiebel und Knoblauch hinzufügen und glasig dünsten.",
+      "Paprika und Röstzwiebeln dazugeben und kurz mitbraten.",
+      "Die Kidney-Bohnen abtropfen lassen und hinzufügen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-hackfleisch-pfanne",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R031.png"
+  },
+  {
+    "id": "R032",
+    "title": "Bio Fruchtsnack Salat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Fruchtsnack in eine Schüssel geben.",
+      "Walnüsse grob hacken und hinzufügen.",
+      "Mit Zitronensaft und frischer Minze garnieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fruchtsnack-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zitrone (1/2 Stk)",
+      "Minze (einige Blätter)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R032.png"
+  },
+  {
+    "id": "R033",
+    "title": "Bio Pasta mit Sauce",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "K-CLASSIC Haferflocken",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.38
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen.",
+      "In einer Pfanne Röstzwiebeln anbraten.",
+      "Kidney-Bohnen und gewürfelte Tomate hinzufügen.",
+      "Mit Basilikum und Gewürzen abschmecken.",
+      "Pasta untermischen und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-pasta-mit-sauce-r033",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tomate (1 Stk)",
+      "Basilikum (einige Blätter)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R033.png"
+  },
+  {
+    "id": "R034",
+    "title": "Bio Salat mit Walnüssen",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Blattsalat in eine Schüssel geben.",
+      "Walnüsse grob hacken und hinzufügen.",
+      "Mit Zitronensaft und Olivenöl anmachen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-salat-mit-walnussen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Blattsalat (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R034.png"
+  },
+  {
+    "id": "R035",
+    "title": "Bio Hackfleisch Burger",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "K-PURLAND Hähnchenbrustfilet- Teilstücke XXL",
+        "brand": "K-PURLAND",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 7.77,
+        "price_before_eur": 9.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "K-CLASSIC Hamburger-Brötchen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in einer Pfanne anbraten.",
+      "Brötchen aufschneiden und leicht toasten.",
+      "Burger zusammenstellen mit Salat, Tomate und Gurke."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-hackfleisch-burger",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salatblatt (4 Stk)",
+      "Tomate (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R035.png"
+  },
+  {
+    "id": "R036",
+    "title": "Bio Pasta Salat",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "K-CLASSIC Haferflocken",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.38
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen.",
+      "In einer Schüssel Kidney-Bohnen und Röstzwiebeln vermengen.",
+      "Pasta hinzufügen und mit Paprika und Olivenöl anmachen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-pasta-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)",
+      "Olivenöl (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R036.png"
+  },
+  {
+    "id": "R037",
+    "title": "Bio Omelette mit Walnüssen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Eier mit Milch verquirlen und mit Salz und Pfeffer würzen.",
+      "In einer Pfanne Öl erhitzen und die Eiermasse hineingießen.",
+      "Walnüsse grob hacken und auf das Omelette streuen.",
+      "Schnittlauch darüber geben und stocken lassen."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-omelette-mit-walnussen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (4 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R037.png"
+  },
+  {
+    "id": "R038",
+    "title": "Bio Sandwich mit Hackfleisch",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "K-PURLAND Hähnchenbrustfilet- Teilstücke XXL",
+        "brand": "K-PURLAND",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 7.77,
+        "price_before_eur": 9.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "K-CLASSIC Hamburger-Brötchen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hackfleisch in einer Pfanne anbraten.",
+      "Brötchen aufschneiden und leicht toasten.",
+      "Burger zusammenstellen mit Salat, Tomate und Gurke."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-sandwich-mit-hackfleisch",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salatblatt (4 Stk)",
+      "Tomate (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R038.png"
+  },
+  {
+    "id": "R039",
+    "title": "Bio Fruchtsnack Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.65
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Fruchtsnack, Banane und Hafermilch in einen Mixer geben.",
+      "Alles gut pürieren und in Gläser füllen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fruchtsnack-smoothie-r039",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R039.png"
+  },
+  {
+    "id": "R040",
+    "title": "Bio Schnelle Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "K-CLASSIC Haferflocken",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.38
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen.",
+      "In einer Pfanne Röstzwiebeln anbraten.",
+      "Kidney-Bohnen und gewürfelte Zucchini hinzufügen.",
+      "Mit Pesto vermengen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-schnelle-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pesto (2 EL)",
+      "Zucchini (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R040.png"
+  },
+  {
+    "id": "R041",
+    "title": "Bio Hähnchen-Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet- Teilstücke XXL",
+        "brand": "K-PURLAND",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 7.77,
+        "price_before_eur": 9.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und in einer Pfanne mit Öl anbraten.",
+      "Salat und Tomaten klein schneiden und in eine Schüssel geben.",
+      "Hähnchenbrustfilet und Walnüsse hinzufügen, mit Zitronensaft beträufeln und gut vermengen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-hahnchen-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zitrone (1 Stk)",
+      "Salat (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R041.png"
+  },
+  {
+    "id": "R042",
+    "title": "Bio Pasta-Salat",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen und abkühlen lassen.",
+      "Paprika und Oliven klein schneiden.",
+      "Alle Zutaten in einer Schüssel vermengen und mit Röstzwiebeln garnieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-pasta-salat-r042",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pasta (300 g)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R042.png"
+  },
+  {
+    "id": "R043",
+    "title": "Bio Honig-Nuss-Brot",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "K-BIO Bio-Walnusskerne",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "K-BIO Kanad. Bio-Ahornsirup",
+        "brand": "K-BIO",
+        "unit": "ml",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.75
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Mehl, Hefe und Wasser zu einem Teig verkneten und 30 Minuten gehen lassen.",
+      "Walnüsse grob hacken und mit Ahornsirup vermengen.",
+      "Teig ausrollen, Nuss-Mischung darauf verteilen und aufrollen. In eine Kastenform geben und backen."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-honig-nuss-brot",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Mehl (500 g)",
+      "Hefe (1 Pck)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R043.png"
+  },
+  {
+    "id": "R044",
+    "title": "Bio Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Peruan. Kulturheidelbeeren",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Peruan. Kulturheidelbeeren",
+        "brand": "K-BIO",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 3.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Heidelbeeren, Banane und Wasser in einen Mixer geben.",
+      "Zitrone auspressen und hinzufügen.",
+      "Alles gut pürieren und in Gläser füllen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R044.png"
+  },
+  {
+    "id": "R045",
+    "title": "Bio Fruchtsnack",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.65
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "HIPP Bio-Fruchtsnack",
+        "brand": "HIPP",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.65
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Äpfel und Banane klein schneiden.",
+      "Fruchtsnack in eine Schüssel geben und mit Obst vermengen.",
+      "Mit Zitronensaft beträufeln und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-fruchtsnack",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Apfel (2 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R045.png"
+  },
+  {
+    "id": "R046",
+    "title": "Bio Salat mit Nudeln",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Nudeln nach Packungsanweisung kochen und abkühlen lassen.",
+      "Paprika und Salat klein schneiden.",
+      "Alle Zutaten in einer Schüssel vermengen und mit Röstzwiebeln garnieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-salat-mit-nudeln",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Nudeln (300 g)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R046.png"
+  },
+  {
+    "id": "R047",
+    "title": "Bio Aufstrich",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "POPP Pikanter Brotaufstrich",
+        "brand": "POPP",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.89
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "POPP Pikanter Brotaufstrich",
+        "brand": "POPP",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.89
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Brot toastet.",
+      "Aufstrich gleichmäßig auf die Brotscheiben verteilen.",
+      "Mit Gurke und Paprika garnieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-aufstrich",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Brot (4 Scheiben)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R047.png"
+  },
+  {
+    "id": "R048",
+    "title": "Bio Pasta mit Sauce",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "K-CLASSIC Rote Kidney-Bohnen",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 420,
+        "packs_used": 1,
+        "used_amount": 420.0,
+        "price_eur": 0.55,
+        "price_before_eur": 0.69
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen.",
+      "Zucchini klein schneiden und in einer Pfanne anbraten.",
+      "Alle Zutaten vermengen und mit Röstzwiebeln garnieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-pasta-mit-sauce-r048",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pasta (300 g)",
+      "Tomatensauce (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R048.png"
+  },
+  {
+    "id": "R049",
+    "title": "Bio Omelette",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "K-CLASSIC Röstzwiebeln",
+        "brand": "K-CLASSIC",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.19
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Eier mit Milch verquirlen und in einer Pfanne anbraten.",
+      "Paprika klein schneiden und hinzufügen.",
+      "Mit Röstzwiebeln garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-omelette",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (4 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R049.png"
+  },
+  {
+    "id": "R050",
+    "title": "Bio Sandwich",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "POPP Pikanter Brotaufstrich",
+        "brand": "POPP",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.89
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "POPP Pikanter Brotaufstrich",
+        "brand": "POPP",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.0,
+        "price_before_eur": 1.89
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Brot toasten.",
+      "Aufstrich gleichmäßig auf die Brotscheiben verteilen.",
+      "Mit Salat und Tomate garnieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "KAUFLAND",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bio-sandwich",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Brot (8 Scheiben)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/kaufland_R050.png"
+  }
+]

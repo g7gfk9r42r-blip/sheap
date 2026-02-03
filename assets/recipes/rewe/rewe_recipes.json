@@ -1,0 +1,3384 @@
+[
+  {
+    "id": "R001",
+    "title": "Gemüsefrikadellen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zwiebel und Knoblauch fein hacken.",
+      "Das Bio Suppengrün in kleine Stücke schneiden.",
+      "In einer Schüssel die Kölln Bio Haferflocken, das Suppengrün, den Joghurt, Zwiebel und Knoblauch vermengen.",
+      "Mit Salz, Pfeffer und Gewürzen abschmecken.",
+      "Die Mischung zu Frikadellen formen und in einer Pfanne mit Öl goldbraun braten."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "gemuese-frikadellen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R001.png"
+  },
+  {
+    "id": "R002",
+    "title": "Haferdrink Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Rote Tafeläpfel",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Äpfel schälen und in Stücke schneiden.",
+      "In einem Mixer die Apfelstücke, den Oatly Haferdrink und die Banane pürieren.",
+      "Mit Zimt abschmecken und gut vermischen.",
+      "In Gläser füllen und sofort servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "haferdrink-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Zimt (1 Prise)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R002.png"
+  },
+  {
+    "id": "R003",
+    "title": "Lachsfilet mit Couscous",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Followfood Bio Lachs Filets",
+        "brand": "Followfood",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 7.99,
+        "price_before_eur": 9.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "REWE Bio Couscous",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den Couscous nach Packungsanweisung zubereiten.",
+      "Das Lachsfilet in einer Pfanne mit Öl anbraten.",
+      "Mit Zitronensaft und Dill würzen.",
+      "Couscous auf Tellern anrichten und das Lachsfilet darauflegen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "lachsfilet-mit-couscous",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zitrone (1/2 Stk)",
+      "Dill (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R003.png"
+  },
+  {
+    "id": "R004",
+    "title": "Pizza Salami",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Original Wagner Steinofen Pizza Salami",
+        "brand": "Wagner",
+        "unit": "g",
+        "pack_size": 320,
+        "packs_used": 1,
+        "used_amount": 320.0,
+        "price_eur": 1.89,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Original Wagner Steinofen Pizza Salami",
+        "brand": "Wagner",
+        "unit": "g",
+        "pack_size": 320,
+        "packs_used": 1,
+        "used_amount": 320.0,
+        "price_eur": 1.89,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pizza nach Packungsanweisung im Ofen backen.",
+      "Mit Oregano und Olivenöl garnieren.",
+      "In Stücke schneiden und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pizza-salami",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Oregano (1 Prise)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R004.png"
+  },
+  {
+    "id": "R005",
+    "title": "Couscous Salat",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "REWE Bio Couscous",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den Couscous nach Packungsanweisung zubereiten.",
+      "Das Suppengrün, Paprika und Gurke klein schneiden.",
+      "Alles in einer Schüssel vermengen und mit Oliven garnieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "couscous-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)",
+      "Gurke (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R005.png"
+  },
+  {
+    "id": "R006",
+    "title": "Frühstücks Müsli",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Haferflocken in einer Schüssel anrichten.",
+      "Den Joghurt darüber geben.",
+      "Mit Honig und frischem Obst garnieren."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruehstuecks-muesli",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)",
+      "Obst (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R006.png"
+  },
+  {
+    "id": "R007",
+    "title": "Salat mit Salami",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Laktosefrei",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "El Pozo Iberico Fuetec Spanische Salami",
+        "brand": "El Pozo",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 2.59,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Rucola",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 0.85,
+        "price_before_eur": 1.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Rucola in einer Schüssel anrichten.",
+      "Die Salami in Scheiben schneiden und darauflegen.",
+      "Mit Balsamico und Parmesan garnieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "salat-mit-salami",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Balsamico (1 EL)",
+      "Parmesan (30 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R007.png"
+  },
+  {
+    "id": "R008",
+    "title": "Schnelle Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Delverde Pasta",
+        "brand": "Delverde",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.89,
+        "price_before_eur": 1.29
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Delverde Pasta",
+        "brand": "Delverde",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.89,
+        "price_before_eur": 1.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanweisung kochen.",
+      "Die Tomatensauce erhitzen und mit der Pasta vermengen.",
+      "Mit frischem Basilikum garnieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tomatensauce (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R008.png"
+  },
+  {
+    "id": "R009",
+    "title": "Frühstücks Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Banane und den Spinat in einen Mixer geben.",
+      "Den Oatly Haferdrink hinzufügen und alles pürieren.",
+      "In Gläser füllen und genießen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruehstuecks-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R009.png"
+  },
+  {
+    "id": "R010",
+    "title": "Schnelle Suppe",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Das Suppengrün in einem Topf mit Gemüsebrühe kochen.",
+      "Mit Petersilie garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-suppe",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Gemüsebrühe (1 l)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R010.png"
+  },
+  {
+    "id": "R011",
+    "title": "Cremige Hafersuppe",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 3.38
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 2.58
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 3.73
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zwiebel und Knoblauch fein hacken und in Öl anbraten.",
+      "Bio Suppengrün hinzufügen und kurz mitbraten.",
+      "Haferflocken und Wasser hinzufügen, aufkochen lassen und 15 Minuten köcheln.",
+      "Mit Joghurt verfeinern und mit Petersilie garnieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "creamy-hafersuppe",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R011.png"
+  },
+  {
+    "id": "R012",
+    "title": "Fruchtiger Haferdrink",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1,
+        "packs_used": 1000,
+        "used_amount": 1000.0,
+        "price_eur": 1.79,
+        "price_before_eur": null
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1,
+        "packs_used": 1,
+        "used_amount": 1.0,
+        "price_eur": 1.79,
+        "price_before_eur": null
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Banane und Erdbeeren in einen Mixer geben.",
+      "Haferdrink hinzufügen und alles gut pürieren.",
+      "In Gläser füllen und nach Belieben mit Honig süßen."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-haferdrink",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R012.png"
+  },
+  {
+    "id": "R013",
+    "title": "Herzhafter Couscous-Salat",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "REWE Bio Couscous",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.98
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 3.73
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Couscous nach Packungsanleitung zubereiten.",
+      "Bio Suppengrün klein schneiden und unter den Couscous mischen.",
+      "Tomaten und Gurke würfeln und hinzufügen.",
+      "Mit Olivenöl, Salz und Pfeffer abschmecken."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "herzhafter-couscous-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tomate (2 Stk)",
+      "Gurke (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R013.png"
+  },
+  {
+    "id": "R014",
+    "title": "Fruchtige Joghurtparfait",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 2.58
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 2.58
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Joghurt in Gläser füllen.",
+      "Himbeeren und Granola abwechselnd hinzufügen.",
+      "Mit Honig süßen und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtige-jogurtparfait",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Himbeeren (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R014.png"
+  },
+  {
+    "id": "R015",
+    "title": "Schnelle Pasta mit Gemüse",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Delverde Pasta",
+        "brand": "Delverde",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.89,
+        "price_before_eur": null
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 3.73
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanleitung kochen.",
+      "Zucchini und Paprika würfeln und in Öl anbraten.",
+      "Gekochte Pasta hinzufügen und alles gut vermischen.",
+      "Mit Salz und Pfeffer abschmecken."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-pasta-mit-gemuse",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucchini (1 Stk)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R015.png"
+  },
+  {
+    "id": "R016",
+    "title": "Veganer Lachs Sandwich",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "REWE Beste Wahl Räucherlaxxs vegan",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 100,
+        "packs_used": 1,
+        "used_amount": 100.0,
+        "price_eur": 1.79,
+        "price_before_eur": null
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "REWE Beste Wahl Räucherlaxxs vegan",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 100,
+        "packs_used": 1,
+        "used_amount": 100.0,
+        "price_eur": 1.79,
+        "price_before_eur": null
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Vollkornbrot toasten.",
+      "Avocado zerdrücken und auf das Brot streichen.",
+      "Veganen Lachs darauflegen und mit Zitronensaft beträufeln."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "veganer-lachs-sandwich",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Vollkornbrot (4 Scheiben)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R016.png"
+  },
+  {
+    "id": "R017",
+    "title": "Schnelle Vegetarische Tacos",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Frosta Pfannengericht",
+        "brand": "Frosta",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.79,
+        "price_before_eur": 5.58
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Frosta Pfannengericht",
+        "brand": "Frosta",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.79,
+        "price_before_eur": 5.58
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pfannengericht nach Packungsanleitung zubereiten.",
+      "Taco-Schalen mit Salat und Pfannengericht füllen.",
+      "Mit gewürfelten Tomaten garnieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-vegetarische-tacos",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Taco-Schalen (8 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R017.png"
+  },
+  {
+    "id": "R018",
+    "title": "Schnelle Vegetarische Pizza",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Original Wagner Steinofen Pizza Salami",
+        "brand": "Wagner",
+        "unit": "g",
+        "pack_size": 320,
+        "packs_used": 1,
+        "used_amount": 320.0,
+        "price_eur": 1.89,
+        "price_before_eur": 5.91
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Original Wagner Steinofen Pizza Salami",
+        "brand": "Wagner",
+        "unit": "g",
+        "pack_size": 320,
+        "packs_used": 1,
+        "used_amount": 320.0,
+        "price_eur": 1.89,
+        "price_before_eur": 5.91
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pizza nach Packungsanleitung backen.",
+      "Paprika würfeln und auf die Pizza legen.",
+      "Mit Olivenöl und Oregano würzen."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-vegetarische-pizza",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R018.png"
+  },
+  {
+    "id": "R019",
+    "title": "Schnelle Gemüsepfanne",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Frosta Pfannengericht",
+        "brand": "Frosta",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.79,
+        "price_before_eur": 5.58
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Frosta Pfannengericht",
+        "brand": "Frosta",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.79,
+        "price_before_eur": 5.58
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Gemüsepfanne nach Packungsanleitung zubereiten.",
+      "Zucchini und Karotten in Scheiben schneiden und hinzufügen.",
+      "Mit Sojasauce abschmecken."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-gemusepfanne",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucchini (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R019.png"
+  },
+  {
+    "id": "R020",
+    "title": "Schnelle Salatbowl",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "REWE Bio Couscous",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.98
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "REWE Bio Couscous",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.98
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Couscous nach Packungsanleitung zubereiten.",
+      "Rucola und Kirschtomaten hinzufügen.",
+      "Mit Balsamico abschmecken."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-salatbowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Rucola (1 Schale)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R020.png"
+  },
+  {
+    "id": "R021",
+    "title": "Cremige Hafersuppe",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Zwiebel und den Knoblauch fein hacken.",
+      "In einem Topf Öl erhitzen und die Zwiebel sowie den Knoblauch darin glasig dünsten.",
+      "Das Suppengrün hinzufügen und kurz anbraten.",
+      "Die Haferflocken und 1 Liter Wasser dazugeben, aufkochen und 15 Minuten köcheln lassen.",
+      "Mit Salz, Pfeffer und Gewürzen abschmecken.",
+      "Den Joghurt unterrühren und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "creamy-hafersuppe-r021",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "Für eine vegane Variante den Joghurt durch pflanzliche Alternative ersetzen.",
+    "image_path": "assets/images/recipes/rewe_R021.png"
+  },
+  {
+    "id": "R022",
+    "title": "Fruchtiger Haferdrink-Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1,
+        "packs_used": 1000,
+        "used_amount": 1000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Rote Tafeläpfel",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Bio Orangen",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Äpfel und Orangen schälen und in Stücke schneiden.",
+      "Die Banane und den Ingwer hinzufügen.",
+      "Alles zusammen mit dem Haferdrink in einen Mixer geben und pürieren.",
+      "In Gläser füllen und sofort servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-haferdrink-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Ingwer (1 Stück)"
+    ],
+    "notes": "Kann auch mit gefrorenen Früchten zubereitet werden.",
+    "image_path": "assets/images/recipes/rewe_R022.png"
+  },
+  {
+    "id": "R023",
+    "title": "Vegetarische Pasta mit Gemüse",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Delverde Pasta",
+        "brand": "Delverde",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.89,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "REWE Bio Gouda",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 3,
+        "used_amount": 450.0,
+        "price_eur": 1.39,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanweisung kochen.",
+      "Das Gemüse klein schneiden und in einer Pfanne mit Öl anbraten.",
+      "Die gekochte Pasta hinzufügen und gut vermischen.",
+      "Mit Salz, Pfeffer und Gewürzen abschmecken.",
+      "Den geriebenen Gouda darüber streuen und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarische-pasta-mit-gemuse",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucchini (1 Stk)",
+      "Paprika (1 Stk)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "Für eine vegane Variante den Käse weglassen oder durch pflanzlichen Käse ersetzen.",
+    "image_path": "assets/images/recipes/rewe_R023.png"
+  },
+  {
+    "id": "R024",
+    "title": "Haferflocken-Fruchtsalat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Helle Tafeltrauben",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Bio Orangen",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Trauben und die Orange klein schneiden.",
+      "Die Banane in Scheiben schneiden.",
+      "Die Haferflocken mit den Früchten vermischen.",
+      "Mit Zimt bestreuen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "haferflocken-fruchtsalat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Zimt (1 TL)"
+    ],
+    "notes": "Kann auch mit anderen Früchten zubereitet werden.",
+    "image_path": "assets/images/recipes/rewe_R024.png"
+  },
+  {
+    "id": "R025",
+    "title": "Gemüsepfanne mit Haferflocken",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Frosta Pfannengericht",
+        "brand": "Frosta",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.79,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Das Gemüse klein schneiden.",
+      "In einer Pfanne Öl erhitzen und das Gemüse anbraten.",
+      "Die Haferflocken hinzufügen und gut vermischen.",
+      "Mit Salz, Pfeffer und Gewürzen abschmecken.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "gemusepfanne-mit-haferflocken",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "Kann auch mit anderen Gemüsesorten zubereitet werden.",
+    "image_path": "assets/images/recipes/rewe_R025.png"
+  },
+  {
+    "id": "R026",
+    "title": "Schnelle Haferflocken-Bowl",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Helle Tafeltrauben",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Bio Orangen",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Haferflocken in eine Schüssel geben.",
+      "Die Trauben und die Orange klein schneiden und hinzufügen.",
+      "Mit Zimt bestreuen und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-haferflocken-bowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Zimt (1 TL)"
+    ],
+    "notes": "Kann auch mit anderen Früchten zubereitet werden.",
+    "image_path": "assets/images/recipes/rewe_R026.png"
+  },
+  {
+    "id": "R027",
+    "title": "Haferflocken-Pancakes",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Bio Orangen",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Haferflocken mit dem Joghurt und etwas Wasser vermischen.",
+      "Zimt und Backpulver hinzufügen und gut verrühren.",
+      "In einer Pfanne Öl erhitzen und kleine Portionen der Mischung hineingeben.",
+      "Von beiden Seiten goldbraun backen und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "haferflocken-pancakes",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zimt (1 TL)",
+      "Backpulver (1 TL)"
+    ],
+    "notes": "Mit frischen Früchten servieren.",
+    "image_path": "assets/images/recipes/rewe_R027.png"
+  },
+  {
+    "id": "R028",
+    "title": "Haferflocken-Energiebissen",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Helle Tafeltrauben",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Bio Orangen",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Haferflocken mit den gehackten Nüssen und Honig vermischen.",
+      "Die Trauben klein schneiden und hinzufügen.",
+      "Die Mischung in eine Form drücken und kalt stellen.",
+      "In Stücke schneiden und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "haferflocken-energiebissen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Nüsse (50 g)",
+      "Honig (2 EL)"
+    ],
+    "notes": "Ideal als Snack für zwischendurch.",
+    "image_path": "assets/images/recipes/rewe_R028.png"
+  },
+  {
+    "id": "R029",
+    "title": "Haferflocken-Brot",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Haferflocken mit Joghurt und Wasser vermischen.",
+      "Hefe und Zucker hinzufügen und gut verrühren.",
+      "In eine Kastenform füllen und bei 180°C ca. 30 Minuten backen.",
+      "Abkühlen lassen und in Scheiben schneiden."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "haferflocken-brot",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Hefe (1 Päckchen)",
+      "Zucker (1 TL)"
+    ],
+    "notes": "Ideal für das Frühstück.",
+    "image_path": "assets/images/recipes/rewe_R029.png"
+  },
+  {
+    "id": "R030",
+    "title": "Haferflocken-Energieriegel",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "Helle Tafeltrauben",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O030",
+        "name": "Bio Orangen",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Haferflocken mit den gehackten Nüssen und Honig vermischen.",
+      "Die Trauben klein schneiden und hinzufügen.",
+      "Die Mischung in eine Form drücken und kalt stellen.",
+      "In Stücke schneiden und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "haferflocken-energieriegel",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Nüsse (50 g)",
+      "Honig (2 EL)"
+    ],
+    "notes": "Ideal als Snack für zwischendurch.",
+    "image_path": "assets/images/recipes/rewe_R030.png"
+  },
+  {
+    "id": "R031",
+    "title": "Vegetarische Gemüsefrikadellen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Haferflocken in eine Schüssel geben und mit Wasser einweichen.",
+      "Das Suppengrün klein schneiden und zusammen mit den Zwiebeln und dem Knoblauch in einer Pfanne anbraten.",
+      "Die angebratenen Zutaten zu den Haferflocken geben und alles gut vermengen.",
+      "Mit Salz, Pfeffer und Gewürzen abschmecken.",
+      "Frikadellen formen und in Öl goldbraun braten."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetarische-gemuesefrikadellen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R031.png"
+  },
+  {
+    "id": "R032",
+    "title": "Haferdrink Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1,
+        "packs_used": 1,
+        "used_amount": 1.0,
+        "price_eur": 1.79,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Rote Tafeläpfel",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Äpfel schälen und in Stücke schneiden.",
+      "Alle Zutaten in einen Mixer geben und gut pürieren.",
+      "In Gläser füllen und sofort servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "haferdrink-smoothie-r032",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Zimt (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R032.png"
+  },
+  {
+    "id": "R033",
+    "title": "Lachsfilets mit Couscous",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Gluten-free",
+      "Kalorienreich"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Followfood Bio Lachs Filets",
+        "brand": "Followfood",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 2,
+        "used_amount": 400.0,
+        "price_eur": 15.98,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "REWE Bio Couscous",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Couscous nach Packungsanleitung zubereiten.",
+      "Lachsfilets in einer Pfanne anbraten.",
+      "Mit Zitronensaft und Dill würzen.",
+      "Couscous auf Tellern anrichten und Lachsfilets darauflegen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "lachsfilets-mit-couscous",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zitrone (1/2 Stk)",
+      "Dill (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R033.png"
+  },
+  {
+    "id": "R034",
+    "title": "Cremiger Quark mit Früchten",
+    "description": "",
+    "categories": [
+      "Kalorienarm",
+      "Laktosefrei",
+      "Vegetarisch"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Rote Tafeläpfel",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Joghurt in eine Schüssel geben.",
+      "Äpfel klein schneiden und unter den Joghurt mischen.",
+      "Mit Honig und Zimt abschmecken."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "cremiger-quark-mit-fruechten",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Honig (1 EL)",
+      "Zimt (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R034.png"
+  },
+  {
+    "id": "R035",
+    "title": "Pasta mit Gemüsesauce",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Delverde Pasta",
+        "brand": "Delverde",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.89,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanleitung kochen.",
+      "Das Suppengrün klein schneiden und in einer Pfanne anbraten.",
+      "Mit Salz und Pfeffer würzen und über die Pasta geben."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pasta-mit-gemuesesauce",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R035.png"
+  },
+  {
+    "id": "R036",
+    "title": "Fruchtiger Salat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Helle Tafeltrauben",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Riesenorangen",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 2500,
+        "packs_used": 1,
+        "used_amount": 2500.0,
+        "price_eur": 4.44,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Trauben waschen und halbieren.",
+      "Orangen schälen und in Stücke schneiden.",
+      "Mit Minze und Zitronensaft vermengen."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruchtiger-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Minze (1 Bund)",
+      "Zitronensaft (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R036.png"
+  },
+  {
+    "id": "R037",
+    "title": "Schnelle Pizza",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Original Wagner Steinofen Pizza Salami",
+        "brand": "Wagner",
+        "unit": "g",
+        "pack_size": 320,
+        "packs_used": 1,
+        "used_amount": 320.0,
+        "price_eur": 1.89,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Original Wagner Steinofen Pizza Salami",
+        "brand": "Wagner",
+        "unit": "g",
+        "pack_size": 320,
+        "packs_used": 1,
+        "used_amount": 320.0,
+        "price_eur": 1.89,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pizza nach Packungsanleitung im Ofen backen.",
+      "Mit Oregano und Olivenöl verfeinern."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-pizza",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Oregano (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R037.png"
+  },
+  {
+    "id": "R038",
+    "title": "Cremige Suppe",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Das Suppengrün klein schneiden und in einem Topf anbraten.",
+      "Mit Wasser aufgießen und köcheln lassen.",
+      "Mit Joghurt pürieren und abschmecken."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "cremige-suppe",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R038.png"
+  },
+  {
+    "id": "R039",
+    "title": "Schnelle Nudeln",
+    "description": "",
+    "categories": [
+      "Kalorienarm",
+      "Vegetarisch",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Delverde Pasta",
+        "brand": "Delverde",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.89,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Delverde Pasta",
+        "brand": "Delverde",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.89,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanleitung kochen.",
+      "Mit Tomatensauce vermengen und mit Basilikum garnieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "schnelle-nudeln",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tomatensauce (200 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R039.png"
+  },
+  {
+    "id": "R040",
+    "title": "Obstsalat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Helle Tafeltrauben",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 0
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Riesenorangen",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 2500,
+        "packs_used": 1,
+        "used_amount": 2500.0,
+        "price_eur": 4.44,
+        "price_before_eur": 0
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Trauben waschen und halbieren.",
+      "Orangen schälen und in Stücke schneiden.",
+      "Mit Minze und Zitronensaft vermengen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "obstsalat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Minze (1 Bund)",
+      "Zitronensaft (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R040.png"
+  },
+  {
+    "id": "R041",
+    "title": "Gemüsefrikadellen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Bio Suppengrün",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Andechser Natur Bio Jogurt mild",
+        "brand": "Andechser",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Zwiebel und den Knoblauch fein hacken.",
+      "Das Suppengrün klein schneiden und zusammen mit den Haferflocken in eine Schüssel geben.",
+      "Den Joghurt, die Zwiebel, den Knoblauch und die Gewürze hinzufügen und gut vermischen.",
+      "Die Masse zu kleinen Frikadellen formen und in einer Pfanne mit Öl goldbraun braten."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-fritters",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R041.png"
+  },
+  {
+    "id": "R042",
+    "title": "Haferflocken-Bowl",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Kölln Bio Haferflocken",
+        "brand": "Kölln",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.69,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Haferflocken mit dem Haferdrink in einem Topf erhitzen.",
+      "Die Banane in Scheiben schneiden und zusammen mit Honig und Zimt über die Haferflocken geben.",
+      "Gut umrühren und warm servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "oatmeal-bowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Honig (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R042.png"
+  },
+  {
+    "id": "R043",
+    "title": "Lachs-Couscous-Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Followfood Bio Lachs Filets",
+        "brand": "Followfood",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 2,
+        "used_amount": 400.0,
+        "price_eur": 7.99,
+        "price_before_eur": 9.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "REWE Bio Couscous",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den Couscous nach Packungsanweisung zubereiten.",
+      "Den Lachs in einer Pfanne braten und in Stücke zupfen.",
+      "Rucola, Lachs und Couscous in einer Schüssel vermengen.",
+      "Mit Zitronensaft und Olivenöl abschmecken."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "salmon-couscous-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Rucola (100 g)",
+      "Zitrone (1/2 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R043.png"
+  },
+  {
+    "id": "R044",
+    "title": "Butter-Pasta",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Meggle Feine Butter",
+        "brand": "Meggle",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Delverde Pasta",
+        "brand": "Delverde",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.89,
+        "price_before_eur": 1.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanweisung kochen.",
+      "In einer Pfanne die Butter schmelzen und den Knoblauch anbraten.",
+      "Die gekochte Pasta hinzufügen und gut vermengen.",
+      "Mit frischer Petersilie und Parmesan servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "butter-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (1 Zehe)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R044.png"
+  },
+  {
+    "id": "R045",
+    "title": "Frucht-Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Oatly Haferdrink Barista",
+        "brand": "Oatly",
+        "unit": "l",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Banane und Erdbeeren in einen Mixer geben.",
+      "Den Haferdrink hinzufügen und alles gut pürieren.",
+      "In Gläser füllen und mit Honig süßen."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruit-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R045.png"
+  },
+  {
+    "id": "R046",
+    "title": "Hähnchen-Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Wiesenhof Hähnchen Grillbraten",
+        "brand": "Wiesenhof",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 4,
+        "used_amount": 320.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Rucola",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 0.85,
+        "price_before_eur": 1.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Das Hähnchen grillen und in Stücke schneiden.",
+      "Den Rucola und die Kirschtomaten in eine Schüssel geben.",
+      "Das Hähnchen hinzufügen und mit Olivenöl und Balsamico abschmecken."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Kirschtomaten (100 g)",
+      "Olivenöl (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R046.png"
+  },
+  {
+    "id": "R047",
+    "title": "Pizza Salami",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Original Wagner Steinofen Pizza Salami",
+        "brand": "Wagner",
+        "unit": "g",
+        "pack_size": 320,
+        "packs_used": 1,
+        "used_amount": 320.0,
+        "price_eur": 1.89,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Original Wagner Steinofen Pizza Salami",
+        "brand": "Wagner",
+        "unit": "g",
+        "pack_size": 320,
+        "packs_used": 1,
+        "used_amount": 320.0,
+        "price_eur": 1.89,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pizza nach Packungsanweisung im Ofen backen.",
+      "Mit Oregano und Olivenöl garnieren.",
+      "Paprika in Streifen schneiden und darüber streuen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pizza",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Oregano (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R047.png"
+  },
+  {
+    "id": "R048",
+    "title": "Couscous-Salat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "REWE Bio Couscous",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "REWE Bio Couscous",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.99,
+        "price_before_eur": 1.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den Couscous nach Packungsanweisung zubereiten.",
+      "Paprika und Gurke klein schneiden und unter den Couscous mischen.",
+      "Mit Zitronensaft abschmecken und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "couscous-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R048.png"
+  },
+  {
+    "id": "R049",
+    "title": "Vegane Pasta",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Simply V Pizza gerieben",
+        "brand": "Simply V",
+        "unit": "g",
+        "pack_size": 180,
+        "packs_used": 1,
+        "used_amount": 180.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Delverde Pasta",
+        "brand": "Delverde",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.89,
+        "price_before_eur": 1.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pasta nach Packungsanweisung kochen.",
+      "Zucchini und Tomaten klein schneiden und in einer Pfanne anbraten.",
+      "Die gekochte Pasta hinzufügen und mit Simply V Käse vermengen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegan-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucchini (1 Stk)",
+      "Tomaten (2 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R049.png"
+  },
+  {
+    "id": "R050",
+    "title": "Hähnchen-Pfanne",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Wiesenhof Hähnchen Grillbraten",
+        "brand": "Wiesenhof",
+        "unit": "g",
+        "pack_size": 80,
+        "packs_used": 4,
+        "used_amount": 320.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Rucola",
+        "brand": "REWE",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 0.85,
+        "price_before_eur": 1.29
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Das Hähnchen in einer Pfanne anbraten.",
+      "Paprika und Zucchini klein schneiden und hinzufügen.",
+      "Mit Sojasauce abschmecken und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "REWE",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-stir-fry",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)",
+      "Zucchini (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/rewe_R050.png"
+  }
+]

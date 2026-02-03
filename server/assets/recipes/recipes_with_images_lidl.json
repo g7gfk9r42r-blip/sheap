@@ -1,0 +1,213 @@
+[
+  {
+    "id": "lidl-1",
+    "title": "Raclette-Speck-Kartoffelauflauf",
+    "description": "Herzhafter Kartoffelauflauf mit Raclette-Speck und Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 40,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "herzhaft",
+      "ofen",
+      "winter"
+    ],
+    "total_cost": 9.56,
+    "total_cost_original": 12.45,
+    "savings_total": 2.89,
+    "cost_per_portion": 2.39,
+    "ingredients": [
+      {
+        "name": "Deluxe Raclette-Speck",
+        "amount": "140 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Raclette-Speck",
+        "offer_price": 2.79,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "140 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Strähl Schweizer Raclette Käse",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Strähl Schweizer Raclette Käse",
+        "offer_price": 3.19,
+        "original_price": 4.49,
+        "discount_percent": 28,
+        "brand": "Strähl",
+        "package_size": "200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Harvest Basket Wellenschnitt Pommes XXL",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Harvest Basket Wellenschnitt Pommes XXL",
+        "offer_price": 2.99,
+        "original_price": 3.69,
+        "discount_percent": 19,
+        "brand": "Harvest Basket",
+        "package_size": "2.5 kg",
+        "supermarket_location": "Tiefkühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Kartoffeln schälen und in Scheiben schneiden.",
+      "Pommes in einer Auflaufform verteilen.",
+      "Raclette-Speck darüber legen.",
+      "Mit Raclette-Käse bestreuen.",
+      "Im Ofen bei 180°C ca. 30 Minuten backen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-2",
+    "title": "Büffelburatta mit Serrano und Zaziki",
+    "description": "Frische Büffelburatta mit Serrano-Schinken und cremigem Zaziki.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frisch",
+      "sommer",
+      "schnell"
+    ],
+    "total_cost": 6.66,
+    "total_cost_original": 8.87,
+    "savings_total": 2.21,
+    "cost_per_portion": 3.33,
+    "ingredients": [
+      {
+        "name": "Deluxe Büffelburatta",
+        "amount": "125 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Büffelburatta",
+        "offer_price": 2.19,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "125 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Deluxe Paleta Serrana Reserva",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Paleta Serrana Reserva",
+        "offer_price": 44.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "375 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Apostels Zaziki",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "Apostels Zaziki",
+        "offer_price": 1.88,
+        "original_price": 2.69,
+        "discount_percent": 30,
+        "brand": "Apostels",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Büffelburatta auf einem Teller anrichten.",
+      "Serrano-Schinken in Scheiben schneiden und dazugeben.",
+      "Zaziki als Dip dazu servieren.",
+      "Mit Salz und Pfeffer abschmecken."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-3",
+    "title": "Salami-Bagel mit Joghurt-Dip",
+    "description": "Knuspriger Bagel belegt mit Salami und einem erfrischenden Joghurt-Dip.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "einfach"
+    ],
+    "total_cost": 5.67,
+    "total_cost_original": 7.89,
+    "savings_total": 2.22,
+    "cost_per_portion": 2.84,
+    "ingredients": [
+      {
+        "name": "Deluxe Salami",
+        "amount": "80 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Salami",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "80 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Bagels",
+        "amount": "2 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Bagels",
+        "offer_price": 1.69,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "340 g",
+        "supermarket_location": "Backwaren",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Joghurt mild XXL",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Joghurt mild XXL",
+        "offer_price": 1.59,
+        "original_price": 1.99,
+        "discount_percent": 19,
+        "brand": "Milbona",
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Bagels halbieren und toasten.",
+      "Salami auf die Bagelhälften legen.",
+      "Joghurt in eine Schüssel geben und mit Salz, Pfeffer und Kräutern abschmecken.",
+      "Bagels mit Joghurt-Dip servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  }
+]

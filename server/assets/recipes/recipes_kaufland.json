@@ -1,0 +1,6806 @@
+[
+  {
+    "id": "R001",
+    "name": "Tomaten-Feta-Pasta",
+    "ingredients": [
+      {
+        "name": "BARILLA — Collezione oder Al Bronzo Pasta",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O016",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "BARILLA",
+        "product": "Collezione oder Al Bronzo Pasta",
+        "note": "Packung 250–500 g (hier: 500 g)"
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "PATROS — Salzlakenkäse",
+        "quantity": 180,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O007",
+        "price_eur": 1.69,
+        "price_before_eur": 3.29,
+        "brand": "PATROS",
+        "product": "Salzlakenkäse",
+        "note": "Packung 130–180 g (hier: 180 g)"
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Chili/Chiliflocken (optional)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Chili/Chiliflocken (optional)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Einen großen Topf mit reichlich Salzwasser zum Kochen bringen.",
+      "Pasta nach Packungsangabe al dente kochen und dabei 1 Tasse Kochwasser aufheben.",
+      "In einer Pfanne Öl erhitzen, Zwiebeln (optional) glasig anschwitzen.",
+      "Passierte Tomaten und Tomatenmark einrühren, 8–10 Minuten sanft köcheln lassen.",
+      "Feta/Salzlakenkäse zerbröseln und zur Sauce geben (einen Teil zum Bestreuen zurückhalten).",
+      "Pasta in die Sauce geben, mit etwas Kochwasser cremig ziehen und abschmecken (Salz/Pfeffer/Chili).",
+      "Mit restlichem Käse bestreuen und sofort servieren."
+    ],
+    "price_total_before_eur": 15.31,
+    "price_total_eur": 10.3,
+    "savings_percent": 32.7,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R002",
+    "name": "Hähnchen-Tomaten-Pasta",
+    "ingredients": [
+      {
+        "name": "BARILLA — Collezione oder Al Bronzo Pasta",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O016",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "BARILLA",
+        "product": "Collezione oder Al Bronzo Pasta",
+        "note": "Packung 250–500 g (hier: 500 g)"
+      },
+      {
+        "name": "K-PURLAND — Hähnchenbrust-Innenfilets XXL",
+        "quantity": 800,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O034",
+        "price_eur": 6.99,
+        "price_before_eur": 8.99,
+        "brand": "K-PURLAND",
+        "product": "Hähnchenbrust-Innenfilets XXL",
+        "note": null
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "RAPSGOLD — Reines Rapsöl",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 2.99,
+        "price_before_eur": 3.99,
+        "brand": "RAPSGOLD",
+        "product": "Reines Rapsöl",
+        "note": "Flasche 500–750 ml (hier: 750 ml)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Chili/Chiliflocken (optional)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Chili/Chiliflocken (optional)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Pasta in Salzwasser al dente kochen; etwas Kochwasser aufheben.",
+      "Öl in einer großen Pfanne erhitzen und Fleisch scharf anbraten.",
+      "Zwiebeln und Paprika/Tomaten zugeben und 3–5 Minuten mitrösten.",
+      "Tomatenmark kurz mit anrösten, dann passierte Tomaten einrühren.",
+      "10–12 Minuten köcheln lassen, bis die Sauce sämig ist.",
+      "Pasta unterheben, bei Bedarf mit Kochwasser binden und kräftig abschmecken.",
+      "Optional mit Käse bestreuen und servieren."
+    ],
+    "price_total_before_eur": 19.35,
+    "price_total_eur": 14.45,
+    "savings_percent": 25.3,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R003",
+    "name": "Garnelen-Arrabbiata mit Paprika",
+    "ingredients": [
+      {
+        "name": "BARILLA — Collezione oder Al Bronzo Pasta",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O016",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "BARILLA",
+        "product": "Collezione oder Al Bronzo Pasta",
+        "note": "Packung 250–500 g (hier: 500 g)"
+      },
+      {
+        "name": "K-BLUE BAY — White Tiger Garnelen",
+        "quantity": 220,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O035",
+        "price_eur": 3.49,
+        "price_before_eur": 4.29,
+        "brand": "K-BLUE BAY",
+        "product": "White Tiger Garnelen",
+        "note": null
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Bratpaprika",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O049",
+        "price_eur": 1.49,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Bratpaprika",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Chili/Chiliflocken (optional)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Chili/Chiliflocken (optional)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Pasta al dente kochen und 1 Tasse Kochwasser aufheben.",
+      "Öl erhitzen, Paprika/Zwiebeln kurz anbraten.",
+      "Garnelen zugeben und 2–3 Minuten anbraten, bis sie Farbe bekommen.",
+      "Tomatenmark einrühren und 30 Sekunden anrösten.",
+      "Passierte Tomaten zugeben und 6–8 Minuten leise köcheln lassen.",
+      "Pasta einrühren, mit Kochwasser cremig ziehen und abschmecken.",
+      "Kurz ruhen lassen, dann servieren."
+    ],
+    "price_total_before_eur": 12.31,
+    "price_total_eur": 9.15,
+    "savings_percent": 25.7,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R004",
+    "name": "Rana-Pasta in cremiger Tomaten-Käsesauce",
+    "ingredients": [
+      {
+        "name": "GIOVANNI RANA — Tradizionali oder Amore di Pesto (frische Pasta)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O024",
+        "price_eur": 2.79,
+        "price_before_eur": 3.79,
+        "brand": "GIOVANNI RANA",
+        "product": "Tradizionali oder Amore di Pesto (frische Pasta)",
+        "note": null
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "MILKANA — Tolle Rolle oder Schmelzkäse-Zubereitung",
+        "quantity": 190,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O022",
+        "price_eur": 1.99,
+        "price_before_eur": 2.89,
+        "brand": "MILKANA",
+        "product": "Tolle Rolle oder Schmelzkäse-Zubereitung",
+        "note": "Packung 100–190 g (hier: 190 g)"
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Einen großen Topf mit reichlich Salzwasser zum Kochen bringen.",
+      "Pasta nach Packungsangabe al dente kochen und dabei 1 Tasse Kochwasser aufheben.",
+      "In einer Pfanne Öl erhitzen, Zwiebeln (optional) glasig anschwitzen.",
+      "Passierte Tomaten und Tomatenmark einrühren, 8–10 Minuten sanft köcheln lassen.",
+      "Feta/Salzlakenkäse zerbröseln und zur Sauce geben (einen Teil zum Bestreuen zurückhalten).",
+      "Pasta in die Sauce geben, mit etwas Kochwasser cremig ziehen und abschmecken (Salz/Pfeffer/Chili).",
+      "Mit restlichem Käse bestreuen und sofort servieren."
+    ],
+    "price_total_before_eur": 11.51,
+    "price_total_eur": 8.45,
+    "savings_percent": 26.6,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R005",
+    "name": "Raclette-Tomaten-Gratin",
+    "ingredients": [
+      {
+        "name": "Kaufland — Dtsch. Rispentomaten",
+        "quantity": 650,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O006",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Rispentomaten",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "LE RUSTIQUE — Raclette Käsescheiben",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O009",
+        "price_eur": 3.29,
+        "price_before_eur": 5.99,
+        "brand": "LE RUSTIQUE",
+        "product": "Raclette Käsescheiben",
+        "note": "Packung 360–400 g (hier: 400 g)"
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C Ober-/Unterhitze vorheizen.",
+      "Tomaten und Zwiebeln schneiden, in eine Auflaufform geben und mit etwas Öl vermengen.",
+      "Käse in Scheiben oder gerieben darüber verteilen.",
+      "Optional Fleisch/Wurst in Stücke schneiden und zwischen die Tomaten legen.",
+      "20–25 Minuten backen, bis der Käse goldbraun ist und es blubbert.",
+      "5 Minuten ruhen lassen, damit sich alles setzt.",
+      "In Portionen schneiden und servieren."
+    ],
+    "price_total_before_eur": 17.26,
+    "price_total_eur": 10.71,
+    "savings_percent": 37.9,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R006",
+    "name": "Pizza Raclette-Tomaten Deluxe",
+    "ingredients": [
+      {
+        "name": "DR. OETKER — Die Ofenfrische oder Pizza Tradizionale (TK)",
+        "quantity": 415,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O023",
+        "price_eur": 1.77,
+        "price_before_eur": 1.77,
+        "brand": "DR. OETKER",
+        "product": "Die Ofenfrische oder Pizza Tradizionale (TK)",
+        "note": "Packung 385–415 g (hier: 415 g)"
+      },
+      {
+        "name": "LE RUSTIQUE — Raclette Käsescheiben",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O009",
+        "price_eur": 3.29,
+        "price_before_eur": 5.99,
+        "brand": "LE RUSTIQUE",
+        "product": "Raclette Käsescheiben",
+        "note": "Packung 360–400 g (hier: 400 g)"
+      },
+      {
+        "name": "Kaufland — Span. Romatomaten",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Span. Romatomaten",
+        "note": null
+      },
+      {
+        "name": "FOL EPI — Franz. Schnittkäse",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 1.39,
+        "price_before_eur": 2.79,
+        "brand": "FOL EPI",
+        "product": "Franz. Schnittkäse",
+        "note": "Packung 100–150 g (hier: 150 g)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Backofen gemäß Pizza-Packung vorheizen.",
+      "Pizza auspacken und auf das Blech legen.",
+      "Romatomaten in dünne Scheiben schneiden und auf der Pizza verteilen.",
+      "Fol Epi in Streifen schneiden und als zusätzliches Topping verteilen.",
+      "Raclette-Käsescheiben in Stücke zupfen und darüber geben.",
+      "Pizza nach Packungsangabe backen, bis der Käse blubbert und goldbraun ist.",
+      "2 Minuten ruhen lassen, schneiden und servieren."
+    ],
+    "price_total_before_eur": 12.04,
+    "price_total_eur": 7.44,
+    "savings_percent": 38.2,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R007",
+    "name": "Kasseler-Paprika-Pfanne mit Tomaten",
+    "ingredients": [
+      {
+        "name": "K-PURLAND — Kasseler Nacken/Kamm XXL (Preis je kg)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O030",
+        "price_eur": 6.29,
+        "price_before_eur": 8.99,
+        "brand": "K-PURLAND",
+        "product": "Kasseler Nacken/Kamm XXL (Preis je kg)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Spitzpaprika, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O048",
+        "price_eur": 1.59,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Spitzpaprika, rot",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Span. Romatomaten",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Span. Romatomaten",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "RAPSGOLD — Reines Rapsöl",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 2.99,
+        "price_before_eur": 3.99,
+        "brand": "RAPSGOLD",
+        "product": "Reines Rapsöl",
+        "note": "Flasche 500–750 ml (hier: 750 ml)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Chili/Chiliflocken (optional)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Chili/Chiliflocken (optional)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Kasseler in mundgerechte Würfel schneiden.",
+      "Paprika und Tomaten waschen und würfeln; Zwiebeln fein schneiden.",
+      "Öl in einer Pfanne erhitzen und Kasseler 3–4 Minuten anbraten.",
+      "Zwiebeln und Paprika zugeben und weitere 4 Minuten braten.",
+      "Tomaten zugeben, 5–7 Minuten schmoren lassen, bis alles saftig ist.",
+      "Mit Salz/Pfeffer abschmecken (optional Chili).",
+      "Heiß servieren – pur oder mit Brot/Beilage nach Wahl."
+    ],
+    "price_total_before_eur": 17.75,
+    "price_total_eur": 12.85,
+    "savings_percent": 27.6,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R008",
+    "name": "Schweinegulasch in Tomaten-Sugo",
+    "ingredients": [
+      {
+        "name": "K-PURLAND — Schweinegulasch XXL (Preis je kg)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O032",
+        "price_eur": 5.99,
+        "price_before_eur": 7.98,
+        "brand": "K-PURLAND",
+        "product": "Schweinegulasch XXL (Preis je kg)",
+        "note": null
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Pasta in Salzwasser al dente kochen; etwas Kochwasser aufheben.",
+      "Öl in einer großen Pfanne erhitzen und Fleisch scharf anbraten.",
+      "Zwiebeln und Paprika/Tomaten zugeben und 3–5 Minuten mitrösten.",
+      "Tomatenmark kurz mit anrösten, dann passierte Tomaten einrühren.",
+      "10–12 Minuten köcheln lassen, bis die Sauce sämig ist.",
+      "Pasta unterheben, bei Bedarf mit Kochwasser binden und kräftig abschmecken.",
+      "Optional mit Käse bestreuen und servieren."
+    ],
+    "price_total_before_eur": 18.8,
+    "price_total_eur": 14.1,
+    "savings_percent": 25.0,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R009",
+    "name": "Ofen-Schweinebauch mit Tomaten & Zwiebeln",
+    "ingredients": [
+      {
+        "name": "K-PURLAND — Schweinebauch mit Knochen (Preis je kg)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O033",
+        "price_eur": 4.99,
+        "price_before_eur": 7.89,
+        "brand": "K-PURLAND",
+        "product": "Schweinebauch mit Knochen (Preis je kg)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Rispentomaten",
+        "quantity": 650,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O006",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Rispentomaten",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Backofen auf 180°C vorheizen.",
+      "Fleisch trocken tupfen, salzen und in einem Bräter in Öl rundherum anbraten.",
+      "Zwiebeln und Gemüse (Paprika/Tomaten) zugeben und kurz mitrösten.",
+      "Passierte Tomaten zugeben, Deckel schließen und 60–90 Minuten schmoren.",
+      "Zwischendurch wenden und bei Bedarf etwas Wasser nachgießen.",
+      "Am Ende ohne Deckel 10 Minuten nachbräunen lassen.",
+      "Fleisch in Scheiben schneiden und mit der Sauce servieren."
+    ],
+    "price_total_before_eur": 19.16,
+    "price_total_eur": 12.41,
+    "savings_percent": 35.2,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R010",
+    "name": "Fischfilet auf Tomatenbett",
+    "ingredients": [
+      {
+        "name": "FROSTA — Schlemmerfilet (TK) versch. Sorten",
+        "quantity": 360,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O036",
+        "price_eur": 2.49,
+        "price_before_eur": 2.49,
+        "brand": "FROSTA",
+        "product": "Schlemmerfilet (TK) versch. Sorten",
+        "note": "Packung 320–360 g (hier: 360 g)"
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "Kaufland — Dtsch. Cherryrispentomaten, rot",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O013",
+        "price_eur": 1.99,
+        "price_before_eur": 3.49,
+        "brand": "Kaufland",
+        "product": "Dtsch. Cherryrispentomaten, rot",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C vorheizen.",
+      "Tomaten und Zwiebeln schneiden, in eine Auflaufform geben und mit Öl vermengen.",
+      "Fischfilets darauflegen und leicht salzen/pfeffern.",
+      "Optional Tomatenmark/Passata als dünne Schicht darüber geben.",
+      "15–20 Minuten backen (je nach Dicke), bis der Fisch gar ist.",
+      "Kurz ruhen lassen.",
+      "Mit Salat oder Gemüse servieren."
+    ],
+    "price_total_before_eur": 14.56,
+    "price_total_eur": 10.91,
+    "savings_percent": 25.1,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R011",
+    "name": "Würstchen-Tomaten-Pasta",
+    "ingredients": [
+      {
+        "name": "BARILLA — Collezione oder Al Bronzo Pasta",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O016",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "BARILLA",
+        "product": "Collezione oder Al Bronzo Pasta",
+        "note": "Packung 250–500 g (hier: 500 g)"
+      },
+      {
+        "name": "MEICA — Trueman's (Würstchen im Glas), Abtropfgewicht 350 g",
+        "quantity": 540,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O040",
+        "price_eur": 2.99,
+        "price_before_eur": 4.49,
+        "brand": "MEICA",
+        "product": "Trueman's (Würstchen im Glas), Abtropfgewicht 350 g",
+        "note": "Glas 540 g (Abtropfgewicht 350 g)"
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Chili/Chiliflocken (optional)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Chili/Chiliflocken (optional)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Pasta in Salzwasser al dente kochen; etwas Kochwasser aufheben.",
+      "Öl in einer großen Pfanne erhitzen und Fleisch scharf anbraten.",
+      "Zwiebeln und Paprika/Tomaten zugeben und 3–5 Minuten mitrösten.",
+      "Tomatenmark kurz mit anrösten, dann passierte Tomaten einrühren.",
+      "10–12 Minuten köcheln lassen, bis die Sauce sämig ist.",
+      "Pasta unterheben, bei Bedarf mit Kochwasser binden und kräftig abschmecken.",
+      "Optional mit Käse bestreuen und servieren."
+    ],
+    "price_total_before_eur": 11.81,
+    "price_total_eur": 8.15,
+    "savings_percent": 31.0,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R012",
+    "name": "Hähnchen-Raclette-Auflauf",
+    "ingredients": [
+      {
+        "name": "K-PURLAND — Hähnchenbrust-Innenfilets XXL",
+        "quantity": 800,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O034",
+        "price_eur": 6.99,
+        "price_before_eur": 8.99,
+        "brand": "K-PURLAND",
+        "product": "Hähnchenbrust-Innenfilets XXL",
+        "note": null
+      },
+      {
+        "name": "LE RUSTIQUE — Raclette Käsescheiben",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O009",
+        "price_eur": 3.29,
+        "price_before_eur": 5.99,
+        "brand": "LE RUSTIQUE",
+        "product": "Raclette Käsescheiben",
+        "note": "Packung 360–400 g (hier: 400 g)"
+      },
+      {
+        "name": "Kaufland — Dtsch. Cocktailrispentomaten",
+        "quantity": 350,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O005",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Cocktailrispentomaten",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C vorheizen.",
+      "Hähnchen in Stücke schneiden, salzen/pfeffern und in einer Pfanne 3–4 Minuten anbraten.",
+      "Tomaten und Zwiebeln schneiden und in eine Auflaufform geben.",
+      "Hähnchen darauf verteilen und alles mit etwas Öl vermengen.",
+      "Raclette-Käse darüberlegen.",
+      "20 Minuten backen, bis das Hähnchen durch und der Käse goldbraun ist.",
+      "5 Minuten ruhen lassen und servieren."
+    ],
+    "price_total_before_eur": 20.26,
+    "price_total_eur": 13.26,
+    "savings_percent": 34.6,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R013",
+    "name": "Schweinebraten in Tomaten-Schmor-Sauce",
+    "ingredients": [
+      {
+        "name": "K-PURLAND — Schweinebraten (1-kg-Packg.)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O031",
+        "price_eur": 5.99,
+        "price_before_eur": 8.79,
+        "brand": "K-PURLAND",
+        "product": "Schweinebraten (1-kg-Packg.)",
+        "note": null
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "RAPSGOLD — Reines Rapsöl",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 2.99,
+        "price_before_eur": 3.99,
+        "brand": "RAPSGOLD",
+        "product": "Reines Rapsöl",
+        "note": "Flasche 500–750 ml (hier: 750 ml)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Backofen auf 180°C vorheizen.",
+      "Fleisch trocken tupfen, salzen und in einem Bräter in Öl rundherum anbraten.",
+      "Zwiebeln und Gemüse (Paprika/Tomaten) zugeben und kurz mitrösten.",
+      "Passierte Tomaten zugeben, Deckel schließen und 60–90 Minuten schmoren.",
+      "Zwischendurch wenden und bei Bedarf etwas Wasser nachgießen.",
+      "Am Ende ohne Deckel 10 Minuten nachbräunen lassen.",
+      "Fleisch in Scheiben schneiden und mit der Sauce servieren."
+    ],
+    "price_total_before_eur": 17.61,
+    "price_total_eur": 12.65,
+    "savings_percent": 28.2,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R014",
+    "name": "Anno-1688-Sandwich mit Brunch, Tomate & Käse",
+    "ingredients": [
+      {
+        "name": "HARRY — Anno 1688 Brot",
+        "quantity": 450,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O042",
+        "price_eur": 1.79,
+        "price_before_eur": 2.49,
+        "brand": "HARRY",
+        "product": "Anno 1688 Brot",
+        "note": "Packung 400–450 g (hier: 450 g)"
+      },
+      {
+        "name": "BRUNCH — Brotaufstrich",
+        "quantity": 185,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O059",
+        "price_eur": 0.99,
+        "price_before_eur": 0.99,
+        "brand": "BRUNCH",
+        "product": "Brotaufstrich",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Rispentomaten",
+        "quantity": 650,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O006",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Rispentomaten",
+        "note": null
+      },
+      {
+        "name": "GRÜNLÄNDER — Dtsch. Schnittkäse (Frischetheke, je 100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O061",
+        "price_eur": 0.99,
+        "price_before_eur": 0.99,
+        "brand": "GRÜNLÄNDER",
+        "product": "Dtsch. Schnittkäse (Frischetheke, je 100 g)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Brot in Scheiben schneiden und optional kurz toasten.",
+      "Brunch gleichmäßig auf die Brotscheiben streichen.",
+      "Tomaten in Scheiben schneiden und darauflegen.",
+      "Käse in Scheiben schneiden und darüberlegen.",
+      "Optional mit Salz/Pfeffer würzen.",
+      "Sandwich schließen und halbieren.",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 8.46,
+    "price_total_eur": 5.76,
+    "savings_percent": 31.9,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R015",
+    "name": "Toastie mit Tomatenmark & Raclette-Käse",
+    "ingredients": [
+      {
+        "name": "HARRY — Toast",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O041",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "HARRY",
+        "product": "Toast",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "LE RUSTIQUE — Raclette Käsescheiben",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O009",
+        "price_eur": 3.29,
+        "price_before_eur": 5.99,
+        "brand": "LE RUSTIQUE",
+        "product": "Raclette Käsescheiben",
+        "note": "Packung 360–400 g (hier: 400 g)"
+      },
+      {
+        "name": "FOL EPI — Franz. Schnittkäse",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 1.39,
+        "price_before_eur": 2.79,
+        "brand": "FOL EPI",
+        "product": "Franz. Schnittkäse",
+        "note": "Packung 100–150 g (hier: 150 g)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Toastscheiben auslegen.",
+      "Tomatenmark dünn auf 2 Scheiben streichen (wie eine schnelle Pizzasauce).",
+      "Fol Epi in Streifen schneiden und darauf verteilen.",
+      "Raclette-Käse als Deckschicht auflegen und mit den übrigen Toastscheiben abdecken.",
+      "Im Sandwichmaker oder in der Pfanne goldbraun rösten, bis der Käse schmilzt.",
+      "1 Minute ruhen lassen, dann diagonal halbieren.",
+      "Heiß servieren."
+    ],
+    "price_total_before_eur": 11.02,
+    "price_total_eur": 6.66,
+    "savings_percent": 39.6,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R016",
+    "name": "Tomaten-Gurken-Salat mit Patros",
+    "ingredients": [
+      {
+        "name": "Kaufland — Span. Minigurken (Netz)",
+        "quantity": 750,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O045",
+        "price_eur": 2.49,
+        "price_before_eur": 3.49,
+        "brand": "Kaufland",
+        "product": "Span. Minigurken (Netz)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Cocktailrispentomaten",
+        "quantity": 350,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O005",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Cocktailrispentomaten",
+        "note": null
+      },
+      {
+        "name": "PATROS — Salzlakenkäse",
+        "quantity": 180,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O007",
+        "price_eur": 1.69,
+        "price_before_eur": 3.29,
+        "brand": "PATROS",
+        "product": "Salzlakenkäse",
+        "note": "Packung 130–180 g (hier: 180 g)"
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Gemüse waschen und gut abtropfen lassen.",
+      "Tomaten je nach Größe halbieren oder würfeln; Gurken in Scheiben schneiden.",
+      "Zwiebel fein schneiden und 5 Minuten in kaltem Wasser ziehen lassen (milder).",
+      "Alles in einer großen Schüssel mischen.",
+      "Dressing nach Packungshinweis oder nach Geschmack dosieren und unterheben.",
+      "Feta/Salzlakenkäse darüber bröseln (oder pflanzliche Alternative).",
+      "10 Minuten ziehen lassen und servieren."
+    ],
+    "price_total_before_eur": 12.76,
+    "price_total_eur": 8.16,
+    "savings_percent": 36.1,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R017",
+    "name": "Vegan Bowl mit Avocado, Mais & Paprika",
+    "ingredients": [
+      {
+        "name": "Kaufland — Avocado (lose)",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O046",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Avocado (lose)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zuckermais (2 Stück)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O051",
+        "price_eur": 1.49,
+        "price_before_eur": 2.29,
+        "brand": "Kaufland",
+        "product": "Zuckermais (2 Stück)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Spitzpaprika, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O048",
+        "price_eur": 1.59,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Spitzpaprika, rot",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Multicolor-Salat",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.29,
+        "price_before_eur": 1.79,
+        "brand": "Kaufland",
+        "product": "Multicolor-Salat",
+        "note": null
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Salat, Tomaten, Gurken und Paprika waschen und schneiden.",
+      "Avocado halbieren, entkernen, aus der Schale lösen und würfeln.",
+      "Zuckermais kurz abspülen/abgießen (falls bereits gegart) und zugeben.",
+      "Alles in einer großen Schüssel mischen.",
+      "Mit Dressing und einem Schuss Öl vermengen.",
+      "Mit Salz/Pfeffer und optional Chili abschmecken.",
+      "Direkt servieren oder 10 Minuten ziehen lassen."
+    ],
+    "price_total_before_eur": 9.55,
+    "price_total_eur": 7.35,
+    "savings_percent": 23.0,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R018",
+    "name": "Protein-Bowl mit Hähnchen, Salat & Dressing",
+    "ingredients": [
+      {
+        "name": "K-PURLAND — Hähnchenbrust-Innenfilets XXL",
+        "quantity": 800,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O034",
+        "price_eur": 6.99,
+        "price_before_eur": 8.99,
+        "brand": "K-PURLAND",
+        "product": "Hähnchenbrust-Innenfilets XXL",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Multicolor-Salat",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.29,
+        "price_before_eur": 1.79,
+        "brand": "Kaufland",
+        "product": "Multicolor-Salat",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Cherryrispentomaten, rot",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O013",
+        "price_eur": 1.99,
+        "price_before_eur": 3.49,
+        "brand": "Kaufland",
+        "product": "Dtsch. Cherryrispentomaten, rot",
+        "note": null
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Salat waschen, trocken schleudern und in eine Schüssel geben.",
+      "Gemüse (Tomaten, Paprika, Gurke) klein schneiden.",
+      "Fleisch/Protein kurz anbraten oder erhitzen, dann in Streifen schneiden.",
+      "Alles in einer Bowl anrichten: Salat als Basis, darauf Gemüse und Protein.",
+      "Dressing darübergeben und vorsichtig vermengen.",
+      "Optional Käse dazugeben und abschmecken.",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 16.26,
+    "price_total_eur": 12.26,
+    "savings_percent": 24.6,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R019",
+    "name": "Tomaten-Avocado-Salat mit Olivenöl",
+    "ingredients": [
+      {
+        "name": "Kaufland — Span. Romatomaten",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Span. Romatomaten",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Avocado (lose)",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O046",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Avocado (lose)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Chili/Chiliflocken (optional)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Chili/Chiliflocken (optional)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Tomaten waschen und würfeln, Zwiebeln fein hacken.",
+      "Avocado würfeln und vorsichtig unterheben.",
+      "Alles in eine Schüssel geben, salzen und pfeffern.",
+      "Mit Olivenöl beträufeln und vorsichtig mischen.",
+      "Optional Chili hinzufügen.",
+      "10 Minuten ziehen lassen.",
+      "Als Beilage oder leichtes Hauptgericht servieren."
+    ],
+    "price_total_before_eur": 10.26,
+    "price_total_eur": 7.41,
+    "savings_percent": 27.8,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R020",
+    "name": "Paprika-Tomaten-Salat mit Comté-Spänen",
+    "ingredients": [
+      {
+        "name": "Kaufland — Spitzpaprika, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O048",
+        "price_eur": 1.59,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Spitzpaprika, rot",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Rispentomaten",
+        "quantity": 650,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O006",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Rispentomaten",
+        "note": null
+      },
+      {
+        "name": "COMTÉ AOP — Franz. Hartkäse (Frischetheke, je 100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O062",
+        "price_eur": 1.69,
+        "price_before_eur": 3.49,
+        "brand": "COMTÉ AOP",
+        "product": "Franz. Hartkäse (Frischetheke, je 100 g)",
+        "note": null
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Paprika und Tomaten waschen und in mundgerechte Stücke schneiden.",
+      "Gemüse in eine Schüssel geben und mit Dressing vermengen.",
+      "Comté mit einem Sparschäler in Späne hobeln und darüberstreuen.",
+      "Kurz ziehen lassen (5–10 Minuten).",
+      "Mit Salz/Pfeffer abschmecken.",
+      "Optional mit etwas Olivenöl abrunden.",
+      "Servieren."
+    ],
+    "price_total_before_eur": 11.46,
+    "price_total_eur": 7.26,
+    "savings_percent": 36.6,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R021",
+    "name": "Trauben-Käse-Snackplatte",
+    "ingredients": [
+      {
+        "name": "Kaufland — Tafeltrauben, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O052",
+        "price_eur": 1.99,
+        "price_before_eur": 2.79,
+        "brand": "Kaufland",
+        "product": "Tafeltrauben, rot",
+        "note": null
+      },
+      {
+        "name": "FOL EPI — Franz. Schnittkäse",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 1.39,
+        "price_before_eur": 2.79,
+        "brand": "FOL EPI",
+        "product": "Franz. Schnittkäse",
+        "note": "Packung 100–150 g (hier: 150 g)"
+      },
+      {
+        "name": "COMTÉ AOP — Franz. Hartkäse (Frischetheke, je 100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O062",
+        "price_eur": 1.69,
+        "price_before_eur": 3.49,
+        "brand": "COMTÉ AOP",
+        "product": "Franz. Hartkäse (Frischetheke, je 100 g)",
+        "note": null
+      },
+      {
+        "name": "LE RUSTIQUE — Raclette Käsescheiben",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O009",
+        "price_eur": 3.29,
+        "price_before_eur": 5.99,
+        "brand": "LE RUSTIQUE",
+        "product": "Raclette Käsescheiben",
+        "note": "Packung 360–400 g (hier: 400 g)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Trauben waschen und gut abtropfen lassen.",
+      "Käse (Fol Epi, Comté, Raclette) in mundgerechte Stücke schneiden.",
+      "Alles auf einer Platte anrichten.",
+      "Optional mit etwas Brot/Cracker ergänzen (nicht im Angebot).",
+      "Für mehr Aroma: Käse 10 Minuten bei Raumtemperatur stehen lassen.",
+      "Trauben dazu snacken.",
+      "Reste luftdicht verpacken."
+    ],
+    "price_total_before_eur": 15.06,
+    "price_total_eur": 8.36,
+    "savings_percent": 44.5,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R022",
+    "name": "Kasseler-Käse-Tomaten-Teller",
+    "ingredients": [
+      {
+        "name": "K-PURLAND — Kasseler Nacken/Kamm XXL (Preis je kg)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O030",
+        "price_eur": 6.29,
+        "price_before_eur": 8.99,
+        "brand": "K-PURLAND",
+        "product": "Kasseler Nacken/Kamm XXL (Preis je kg)",
+        "note": null
+      },
+      {
+        "name": "GRÜNLÄNDER — Dtsch. Schnittkäse (Frischetheke, je 100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O061",
+        "price_eur": 0.99,
+        "price_before_eur": 0.99,
+        "brand": "GRÜNLÄNDER",
+        "product": "Dtsch. Schnittkäse (Frischetheke, je 100 g)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Span. Romatomaten",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Span. Romatomaten",
+        "note": null
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Kasseler in Scheiben schneiden und in einer Pfanne ohne zusätzliches Fett 2–3 Minuten je Seite anbraten.",
+      "Tomaten waschen und in Scheiben schneiden.",
+      "Tomaten auf einem Teller verteilen und mit etwas Dressing beträufeln.",
+      "Käse in Scheiben schneiden und mit auf den Teller legen.",
+      "Kasseler daneben anrichten.",
+      "Mit Salz/Pfeffer abschmecken (optional Chili).",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 13.46,
+    "price_total_eur": 10.26,
+    "savings_percent": 23.8,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R023",
+    "name": "Heidelbeer-Kefir-Crunch-Bowl",
+    "ingredients": [
+      {
+        "name": "MÜLLER — Kefir oder Ayran",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O018",
+        "price_eur": 0.79,
+        "price_before_eur": 1.29,
+        "brand": "MÜLLER",
+        "product": "Kefir oder Ayran",
+        "note": null
+      },
+      {
+        "name": "KELLOGG'S — Cerealien",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O010",
+        "price_eur": 2.49,
+        "price_before_eur": 4.49,
+        "brand": "KELLOGG'S",
+        "product": "Cerealien",
+        "note": "Packung 400–500 g (hier: 500 g)"
+      },
+      {
+        "name": "Kaufland — Peruan. Kulturheidelbeeren",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 2.22,
+        "price_before_eur": 3.79,
+        "brand": "Kaufland",
+        "product": "Peruan. Kulturheidelbeeren",
+        "note": null
+      },
+      {
+        "name": "LANDLIEBE — Konfitüre oder Fruchtcreme",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "LANDLIEBE",
+        "product": "Konfitüre oder Fruchtcreme",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Kefir/Ayran in eine Schüssel geben.",
+      "Cerealien dazugeben und kurz durchziehen lassen.",
+      "Obst (z. B. Heidelbeeren/Himbeeren/Trauben) waschen und darüber geben.",
+      "Konfitüre als Swirl einrühren.",
+      "Optional mit Nüssen (falls vorhanden) toppen.",
+      "Abschmecken und direkt essen.",
+      "Für Meal-Prep: Cerealien separat lagern und erst beim Essen mischen."
+    ],
+    "price_total_before_eur": 12.06,
+    "price_total_eur": 6.99,
+    "savings_percent": 42.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R024",
+    "name": "Himbeer-Kefir-Müsli",
+    "ingredients": [
+      {
+        "name": "MÜLLER — Kefir oder Ayran",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O018",
+        "price_eur": 0.79,
+        "price_before_eur": 1.29,
+        "brand": "MÜLLER",
+        "product": "Kefir oder Ayran",
+        "note": null
+      },
+      {
+        "name": "KELLOGG'S — Cerealien",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O010",
+        "price_eur": 2.49,
+        "price_before_eur": 4.49,
+        "brand": "KELLOGG'S",
+        "product": "Cerealien",
+        "note": "Packung 400–500 g (hier: 500 g)"
+      },
+      {
+        "name": "Kaufland — Himbeeren",
+        "quantity": 125,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O056",
+        "price_eur": 1.99,
+        "price_before_eur": 2.79,
+        "brand": "Kaufland",
+        "product": "Himbeeren",
+        "note": null
+      },
+      {
+        "name": "LANDLIEBE — Konfitüre oder Fruchtcreme",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "LANDLIEBE",
+        "product": "Konfitüre oder Fruchtcreme",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Kefir/Ayran in eine Schüssel geben.",
+      "Cerealien dazugeben und kurz durchziehen lassen.",
+      "Obst (z. B. Heidelbeeren/Himbeeren/Trauben) waschen und darüber geben.",
+      "Konfitüre als Swirl einrühren.",
+      "Optional mit Nüssen (falls vorhanden) toppen.",
+      "Abschmecken und direkt essen.",
+      "Für Meal-Prep: Cerealien separat lagern und erst beim Essen mischen."
+    ],
+    "price_total_before_eur": 11.06,
+    "price_total_eur": 6.76,
+    "savings_percent": 38.9,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R025",
+    "name": "Froop-Kefir-Beeren-Bowl",
+    "ingredients": [
+      {
+        "name": "MÜLLER — Froop",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O067",
+        "price_eur": 0.39,
+        "price_before_eur": 0.39,
+        "brand": "MÜLLER",
+        "product": "Froop",
+        "note": null
+      },
+      {
+        "name": "MÜLLER — Kefir oder Ayran",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O018",
+        "price_eur": 0.79,
+        "price_before_eur": 1.29,
+        "brand": "MÜLLER",
+        "product": "Kefir oder Ayran",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Peruan. Kulturheidelbeeren",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 2.22,
+        "price_before_eur": 3.79,
+        "brand": "Kaufland",
+        "product": "Peruan. Kulturheidelbeeren",
+        "note": null
+      },
+      {
+        "name": "KELLOGG'S — Cerealien",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O010",
+        "price_eur": 2.49,
+        "price_before_eur": 4.49,
+        "brand": "KELLOGG'S",
+        "product": "Cerealien",
+        "note": "Packung 400–500 g (hier: 500 g)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Kefir in eine Schüssel geben und Froop darauf verteilen.",
+      "Heidelbeeren waschen und darübergeben.",
+      "Cerealien als Crunch darüberstreuen.",
+      "Alles nach Wunsch kurz verrühren oder geschichtet lassen.",
+      "Mit einer Prise Salz (optional) abrunden.",
+      "Sofort genießen.",
+      "Für Meal-Prep: Cerealien separat lagern und erst beim Essen zugeben."
+    ],
+    "price_total_before_eur": 9.96,
+    "price_total_eur": 5.89,
+    "savings_percent": 40.9,
+    "diet_categories": [
+      "Vegetarisch",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R026",
+    "name": "Milchreis-Litschi-Becher",
+    "ingredients": [
+      {
+        "name": "MÜLLER — Milchreis/Kokosmilch-Reis/Grießpudding",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O001",
+        "price_eur": 0.39,
+        "price_before_eur": 0.99,
+        "brand": "MÜLLER",
+        "product": "Milchreis/Kokosmilch-Reis/Grießpudding",
+        "note": "Packung 160–200 g (hier: 200 g)"
+      },
+      {
+        "name": "Kaufland — Madagass. Litschi (lose)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 3.99,
+        "price_before_eur": 7.99,
+        "brand": "Kaufland",
+        "product": "Madagass. Litschi (lose)",
+        "note": null
+      },
+      {
+        "name": "LANDLIEBE — Konfitüre oder Fruchtcreme",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "LANDLIEBE",
+        "product": "Konfitüre oder Fruchtcreme",
+        "note": null
+      },
+      {
+        "name": "LEIBNIZ — Cream",
+        "quantity": 228,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O011",
+        "price_eur": 1.49,
+        "price_before_eur": 2.69,
+        "brand": "LEIBNIZ",
+        "product": "Cream",
+        "note": "Packung 190–228 g (hier: 228 g)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Dessertbasis (Milchreis oder Löffelglück) in Gläser füllen.",
+      "Obst waschen und klein schneiden.",
+      "Obst auf die Dessertbasis geben.",
+      "Konfitüre darüber träufeln.",
+      "Optional zerbröselte Kekse (Leibniz) als Crunch daraufgeben.",
+      "10 Minuten kalt stellen.",
+      "Servieren."
+    ],
+    "price_total_before_eur": 14.16,
+    "price_total_eur": 7.36,
+    "savings_percent": 48.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R027",
+    "name": "Löffelglück-Beeren-Crunch",
+    "ingredients": [
+      {
+        "name": "DR. OETKER — Löffelglück Dessert",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.99,
+        "price_before_eur": 2.69,
+        "brand": "DR. OETKER",
+        "product": "Löffelglück Dessert",
+        "note": "Becher 400–500 g (hier: 500 g)"
+      },
+      {
+        "name": "Kaufland — Peruan. Kulturheidelbeeren",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 2.22,
+        "price_before_eur": 3.79,
+        "brand": "Kaufland",
+        "product": "Peruan. Kulturheidelbeeren",
+        "note": null
+      },
+      {
+        "name": "LEIBNIZ — Cream",
+        "quantity": 228,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O011",
+        "price_eur": 1.49,
+        "price_before_eur": 2.69,
+        "brand": "LEIBNIZ",
+        "product": "Cream",
+        "note": "Packung 190–228 g (hier: 228 g)"
+      },
+      {
+        "name": "LANDLIEBE — Konfitüre oder Fruchtcreme",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "LANDLIEBE",
+        "product": "Konfitüre oder Fruchtcreme",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Dessertbasis (Milchreis oder Löffelglück) in Gläser füllen.",
+      "Obst waschen und klein schneiden.",
+      "Obst auf die Dessertbasis geben.",
+      "Konfitüre darüber träufeln.",
+      "Optional zerbröselte Kekse (Leibniz) als Crunch daraufgeben.",
+      "10 Minuten kalt stellen.",
+      "Servieren."
+    ],
+    "price_total_before_eur": 11.66,
+    "price_total_eur": 7.19,
+    "savings_percent": 38.3,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R028",
+    "name": "Ehrmann Dessert mit M&M’s Crunch",
+    "ingredients": [
+      {
+        "name": "EHRMANN — Dessert",
+        "quantity": 115,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O065",
+        "price_eur": 0.49,
+        "price_before_eur": 0.49,
+        "brand": "EHRMANN",
+        "product": "Dessert",
+        "note": null
+      },
+      {
+        "name": "M&M's — Schokolinsen",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O014",
+        "price_eur": 1.69,
+        "price_before_eur": 2.89,
+        "brand": "M&M's",
+        "product": "Schokolinsen",
+        "note": "Packung 128–150 g (hier: 150 g)"
+      },
+      {
+        "name": "LEIBNIZ — Cream",
+        "quantity": 228,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O011",
+        "price_eur": 1.49,
+        "price_before_eur": 2.69,
+        "brand": "LEIBNIZ",
+        "product": "Cream",
+        "note": "Packung 190–228 g (hier: 228 g)"
+      },
+      {
+        "name": "LANDLIEBE — Konfitüre oder Fruchtcreme",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "LANDLIEBE",
+        "product": "Konfitüre oder Fruchtcreme",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Ehrmann Dessert in ein Glas geben.",
+      "Leibniz Cream grob zerbröseln und als Schicht darüber geben.",
+      "Konfitüre darüber träufeln.",
+      "M&M’s grob hacken oder ganz darüberstreuen.",
+      "10 Minuten kalt stellen, damit der Crunch leicht durchzieht.",
+      "Optional mit etwas Obst ergänzen.",
+      "Servieren."
+    ],
+    "price_total_before_eur": 8.56,
+    "price_total_eur": 5.16,
+    "savings_percent": 39.7,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R029",
+    "name": "Maxi-King-Keks-Dessert im Glas",
+    "ingredients": [
+      {
+        "name": "KINDER — Maxi King oder Pingui",
+        "quantity": 120,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O066",
+        "price_eur": 1.29,
+        "price_before_eur": 1.89,
+        "brand": "KINDER",
+        "product": "Maxi King oder Pingui",
+        "note": "Packung 3–4 St. (hier: 120 g)"
+      },
+      {
+        "name": "LEIBNIZ — Cream",
+        "quantity": 228,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O011",
+        "price_eur": 1.49,
+        "price_before_eur": 2.69,
+        "brand": "LEIBNIZ",
+        "product": "Cream",
+        "note": "Packung 190–228 g (hier: 228 g)"
+      },
+      {
+        "name": "DR. OETKER — Löffelglück Dessert",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.99,
+        "price_before_eur": 2.69,
+        "brand": "DR. OETKER",
+        "product": "Löffelglück Dessert",
+        "note": "Becher 400–500 g (hier: 500 g)"
+      },
+      {
+        "name": "M&M's — Schokolinsen",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O014",
+        "price_eur": 1.69,
+        "price_before_eur": 2.89,
+        "brand": "M&M's",
+        "product": "Schokolinsen",
+        "note": "Packung 128–150 g (hier: 150 g)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Kekse grob zerbröseln und als erste Schicht in Gläser geben.",
+      "Löffelglück als cremige Schicht darauf verteilen.",
+      "Maxi King in Stücke schneiden und darauflegen.",
+      "M&M’s als Crunch darüberstreuen.",
+      "Mindestens 20 Minuten kalt stellen.",
+      "Vor dem Servieren kurz umrühren oder geschichtet lassen.",
+      "Kalt genießen."
+    ],
+    "price_total_before_eur": 10.16,
+    "price_total_eur": 6.46,
+    "savings_percent": 36.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R030",
+    "name": "Kaffee-Kefir-Shake mit Schoko",
+    "ingredients": [
+      {
+        "name": "NESCAFÉ — Classic oder Classic Mild (Instantkaffee)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O019",
+        "price_eur": 5.49,
+        "price_before_eur": 8.99,
+        "brand": "NESCAFÉ",
+        "product": "Classic oder Classic Mild (Instantkaffee)",
+        "note": null
+      },
+      {
+        "name": "MÜLLER — Kefir oder Ayran",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O018",
+        "price_eur": 0.79,
+        "price_before_eur": 1.29,
+        "brand": "MÜLLER",
+        "product": "Kefir oder Ayran",
+        "note": null
+      },
+      {
+        "name": "MARS/SNICKERS — Schokoriegel (4–5 St.)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O012",
+        "price_eur": 1.89,
+        "price_before_eur": 3.29,
+        "brand": "MARS/SNICKERS",
+        "product": "Schokoriegel (4–5 St.)",
+        "note": "Packung 146–250 g (hier: 250 g)"
+      },
+      {
+        "name": "M&M's — Schokolinsen",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O014",
+        "price_eur": 1.69,
+        "price_before_eur": 2.89,
+        "brand": "M&M's",
+        "product": "Schokolinsen",
+        "note": "Packung 128–150 g (hier: 150 g)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Kaffee (Instant) in wenig heißem Wasser auflösen und abkühlen lassen.",
+      "Kefir in einen Mixer geben und den abgekühlten Kaffee dazugießen.",
+      "Schokoriegel in Stücke brechen und zusammen mit einem Teil der M&M’s in den Mixer geben.",
+      "30–45 Sekunden mixen, bis alles cremig ist.",
+      "In ein Glas füllen und mit restlichen M&M’s toppen.",
+      "Optional mit Eiswürfeln servieren (nicht im Angebot).",
+      "Sofort trinken."
+    ],
+    "price_total_before_eur": 16.46,
+    "price_total_eur": 9.86,
+    "savings_percent": 40.1,
+    "diet_categories": [
+      "Kalorienreich",
+      "High Protein",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "id": "R031",
+    "name": "Pfannkuchen-Fruchtplatte (Party-Snack)",
+    "ingredients": [
+      {
+        "name": "Kaufland — Berliner/Pfannkuchen",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O020",
+        "price_eur": 0.29,
+        "price_before_eur": 0.45,
+        "brand": "Kaufland",
+        "product": "Berliner/Pfannkuchen",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Clementinen (1-kg-Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O053",
+        "price_eur": 1.79,
+        "price_before_eur": 2.29,
+        "brand": "Kaufland",
+        "product": "Clementinen (1-kg-Netz)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Tafeltrauben, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O052",
+        "price_eur": 1.99,
+        "price_before_eur": 2.79,
+        "brand": "Kaufland",
+        "product": "Tafeltrauben, rot",
+        "note": null
+      },
+      {
+        "name": "LANDLIEBE — Konfitüre oder Fruchtcreme",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "LANDLIEBE",
+        "product": "Konfitüre oder Fruchtcreme",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Berliner/Pfannkuchen halbieren oder vierteln.",
+      "Konfitüre bereitstellen und optional etwas unterrühren (z. B. als Dip).",
+      "Obst waschen und in Stücke schneiden.",
+      "Alles auf einer Platte anrichten: Pfannkuchen, Obst, Konfitüre.",
+      "Optional mit Schokoriegel-/M&M’s-Stückchen toppen.",
+      "Kalt servieren.",
+      "Reste luftdicht lagern."
+    ],
+    "price_total_before_eur": 8.02,
+    "price_total_eur": 5.56,
+    "savings_percent": 30.7,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R032",
+    "name": "Tropischer Obstsalat (Ananas–Kiwi–Traube)",
+    "ingredients": [
+      {
+        "name": "Kaufland — Ananas XXL",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O054",
+        "price_eur": 2.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Ananas XXL",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Kiwis (4-St.-Packg.)",
+        "quantity": 4,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O058",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Kiwis (4-St.-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Tafeltrauben, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O052",
+        "price_eur": 1.99,
+        "price_before_eur": 2.79,
+        "brand": "Kaufland",
+        "product": "Tafeltrauben, rot",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Honigmelone",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O057",
+        "price_eur": 1.99,
+        "price_before_eur": 2.99,
+        "brand": "Kaufland",
+        "product": "Honigmelone",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Obst waschen.",
+      "Ananas schälen, Strunk entfernen und das Fruchtfleisch würfeln.",
+      "Kiwis schälen und in Scheiben schneiden.",
+      "Trauben halbieren (optional entkernen).",
+      "Honigmelone halbieren, Kerne entfernen und würfeln.",
+      "Alles in einer großen Schüssel mischen.",
+      "10 Minuten kalt stellen und servieren."
+    ],
+    "price_total_before_eur": 11.76,
+    "price_total_eur": 8.96,
+    "savings_percent": 23.8,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R033",
+    "name": "Winterlicher Obstsalat (Clementine–Apfel–Granatapfel)",
+    "ingredients": [
+      {
+        "name": "Kaufland — Clementinen (1-kg-Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O053",
+        "price_eur": 1.79,
+        "price_before_eur": 2.29,
+        "brand": "Kaufland",
+        "product": "Clementinen (1-kg-Netz)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Tafeläpfel »Pink Lady« (900-g-Packg.)",
+        "quantity": 900,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O068",
+        "price_eur": 1.99,
+        "price_before_eur": 2.99,
+        "brand": "Kaufland",
+        "product": "Tafeläpfel »Pink Lady« (900-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Granatapfel",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O055",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Granatapfel",
+        "note": null
+      },
+      {
+        "name": "LANDLIEBE — Konfitüre oder Fruchtcreme",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "LANDLIEBE",
+        "product": "Konfitüre oder Fruchtcreme",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Clementinen schälen und in Stücke teilen.",
+      "Äpfel waschen, entkernen und würfeln.",
+      "Granatapfel halbieren und Kerne herauslösen.",
+      "Alles in einer Schüssel mischen.",
+      "1–2 Löffel Konfitüre als fruchtige Sauce unterheben (optional).",
+      "Kurz ziehen lassen.",
+      "Kalt servieren."
+    ],
+    "price_total_before_eur": 9.26,
+    "price_total_eur": 6.26,
+    "savings_percent": 32.4,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R034",
+    "name": "Litschi-Beeren-Bowl",
+    "ingredients": [
+      {
+        "name": "Kaufland — Madagass. Litschi (lose)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 3.99,
+        "price_before_eur": 7.99,
+        "brand": "Kaufland",
+        "product": "Madagass. Litschi (lose)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Peruan. Kulturheidelbeeren",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 2.22,
+        "price_before_eur": 3.79,
+        "brand": "Kaufland",
+        "product": "Peruan. Kulturheidelbeeren",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Himbeeren",
+        "quantity": 125,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O056",
+        "price_eur": 1.99,
+        "price_before_eur": 2.79,
+        "brand": "Kaufland",
+        "product": "Himbeeren",
+        "note": null
+      },
+      {
+        "name": "MÜLLER — Froop",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O067",
+        "price_eur": 0.39,
+        "price_before_eur": 0.39,
+        "brand": "MÜLLER",
+        "product": "Froop",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Litschis (lose Ware) schälen und entkernen (falls nötig).",
+      "Beeren waschen und abtropfen lassen.",
+      "Froop in eine Schüssel geben und die Früchte darüber verteilen.",
+      "Optional mit etwas Konfitüre süßen.",
+      "Kurz mischen oder geschichtet lassen.",
+      "5 Minuten kalt stellen.",
+      "Servieren."
+    ],
+    "price_total_before_eur": 14.96,
+    "price_total_eur": 8.59,
+    "savings_percent": 42.6,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R035",
+    "name": "Trauben-Heidelbeer-Kefir-Snack",
+    "ingredients": [
+      {
+        "name": "Kaufland — Tafeltrauben, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O052",
+        "price_eur": 1.99,
+        "price_before_eur": 2.79,
+        "brand": "Kaufland",
+        "product": "Tafeltrauben, rot",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Peruan. Kulturheidelbeeren",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 2.22,
+        "price_before_eur": 3.79,
+        "brand": "Kaufland",
+        "product": "Peruan. Kulturheidelbeeren",
+        "note": null
+      },
+      {
+        "name": "MÜLLER — Kefir oder Ayran",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O018",
+        "price_eur": 0.79,
+        "price_before_eur": 1.29,
+        "brand": "MÜLLER",
+        "product": "Kefir oder Ayran",
+        "note": null
+      },
+      {
+        "name": "LANDLIEBE — Konfitüre oder Fruchtcreme",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O017",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "LANDLIEBE",
+        "product": "Konfitüre oder Fruchtcreme",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Trauben und Heidelbeeren waschen und gut abtropfen lassen.",
+      "Kefir in ein Schraubglas füllen.",
+      "Früchte dazugeben.",
+      "1–2 Löffel Konfitüre einrühren oder als Swirl obenauf geben.",
+      "Verschließen und kalt stellen.",
+      "Vor dem Essen kurz schütteln oder umrühren.",
+      "Kalt genießen."
+    ],
+    "price_total_before_eur": 10.36,
+    "price_total_eur": 6.49,
+    "savings_percent": 37.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R036",
+    "name": "Ananas-Kiwi-Smoothie",
+    "ingredients": [
+      {
+        "name": "Kaufland — Ananas XXL",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O054",
+        "price_eur": 2.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Ananas XXL",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Kiwis (4-St.-Packg.)",
+        "quantity": 4,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O058",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Kiwis (4-St.-Packg.)",
+        "note": null
+      },
+      {
+        "name": "AMECKE — Plus (1-l-Packg.)",
+        "quantity": 1,
+        "unit": "l",
+        "from_offer": true,
+        "offer_id": "O069",
+        "price_eur": 1.99,
+        "price_before_eur": 2.99,
+        "brand": "AMECKE",
+        "product": "Plus (1-l-Packg.)",
+        "note": null
+      },
+      {
+        "name": "ADELHOLZENER — Mineralwasser (1-l-PET-Fl.)",
+        "quantity": 1,
+        "unit": "l",
+        "from_offer": true,
+        "offer_id": "O070",
+        "price_eur": 0.49,
+        "price_before_eur": 0.49,
+        "brand": "ADELHOLZENER",
+        "product": "Mineralwasser (1-l-PET-Fl.)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Ananas schälen und in Stücke schneiden.",
+      "Kiwis schälen und grob schneiden.",
+      "Obst in einen Mixer geben.",
+      "Amecke Plus und einen Schluck Mineralwasser zugeben.",
+      "30–60 Sekunden mixen, bis es cremig ist.",
+      "Konsistenz mit mehr Wasser anpassen.",
+      "Kalt servieren."
+    ],
+    "price_total_before_eur": 9.46,
+    "price_total_eur": 7.46,
+    "savings_percent": 21.1,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R037",
+    "name": "Schinkenschnitzel mit Tomaten-Salat",
+    "ingredients": [
+      {
+        "name": "K-PURLAND — Schinkenschnitzel (600-g-Packg.)",
+        "quantity": 600,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O082",
+        "price_eur": 4.44,
+        "price_before_eur": 4.44,
+        "brand": "K-PURLAND",
+        "product": "Schinkenschnitzel (600-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Multicolor-Salat",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.29,
+        "price_before_eur": 1.79,
+        "brand": "Kaufland",
+        "product": "Multicolor-Salat",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Cocktailrispentomaten",
+        "quantity": 350,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O005",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Cocktailrispentomaten",
+        "note": null
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Schnitzel aus der Packung nehmen und trocken tupfen.",
+      "Pfanne erhitzen, etwas Öl zugeben und Schnitzel 3–4 Minuten je Seite braten.",
+      "Salat waschen und trocken schleudern.",
+      "Tomaten halbieren und mit dem Salat mischen.",
+      "Dressing unterheben und abschmecken.",
+      "Schnitzel kurz ruhen lassen.",
+      "Mit dem Salat servieren."
+    ],
+    "price_total_before_eur": 12.21,
+    "price_total_eur": 9.71,
+    "savings_percent": 20.5,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R038",
+    "name": "Hähnchen-Röllchen auf Paprika-Tomaten-Gemüse",
+    "ingredients": [
+      {
+        "name": "Kaufland — Hähnchen-Röllchen XXL (540-g-Packg.)",
+        "quantity": 540,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O083",
+        "price_eur": 4.99,
+        "price_before_eur": 4.99,
+        "brand": "Kaufland",
+        "product": "Hähnchen-Röllchen XXL (540-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Spitzpaprika, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O048",
+        "price_eur": 1.59,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Spitzpaprika, rot",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Span. Romatomaten",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Span. Romatomaten",
+        "note": null
+      },
+      {
+        "name": "RAPSGOLD — Reines Rapsöl",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O028",
+        "price_eur": 2.99,
+        "price_before_eur": 3.99,
+        "brand": "RAPSGOLD",
+        "product": "Reines Rapsöl",
+        "note": "Flasche 500–750 ml (hier: 750 ml)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Chili/Chiliflocken (optional)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Chili/Chiliflocken (optional)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Paprika und Tomaten waschen und in Stücke schneiden.",
+      "Öl in einer Pfanne erhitzen und Paprika 4 Minuten anbraten.",
+      "Tomaten zugeben und 6 Minuten schmoren lassen.",
+      "Hähnchen-Röllchen nach Packungshinweis in Scheiben schneiden und kurz mit anbraten.",
+      "Mit Salz/Pfeffer würzen und optional Chili zugeben.",
+      "Alles 2 Minuten ziehen lassen.",
+      "Heiß servieren."
+    ],
+    "price_total_before_eur": 12.46,
+    "price_total_eur": 10.56,
+    "savings_percent": 15.2,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R039",
+    "name": "Crispy Wings Bowl mit Salat & Tomaten",
+    "ingredients": [
+      {
+        "name": "Kaufland — Crispy Chicken Wings XXL (900-g-Packg.)",
+        "quantity": 900,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O084",
+        "price_eur": 5.99,
+        "price_before_eur": 5.99,
+        "brand": "Kaufland",
+        "product": "Crispy Chicken Wings XXL (900-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Multicolor-Salat",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.29,
+        "price_before_eur": 1.79,
+        "brand": "Kaufland",
+        "product": "Multicolor-Salat",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Cherryrispentomaten, rot",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O013",
+        "price_eur": 1.99,
+        "price_before_eur": 3.49,
+        "brand": "Kaufland",
+        "product": "Dtsch. Cherryrispentomaten, rot",
+        "note": null
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Wings nach Packungshinweis im Ofen oder Airfryer knusprig backen.",
+      "Salat waschen und trocken schleudern.",
+      "Tomaten halbieren und unter den Salat mischen.",
+      "Dressing zugeben und vermengen.",
+      "Wings 2 Minuten ruhen lassen.",
+      "Alles zusammen in einer Bowl anrichten.",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 13.26,
+    "price_total_eur": 11.26,
+    "savings_percent": 15.1,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R040",
+    "name": "Iberico-Burger-Patty mit Tomaten-Salsa",
+    "ingredients": [
+      {
+        "name": "WILLMS — Hamburger vom span. Iberico-Schwein (2 St.=230 g)",
+        "quantity": 230,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O085",
+        "price_eur": 3.99,
+        "price_before_eur": 3.99,
+        "brand": "WILLMS",
+        "product": "Hamburger vom span. Iberico-Schwein (2 St.=230 g)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Span. Romatomaten",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Span. Romatomaten",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Chili/Chiliflocken (optional)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Chili/Chiliflocken (optional)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Tomaten und Zwiebeln klein würfeln, mit Olivenöl, Salz und Pfeffer mischen (Salsa).",
+      "Burger-Patties in einer heißen Pfanne 3–4 Minuten je Seite braten.",
+      "Salsa kurz ziehen lassen und abschmecken (optional Chili).",
+      "Patties auf Teller geben.",
+      "Salsa darüber oder daneben anrichten.",
+      "Optional mit Salat servieren.",
+      "Sofort essen."
+    ],
+    "price_total_before_eur": 12.76,
+    "price_total_eur": 10.41,
+    "savings_percent": 18.4,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R041",
+    "name": "Rumpsteak-Salat mit Dressing",
+    "ingredients": [
+      {
+        "name": "K-PURLAND — Rumpsteak (ca. 300-g-Packg.)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O086",
+        "price_eur": 6.89,
+        "price_before_eur": 8.25,
+        "brand": "K-PURLAND",
+        "product": "Rumpsteak (ca. 300-g-Packg.)",
+        "note": "Preis aus kg-Angabe umgerechnet"
+      },
+      {
+        "name": "Kaufland — Multicolor-Salat",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.29,
+        "price_before_eur": 1.79,
+        "brand": "Kaufland",
+        "product": "Multicolor-Salat",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Span. Minigurken (Netz)",
+        "quantity": 750,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O045",
+        "price_eur": 2.49,
+        "price_before_eur": 3.49,
+        "brand": "Kaufland",
+        "product": "Span. Minigurken (Netz)",
+        "note": null
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Steak 20 Minuten vor dem Braten aus dem Kühlschrank nehmen.",
+      "Pfanne sehr heiß erhitzen, Steak salzen und 2–3 Minuten je Seite braten (je nach Dicke).",
+      "Steak 5 Minuten ruhen lassen und dann in Streifen schneiden.",
+      "Salat und Gurken waschen, Gurken in Scheiben schneiden.",
+      "Mit Dressing vermengen und auf Teller geben.",
+      "Steakstreifen darauflegen.",
+      "Mit Pfeffer abschmecken und servieren."
+    ],
+    "price_total_before_eur": 15.52,
+    "price_total_eur": 12.66,
+    "savings_percent": 18.4,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R042",
+    "name": "Fisch-Raclette-Pfanne mit Tomaten",
+    "ingredients": [
+      {
+        "name": "DEUTSCHE SEE — Raclette-Mix (350-g-Schale)",
+        "quantity": 350,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O087",
+        "price_eur": 4.99,
+        "price_before_eur": 4.99,
+        "brand": "DEUTSCHE SEE",
+        "product": "Raclette-Mix (350-g-Schale)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Cocktailrispentomaten",
+        "quantity": 350,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O005",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Cocktailrispentomaten",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Chili/Chiliflocken (optional)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Chili/Chiliflocken (optional)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Öl in einer Pfanne erhitzen.",
+      "Tomaten halbieren und 3–4 Minuten anbraten.",
+      "Tomatenmark einrühren und kurz mitrösten.",
+      "Raclette-Mix zugeben und 3–5 Minuten garen (je nach Inhalt).",
+      "Mit Salz/Pfeffer und optional Chili würzen.",
+      "2 Minuten ziehen lassen.",
+      "Heiß servieren."
+    ],
+    "price_total_before_eur": 15.92,
+    "price_total_eur": 12.11,
+    "savings_percent": 23.9,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R043",
+    "name": "Ofen-Raclette mit Tomaten & Patros",
+    "ingredients": [
+      {
+        "name": "LE RUSTIQUE — Raclette Käsescheiben",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O009",
+        "price_eur": 3.29,
+        "price_before_eur": 5.99,
+        "brand": "LE RUSTIQUE",
+        "product": "Raclette Käsescheiben",
+        "note": "Packung 360–400 g (hier: 400 g)"
+      },
+      {
+        "name": "Kaufland — Dtsch. Rispentomaten",
+        "quantity": 650,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O006",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Rispentomaten",
+        "note": null
+      },
+      {
+        "name": "PATROS — Salzlakenkäse",
+        "quantity": 180,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O007",
+        "price_eur": 1.69,
+        "price_before_eur": 3.29,
+        "brand": "PATROS",
+        "product": "Salzlakenkäse",
+        "note": "Packung 130–180 g (hier: 180 g)"
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C vorheizen.",
+      "Tomaten und Zwiebeln in Scheiben schneiden und in eine Auflaufform legen.",
+      "Patros über das Gemüse bröseln.",
+      "Raclette-Käse darüber legen.",
+      "Mit etwas Öl beträufeln und würzen.",
+      "20 Minuten backen, bis der Käse goldbraun ist.",
+      "Kurz ruhen lassen und servieren."
+    ],
+    "price_total_before_eur": 14.56,
+    "price_total_eur": 7.96,
+    "savings_percent": 45.3,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R044",
+    "name": "Tomaten-Paprika-Pasta mit Fol Epi",
+    "ingredients": [
+      {
+        "name": "BARILLA — Collezione oder Al Bronzo Pasta",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O016",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "BARILLA",
+        "product": "Collezione oder Al Bronzo Pasta",
+        "note": "Packung 250–500 g (hier: 500 g)"
+      },
+      {
+        "name": "Kaufland — Spitzpaprika, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O048",
+        "price_eur": 1.59,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Spitzpaprika, rot",
+        "note": null
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "FOL EPI — Franz. Schnittkäse",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 1.39,
+        "price_before_eur": 2.79,
+        "brand": "FOL EPI",
+        "product": "Franz. Schnittkäse",
+        "note": "Packung 100–150 g (hier: 150 g)"
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Einen großen Topf mit reichlich Salzwasser zum Kochen bringen.",
+      "Pasta nach Packungsangabe al dente kochen und dabei 1 Tasse Kochwasser aufheben.",
+      "In einer Pfanne Öl erhitzen, Zwiebeln (optional) glasig anschwitzen.",
+      "Passierte Tomaten und Tomatenmark einrühren, 8–10 Minuten sanft köcheln lassen.",
+      "Feta/Salzlakenkäse zerbröseln und zur Sauce geben (einen Teil zum Bestreuen zurückhalten).",
+      "Pasta in die Sauce geben, mit etwas Kochwasser cremig ziehen und abschmecken (Salz/Pfeffer/Chili).",
+      "Mit restlichem Käse bestreuen und sofort servieren."
+    ],
+    "price_total_before_eur": 10.81,
+    "price_total_eur": 7.15,
+    "savings_percent": 33.9,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R045",
+    "name": "Pasta al Forno (Tomate & Raclette)",
+    "ingredients": [
+      {
+        "name": "BARILLA — Collezione oder Al Bronzo Pasta",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O016",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "BARILLA",
+        "product": "Collezione oder Al Bronzo Pasta",
+        "note": "Packung 250–500 g (hier: 500 g)"
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "LE RUSTIQUE — Raclette Käsescheiben",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O009",
+        "price_eur": 3.29,
+        "price_before_eur": 5.99,
+        "brand": "LE RUSTIQUE",
+        "product": "Raclette Käsescheiben",
+        "note": "Packung 360–400 g (hier: 400 g)"
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C vorheizen.",
+      "Pasta 2 Minuten kürzer als al dente kochen und abgießen.",
+      "In einer Schüssel Passata mit Tomatenmark und etwas Öl verrühren, würzen.",
+      "Pasta untermischen und in eine Auflaufform geben.",
+      "Raclette-Käse darüberlegen.",
+      "15–20 Minuten backen, bis der Käse goldbraun ist.",
+      "5 Minuten ruhen lassen und servieren."
+    ],
+    "price_total_before_eur": 18.01,
+    "price_total_eur": 11.9,
+    "savings_percent": 33.9,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R046",
+    "name": "Pasta mit Comté & Tomaten",
+    "ingredients": [
+      {
+        "name": "BARILLA — Collezione oder Al Bronzo Pasta",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O016",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "BARILLA",
+        "product": "Collezione oder Al Bronzo Pasta",
+        "note": "Packung 250–500 g (hier: 500 g)"
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "COMTÉ AOP — Franz. Hartkäse (Frischetheke, je 100 g)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O062",
+        "price_eur": 1.69,
+        "price_before_eur": 3.49,
+        "brand": "COMTÉ AOP",
+        "product": "Franz. Hartkäse (Frischetheke, je 100 g)",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Einen großen Topf mit reichlich Salzwasser zum Kochen bringen.",
+      "Pasta nach Packungsangabe al dente kochen und dabei 1 Tasse Kochwasser aufheben.",
+      "In einer Pfanne Öl erhitzen, Zwiebeln (optional) glasig anschwitzen.",
+      "Passierte Tomaten und Tomatenmark einrühren, 8–10 Minuten sanft köcheln lassen.",
+      "Feta/Salzlakenkäse zerbröseln und zur Sauce geben (einen Teil zum Bestreuen zurückhalten).",
+      "Pasta in die Sauce geben, mit etwas Kochwasser cremig ziehen und abschmecken (Salz/Pfeffer/Chili).",
+      "Mit restlichem Käse bestreuen und sofort servieren."
+    ],
+    "price_total_before_eur": 9.52,
+    "price_total_eur": 5.86,
+    "savings_percent": 38.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R047",
+    "name": "Pasta mit Schinken & Tomaten",
+    "ingredients": [
+      {
+        "name": "BARILLA — Collezione oder Al Bronzo Pasta",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O016",
+        "price_eur": 1.49,
+        "price_before_eur": 2.49,
+        "brand": "BARILLA",
+        "product": "Collezione oder Al Bronzo Pasta",
+        "note": "Packung 250–500 g (hier: 500 g)"
+      },
+      {
+        "name": "RÜGENWALDER MÜHLE — Mühlen-Schinken (100-g-Packg.)",
+        "quantity": 100,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O088",
+        "price_eur": 1.59,
+        "price_before_eur": 1.59,
+        "brand": "RÜGENWALDER MÜHLE",
+        "product": "Mühlen-Schinken (100-g-Packg.)",
+        "note": "Kaufland Card Preis möglich (1.59–1.79)"
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Pasta in Salzwasser al dente kochen; etwas Kochwasser aufheben.",
+      "Öl in einer großen Pfanne erhitzen und Fleisch scharf anbraten.",
+      "Zwiebeln und Paprika/Tomaten zugeben und 3–5 Minuten mitrösten.",
+      "Tomatenmark kurz mit anrösten, dann passierte Tomaten einrühren.",
+      "10–12 Minuten köcheln lassen, bis die Sauce sämig ist.",
+      "Pasta unterheben, bei Bedarf mit Kochwasser binden und kräftig abschmecken.",
+      "Optional mit Käse bestreuen und servieren."
+    ],
+    "price_total_before_eur": 8.91,
+    "price_total_eur": 6.75,
+    "savings_percent": 24.2,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R048",
+    "name": "Salami-Tomaten-Salat mit Dressing",
+    "ingredients": [
+      {
+        "name": "K-CLASSIC — Snack-Salami oder Mini-Kabanossi (250-g-Packg.)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O089",
+        "price_eur": 2.39,
+        "price_before_eur": 2.89,
+        "brand": "K-CLASSIC",
+        "product": "Snack-Salami oder Mini-Kabanossi (250-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Cherryrispentomaten, rot",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O013",
+        "price_eur": 1.99,
+        "price_before_eur": 3.49,
+        "brand": "Kaufland",
+        "product": "Dtsch. Cherryrispentomaten, rot",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Multicolor-Salat",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.29,
+        "price_before_eur": 1.79,
+        "brand": "Kaufland",
+        "product": "Multicolor-Salat",
+        "note": null
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Salat waschen und trocken schleudern.",
+      "Tomaten halbieren.",
+      "Snack-Salami in Scheiben schneiden.",
+      "Alles in einer Schüssel mischen.",
+      "Dressing unterheben und abschmecken.",
+      "5 Minuten ziehen lassen.",
+      "Servieren."
+    ],
+    "price_total_before_eur": 10.16,
+    "price_total_eur": 7.66,
+    "savings_percent": 24.6,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R049",
+    "name": "Leberwurst-Toast mit Tomaten",
+    "ingredients": [
+      {
+        "name": "HARRY — Toast",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O041",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "HARRY",
+        "product": "Toast",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Leberwurst (125-g-Packg.)",
+        "quantity": 125,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O090",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "K-CLASSIC",
+        "product": "Leberwurst (125-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Span. Romatomaten",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O044",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Span. Romatomaten",
+        "note": null
+      },
+      {
+        "name": "BECEL — Streichfett",
+        "quantity": 225,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O021",
+        "price_eur": 1.29,
+        "price_before_eur": 1.99,
+        "brand": "BECEL",
+        "product": "Streichfett",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Toast nach Wunsch toasten.",
+      "Becel dünn auf den Toast streichen.",
+      "Leberwurst darauf verteilen.",
+      "Tomaten in dünne Scheiben schneiden und auflegen.",
+      "Mit Pfeffer würzen.",
+      "Optional kurz unter den Grill geben, damit es warm wird.",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 6.06,
+    "price_total_eur": 4.56,
+    "savings_percent": 24.8,
+    "diet_categories": [
+      "Kalorienreich",
+      "High Protein",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R050",
+    "name": "Bresso-Tomaten-Dip mit Gurkensticks",
+    "ingredients": [
+      {
+        "name": "BRESSO — Frischkäse oder Frischkäsezubereitung",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O060",
+        "price_eur": 1.11,
+        "price_before_eur": 1.11,
+        "brand": "BRESSO",
+        "product": "Frischkäse oder Frischkäsezubereitung",
+        "note": "Packung 120–150 g (hier: 150 g)"
+      },
+      {
+        "name": "Kaufland — Span. Minigurken (Netz)",
+        "quantity": 750,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O045",
+        "price_eur": 2.49,
+        "price_before_eur": 3.49,
+        "brand": "Kaufland",
+        "product": "Span. Minigurken (Netz)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Dtsch. Cocktailrispentomaten",
+        "quantity": 350,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O005",
+        "price_eur": 1.99,
+        "price_before_eur": 3.99,
+        "brand": "Kaufland",
+        "product": "Dtsch. Cocktailrispentomaten",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Natives Olivenöl extra",
+        "quantity": 750,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O029",
+        "price_eur": 4.44,
+        "price_before_eur": 5.99,
+        "brand": "K-CLASSIC",
+        "product": "Natives Olivenöl extra",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Bresso in eine Schüssel geben.",
+      "Tomaten fein würfeln und unterrühren.",
+      "Mit etwas Olivenöl cremig rühren.",
+      "Gurken waschen und in Sticks schneiden.",
+      "Dip abschmecken (Salz/Pfeffer).",
+      "10 Minuten ziehen lassen.",
+      "Mit Gurkensticks servieren."
+    ],
+    "price_total_before_eur": 14.58,
+    "price_total_eur": 10.03,
+    "savings_percent": 31.2,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R051",
+    "name": "Milka-Haselnuss-Frühstück (Toast, Kefir & Apfel)",
+    "ingredients": [
+      {
+        "name": "HARRY — Toast",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O041",
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "HARRY",
+        "product": "Toast",
+        "note": null
+      },
+      {
+        "name": "MILKA — Haselnusscreme (600-g-Glas)",
+        "quantity": 600,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O072",
+        "price_eur": 3.33,
+        "price_before_eur": 4.89,
+        "brand": "MILKA",
+        "product": "Haselnusscreme (600-g-Glas)",
+        "note": null
+      },
+      {
+        "name": "MÜLLER — Kefir oder Ayran",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O018",
+        "price_eur": 0.79,
+        "price_before_eur": 1.29,
+        "brand": "MÜLLER",
+        "product": "Kefir oder Ayran",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Tafeläpfel »Pink Lady« (900-g-Packg.)",
+        "quantity": 900,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O068",
+        "price_eur": 1.99,
+        "price_before_eur": 2.99,
+        "brand": "Kaufland",
+        "product": "Tafeläpfel »Pink Lady« (900-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Toast rösten.",
+      "Haselnusscreme auf den Toast streichen.",
+      "Apfel waschen, entkernen und in Spalten schneiden.",
+      "Kefir gut schütteln und in ein Glas gießen.",
+      "Toast mit Apfelspalten servieren.",
+      "Optional Apfel auf dem Toast belegen.",
+      "Genießen."
+    ],
+    "price_total_before_eur": 10.46,
+    "price_total_eur": 7.4,
+    "savings_percent": 29.3,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R052",
+    "name": "Walnuss-Granatapfel-Salat",
+    "ingredients": [
+      {
+        "name": "Kaufland — Multicolor-Salat",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O047",
+        "price_eur": 1.29,
+        "price_before_eur": 1.79,
+        "brand": "Kaufland",
+        "product": "Multicolor-Salat",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Granatapfel",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O055",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Granatapfel",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Walnusskerne (200-g-Packg.)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O073",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "K-CLASSIC",
+        "product": "Walnusskerne (200-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "KÜHNE — Dressing",
+        "quantity": 500,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "KÜHNE",
+        "product": "Dressing",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Salat waschen und trocken schleudern.",
+      "Granatapfelkerne herauslösen.",
+      "Walnüsse grob hacken.",
+      "Alles in eine Schüssel geben.",
+      "Dressing unterheben und mit Salz/Pfeffer abschmecken.",
+      "5 Minuten ziehen lassen.",
+      "Servieren."
+    ],
+    "price_total_before_eur": 7.26,
+    "price_total_eur": 6.26,
+    "savings_percent": 13.8,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R053",
+    "name": "Ravioli-Tomaten-Pfanne mit Käse",
+    "ingredients": [
+      {
+        "name": "MAGGI — Ravioli (800-g-Dose)",
+        "quantity": 800,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O091",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "MAGGI",
+        "product": "Ravioli (800-g-Dose)",
+        "note": null
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "FOL EPI — Franz. Schnittkäse",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 1.39,
+        "price_before_eur": 2.79,
+        "brand": "FOL EPI",
+        "product": "Franz. Schnittkäse",
+        "note": "Packung 100–150 g (hier: 150 g)"
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Ravioli in einen Topf geben und bei mittlerer Hitze erwärmen.",
+      "Tomatenmark einrühren und 2 Minuten mitköcheln lassen.",
+      "Passierte Tomaten zugeben und 5 Minuten sanft köcheln.",
+      "Fol Epi in Streifen schneiden und unterrühren, bis er schmilzt.",
+      "Mit Salz/Pfeffer würzen.",
+      "Heiß servieren.",
+      "Optional mit Kräutern toppen."
+    ],
+    "price_total_before_eur": 8.32,
+    "price_total_eur": 6.06,
+    "savings_percent": 27.2,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R054",
+    "name": "Veganer Tomaten-Gemüse-Eintopf",
+    "ingredients": [
+      {
+        "name": "MUTTI — Passierte Tomaten",
+        "quantity": 700,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.99,
+        "price_before_eur": 2.59,
+        "brand": "MUTTI",
+        "product": "Passierte Tomaten",
+        "note": "Flasche 700 g (Alternative: 3×200 g)"
+      },
+      {
+        "name": "K-CLASSIC — Tomatenmark (Tube)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O025",
+        "price_eur": 0.69,
+        "price_before_eur": 0.95,
+        "brand": "K-CLASSIC",
+        "product": "Tomatenmark (Tube)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zwiebeln, rot",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O050",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "Kaufland",
+        "product": "Zwiebeln, rot",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Zuckermais (2 Stück)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O051",
+        "price_eur": 1.49,
+        "price_before_eur": 2.29,
+        "brand": "Kaufland",
+        "product": "Zuckermais (2 Stück)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Spitzpaprika, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O048",
+        "price_eur": 1.59,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Spitzpaprika, rot",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Kräuter nach Wahl (z. B. Oregano/Basilikum)",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Zwiebeln würfeln, Paprika in Stücke schneiden.",
+      "Öl erhitzen und Zwiebeln 2 Minuten anschwitzen.",
+      "Paprika zugeben und 4 Minuten anbraten.",
+      "Tomatenmark einrühren und 1 Minute mitrösten.",
+      "Passierte Tomaten zugeben, Mais einrühren und 10 Minuten köcheln lassen.",
+      "Mit Salz/Pfeffer und Kräutern würzen.",
+      "Heiß servieren."
+    ],
+    "price_total_before_eur": 9.11,
+    "price_total_eur": 6.75,
+    "savings_percent": 25.9,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R055",
+    "name": "Clementine-Cola Mocktail mit Granatapfel",
+    "ingredients": [
+      {
+        "name": "COCA-COLA/FANTA/SPRITE/MEZZO MIX — Erfrischungsgetränk (1,25-l-PET-Fl.)",
+        "quantity": 1.25,
+        "unit": "l",
+        "from_offer": true,
+        "offer_id": "O080",
+        "price_eur": 0.79,
+        "price_before_eur": 1.59,
+        "brand": "COCA-COLA/FANTA/SPRITE/MEZZO MIX",
+        "product": "Erfrischungsgetränk (1,25-l-PET-Fl.)",
+        "note": "zzgl. Pfand"
+      },
+      {
+        "name": "Kaufland — Clementinen (1-kg-Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O053",
+        "price_eur": 1.79,
+        "price_before_eur": 2.29,
+        "brand": "Kaufland",
+        "product": "Clementinen (1-kg-Netz)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Granatapfel",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O055",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "Kaufland",
+        "product": "Granatapfel",
+        "note": null
+      },
+      {
+        "name": "ADELHOLZENER — Mineralwasser (1-l-PET-Fl.)",
+        "quantity": 1,
+        "unit": "l",
+        "from_offer": true,
+        "offer_id": "O070",
+        "price_eur": 0.49,
+        "price_before_eur": 0.49,
+        "brand": "ADELHOLZENER",
+        "product": "Mineralwasser (1-l-PET-Fl.)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Clementinen auspressen (oder Filets direkt ins Glas geben).",
+      "Granatapfelkerne ins Glas geben.",
+      "Mit ein paar Eiswürfeln auffüllen (optional).",
+      "Mit Mineralwasser und anschließend Cola aufgießen (nach Geschmack 1:1 oder 1:2).",
+      "Kurz umrühren.",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 5.86,
+    "price_total_eur": 4.06,
+    "savings_percent": 30.7,
+    "diet_categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R056",
+    "name": "Beeren-Sekt-Spritz (Silvester-Drink)",
+    "ingredients": [
+      {
+        "name": "ROTKÄPPCHEN — Sekt (0,75-l-Fl.)",
+        "quantity": 0.75,
+        "unit": "l",
+        "from_offer": true,
+        "offer_id": "O081",
+        "price_eur": 2.39,
+        "price_before_eur": 2.39,
+        "brand": "ROTKÄPPCHEN",
+        "product": "Sekt (0,75-l-Fl.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Himbeeren",
+        "quantity": 125,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O056",
+        "price_eur": 1.99,
+        "price_before_eur": 2.79,
+        "brand": "Kaufland",
+        "product": "Himbeeren",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Peruan. Kulturheidelbeeren",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 2.22,
+        "price_before_eur": 3.79,
+        "brand": "Kaufland",
+        "product": "Peruan. Kulturheidelbeeren",
+        "note": null
+      },
+      {
+        "name": "ADELHOLZENER — Mineralwasser (1-l-PET-Fl.)",
+        "quantity": 1,
+        "unit": "l",
+        "from_offer": true,
+        "offer_id": "O070",
+        "price_eur": 0.49,
+        "price_before_eur": 0.49,
+        "brand": "ADELHOLZENER",
+        "product": "Mineralwasser (1-l-PET-Fl.)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Beeren waschen und in ein großes Weinglas geben.",
+      "Mit einem kleinen Schluck Mineralwasser auffüllen.",
+      "Langsam mit Sekt aufgießen.",
+      "Kurz umrühren.",
+      "Optional mit Eis servieren.",
+      "Sofort genießen.",
+      "Für eine alkoholfreie Version: nur Mineralwasser + Amecke Plus."
+    ],
+    "price_total_before_eur": 9.46,
+    "price_total_eur": 7.09,
+    "savings_percent": 25.1,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R057",
+    "name": "Raffaello-Kokos-Dessert mit Froop",
+    "ingredients": [
+      {
+        "name": "RAFFAELLO — Kokos-Mandel-Konfekt (230-g-Packg.)",
+        "quantity": 230,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O076",
+        "price_eur": 2.99,
+        "price_before_eur": 4.39,
+        "brand": "RAFFAELLO",
+        "product": "Kokos-Mandel-Konfekt (230-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "MÜLLER — Froop",
+        "quantity": 150,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O067",
+        "price_eur": 0.39,
+        "price_before_eur": 0.39,
+        "brand": "MÜLLER",
+        "product": "Froop",
+        "note": null
+      },
+      {
+        "name": "DR. OETKER — Löffelglück Dessert",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O064",
+        "price_eur": 1.99,
+        "price_before_eur": 2.69,
+        "brand": "DR. OETKER",
+        "product": "Löffelglück Dessert",
+        "note": "Becher 400–500 g (hier: 500 g)"
+      },
+      {
+        "name": "Kaufland — Peruan. Kulturheidelbeeren",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O015",
+        "price_eur": 2.22,
+        "price_before_eur": 3.79,
+        "brand": "Kaufland",
+        "product": "Peruan. Kulturheidelbeeren",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Raffaello grob hacken (ein paar Stücke fürs Topping beiseite legen).",
+      "Froop und Löffelglück in Gläser schichten.",
+      "Gehacktes Raffaello dazwischen streuen.",
+      "Heidelbeeren obenauf geben.",
+      "Mit restlichem Raffaello toppen.",
+      "30 Minuten kalt stellen.",
+      "Kalt servieren."
+    ],
+    "price_total_before_eur": 11.26,
+    "price_total_eur": 7.59,
+    "savings_percent": 32.6,
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R058",
+    "name": "Merci-Schoko-Fruchtplatte",
+    "ingredients": [
+      {
+        "name": "MERCI — Lovelies (185-g-Packg.)",
+        "quantity": 185,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O077",
+        "price_eur": 2.49,
+        "price_before_eur": 3.49,
+        "brand": "MERCI",
+        "product": "Lovelies (185-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Tafeläpfel »Pink Lady« (900-g-Packg.)",
+        "quantity": 900,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O068",
+        "price_eur": 1.99,
+        "price_before_eur": 2.99,
+        "brand": "Kaufland",
+        "product": "Tafeläpfel »Pink Lady« (900-g-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Tafeltrauben, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O052",
+        "price_eur": 1.99,
+        "price_before_eur": 2.79,
+        "brand": "Kaufland",
+        "product": "Tafeltrauben, rot",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Clementinen (1-kg-Netz)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O053",
+        "price_eur": 1.79,
+        "price_before_eur": 2.29,
+        "brand": "Kaufland",
+        "product": "Clementinen (1-kg-Netz)",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Obst waschen. Clementinen schälen, Äpfel in Spalten schneiden.",
+      "Trauben dazugeben.",
+      "Alles auf einer Platte anrichten.",
+      "Merci Lovelies daneben legen.",
+      "Optional mit etwas Konfitüre als Dip servieren.",
+      "Als Dessert oder Snack servieren.",
+      "Reste abdecken."
+    ],
+    "price_total_before_eur": 11.56,
+    "price_total_eur": 8.26,
+    "savings_percent": 28.5,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R059",
+    "name": "Nimm2-Fruchtmix (Kids/Silvester-Snack)",
+    "ingredients": [
+      {
+        "name": "STORCK — Nimm2 Lachgummi (200–325 g)",
+        "quantity": 325,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O078",
+        "price_eur": 0.99,
+        "price_before_eur": 1.29,
+        "brand": "STORCK",
+        "product": "Nimm2 Lachgummi (200–325 g)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Honigmelone",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O057",
+        "price_eur": 1.99,
+        "price_before_eur": 2.99,
+        "brand": "Kaufland",
+        "product": "Honigmelone",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Kiwis (4-St.-Packg.)",
+        "quantity": 4,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O058",
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "Kaufland",
+        "product": "Kiwis (4-St.-Packg.)",
+        "note": null
+      },
+      {
+        "name": "Kaufland — Tafeltrauben, rot",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O052",
+        "price_eur": 1.99,
+        "price_before_eur": 2.79,
+        "brand": "Kaufland",
+        "product": "Tafeltrauben, rot",
+        "note": null
+      },
+      {
+        "name": "Salz",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Salz",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Pfeffer",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Pfeffer",
+        "note": "Basiszutat (nicht im Angebot)"
+      },
+      {
+        "name": "Wasser",
+        "quantity": null,
+        "unit": null,
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": null,
+        "product": "Wasser",
+        "note": "Basiszutat (nicht im Angebot)"
+      }
+    ],
+    "steps": [
+      "Obst waschen.",
+      "Honigmelone würfeln, Kiwis schälen und schneiden, Trauben halbieren.",
+      "Alles in eine Schüssel geben.",
+      "Nimm2 Lachgummi untermischen (oder obenauf streuen).",
+      "10 Minuten kalt stellen.",
+      "Servieren.",
+      "Für weniger Süße: Lachgummi separat anbieten."
+    ],
+    "price_total_before_eur": 9.06,
+    "price_total_eur": 6.96,
+    "savings_percent": 23.2,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  }
+]

@@ -1,0 +1,3750 @@
+[
+  {
+    "id": "R001",
+    "title": "Hähnchen-Pfanne mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Schenkel",
+        "brand": "MEINE METZGEREI",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 6.99,
+        "price_before_eur": 8.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 2,
+        "used_amount": 1000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 2,
+        "used_amount": 800.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchen-Schenkel in Stücke schneiden und in einer Pfanne mit Öl anbraten.",
+      "Paprika und Champignons hinzufügen und kurz mitbraten.",
+      "Zwiebel und Knoblauch hinzufügen und alles gut vermengen.",
+      "Mit Sojasauce abschmecken und für weitere 10 Minuten braten.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-stir-fry",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Sojasauce (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R001.png"
+  },
+  {
+    "id": "R002",
+    "title": "Gemüsesuppe mit frischen Zutaten",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Rispentomaten",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 2,
+        "used_amount": 1000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 2,
+        "used_amount": 1000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Gemüse klein schneiden und in einem großen Topf mit Öl anbraten.",
+      "Tomaten hinzufügen und mit Wasser aufgießen.",
+      "Suppe zum Kochen bringen und 20 Minuten köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-soup",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Karotte (2 Stk)",
+      "Zucchini (1 Stk)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R002.png"
+  },
+  {
+    "id": "R003",
+    "title": "Pasta-Salat mit frischen Zutaten",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 2,
+        "used_amount": 1000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen und abkühlen lassen.",
+      "Gemüse klein schneiden und mit der Pasta vermengen.",
+      "Mit Olivenöl und Gewürzen abschmecken.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pasta-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Olivenöl (3 EL)",
+      "Basilikum (1 Bund)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R003.png"
+  },
+  {
+    "id": "R004",
+    "title": "Hähnchen-Curry mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Schenkel",
+        "brand": "MEINE METZGEREI",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 6.99,
+        "price_before_eur": 8.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 2,
+        "used_amount": 1000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchen in Würfel schneiden und anbraten.",
+      "Gemüse hinzufügen und kurz mitbraten.",
+      "Kokosmilch und Currypaste hinzufügen und 20 Minuten köcheln lassen.",
+      "Mit Reis servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-curry",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Kokosmilch (400 ml)",
+      "Currypaste (2 EL)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R004.png"
+  },
+  {
+    "id": "R005",
+    "title": "Frucht-Smoothie mit Beeren",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Alle Zutaten in einen Mixer geben.",
+      "Gut pürieren, bis eine cremige Konsistenz erreicht ist.",
+      "In Gläser füllen und sofort servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruit-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Hafermilch (200 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R005.png"
+  },
+  {
+    "id": "R006",
+    "title": "Gefüllte Paprika mit Quinoa",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 2,
+        "used_amount": 1000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Quinoa nach Packungsanweisung kochen.",
+      "Gemüse klein schneiden und mit Quinoa vermengen.",
+      "Paprika aushöhlen und mit der Mischung füllen.",
+      "Im Ofen bei 180°C 25 Minuten backen."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "stuffed-peppers",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Quinoa (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R006.png"
+  },
+  {
+    "id": "R007",
+    "title": "Hähnchen-Salat mit frischen Zutaten",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Schenkel",
+        "brand": "MEINE METZGEREI",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 6.99,
+        "price_before_eur": 8.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchen braten und in Stücke schneiden.",
+      "Paprika und Salatmix in eine Schüssel geben.",
+      "Hähnchen hinzufügen und mit Olivenöl und Gewürzen abschmecken.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salatmix (200 g)",
+      "Olivenöl (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R007.png"
+  },
+  {
+    "id": "R008",
+    "title": "Quinoa-Bowl mit Gemüse",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 2,
+        "used_amount": 1000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Quinoa nach Packungsanweisung kochen.",
+      "Gemüse klein schneiden und in einer Pfanne anbraten.",
+      "Quinoa und Gemüse vermengen und mit Gewürzen abschmecken.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "quinoa-bowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Quinoa (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R008.png"
+  },
+  {
+    "id": "R009",
+    "title": "Frischer Obstsalat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Obst klein schneiden und in eine Schüssel geben.",
+      "Mit Zitronensaft beträufeln und gut vermengen.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruit-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Apfel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R009.png"
+  },
+  {
+    "id": "R010",
+    "title": "Schokoladen-Muffins",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Vegetarisch",
+      "Laktosefrei"
+    ],
+    "servings": 6,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Mehl, Zucker und Kakao in einer Schüssel vermengen.",
+      "Eier und Öl hinzufügen und gut verrühren.",
+      "In Muffinförmchen füllen und bei 180°C 20 Minuten backen.",
+      "Abkühlen lassen und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chocolate-muffins",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Mehl (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R010.png"
+  },
+  {
+    "id": "R011",
+    "title": "Hähnchen-Pfanne mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Stücke schneiden.",
+      "Paprika und Champignons putzen und in Streifen schneiden.",
+      "Zwiebel und Knoblauch fein hacken.",
+      "Öl in einer Pfanne erhitzen, Zwiebel und Knoblauch anbraten.",
+      "Hähnchenstücke hinzufügen und braten, bis sie durch sind.",
+      "Gemüse hinzufügen und kurz mitbraten.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-stir-fry-r011",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R011.png"
+  },
+  {
+    "id": "R012",
+    "title": "Gefüllte Spitzpaprika",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 2,
+        "used_amount": 1000.0,
+        "price_eur": 2.78,
+        "price_before_eur": 3.58
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Paprika halbieren und entkernen.",
+      "Champignons klein schneiden und in einer Pfanne anbraten.",
+      "Zwiebel und Knoblauch hinzufügen und mitbraten.",
+      "Die Mischung in die Paprikahälften füllen.",
+      "Im Ofen bei 180 Grad ca. 25 Minuten backen.",
+      "Mit Heidelbeeren servieren."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "stuffed-peppers-r012",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R012.png"
+  },
+  {
+    "id": "R013",
+    "title": "Hähnchen-Salat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet grillen und in Streifen schneiden.",
+      "Paprika und Champignons klein schneiden.",
+      "Alles in einer Schüssel vermengen.",
+      "Mit Zitronensaft, Salz und Pfeffer abschmecken.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-salad-r013",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Zitrone (1/2 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R013.png"
+  },
+  {
+    "id": "R014",
+    "title": "Gemüse-Pfanne",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Low Carb",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Paprika und Champignons in Streifen schneiden.",
+      "Öl in einer Pfanne erhitzen und das Gemüse anbraten.",
+      "Mit Salz und Pfeffer würzen.",
+      "Mit frischen Erdbeeren garnieren und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-stir-fry",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R014.png"
+  },
+  {
+    "id": "R015",
+    "title": "Hähnchen-Tacos",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und anbraten.",
+      "Paprika und Champignons klein schneiden und hinzufügen.",
+      "Taco-Schalen nach Packungsanweisung vorbereiten.",
+      "Hähnchen-Gemüse-Mischung in die Taco-Schalen füllen.",
+      "Mit Zwiebel garnieren und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-tacos",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Taco-Schalen (8 Stück)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R015.png"
+  },
+  {
+    "id": "R016",
+    "title": "Beeren-Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Alle Zutaten in einen Mixer geben.",
+      "Gut pürieren, bis eine homogene Masse entsteht.",
+      "In Gläser füllen und sofort servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "berry-smoothie",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Hafermilch (200 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R016.png"
+  },
+  {
+    "id": "R017",
+    "title": "Hähnchen-Suppe",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in einem Topf mit Wasser kochen.",
+      "Paprika und Champignons klein schneiden und hinzufügen.",
+      "Mit Salz und Pfeffer würzen und ca. 20 Minuten köcheln lassen.",
+      "Suppe heiß servieren."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-soup",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Wasser (1 l)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R017.png"
+  },
+  {
+    "id": "R018",
+    "title": "Gemüsesuppe",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Paprika und Champignons klein schneiden.",
+      "In einem Topf mit Wasser zum Kochen bringen.",
+      "Mit Salz und Pfeffer würzen und ca. 15 Minuten köcheln lassen.",
+      "Heiß servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-soup-r018",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Karotte (1 Stk)",
+      "Zucchini (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R018.png"
+  },
+  {
+    "id": "R019",
+    "title": "Hähnchen-Wraps",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Streifen schneiden und anbraten.",
+      "Paprika klein schneiden und hinzufügen.",
+      "Wraps nach Packungsanweisung vorbereiten.",
+      "Hähnchen-Gemüse-Mischung in die Wraps füllen.",
+      "Mit Zwiebel garnieren und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-wraps",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Wraps (4 Stück)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R019.png"
+  },
+  {
+    "id": "R020",
+    "title": "Hähnchen-Bowl",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und anbraten.",
+      "Paprika und Champignons klein schneiden und hinzufügen.",
+      "Reis nach Packungsanweisung kochen.",
+      "Hähnchen-Gemüse-Mischung auf dem Reis anrichten.",
+      "Mit Zwiebel garnieren und servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-bowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Reis (200 g)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R020.png"
+  },
+  {
+    "id": "R021",
+    "title": "Spicy Chicken Tacos",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Röstzwiebeln",
+        "brand": "AMERICAN",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.19,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und in einer Pfanne mit Öl anbraten.",
+      "Paprika und Zwiebel hinzufügen und kurz mitbraten.",
+      "Tacos füllen und mit Röstzwiebeln und Limettensaft garnieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "spicy-chicken-tacos",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Limette (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R021.png"
+  },
+  {
+    "id": "R022",
+    "title": "Herzhafter Hähnchensalat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Rispentomaten",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet grillen und in Streifen schneiden.",
+      "Tomaten und Champignons klein schneiden.",
+      "Alle Zutaten in einer Schüssel vermengen und mit Balsamico-Dressing anrichten."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "hearty-chicken-salad",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (100 g)",
+      "Olivenöl (2 EL)",
+      "Balsamico (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R022.png"
+  },
+  {
+    "id": "R023",
+    "title": "Gemüse-Pfanne",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Paprika und Champignons in Streifen schneiden.",
+      "In einer Pfanne Öl erhitzen und das Gemüse anbraten.",
+      "Mit Sojasauce und Gewürzen abschmecken."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-stir-fry-r023",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucchini (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Sojasauce (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R023.png"
+  },
+  {
+    "id": "R024",
+    "title": "Hähnchen-Pasta",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanleitung kochen.",
+      "Hähnchenbrustfilet anbraten und in Streifen schneiden.",
+      "Paprika und Champignons hinzufügen und kurz mitbraten.",
+      "Mit der Pasta vermengen und servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-pasta",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pasta (300 g)",
+      "Olivenöl (2 EL)",
+      "Parmesan (50 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R024.png"
+  },
+  {
+    "id": "R025",
+    "title": "Frucht-Smoothie",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Äpfel Elstar",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.69
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Alle Zutaten in einen Mixer geben.",
+      "Gut durchmixen, bis eine cremige Konsistenz erreicht ist.",
+      "In Gläser füllen und genießen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruit-smoothie-r025",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Honig (1 EL)",
+      "Joghurt (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R025.png"
+  },
+  {
+    "id": "R026",
+    "title": "Hähnchen-Curry",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und anbraten.",
+      "Paprika und Champignons hinzufügen und kurz mitbraten.",
+      "Kokosmilch und Currypaste hinzufügen und köcheln lassen.",
+      "Mit Reis servieren."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-curry-r026",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Kokosmilch (400 ml)",
+      "Currypaste (2 EL)",
+      "Reis (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R026.png"
+  },
+  {
+    "id": "R027",
+    "title": "Gefüllte Paprika",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Paprika aushöhlen.",
+      "Hähnchenbrustfilet und Champignons klein schneiden und anbraten.",
+      "Mit Reis und Gewürzen vermengen und in die Paprika füllen.",
+      "Im Ofen backen, bis die Paprika weich sind."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "stuffed-peppers-r027",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Reis (200 g)",
+      "Zwiebel (1 Stk)",
+      "Tomatensauce (200 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R027.png"
+  },
+  {
+    "id": "R028",
+    "title": "Hähnchen-Suppe",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und anbraten.",
+      "Gemüse klein schneiden und hinzufügen.",
+      "Mit Brühe aufgießen und köcheln lassen, bis alles gar ist."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-soup-r028",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Karotten (2 Stk)",
+      "Zwiebel (1 Stk)",
+      "Brühe (500 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R028.png"
+  },
+  {
+    "id": "R029",
+    "title": "Hähnchen-Bowl",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet anbraten und in Streifen schneiden.",
+      "Gemüse klein schneiden und in einer Schüssel anrichten.",
+      "Mit Quinoa und Koriander garnieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-bowl-r029",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Quinoa (200 g)",
+      "Zucchini (1 Stk)",
+      "Koriander (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R029.png"
+  },
+  {
+    "id": "R030",
+    "title": "Hähnchen-Wraps",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet anbraten und in Streifen schneiden.",
+      "Paprika und Champignons klein schneiden.",
+      "Wraps füllen und mit Salat und Sour Cream servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-wraps-r030",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Wraps (4 Stk)",
+      "Salat (100 g)",
+      "Sour Cream (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R030.png"
+  },
+  {
+    "id": "R031",
+    "title": "Hähnchen-Pfanne mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und in einer Pfanne mit Öl anbraten.",
+      "Zwiebel und Knoblauch hinzufügen und kurz mitbraten.",
+      "Paprika und Champignons dazugeben und alles gut anbraten.",
+      "Mit Sojasauce abschmecken und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-stir-fry-r031",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Sojasauce (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R031.png"
+  },
+  {
+    "id": "R032",
+    "title": "Gemüse-Pfanne mit Tofu",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Low Carb",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Tofu",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "Trauben hell, kernlos",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Tofu in Würfel schneiden und in einer Pfanne mit Öl anbraten.",
+      "Zucchini und Karotten hinzufügen und kurz mitbraten.",
+      "Mit Sojasauce abschmecken und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-stir-fry-r032",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucchini (1 Stk)",
+      "Karotten (2 Stk)",
+      "Sojasauce (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R032.png"
+  },
+  {
+    "id": "R033",
+    "title": "Hähnchen-Salat mit Feta",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Laktosefrei",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "Rispentomaten",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "Feta-Käse",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet grillen und in Streifen schneiden.",
+      "Tomaten und Feta in eine Schüssel geben.",
+      "Hähnchenstreifen hinzufügen und mit Balsamico abschmecken."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-salad-r033",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Oliven (100 g)",
+      "Zwiebel (1 Stk)",
+      "Balsamico (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R033.png"
+  },
+  {
+    "id": "R034",
+    "title": "Pasta mit Hähnchen und Spinat",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Spinat",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Pasta",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanleitung kochen.",
+      "Hähnchenbrustfilet anbraten und in Streifen schneiden.",
+      "Spinat und Knoblauch in der Pfanne anbraten, dann Hähnchen und Pasta hinzufügen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pasta-with-chicken",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Pfeffer (1 TL)",
+      "Olivenöl (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R034.png"
+  },
+  {
+    "id": "R035",
+    "title": "Hähnchen-Tacos mit Salsa",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "Rispentomaten",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "Tortillas",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet anbraten und in Streifen schneiden.",
+      "Tomaten und Zwiebel würfeln und mit Koriander mischen.",
+      "Tortillas erwärmen, Hähnchen und Salsa darauf geben und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-tacos-r035",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Koriander (1 Bund)",
+      "Limette (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R035.png"
+  },
+  {
+    "id": "R036",
+    "title": "Hähnchen-Curry mit Reis",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "Reis",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Kokosmilch",
+        "brand": "ALDI",
+        "unit": "ml",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und anbraten.",
+      "Zwiebel und Knoblauch hinzufügen und kurz mitbraten.",
+      "Kokosmilch und Currypaste dazugeben, köcheln lassen und mit Reis servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-curry-r036",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Currypaste (2 EL)",
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R036.png"
+  },
+  {
+    "id": "R037",
+    "title": "Hähnchen-Burger mit Avocado",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "Brioche-Burger-Buns",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 450,
+        "packs_used": 1,
+        "used_amount": 450.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "Avocado",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet grillen und in Scheiben schneiden.",
+      "Brötchen aufschneiden und mit Avocado, Salat und Tomate belegen.",
+      "Hähnchen darauflegen und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-burger",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Salat (1 Handvoll)",
+      "Tomate (1 Stk)",
+      "Mayonnaise (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R037.png"
+  },
+  {
+    "id": "R038",
+    "title": "Hähnchen-Suppe mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O022",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O023",
+        "name": "Karotten",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O024",
+        "name": "Zucchini",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Würfel schneiden und in einem Topf anbraten.",
+      "Karotten und Zucchini hinzufügen und kurz mitbraten.",
+      "Mit Wasser aufgießen, würzen und köcheln lassen."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-soup-r038",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R038.png"
+  },
+  {
+    "id": "R039",
+    "title": "Hähnchen-Quesadillas",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O025",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O026",
+        "name": "Tortillas",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O027",
+        "name": "Käse",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet anbraten und in Streifen schneiden.",
+      "Tortillas mit Hähnchen, Paprika und Käse füllen.",
+      "In einer Pfanne goldbraun braten und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-quesadillas",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Paprika (1 Stk)",
+      "Zwiebel (1 Stk)",
+      "Sour Cream (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R039.png"
+  },
+  {
+    "id": "R040",
+    "title": "Hähnchen-Fajitas",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O028",
+        "name": "Hähnchenbrustfilet",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O029",
+        "name": "Paprika",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O030",
+        "name": "Zwiebel",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchenbrustfilet in Streifen schneiden und anbraten.",
+      "Paprika und Zwiebel hinzufügen und mitbraten.",
+      "In Tortillas füllen und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-fajitas",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tortillas (4 Stk)",
+      "Koriander (1 Bund)",
+      "Limette (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R040.png"
+  },
+  {
+    "id": "R041",
+    "title": "Hähnchen-Gemüse-Pfanne",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Schenkel",
+        "brand": "MEINE METZGEREI",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 6.99,
+        "price_before_eur": 8.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 5,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchen-Schenkel in Stücke schneiden und in einer Pfanne mit Öl anbraten.",
+      "Paprika und Champignons hinzufügen und kurz mitbraten.",
+      "Zwiebel und Knoblauch dazugeben und alles gut vermischen.",
+      "Mit Sojasauce abschmecken und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-stir-fry-r041",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Sojasauce (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R041.png"
+  },
+  {
+    "id": "R042",
+    "title": "Hähnchen-Salat mit Paprika",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienarm"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Schenkel",
+        "brand": "MEINE METZGEREI",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 6.99,
+        "price_before_eur": 8.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Rispentomaten",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 2,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchen-Schenkel grillen und in Streifen schneiden.",
+      "Paprika und Tomaten würfeln und in einer Schüssel vermengen.",
+      "Hähnchenstreifen hinzufügen und mit Olivenöl und Balsamico anmachen.",
+      "Mit Petersilie garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-salad-r042",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Olivenöl (2 EL)",
+      "Balsamico (1 EL)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R042.png"
+  },
+  {
+    "id": "R043",
+    "title": "Hähnchen-Curry mit Gemüse",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Hähnchen-Schenkel",
+        "brand": "MEINE METZGEREI",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 6.99,
+        "price_before_eur": 8.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 5,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hähnchen-Schenkel in Würfel schneiden und anbraten.",
+      "Paprika und Champignons hinzufügen und kurz mitbraten.",
+      "Currypaste und Kokosmilch hinzufügen und köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-curry-r043",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Kokosmilch (400 ml)",
+      "Currypaste (2 EL)",
+      "Zwiebel (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R043.png"
+  },
+  {
+    "id": "R044",
+    "title": "Gemüse-Pfanne mit Tofu",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 5,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Tofu",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 5,
+        "used_amount": 2000.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Tofu in Würfel schneiden und anbraten.",
+      "Paprika und Champignons hinzufügen und kurz mitbraten.",
+      "Ingwer und Knoblauch dazugeben und alles gut vermischen.",
+      "Mit Sojasauce abschmecken und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegetable-stir-fry-r044",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Sojasauce (2 EL)",
+      "Ingwer (1 Stück)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R044.png"
+  },
+  {
+    "id": "R045",
+    "title": "Frischer Obstsalat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Äpfel Elstar",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 2,
+        "used_amount": 2000.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Erdbeeren und Heidelbeeren waschen und in eine Schüssel geben.",
+      "Äpfel würfeln und hinzufügen.",
+      "Mit Zitronensaft, Honig und Minze anmachen und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fruit-salad-r045",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zitrone (1 Stk)",
+      "Minze (1 Bund)",
+      "Honig (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R045.png"
+  },
+  {
+    "id": "R046",
+    "title": "Gefüllte Paprika mit Hackfleisch",
+    "description": "",
+    "categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Gemischtes Hackfleisch",
+        "brand": "FAIR & GUT",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 4.39,
+        "price_before_eur": 5.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 5,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Hackfleisch in einer Pfanne anbraten.",
+      "Paprika aushöhlen und mit der Hackfleischmischung füllen.",
+      "Paprika in eine Auflaufform setzen und im Ofen backen.",
+      "Mit Reis servieren."
+    ],
+    "duration_minutes": 40,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "stuffed-peppers-r046",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)",
+      "Reis (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R046.png"
+  },
+  {
+    "id": "R047",
+    "title": "Pasta-Salat mit Gemüse",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Rispentomaten",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 2,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 5,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Pasta nach Packungsanweisung kochen.",
+      "Paprika, Tomaten und Champignons würfeln.",
+      "Gemüse mit der abgekühlten Pasta vermengen.",
+      "Mit Olivenöl und Basilikum anmachen und servieren."
+    ],
+    "duration_minutes": 25,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pasta-salad-r047",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pasta (200 g)",
+      "Olivenöl (2 EL)",
+      "Basilikum (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R047.png"
+  },
+  {
+    "id": "R048",
+    "title": "Veganer Burger mit Gemüse",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Spitzpaprika rot",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Champignons weiß",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 5,
+        "used_amount": 2000.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.79
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Tofu",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 5,
+        "used_amount": 2000.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Tofu zerdrücken und mit gewürfeltem Gemüse vermengen.",
+      "Die Mischung zu Patties formen und braten.",
+      "Burgerbrötchen aufschneiden und mit Salat und Tomate belegen.",
+      "Die Patties darauflegen und servieren."
+    ],
+    "duration_minutes": 35,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "vegan-burger",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Burgerbrötchen (4 Stück)",
+      "Salat (1 Kopf)",
+      "Tomate (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R048.png"
+  },
+  {
+    "id": "R049",
+    "title": "Smoothie-Bowl mit Früchten",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Erdbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Heidelbeeren",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 4,
+        "used_amount": 2000.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Äpfel Elstar",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 2,
+        "used_amount": 2000.0,
+        "price_eur": 2.49,
+        "price_before_eur": 3.49
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Erdbeeren, Heidelbeeren und Äpfel pürieren.",
+      "In Schalen füllen und mit Banane, Haferflocken und Chiasamen garnieren.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "smoothie-bowl",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Haferflocken (50 g)",
+      "Chiasamen (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R049.png"
+  },
+  {
+    "id": "R050",
+    "title": "Ofenkartoffeln mit Kräuterquark",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Kartoffeln",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 2,
+        "used_amount": 2000.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "Bio-Naturjoghurt",
+        "brand": "ALDI",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 10,
+        "used_amount": 2000.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.59
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Kartoffeln gründlich waschen und im Ofen backen.",
+      "Naturjoghurt mit Schnittlauch und Knoblauch vermengen.",
+      "Kartoffeln aus dem Ofen nehmen, aufschneiden und mit Kräuterquark servieren."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "ALDI_SUED",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "baked-potatoes",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Schnittlauch (1 Bund)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/aldi_sued_R050.png"
+  }
+]

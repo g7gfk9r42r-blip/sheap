@@ -1,0 +1,222 @@
+[
+  {
+    "id": "penny-1",
+    "title": "Würstchen im Bierteig",
+    "description": "Knusprige Würstchen im herzhaften Bierteig, perfekt für einen Snack.",
+    "supermarket": "PENNY",
+    "estimated_total_time_minutes": 30,
+    "portions": 4,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "herzhaft",
+      "snack"
+    ],
+    "total_cost": 7.37,
+    "total_cost_original": 9.37,
+    "savings_total": 2.0,
+    "cost_per_portion": 1.84,
+    "ingredients": [
+      {
+        "name": "MÜHLENHOF Delikatess Wiener Würstchen",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "MÜHLENHOF Delikatess Wiener Würstchen",
+        "offer_price": 2.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "MÜHLENHOF",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123456",
+        "barcode_ean": "4012345678901"
+      },
+      {
+        "name": "TUBORG Pilsener",
+        "amount": "0.568 l",
+        "is_offer_product": true,
+        "offer_title_match": "TUBORG Pilsener",
+        "offer_price": 0.89,
+        "original_price": 1.95,
+        "discount_percent": 15,
+        "brand": "TUBORG",
+        "package_size": "0.568 l",
+        "supermarket_location": "Getränke",
+        "article_number": "123457",
+        "barcode_ean": "4012345678902"
+      },
+      {
+        "name": "Mehl",
+        "amount": "200g",
+        "is_offer_product": false
+      },
+      {
+        "name": "Ei",
+        "amount": "1 Stück",
+        "is_offer_product": false
+      },
+      {
+        "name": "Salz",
+        "amount": "1 Prise",
+        "is_offer_product": false
+      },
+      {
+        "name": "Pfeffer",
+        "amount": "1 Prise",
+        "is_offer_product": false
+      },
+      {
+        "name": "Öl",
+        "amount": "Zum Frittieren",
+        "is_offer_product": false
+      }
+    ],
+    "steps": [
+      "Mehl, Ei, Salz und Pfeffer in einer Schüssel vermengen.",
+      "Langsam das TUBORG Pilsener unterrühren, bis ein glatter Teig entsteht.",
+      "Die Würstchen in den Teig tauchen, bis sie vollständig bedeckt sind.",
+      "Öl in einer Pfanne erhitzen und die Würstchen darin goldbraun frittieren.",
+      "Auf Küchenpapier abtropfen lassen und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "penny-2",
+    "title": "Gin Tonic mit Bitter Lemon",
+    "description": "Erfrischender Gin Tonic mit einem Hauch von Bitter Lemon.",
+    "supermarket": "PENNY",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "erfrischend",
+      "getränk",
+      "schnell"
+    ],
+    "total_cost": 18.48,
+    "total_cost_original": 20.28,
+    "savings_total": 1.8,
+    "cost_per_portion": 9.24,
+    "ingredients": [
+      {
+        "name": "BOMBAY SAPPHIRE London Dry Gin",
+        "amount": "100 ml",
+        "is_offer_product": true,
+        "offer_title_match": "BOMBAY SAPPHIRE London Dry Gin",
+        "offer_price": 16.99,
+        "original_price": 14.99,
+        "discount_percent": 26,
+        "brand": "BOMBAY SAPPHIRE",
+        "package_size": "0.7 l",
+        "supermarket_location": "Getränke",
+        "article_number": "123458",
+        "barcode_ean": "4012345678903"
+      },
+      {
+        "name": "SCHWEPPES Bittergetränk",
+        "amount": "250 ml",
+        "is_offer_product": true,
+        "offer_title_match": "SCHWEPPES Bittergetränk",
+        "offer_price": 1.49,
+        "original_price": 3.29,
+        "discount_percent": 21,
+        "brand": "SCHWEPPES",
+        "package_size": "1.25 l",
+        "supermarket_location": "Getränke",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      },
+      {
+        "name": "Eiswürfel",
+        "amount": "Nach Belieben",
+        "is_offer_product": false
+      },
+      {
+        "name": "Limettenscheiben",
+        "amount": "2 Scheiben",
+        "is_offer_product": false
+      }
+    ],
+    "steps": [
+      "Eiswürfel in zwei Gläser füllen.",
+      "Jeweils 50 ml BOMBAY SAPPHIRE London Dry Gin in die Gläser gießen.",
+      "Mit SCHWEPPES Bittergetränk auffüllen.",
+      "Mit einer Limettenscheibe garnieren und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "penny-3",
+    "title": "Aperol Spritz",
+    "description": "Ein klassischer Aperol Spritz für entspannte Abende.",
+    "supermarket": "PENNY",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "klassisch",
+      "getränk",
+      "schnell"
+    ],
+    "total_cost": 12.28,
+    "total_cost_original": 14.48,
+    "savings_total": 2.2,
+    "cost_per_portion": 6.14,
+    "ingredients": [
+      {
+        "name": "APEROL Aperitif-Bitter",
+        "amount": "100 ml",
+        "is_offer_product": true,
+        "offer_title_match": "APEROL Aperitif-Bitter",
+        "offer_price": 9.49,
+        "original_price": 10.99,
+        "discount_percent": 29,
+        "brand": "APEROL",
+        "package_size": "0.7 l",
+        "supermarket_location": "Getränke",
+        "article_number": "123460",
+        "barcode_ean": "4012345678905"
+      },
+      {
+        "name": "ROTKÄPPCHEN Sekt",
+        "amount": "200 ml",
+        "is_offer_product": true,
+        "offer_title_match": "ROTKÄPPCHEN Sekt",
+        "offer_price": 2.79,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "ROTKÄPPCHEN",
+        "package_size": "0.75 l",
+        "supermarket_location": "Getränke",
+        "article_number": "123461",
+        "barcode_ean": "4012345678906"
+      },
+      {
+        "name": "Sodawasser",
+        "amount": "100 ml",
+        "is_offer_product": false
+      },
+      {
+        "name": "Orangenscheiben",
+        "amount": "2 Scheiben",
+        "is_offer_product": false
+      },
+      {
+        "name": "Eiswürfel",
+        "amount": "Nach Belieben",
+        "is_offer_product": false
+      }
+    ],
+    "steps": [
+      "Eiswürfel in zwei Gläser füllen.",
+      "Jeweils 50 ml APEROL Aperitif-Bitter in die Gläser gießen.",
+      "Mit 100 ml ROTKÄPPCHEN Sekt auffüllen.",
+      "Jeweils 50 ml Sodawasser hinzufügen.",
+      "Mit einer Orangenscheibe garnieren und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  }
+]

@@ -1,0 +1,1833 @@
+[
+  {
+    "id": "lidl-1",
+    "title": "Raclette-Speck-Kartoffelauflauf",
+    "description": "Herzhafter Kartoffelauflauf mit Raclette-Speck und Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 40,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "herzhaft",
+      "ofen",
+      "winter"
+    ],
+    "total_cost": 9.56,
+    "total_cost_original": 12.45,
+    "savings_total": 2.89,
+    "cost_per_portion": 2.39,
+    "ingredients": [
+      {
+        "name": "Deluxe Raclette-Speck",
+        "amount": "140 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Raclette-Speck",
+        "offer_price": 2.79,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "140 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Strähl Schweizer Raclette Käse",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Strähl Schweizer Raclette Käse",
+        "offer_price": 3.19,
+        "original_price": 4.49,
+        "discount_percent": 28,
+        "brand": "Strähl",
+        "package_size": "200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Harvest Basket Wellenschnitt Pommes XXL",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Harvest Basket Wellenschnitt Pommes XXL",
+        "offer_price": 2.99,
+        "original_price": 3.69,
+        "discount_percent": 19,
+        "brand": "Harvest Basket",
+        "package_size": "2.5 kg",
+        "supermarket_location": "Tiefkühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Kartoffeln schälen und in Scheiben schneiden.",
+      "Pommes in einer Auflaufform verteilen.",
+      "Raclette-Speck darüber legen.",
+      "Mit Raclette-Käse bestreuen.",
+      "Im Ofen bei 180°C ca. 30 Minuten backen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/lidl-1.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "lidl-2",
+    "title": "Büffelburatta mit Serrano und Zaziki",
+    "description": "Frische Büffelburatta mit Serrano-Schinken und cremigem Zaziki.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frisch",
+      "sommer",
+      "schnell"
+    ],
+    "total_cost": 6.66,
+    "total_cost_original": 8.87,
+    "savings_total": 2.21,
+    "cost_per_portion": 3.33,
+    "ingredients": [
+      {
+        "name": "Deluxe Büffelburatta",
+        "amount": "125 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Büffelburatta",
+        "offer_price": 2.19,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "125 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Deluxe Paleta Serrana Reserva",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Paleta Serrana Reserva",
+        "offer_price": 44.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "375 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Apostels Zaziki",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "Apostels Zaziki",
+        "offer_price": 1.88,
+        "original_price": 2.69,
+        "discount_percent": 30,
+        "brand": "Apostels",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Büffelburatta auf einem Teller anrichten.",
+      "Serrano-Schinken in Scheiben schneiden und dazugeben.",
+      "Zaziki als Dip dazu servieren.",
+      "Mit Salz und Pfeffer abschmecken."
+    ],
+    "image_path": "server/media/recipe_images/unknown/lidl-2.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "lidl-3",
+    "title": "Salami-Bagel mit Joghurt-Dip",
+    "description": "Knuspriger Bagel belegt mit Salami und einem erfrischenden Joghurt-Dip.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "einfach"
+    ],
+    "total_cost": 5.67,
+    "total_cost_original": 7.89,
+    "savings_total": 2.22,
+    "cost_per_portion": 2.84,
+    "ingredients": [
+      {
+        "name": "Deluxe Salami",
+        "amount": "80 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Salami",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "80 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Bagels",
+        "amount": "2 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Bagels",
+        "offer_price": 1.69,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "340 g",
+        "supermarket_location": "Backwaren",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Joghurt mild XXL",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Joghurt mild XXL",
+        "offer_price": 1.59,
+        "original_price": 1.99,
+        "discount_percent": 19,
+        "brand": "Milbona",
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Bagels halbieren und toasten.",
+      "Salami auf die Bagelhälften legen.",
+      "Joghurt in eine Schüssel geben und mit Salz, Pfeffer und Kräutern abschmecken.",
+      "Bagels mit Joghurt-Dip servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/lidl-3.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "lidl-4",
+    "title": "Geflügelfiletroulade mit Gemüsesalat",
+    "description": "Leckere Geflügelfiletroulade serviert mit einem frischen Gemüsesalat.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "leicht",
+      "gesund",
+      "schnell"
+    ],
+    "total_cost": 6.37,
+    "total_cost_original": 8.49,
+    "savings_total": 2.12,
+    "cost_per_portion": 3.19,
+    "ingredients": [
+      {
+        "name": "Dulano Delikatess Geflügelfiletroulade XXL",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Dulano Delikatess Geflügelfiletroulade XXL",
+        "offer_price": 2.49,
+        "original_price": null,
+        "discount_percent": 14,
+        "brand": "Dulano",
+        "package_size": "200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Chef Select Gemüsesalat",
+        "amount": "400 g",
+        "is_offer_product": true,
+        "offer_title_match": "Chef Select Gemüsesalat",
+        "offer_price": 1.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Chef Select",
+        "package_size": "400 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Joghurt mild XXL",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Joghurt mild XXL",
+        "offer_price": 1.59,
+        "original_price": 1.99,
+        "discount_percent": 19,
+        "brand": "Milbona",
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Geflügelfiletroulade in Scheiben schneiden.",
+      "Gemüsesalat auf zwei Tellern anrichten.",
+      "Geflügelfiletroulade darauf verteilen.",
+      "Joghurt mit Salz und Pfeffer abschmecken und als Dressing verwenden."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-5",
+    "title": "Krustenschinkenbraten mit Ofenpommes",
+    "description": "Saftiger Krustenschinkenbraten serviert mit knusprigen Ofenpommes.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 35,
+    "portions": 3,
+    "difficulty": "medium",
+    "tags": [
+      "herzhaft",
+      "ofen",
+      "familie"
+    ],
+    "total_cost": 8.47,
+    "total_cost_original": 10.89,
+    "savings_total": 2.42,
+    "cost_per_portion": 2.82,
+    "ingredients": [
+      {
+        "name": "Deluxe Krustenschinkenbraten",
+        "amount": "120 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Krustenschinkenbraten",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "120 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Harvest Basket Wellenschnitt Pommes XXL",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Harvest Basket Wellenschnitt Pommes XXL",
+        "offer_price": 2.99,
+        "original_price": 3.69,
+        "discount_percent": 19,
+        "brand": "Harvest Basket",
+        "package_size": "2.5 kg",
+        "supermarket_location": "Tiefkühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Joghurt mild XXL",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Joghurt mild XXL",
+        "offer_price": 1.59,
+        "original_price": 1.99,
+        "discount_percent": 19,
+        "brand": "Milbona",
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Pommes auf einem Backblech verteilen und im Ofen bei 200°C ca. 25 Minuten backen.",
+      "Krustenschinkenbraten in Scheiben schneiden.",
+      "Joghurt mit Salz und Pfeffer abschmecken.",
+      "Pommes und Schinkenbraten auf Tellern anrichten und mit Joghurt-Dip servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-6",
+    "title": "Hähnchen-Raclette mit Käseplatte",
+    "description": "Deftiges Hähnchen-Raclette serviert mit einer Auswahl an Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 30,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "raclette",
+      "käse",
+      "gemütlich"
+    ],
+    "total_cost": 12.67,
+    "total_cost_original": 15.89,
+    "savings_total": 3.22,
+    "cost_per_portion": 3.17,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Frisches Hähnchen-Raclette",
+        "amount": "800 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Frisches Hähnchen-Raclette",
+        "offer_price": 7.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "2 x 800 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Deluxe Original Französische Käseplatte",
+        "amount": "300 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Original Französische Käseplatte",
+        "offer_price": 5.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "300 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Hähnchen-Raclette in einer Pfanne anbraten.",
+      "Käseplatte auf Tellern anrichten.",
+      "Hähnchenstücke auf die Käseplatte legen.",
+      "Mit frischem Brot servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-7",
+    "title": "Bockwurst mit Kartoffelsalat",
+    "description": "Klassische Bockwurst serviert mit einem herzhaften Kartoffelsalat.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 20,
+    "portions": 3,
+    "difficulty": "easy",
+    "tags": [
+      "klassisch",
+      "deutsch",
+      "schnell"
+    ],
+    "total_cost": 7.47,
+    "total_cost_original": 9.89,
+    "savings_total": 2.42,
+    "cost_per_portion": 2.49,
+    "ingredients": [
+      {
+        "name": "Dulano Bockwurst",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Dulano Bockwurst",
+        "offer_price": 2.99,
+        "original_price": 3.69,
+        "discount_percent": 18,
+        "brand": "Dulano",
+        "package_size": "5 x 500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Popp Salat",
+        "amount": "400 g",
+        "is_offer_product": true,
+        "offer_title_match": "Popp Salat",
+        "offer_price": 1.49,
+        "original_price": 2.49,
+        "discount_percent": 40,
+        "brand": "Popp",
+        "package_size": "400 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Bockwurst in heißem Wasser erwärmen.",
+      "Kartoffelsalat auf Tellern anrichten.",
+      "Bockwurst dazu servieren.",
+      "Mit Senf und Brot genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-8",
+    "title": "Rinder-Fondue mit Raclette-Käse",
+    "description": "Zartes Rinder-Fonduefleisch mit geschmolzenem Raclette-Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 45,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "fondue",
+      "gemütlich",
+      "käse"
+    ],
+    "total_cost": 15.17,
+    "total_cost_original": 19.89,
+    "savings_total": 4.72,
+    "cost_per_portion": 3.79,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Rinder-Fonduefleisch",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Rinder-Fonduefleisch",
+        "offer_price": 7.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Raclette Käse",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Raclette Käse",
+        "offer_price": 2.09,
+        "original_price": 2.39,
+        "discount_percent": 12,
+        "brand": "Milbona",
+        "package_size": "200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Rinder-Fonduefleisch in mundgerechte Stücke schneiden.",
+      "Raclette-Käse in einem Topf schmelzen.",
+      "Fleischstücke in den geschmolzenen Käse tauchen.",
+      "Mit Brot und Dips servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-9",
+    "title": "Schweine-Fondue mit Ziegenkäse",
+    "description": "Zartes Schweinefleisch-Fondue mit cremigem Ziegenkäse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 40,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "fondue",
+      "gemütlich",
+      "käse"
+    ],
+    "total_cost": 12.77,
+    "total_cost_original": 16.89,
+    "savings_total": 4.12,
+    "cost_per_portion": 3.19,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Frisches Schweine-Fonduefleisch",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Frisches Schweine-Fonduefleisch",
+        "offer_price": 3.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Der grüne Altenburger Ziegenkäse/Frischkäse",
+        "amount": "150 g",
+        "is_offer_product": true,
+        "offer_title_match": "Der grüne Altenburger Ziegenkäse/Frischkäse",
+        "offer_price": 2.29,
+        "original_price": 2.99,
+        "discount_percent": 23,
+        "brand": "Der grüne Altenburger",
+        "package_size": "150 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Schweinefleisch in mundgerechte Stücke schneiden.",
+      "Ziegenkäse in einem Topf schmelzen.",
+      "Fleischstücke in den geschmolzenen Käse tauchen.",
+      "Mit Brot und Dips servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-10",
+    "title": "Hähnchen-Snack mit Prosecco",
+    "description": "Knusprige Hähnchen-Snacks serviert mit einem Glas Prosecco.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 30,
+    "portions": 4,
+    "difficulty": "easy",
+    "tags": [
+      "party",
+      "schnell",
+      "knusprig"
+    ],
+    "total_cost": 11.88,
+    "total_cost_original": 15.99,
+    "savings_total": 4.11,
+    "cost_per_portion": 2.97,
+    "ingredients": [
+      {
+        "name": "Chicken Party Box",
+        "amount": "1 kg",
+        "is_offer_product": true,
+        "offer_title_match": "Chicken Party Box",
+        "offer_price": 7.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Allini Prosecco DOC Magnum, extratrocken",
+        "amount": "0.75 l",
+        "is_offer_product": true,
+        "offer_title_match": "Allini Prosecco DOC Magnum, extratrocken",
+        "offer_price": 9.99,
+        "original_price": 14.99,
+        "discount_percent": 33,
+        "brand": "Allini",
+        "package_size": "1.5 Liter",
+        "supermarket_location": "Getränke",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Hähnchen-Snacks im Ofen bei 200°C ca. 20 Minuten backen.",
+      "Prosecco in Gläser füllen.",
+      "Hähnchen-Snacks auf einem Teller anrichten.",
+      "Mit Dips und Prosecco servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-11",
+    "title": "Kalbs-Fondue mit Raclette-Käse",
+    "description": "Zartes Kalbsfondue mit geschmolzenem Raclette-Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 45,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "fondue",
+      "gemütlich",
+      "käse"
+    ],
+    "total_cost": 16.67,
+    "total_cost_original": 21.89,
+    "savings_total": 5.22,
+    "cost_per_portion": 4.17,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Premium Frisches Kalbs-Fonduefleisch",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Premium Frisches Kalbs-Fonduefleisch",
+        "offer_price": 11.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Raclette Käse",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Raclette Käse",
+        "offer_price": 2.09,
+        "original_price": 2.39,
+        "discount_percent": 12,
+        "brand": "Milbona",
+        "package_size": "200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Kalbsfleisch in mundgerechte Stücke schneiden.",
+      "Raclette-Käse in einem Topf schmelzen.",
+      "Fleischstücke in den geschmolzenen Käse tauchen.",
+      "Mit Brot und Dips servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-12",
+    "title": "Gemischte Racletteplatte mit Serrano",
+    "description": "Gemischte Racletteplatte mit Serrano-Schinken und Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 30,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "raclette",
+      "gemütlich",
+      "käse"
+    ],
+    "total_cost": 13.47,
+    "total_cost_original": 17.89,
+    "savings_total": 4.42,
+    "cost_per_portion": 3.37,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Racletteplatte gemischt",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Racletteplatte gemischt",
+        "offer_price": 5.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "2 x 500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Deluxe Paleta Serrana Reserva",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Paleta Serrana Reserva",
+        "offer_price": 44.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "375 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Racletteplatte auf einem Teller anrichten.",
+      "Serrano-Schinken in Scheiben schneiden und dazugeben.",
+      "Mit Brot und Dips servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-13",
+    "title": "Bresaola mit Ziegenkäse und Brot",
+    "description": "Luftgetrockneter Bresaola serviert mit cremigem Ziegenkäse und frischem Brot.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "leicht",
+      "italienisch"
+    ],
+    "total_cost": 6.57,
+    "total_cost_original": 8.89,
+    "savings_total": 2.32,
+    "cost_per_portion": 3.29,
+    "ingredients": [
+      {
+        "name": "Deluxe Bresaola della Valtellina g.g.A.",
+        "amount": "80 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Bresaola della Valtellina g.g.A.",
+        "offer_price": 2.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "80 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Der grüne Altenburger Ziegenkäse/Frischkäse",
+        "amount": "150 g",
+        "is_offer_product": true,
+        "offer_title_match": "Der grüne Altenburger Ziegenkäse/Frischkäse",
+        "offer_price": 2.29,
+        "original_price": 2.99,
+        "discount_percent": 23,
+        "brand": "Der grüne Altenburger",
+        "package_size": "150 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Block House Brot",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "Block House Brot",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Block House",
+        "package_size": "250 g",
+        "supermarket_location": "Backwaren",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Bresaola auf einem Teller anrichten.",
+      "Ziegenkäse dazugeben.",
+      "Brot in Scheiben schneiden und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-14",
+    "title": "Frikadellen mit Kartoffelsalat",
+    "description": "Saftige Frikadellen serviert mit einem herzhaften Kartoffelsalat.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 25,
+    "portions": 3,
+    "difficulty": "easy",
+    "tags": [
+      "klassisch",
+      "deutsch",
+      "schnell"
+    ],
+    "total_cost": 6.48,
+    "total_cost_original": 8.89,
+    "savings_total": 2.41,
+    "cost_per_portion": 2.16,
+    "ingredients": [
+      {
+        "name": "Frikadellen XXL",
+        "amount": "600 g",
+        "is_offer_product": true,
+        "offer_title_match": "Frikadellen XXL",
+        "offer_price": 2.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "600 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Popp Salat",
+        "amount": "400 g",
+        "is_offer_product": true,
+        "offer_title_match": "Popp Salat",
+        "offer_price": 1.49,
+        "original_price": 2.49,
+        "discount_percent": 40,
+        "brand": "Popp",
+        "package_size": "400 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Frikadellen in einer Pfanne anbraten.",
+      "Kartoffelsalat auf Tellern anrichten.",
+      "Frikadellen dazu servieren.",
+      "Mit Senf und Brot genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-15",
+    "title": "Geflügelfiletroulade mit Zaziki",
+    "description": "Leckere Geflügelfiletroulade serviert mit cremigem Zaziki.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "leicht",
+      "gesund",
+      "schnell"
+    ],
+    "total_cost": 5.87,
+    "total_cost_original": 7.89,
+    "savings_total": 2.02,
+    "cost_per_portion": 2.94,
+    "ingredients": [
+      {
+        "name": "Dulano Delikatess Geflügelfiletroulade XXL",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Dulano Delikatess Geflügelfiletroulade XXL",
+        "offer_price": 2.49,
+        "original_price": null,
+        "discount_percent": 14,
+        "brand": "Dulano",
+        "package_size": "200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Apostels Zaziki",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "Apostels Zaziki",
+        "offer_price": 1.88,
+        "original_price": 2.69,
+        "discount_percent": 30,
+        "brand": "Apostels",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Geflügelfiletroulade in Scheiben schneiden.",
+      "Zaziki in eine Schüssel geben.",
+      "Geflügelfiletroulade auf Tellern anrichten.",
+      "Mit Zaziki servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-16",
+    "title": "Salami-Bagel mit Joghurt-Dip",
+    "description": "Knuspriger Bagel belegt mit Salami und einem erfrischenden Joghurt-Dip.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "einfach"
+    ],
+    "total_cost": 5.67,
+    "total_cost_original": 7.89,
+    "savings_total": 2.22,
+    "cost_per_portion": 2.84,
+    "ingredients": [
+      {
+        "name": "Deluxe Salami",
+        "amount": "80 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Salami",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "80 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Bagels",
+        "amount": "2 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Bagels",
+        "offer_price": 1.69,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "340 g",
+        "supermarket_location": "Backwaren",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Joghurt mild XXL",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Joghurt mild XXL",
+        "offer_price": 1.59,
+        "original_price": 1.99,
+        "discount_percent": 19,
+        "brand": "Milbona",
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Bagels halbieren und toasten.",
+      "Salami auf die Bagelhälften legen.",
+      "Joghurt in eine Schüssel geben und mit Salz, Pfeffer und Kräutern abschmecken.",
+      "Bagels mit Joghurt-Dip servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-17",
+    "title": "Krustenschinkenbraten mit Ofenpommes",
+    "description": "Saftiger Krustenschinkenbraten serviert mit knusprigen Ofenpommes.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 35,
+    "portions": 3,
+    "difficulty": "medium",
+    "tags": [
+      "herzhaft",
+      "ofen",
+      "familie"
+    ],
+    "total_cost": 8.47,
+    "total_cost_original": 10.89,
+    "savings_total": 2.42,
+    "cost_per_portion": 2.82,
+    "ingredients": [
+      {
+        "name": "Deluxe Krustenschinkenbraten",
+        "amount": "120 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Krustenschinkenbraten",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "120 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Harvest Basket Wellenschnitt Pommes XXL",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Harvest Basket Wellenschnitt Pommes XXL",
+        "offer_price": 2.99,
+        "original_price": 3.69,
+        "discount_percent": 19,
+        "brand": "Harvest Basket",
+        "package_size": "2.5 kg",
+        "supermarket_location": "Tiefkühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Joghurt mild XXL",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Joghurt mild XXL",
+        "offer_price": 1.59,
+        "original_price": 1.99,
+        "discount_percent": 19,
+        "brand": "Milbona",
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Pommes auf einem Backblech verteilen und im Ofen bei 200°C ca. 25 Minuten backen.",
+      "Krustenschinkenbraten in Scheiben schneiden.",
+      "Joghurt mit Salz und Pfeffer abschmecken.",
+      "Pommes und Schinkenbraten auf Tellern anrichten und mit Joghurt-Dip servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-18",
+    "title": "Hähnchen-Raclette mit Käseplatte",
+    "description": "Deftiges Hähnchen-Raclette serviert mit einer Auswahl an Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 30,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "raclette",
+      "käse",
+      "gemütlich"
+    ],
+    "total_cost": 12.67,
+    "total_cost_original": 15.89,
+    "savings_total": 3.22,
+    "cost_per_portion": 3.17,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Frisches Hähnchen-Raclette",
+        "amount": "800 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Frisches Hähnchen-Raclette",
+        "offer_price": 7.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "2 x 800 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Deluxe Original Französische Käseplatte",
+        "amount": "300 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Original Französische Käseplatte",
+        "offer_price": 5.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "300 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Hähnchen-Raclette in einer Pfanne anbraten.",
+      "Käseplatte auf Tellern anrichten.",
+      "Hähnchenstücke auf die Käseplatte legen.",
+      "Mit frischem Brot servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-19",
+    "title": "Bockwurst mit Kartoffelsalat",
+    "description": "Klassische Bockwurst serviert mit einem herzhaften Kartoffelsalat.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 20,
+    "portions": 3,
+    "difficulty": "easy",
+    "tags": [
+      "klassisch",
+      "deutsch",
+      "schnell"
+    ],
+    "total_cost": 7.47,
+    "total_cost_original": 9.89,
+    "savings_total": 2.42,
+    "cost_per_portion": 2.49,
+    "ingredients": [
+      {
+        "name": "Dulano Bockwurst",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Dulano Bockwurst",
+        "offer_price": 2.99,
+        "original_price": 3.69,
+        "discount_percent": 18,
+        "brand": "Dulano",
+        "package_size": "5 x 500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Popp Salat",
+        "amount": "400 g",
+        "is_offer_product": true,
+        "offer_title_match": "Popp Salat",
+        "offer_price": 1.49,
+        "original_price": 2.49,
+        "discount_percent": 40,
+        "brand": "Popp",
+        "package_size": "400 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Bockwurst in heißem Wasser erwärmen.",
+      "Kartoffelsalat auf Tellern anrichten.",
+      "Bockwurst dazu servieren.",
+      "Mit Senf und Brot genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-20",
+    "title": "Rinder-Fondue mit Raclette-Käse",
+    "description": "Zartes Rinder-Fonduefleisch mit geschmolzenem Raclette-Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 45,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "fondue",
+      "gemütlich",
+      "käse"
+    ],
+    "total_cost": 15.17,
+    "total_cost_original": 19.89,
+    "savings_total": 4.72,
+    "cost_per_portion": 3.79,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Rinder-Fonduefleisch",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Rinder-Fonduefleisch",
+        "offer_price": 7.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Raclette Käse",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Raclette Käse",
+        "offer_price": 2.09,
+        "original_price": 2.39,
+        "discount_percent": 12,
+        "brand": "Milbona",
+        "package_size": "200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Rinder-Fonduefleisch in mundgerechte Stücke schneiden.",
+      "Raclette-Käse in einem Topf schmelzen.",
+      "Fleischstücke in den geschmolzenen Käse tauchen.",
+      "Mit Brot und Dips servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-21",
+    "title": "Schweine-Fondue mit Ziegenkäse",
+    "description": "Zartes Schweinefleisch-Fondue mit cremigem Ziegenkäse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 40,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "fondue",
+      "gemütlich",
+      "käse"
+    ],
+    "total_cost": 12.77,
+    "total_cost_original": 16.89,
+    "savings_total": 4.12,
+    "cost_per_portion": 3.19,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Frisches Schweine-Fonduefleisch",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Frisches Schweine-Fonduefleisch",
+        "offer_price": 3.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Der grüne Altenburger Ziegenkäse/Frischkäse",
+        "amount": "150 g",
+        "is_offer_product": true,
+        "offer_title_match": "Der grüne Altenburger Ziegenkäse/Frischkäse",
+        "offer_price": 2.29,
+        "original_price": 2.99,
+        "discount_percent": 23,
+        "brand": "Der grüne Altenburger",
+        "package_size": "150 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Schweinefleisch in mundgerechte Stücke schneiden.",
+      "Ziegenkäse in einem Topf schmelzen.",
+      "Fleischstücke in den geschmolzenen Käse tauchen.",
+      "Mit Brot und Dips servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-22",
+    "title": "Hähnchen-Snack mit Prosecco",
+    "description": "Knusprige Hähnchen-Snacks serviert mit einem Glas Prosecco.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 30,
+    "portions": 4,
+    "difficulty": "easy",
+    "tags": [
+      "party",
+      "schnell",
+      "knusprig"
+    ],
+    "total_cost": 11.88,
+    "total_cost_original": 15.99,
+    "savings_total": 4.11,
+    "cost_per_portion": 2.97,
+    "ingredients": [
+      {
+        "name": "Chicken Party Box",
+        "amount": "1 kg",
+        "is_offer_product": true,
+        "offer_title_match": "Chicken Party Box",
+        "offer_price": 7.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Allini Prosecco DOC Magnum, extratrocken",
+        "amount": "0.75 l",
+        "is_offer_product": true,
+        "offer_title_match": "Allini Prosecco DOC Magnum, extratrocken",
+        "offer_price": 9.99,
+        "original_price": 14.99,
+        "discount_percent": 33,
+        "brand": "Allini",
+        "package_size": "1.5 Liter",
+        "supermarket_location": "Getränke",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Hähnchen-Snacks im Ofen bei 200°C ca. 20 Minuten backen.",
+      "Prosecco in Gläser füllen.",
+      "Hähnchen-Snacks auf einem Teller anrichten.",
+      "Mit Dips und Prosecco servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-23",
+    "title": "Kalbs-Fondue mit Raclette-Käse",
+    "description": "Zartes Kalbsfondue mit geschmolzenem Raclette-Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 45,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "fondue",
+      "gemütlich",
+      "käse"
+    ],
+    "total_cost": 16.67,
+    "total_cost_original": 21.89,
+    "savings_total": 5.22,
+    "cost_per_portion": 4.17,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Premium Frisches Kalbs-Fonduefleisch",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Premium Frisches Kalbs-Fonduefleisch",
+        "offer_price": 11.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Raclette Käse",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Raclette Käse",
+        "offer_price": 2.09,
+        "original_price": 2.39,
+        "discount_percent": 12,
+        "brand": "Milbona",
+        "package_size": "200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Kalbsfleisch in mundgerechte Stücke schneiden.",
+      "Raclette-Käse in einem Topf schmelzen.",
+      "Fleischstücke in den geschmolzenen Käse tauchen.",
+      "Mit Brot und Dips servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-24",
+    "title": "Gemischte Racletteplatte mit Serrano",
+    "description": "Gemischte Racletteplatte mit Serrano-Schinken und Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 30,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "raclette",
+      "gemütlich",
+      "käse"
+    ],
+    "total_cost": 13.47,
+    "total_cost_original": 17.89,
+    "savings_total": 4.42,
+    "cost_per_portion": 3.37,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Racletteplatte gemischt",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Racletteplatte gemischt",
+        "offer_price": 5.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "2 x 500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Deluxe Paleta Serrana Reserva",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Paleta Serrana Reserva",
+        "offer_price": 44.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "375 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Racletteplatte auf einem Teller anrichten.",
+      "Serrano-Schinken in Scheiben schneiden und dazugeben.",
+      "Mit Brot und Dips servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-25",
+    "title": "Bresaola mit Ziegenkäse und Brot",
+    "description": "Luftgetrockneter Bresaola serviert mit cremigem Ziegenkäse und frischem Brot.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "leicht",
+      "italienisch"
+    ],
+    "total_cost": 6.57,
+    "total_cost_original": 8.89,
+    "savings_total": 2.32,
+    "cost_per_portion": 3.29,
+    "ingredients": [
+      {
+        "name": "Deluxe Bresaola della Valtellina g.g.A.",
+        "amount": "80 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Bresaola della Valtellina g.g.A.",
+        "offer_price": 2.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "80 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Der grüne Altenburger Ziegenkäse/Frischkäse",
+        "amount": "150 g",
+        "is_offer_product": true,
+        "offer_title_match": "Der grüne Altenburger Ziegenkäse/Frischkäse",
+        "offer_price": 2.29,
+        "original_price": 2.99,
+        "discount_percent": 23,
+        "brand": "Der grüne Altenburger",
+        "package_size": "150 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Block House Brot",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "Block House Brot",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Block House",
+        "package_size": "250 g",
+        "supermarket_location": "Backwaren",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Bresaola auf einem Teller anrichten.",
+      "Ziegenkäse dazugeben.",
+      "Brot in Scheiben schneiden und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-26",
+    "title": "Frikadellen mit Kartoffelsalat",
+    "description": "Saftige Frikadellen serviert mit einem herzhaften Kartoffelsalat.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 25,
+    "portions": 3,
+    "difficulty": "easy",
+    "tags": [
+      "klassisch",
+      "deutsch",
+      "schnell"
+    ],
+    "total_cost": 6.48,
+    "total_cost_original": 8.89,
+    "savings_total": 2.41,
+    "cost_per_portion": 2.16,
+    "ingredients": [
+      {
+        "name": "Frikadellen XXL",
+        "amount": "600 g",
+        "is_offer_product": true,
+        "offer_title_match": "Frikadellen XXL",
+        "offer_price": 2.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "600 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Popp Salat",
+        "amount": "400 g",
+        "is_offer_product": true,
+        "offer_title_match": "Popp Salat",
+        "offer_price": 1.49,
+        "original_price": 2.49,
+        "discount_percent": 40,
+        "brand": "Popp",
+        "package_size": "400 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Frikadellen in einer Pfanne anbraten.",
+      "Kartoffelsalat auf Tellern anrichten.",
+      "Frikadellen dazu servieren.",
+      "Mit Senf und Brot genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-27",
+    "title": "Geflügelfiletroulade mit Zaziki",
+    "description": "Leckere Geflügelfiletroulade serviert mit cremigem Zaziki.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "leicht",
+      "gesund",
+      "schnell"
+    ],
+    "total_cost": 5.87,
+    "total_cost_original": 7.89,
+    "savings_total": 2.02,
+    "cost_per_portion": 2.94,
+    "ingredients": [
+      {
+        "name": "Dulano Delikatess Geflügelfiletroulade XXL",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Dulano Delikatess Geflügelfiletroulade XXL",
+        "offer_price": 2.49,
+        "original_price": null,
+        "discount_percent": 14,
+        "brand": "Dulano",
+        "package_size": "200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Apostels Zaziki",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "Apostels Zaziki",
+        "offer_price": 1.88,
+        "original_price": 2.69,
+        "discount_percent": 30,
+        "brand": "Apostels",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Geflügelfiletroulade in Scheiben schneiden.",
+      "Zaziki in eine Schüssel geben.",
+      "Geflügelfiletroulade auf Tellern anrichten.",
+      "Mit Zaziki servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-28",
+    "title": "Salami-Bagel mit Joghurt-Dip",
+    "description": "Knuspriger Bagel belegt mit Salami und einem erfrischenden Joghurt-Dip.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "einfach"
+    ],
+    "total_cost": 5.67,
+    "total_cost_original": 7.89,
+    "savings_total": 2.22,
+    "cost_per_portion": 2.84,
+    "ingredients": [
+      {
+        "name": "Deluxe Salami",
+        "amount": "80 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Salami",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "80 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Bagels",
+        "amount": "2 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Bagels",
+        "offer_price": 1.69,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "340 g",
+        "supermarket_location": "Backwaren",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Joghurt mild XXL",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Joghurt mild XXL",
+        "offer_price": 1.59,
+        "original_price": 1.99,
+        "discount_percent": 19,
+        "brand": "Milbona",
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Bagels halbieren und toasten.",
+      "Salami auf die Bagelhälften legen.",
+      "Joghurt in eine Schüssel geben und mit Salz, Pfeffer und Kräutern abschmecken.",
+      "Bagels mit Joghurt-Dip servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-29",
+    "title": "Krustenschinkenbraten mit Ofenpommes",
+    "description": "Saftiger Krustenschinkenbraten serviert mit knusprigen Ofenpommes.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 35,
+    "portions": 3,
+    "difficulty": "medium",
+    "tags": [
+      "herzhaft",
+      "ofen",
+      "familie"
+    ],
+    "total_cost": 8.47,
+    "total_cost_original": 10.89,
+    "savings_total": 2.42,
+    "cost_per_portion": 2.82,
+    "ingredients": [
+      {
+        "name": "Deluxe Krustenschinkenbraten",
+        "amount": "120 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Krustenschinkenbraten",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "120 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Harvest Basket Wellenschnitt Pommes XXL",
+        "amount": "500 g",
+        "is_offer_product": true,
+        "offer_title_match": "Harvest Basket Wellenschnitt Pommes XXL",
+        "offer_price": 2.99,
+        "original_price": 3.69,
+        "discount_percent": 19,
+        "brand": "Harvest Basket",
+        "package_size": "2.5 kg",
+        "supermarket_location": "Tiefkühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Milbona Joghurt mild XXL",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "Milbona Joghurt mild XXL",
+        "offer_price": 1.59,
+        "original_price": 1.99,
+        "discount_percent": 19,
+        "brand": "Milbona",
+        "package_size": "1 kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Pommes auf einem Backblech verteilen und im Ofen bei 200°C ca. 25 Minuten backen.",
+      "Krustenschinkenbraten in Scheiben schneiden.",
+      "Joghurt mit Salz und Pfeffer abschmecken.",
+      "Pommes und Schinkenbraten auf Tellern anrichten und mit Joghurt-Dip servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "lidl-30",
+    "title": "Hähnchen-Raclette mit Käseplatte",
+    "description": "Deftiges Hähnchen-Raclette serviert mit einer Auswahl an Käse.",
+    "supermarket": "LIDL",
+    "estimated_total_time_minutes": 30,
+    "portions": 4,
+    "difficulty": "medium",
+    "tags": [
+      "raclette",
+      "käse",
+      "gemütlich"
+    ],
+    "total_cost": 12.67,
+    "total_cost_original": 15.89,
+    "savings_total": 3.22,
+    "cost_per_portion": 3.17,
+    "ingredients": [
+      {
+        "name": "Metzgerfrisch Frisches Hähnchen-Raclette",
+        "amount": "800 g",
+        "is_offer_product": true,
+        "offer_title_match": "Metzgerfrisch Frisches Hähnchen-Raclette",
+        "offer_price": 7.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Metzgerfrisch",
+        "package_size": "2 x 800 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Deluxe Original Französische Käseplatte",
+        "amount": "300 g",
+        "is_offer_product": true,
+        "offer_title_match": "Deluxe Original Französische Käseplatte",
+        "offer_price": 5.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Deluxe",
+        "package_size": "300 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Hähnchen-Raclette in einer Pfanne anbraten.",
+      "Käseplatte auf Tellern anrichten.",
+      "Hähnchenstücke auf die Käseplatte legen.",
+      "Mit frischem Brot servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  }
+]

@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  crawl4ai:
+    image: unclecode/crawl4ai:latest
+    container_name: crawl4ai
+    ports:
+      - "11235:8000"
+    environment:
+      - CRAWL4AI_API_KEY=${CRAWL4AI_TOKEN:-my-secret-token-123}
+    restart: unless-stopped
+    volumes:
+      - crawl4ai-data:/data
+
+volumes:
+  crawl4ai-data:
+

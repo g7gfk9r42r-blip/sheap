@@ -1,0 +1,180 @@
+[
+  {
+    "id": "kaufland-1",
+    "title": "Fruchtiger Joghurt mit Honig und Beeren",
+    "description": "Ein erfrischender Joghurt mit süßem Honig und frischen Heidelbeeren.",
+    "supermarket": "KAUFLAND",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "gesund",
+      "vegetarisch"
+    ],
+    "total_cost": 5.47,
+    "total_cost_original": 10.17,
+    "savings_total": 4.7,
+    "cost_per_portion": 2.74,
+    "ingredients": [
+      {
+        "name": "LANDLIEBE Joghurt",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "LANDLIEBE Joghurt",
+        "offer_price": 0.99,
+        "original_price": 2.39,
+        "discount_percent": 58,
+        "brand": "LANDLIEBE",
+        "package_size": "500 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "LANGNESE Wildblütenhonig »Flotte Biene«",
+        "amount": "2 EL",
+        "is_offer_product": true,
+        "offer_title_match": "LANGNESE Wildblütenhonig »Flotte Biene«",
+        "offer_price": 2.99,
+        "original_price": 5.99,
+        "discount_percent": 50,
+        "brand": "LANGNESE",
+        "package_size": "500 g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Peruan. Kulturheidelbeeren",
+        "amount": "125 g",
+        "is_offer_product": true,
+        "offer_title_match": "Peruan. Kulturheidelbeeren",
+        "offer_price": 1.49,
+        "original_price": 1.79,
+        "discount_percent": 16,
+        "brand": null,
+        "package_size": "125 g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "kaufland-2",
+    "title": "Pikante Pizzatasche mit Salami",
+    "description": "Eine schnelle und würzige Pizzatasche mit französischer Ringsalami.",
+    "supermarket": "KAUFLAND",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "fleisch"
+    ],
+    "total_cost": 4.68,
+    "total_cost_original": 5.58,
+    "savings_total": 0.9,
+    "cost_per_portion": 2.34,
+    "ingredients": [
+      {
+        "name": "Pizzatasche",
+        "amount": "2 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Pizzatasche",
+        "offer_price": 0.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": null,
+        "supermarket_location": "Grundnahrungsmittel",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "K-FAVOURITES Franz. Ringsalami",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "K-FAVOURITES Franz. Ringsalami",
+        "offer_price": 3.69,
+        "original_price": 4.59,
+        "discount_percent": 19,
+        "brand": "K-FAVOURITES",
+        "package_size": "400 g",
+        "supermarket_location": "Fleisch, Geflügel, Wurst",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "kaufland-3",
+    "title": "Cremige Philadelphia Pasta",
+    "description": "Eine schnelle und cremige Pasta mit Philadelphia und frischem Gemüse.",
+    "supermarket": "KAUFLAND",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "cremig"
+    ],
+    "total_cost": 4.36,
+    "total_cost_original": 6.57,
+    "savings_total": 2.21,
+    "cost_per_portion": 2.18,
+    "ingredients": [
+      {
+        "name": "PHILADELPHIA Frischkäsezubereitung",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "PHILADELPHIA Frischkäsezubereitung",
+        "offer_price": 0.89,
+        "original_price": 2.29,
+        "discount_percent": 61,
+        "brand": "PHILADELPHIA",
+        "package_size": "100 - 195 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "FROSTA Gemüse",
+        "amount": "300 g",
+        "is_offer_product": true,
+        "offer_title_match": "FROSTA Gemüse",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "FROSTA",
+        "package_size": "480 - 600 g",
+        "supermarket_location": "Tiefkühlkost",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "K-FAVOURITES Tagliolini oder Pappardelle",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "K-FAVOURITES Tagliolini oder Pappardelle",
+        "offer_price": 0.99,
+        "original_price": 1.29,
+        "discount_percent": 23,
+        "brand": "K-FAVOURITES",
+        "package_size": "250 g",
+        "supermarket_location": "Feinkost",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  }
+]

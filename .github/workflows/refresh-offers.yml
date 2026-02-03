@@ -1,0 +1,43 @@
+name: Refresh Weekly Offers
+
+on:
+  schedule:
+    - cron: '0 17 * * 0'   # weekly, Sunday 17:00 UTC
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: server
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Trigger refresh offers
+        env:
+          API_BASE_URL: ${{ secrets.API_BASE_URL }}
+          ADMIN_SECRET: ${{ secrets.ADMIN_SECRET }}
+        run: |
+          curl -fsS -X POST "$API_BASE_URL/admin/refresh-offers" \
+            -H "x-admin-secret: $ADMIN_SECRET" || (echo "Offers refresh failed" && exit 1)
+
+      - name: Trigger refresh recipes
+        env:
+          API_BASE_URL: ${{ secrets.API_BASE_URL }}
+          ADMIN_SECRET: ${{ secrets.ADMIN_SECRET }}
+        run: |
+          curl -fsS -X POST "$API_BASE_URL/admin/refresh-recipes" \
+            -H "x-admin-secret: $ADMIN_SECRET" || (echo "Recipes refresh failed" && exit 1)

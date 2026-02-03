@@ -1,0 +1,120 @@
+# LIDL LEBENSMITTEL (NUR ESSBARE PRODUKTE) - W50
+
+📊 10 Koch-Lebensmittel extrahiert (OHNE Getränke!)
+📅 Extrahiert am: 14.12.2025
+
+══════════════════════════════════════════════════════════════════════
+
+Da ich keinen Zugriff auf aktuelle oder spezifische Daten wie einen Lidl-Prospekt habe, kann ich keine direkten Informationen aus einem solchen Dokument extrahieren. Jedoch kann ich dir ein allgemeines Beispiel geben, wie eine Liste basierend auf den von dir gewünschten Kategorien aussehen könnte, wenn sie in einem typischen Supermarkt-Prospekt enthalten wären. Bitte beachte, dass die folgenden Informationen fiktiv sind:
+
+Produktname: Hähnchenbrustfilet
+Preis: 4.99 €
+Menge: 750 g
+Marke: Landjunker
+Rabatt: 20%
+Info: Frisches Hähnchenbrustfilet, ideal für Grill und Pfanne.
+
+---
+
+
+
+Produktname: Räucherlachs
+Preis: 2.99 €
+Menge: 200 g
+Marke: Ocean Sea
+Rabatt: 15%
+Info: Zart und rauchig, perfekt für Frühstück oder als Beilage.
+
+---
+
+
+
+Produktname: Gouda Käse
+Preis: 1.79 €
+Menge: 400 g
+Marke: Lovilio
+Rabatt: 10%
+Info: Mittelalter Gouda, reich und cremig.
+
+---
+
+
+
+Produktname: Vollkornbrot
+Preis: 1.29 €
+Menge: 500 g
+Marke: Grafschafter
+Rabatt: Kein Rabatt
+Info: Nahrhaftes Vollkornbrot, reich an Ballaststoffen.
+
+---
+
+
+
+Produktname: Frische Erdbeeren
+Preis: 1.99 €
+Menge: 500 g
+Marke: Frisch vom Feld
+Rabatt: 25%
+Info: Süße und saftige Erdbeeren, ideal für Desserts oder als Snack.
+
+---
+
+
+
+Produktname: Spaghetti
+Preis: 0.89 €
+Menge: 500 g
+Marke: Combino
+Rabatt: Kein Rabatt
+Info: Klassische italienische Pasta, perfekt für eine Vielzahl von Saucen.
+
+---
+
+
+
+Produktname: Tiefkühlpizza Salami
+Preis: 2.49 €
+Menge: 320 g
+Marke: Trattoria Alfredo
+Rabatt: 20%
+Info: Knuspriger Boden und reich belegt mit Salami, Käse und Tomatensauce.
+
+---
+
+
+
+Produktname: Milchschokolade
+Preis: 0.79 €
+Menge: 100 g
+Marke: Fin Carre
+Rabatt: 10%
+Info: Zarte Milchschokolade, für den süßen Genuss.
+
+---
+
+
+
+Produktname: Olivenöl Extra Vergine
+Preis: 3.99 €
+Menge: 500 ml
+Marke: Primadonna
+Rabatt: 15%
+Info: Hochwertiges Olivenöl, ideal für Salate und zum Kochen.
+
+---
+
+
+
+Produktname: Freilandeier
+Preis: 2.29 €
+Menge: 10 Stück
+Marke: BioBio
+Rabatt: Kein Rabatt
+Info: Bio-Freilandeier, von glücklichen Hühnern.
+
+---
+
+══════════════════════════════════════════════════════════════════════
+
+✅ FERTIG! 10 Koch-Lebensmittel für ChatGPT bereit!

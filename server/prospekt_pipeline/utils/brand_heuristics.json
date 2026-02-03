@@ -1,0 +1,22 @@
+{
+  "brands": [
+    "coca cola",
+    "dr. oetker",
+    "kerrygold",
+    "milka",
+    "lindt",
+    "barilla",
+    "jacobs",
+    "lavazza",
+    "gallo",
+    "haribo",
+    "merci"
+  ],
+  "weak_suffixes": [
+    "original",
+    "classic",
+    "medium",
+    "pur",
+    "light"
+  ]
+}

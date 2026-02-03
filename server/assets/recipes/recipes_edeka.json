@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "R001",
+    "name": "Kartoffel-Zwiebel-Gouda-Gratin",
+    "ingredients": [
+      {
+        "name": "ALDI Nord — Speisekartoffeln (5-kg-Netz)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O001",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Speisekartoffeln (5-kg-Netz)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "MILSANI — Gouda XXL",
+        "quantity": 600,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O024",
+        "price_eur": 2.99,
+        "price_before_eur": null,
+        "brand": "MILSANI",
+        "product": "Gouda XXL",
+        "note": null
+      },
+      {
+        "name": "LEERDAMMER — Reibekäse Auflauf",
+        "quantity": 160,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.49,
+        "price_before_eur": 2.89,
+        "brand": "LEERDAMMER",
+        "product": "Reibekäse Auflauf",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Sahne",
+        "quantity": 200,
+        "unit": "ml",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Sahne",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Salz",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Salz",
+        "note": "Grundgewürz"
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C Ober-/Unterhitze vorheizen.",
+      "Kartoffeln waschen, optional schälen und in dünne Scheiben schneiden. Zwiebeln in feine Streifen schneiden.",
+      "Auflaufform einfetten. Kartoffeln und Zwiebeln lagenweise einschichten; jede Lage leicht salzen und pfeffern.",
+      "Sahne darüber gießen, sodass die Kartoffeln knapp bedeckt sind.",
+      "Gouda und Reibekäse gleichmäßig darüberstreuen.",
+      "35–45 Minuten backen, bis die Kartoffeln weich sind und die Oberfläche goldbraun ist.",
+      "5 Minuten ruhen lassen, dann schneiden und servieren."
+    ],
+    "price_total_before_eur": 9.86,
+    "price_total_eur": 8.46,
+    "savings_percent": 14.2,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R002",
+    "name": "Hähnchen-Tomaten-Pfanne mit Pizza-&-Pasta-Käse",
+    "ingredients": [
+      {
+        "name": "MEINE METZGEREI — Hähnchen-Geschnetzeltes",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O019",
+        "price_eur": 3.79,
+        "price_before_eur": 4.99,
+        "brand": "MEINE METZGEREI",
+        "product": "Hähnchen-Geschnetzeltes",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Cherrydatteltomaten (1-kg-Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 2.49,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Cherrydatteltomaten (1-kg-Schale)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "LEERDAMMER — Reibekäse Pizza & Pasta",
+        "quantity": 160,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.49,
+        "price_before_eur": 2.89,
+        "brand": "LEERDAMMER",
+        "product": "Reibekäse Pizza & Pasta",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      },
+      {
+        "name": "EDEKA — Salz",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Salz",
+        "note": "Grundgewürz"
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Zwiebeln fein würfeln. Tomaten halbieren.",
+      "Pfanne stark erhitzen, Öl zugeben und Zwiebeln 2–3 Minuten glasig braten.",
+      "Hähnchen-Geschnetzeltes zugeben und 5–7 Minuten anbraten, bis es durchgegart ist.",
+      "Tomaten untermischen und 2–3 Minuten mitsautieren.",
+      "Mit Salz und Pfeffer (optional Paprika/Chili) abschmecken.",
+      "Käse darüberstreuen, Deckel auflegen und 1–2 Minuten schmelzen lassen.",
+      "Direkt servieren."
+    ],
+    "price_total_before_eur": 12.36,
+    "price_total_eur": 9.76,
+    "savings_percent": 21.0,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R003",
+    "name": "Zitronen-Lachsforelle auf Kartoffel-Zwiebel-Pfanne mit Romana",
+    "ingredients": [
+      {
+        "name": "GOLDEN SEAFOOD — Lachsforellenfiletseite (ca. 520 g)",
+        "quantity": 520,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O022",
+        "price_eur": 7.79,
+        "price_before_eur": null,
+        "brand": "GOLDEN SEAFOOD",
+        "product": "Lachsforellenfiletseite (ca. 520 g)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Speisekartoffeln (5-kg-Netz)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O001",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Speisekartoffeln (5-kg-Netz)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "BIO — Zitronen (500-g-Netz)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O111",
+        "price_eur": 1.39,
+        "price_before_eur": 1.59,
+        "brand": "BIO",
+        "product": "Zitronen (500-g-Netz)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Mini-Romana-Salatherzen (2er-Pack)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 0.79,
+        "price_before_eur": 0.89,
+        "brand": "ALDI Nord",
+        "product": "Mini-Romana-Salatherzen (2er-Pack)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      },
+      {
+        "name": "EDEKA — Salz",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Salz",
+        "note": "Grundgewürz"
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Kartoffeln in Scheiben, Zwiebeln in Streifen schneiden. Zitrone halbieren.",
+      "Pfanne erhitzen, Öl zugeben und Kartoffeln 8–10 Minuten braten; dann Zwiebeln zugeben und weitere 3–4 Minuten braten.",
+      "Fisch salzen, pfeffern und mit Zitronensaft beträufeln.",
+      "Fisch auf die Kartoffelpfanne legen, Deckel auflegen und 6–8 Minuten gar ziehen lassen (alternativ separat braten).",
+      "Romana waschen, zupfen. Mit etwas Öl, Zitronensaft, Salz und Pfeffer anmachen.",
+      "Fisch mit Kartoffelpfanne und Salat servieren."
+    ],
+    "price_total_before_eur": 14.25,
+    "price_total_eur": 13.95,
+    "savings_percent": 2.1,
+    "diet_categories": [
+      "High Protein",
+      "Gluten-free",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R004",
+    "name": "Currywurst-Baguette mit Tomaten-Zwiebel-Salsa",
+    "ingredients": [
+      {
+        "name": "CURRYSTAR — Currywurst XXL",
+        "quantity": 240,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O037",
+        "price_eur": 1.39,
+        "price_before_eur": null,
+        "brand": "CURRYSTAR",
+        "product": "Currywurst XXL",
+        "note": null
+      },
+      {
+        "name": "MEIN BESTES — Bauernbaguette (ofenfrisch)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O023",
+        "price_eur": 0.49,
+        "price_before_eur": 0.79,
+        "brand": "MEIN BESTES",
+        "product": "Bauernbaguette (ofenfrisch)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Cherrydatteltomaten (1-kg-Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 2.49,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Cherrydatteltomaten (1-kg-Schale)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      },
+      {
+        "name": "EDEKA — Salz",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Salz",
+        "note": "Grundgewürz"
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C vorheizen und Baguette 5–7 Minuten aufbacken.",
+      "Zwiebeln fein würfeln, Tomaten klein schneiden. Mit Salz, Pfeffer und etwas Öl mischen.",
+      "Currywurst nach Packungsangabe erhitzen/anbraten und in Scheiben schneiden.",
+      "Baguette längs aufschneiden, Currywurst einlegen und mit Salsa toppen.",
+      "Optional: extra Curry/Ketchup dazu servieren."
+    ],
+    "price_total_before_eur": 6.66,
+    "price_total_eur": 6.36,
+    "savings_percent": 4.5,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienreich",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R005",
+    "name": "Heringsfilet-Romana-Bowl mit Zitronen-Tomaten",
+    "ingredients": [
+      {
+        "name": "NADLER — Sahne-Heringsfilets",
+        "quantity": 440,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O038",
+        "price_eur": 2.29,
+        "price_before_eur": 2.89,
+        "brand": "NADLER",
+        "product": "Sahne-Heringsfilets",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Mini-Romana-Salatherzen (2er-Pack)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 0.79,
+        "price_before_eur": 0.89,
+        "brand": "ALDI Nord",
+        "product": "Mini-Romana-Salatherzen (2er-Pack)",
+        "note": null
+      },
+      {
+        "name": "BIO — Zitronen (500-g-Netz)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O111",
+        "price_eur": 1.39,
+        "price_before_eur": 1.59,
+        "brand": "BIO",
+        "product": "Zitronen (500-g-Netz)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Romatomaten (500-g-Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O114",
+        "price_eur": 0.89,
+        "price_before_eur": 0.99,
+        "brand": "ALDI Nord",
+        "product": "Romatomaten (500-g-Schale)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Romana waschen, trocken schleudern und grob zupfen.",
+      "Romatomaten würfeln. Zitrone auspressen.",
+      "Hering in Stücke schneiden und zusammen mit den Tomaten auf dem Salat verteilen.",
+      "Mit Zitronensaft und Pfeffer abschmecken (Salz meist nicht nötig).",
+      "Optional: mit etwas Öl abrunden und sofort servieren."
+    ],
+    "price_total_before_eur": 6.36,
+    "price_total_eur": 5.36,
+    "savings_percent": 15.7,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R006",
+    "name": "Thunfisch-Salat-Bowl mit Romana & Remoulade-Dressing",
+    "ingredients": [
+      {
+        "name": "GOLDEN SEAFOOD — Thunfisch-Salat",
+        "quantity": 160,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O129",
+        "price_eur": 1.69,
+        "price_before_eur": null,
+        "brand": "GOLDEN SEAFOOD",
+        "product": "Thunfisch-Salat",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Mini-Romana-Salatherzen (2er-Pack)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 0.79,
+        "price_before_eur": 0.89,
+        "brand": "ALDI Nord",
+        "product": "Mini-Romana-Salatherzen (2er-Pack)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Romatomaten (500-g-Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O114",
+        "price_eur": 0.89,
+        "price_before_eur": 0.99,
+        "brand": "ALDI Nord",
+        "product": "Romatomaten (500-g-Schale)",
+        "note": null
+      },
+      {
+        "name": "SKANDINAVIC’S — Remoulade",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O130",
+        "price_eur": 1.19,
+        "price_before_eur": null,
+        "brand": "SKANDINAVIC’S",
+        "product": "Remoulade",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Romana waschen, zupfen. Tomaten würfeln.",
+      "Thunfisch-Salat grob zerteilen und zum Salat geben.",
+      "Remoulade als Dressing verwenden; bei Bedarf mit einem Schuss Wasser oder Zitronensaft verdünnen.",
+      "Alles vermengen und mit Pfeffer abschmecken.",
+      "Direkt servieren."
+    ],
+    "price_total_before_eur": 4.76,
+    "price_total_eur": 4.56,
+    "savings_percent": 4.2,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R007",
+    "name": "Gyoza-Edamame-Woknudeln mit Teriyaki",
+    "ingredients": [
+      {
+        "name": "ASIA GREEN GARDEN — Gyoza",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O077",
+        "price_eur": 2.49,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Gyoza",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Edamame (Packung, ca. 400 g)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O079",
+        "price_eur": 1.79,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Edamame (Packung, ca. 400 g)",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Wok-Nudeln",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O092",
+        "price_eur": 0.69,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Wok-Nudeln",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Teriyaki-Sauce (250-ml-Flasche)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O104",
+        "price_eur": 1.29,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Teriyaki-Sauce (250-ml-Flasche)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      }
+    ],
+    "steps": [
+      "Woknudeln nach Packungsangabe zubereiten (oder bei vorgegarten Nudeln direkt verwenden).",
+      "Edamame nach Packungsangabe erhitzen (kurz kochen oder in der Pfanne anbraten).",
+      "Pfanne/Wok stark erhitzen, Öl zugeben.",
+      "Gyoza nach Packungsangabe anbraten (meist erst braten, dann mit etwas Wasser dämpfen).",
+      "Nudeln und Edamame zugeben, alles 1–2 Minuten durchschwenken.",
+      "Mit Teriyaki-Sauce abschmecken und heiß servieren."
+    ],
+    "price_total_before_eur": 6.26,
+    "price_total_eur": 6.26,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R008",
+    "name": "Crispy-Garnelen-Woknudeln mit Wok-Gemüse & Sriracha",
+    "ingredients": [
+      {
+        "name": "ASIA GREEN GARDEN — Crispy Garnelen",
+        "quantity": 230,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O075",
+        "price_eur": 3.29,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Crispy Garnelen",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Wok-Nudeln",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O092",
+        "price_eur": 0.69,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Wok-Nudeln",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Wok-Gemüse (Dose, ATG 310 g)",
+        "quantity": 310,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O093",
+        "price_eur": 0.99,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Wok-Gemüse (Dose, ATG 310 g)",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Sriracha-Sauce (250-ml-Flasche)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O103",
+        "price_eur": 1.49,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Sriracha-Sauce (250-ml-Flasche)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      }
+    ],
+    "steps": [
+      "Woknudeln nach Packungsangabe zubereiten.",
+      "Crispy Garnelen nach Packungsangabe im Ofen oder in der Pfanne knusprig garen.",
+      "Wok/Pfanne erhitzen, Öl zugeben und Wok-Gemüse 2–3 Minuten anbraten.",
+      "Nudeln untermischen, alles gut durchschwenken.",
+      "Mit Sriracha-Sauce nach gewünschter Schärfe abschmecken.",
+      "Garnelen obenauf geben und servieren."
+    ],
+    "price_total_before_eur": 6.46,
+    "price_total_eur": 6.46,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "High Protein",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R009",
+    "name": "Knusperente-Mie-Nudel-Pfanne mit Soja",
+    "ingredients": [
+      {
+        "name": "ASIA GREEN GARDEN — Knusperente",
+        "quantity": 550,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O078",
+        "price_eur": 8.99,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Knusperente",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Mie-Nudeln",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O087",
+        "price_eur": 0.69,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Mie-Nudeln",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Wok-Gemüse (Dose, ATG 310 g)",
+        "quantity": 310,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O093",
+        "price_eur": 0.99,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Wok-Gemüse (Dose, ATG 310 g)",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Soja-Sauce XXL (1-L-Flasche)",
+        "quantity": 1000,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O101",
+        "price_eur": 2.99,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Soja-Sauce XXL (1-L-Flasche)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      }
+    ],
+    "steps": [
+      "Mie-Nudeln nach Packungsangabe garen und abtropfen lassen.",
+      "Knusperente nach Packungsangabe zubereiten (meist Ofen).",
+      "Wok/Pfanne erhitzen, Öl zugeben und Wok-Gemüse 2–3 Minuten braten.",
+      "Nudeln zugeben und mit Soja-Sauce würzen.",
+      "Ente in Stücke schneiden, unterheben oder obenauf anrichten.",
+      "Kurz durchschwenken und servieren."
+    ],
+    "price_total_before_eur": 13.66,
+    "price_total_eur": 13.66,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "High Protein",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R010",
+    "name": "Apfel-Milchreis-Joghurt mit Konfitüre",
+    "ingredients": [
+      {
+        "name": "MÜLLER — Milchreis",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O120",
+        "price_eur": 0.44,
+        "price_before_eur": 0.99,
+        "brand": "MÜLLER",
+        "product": "Milchreis",
+        "note": null
+      },
+      {
+        "name": "WEIHENSTEPHAN — Joghurt (500-g-Becher)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O030",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "WEIHENSTEPHAN",
+        "product": "Joghurt (500-g-Becher)",
+        "note": null
+      },
+      {
+        "name": "SCHWARTAU — Konfitüre Extra",
+        "quantity": 340,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O045",
+        "price_eur": 1.99,
+        "price_before_eur": 2.69,
+        "brand": "SCHWARTAU",
+        "product": "Konfitüre Extra",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Äpfel (1,5-kg-Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O139",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Äpfel (1,5-kg-Beutel)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Zucker oder Honig",
+        "quantity": 1,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Zucker oder Honig",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Äpfel waschen, entkernen und in kleine Würfel schneiden.",
+      "Milchreis nach Packungsangabe kalt oder warm servieren (fertiger Becher: einfach öffnen).",
+      "Joghurt in eine Schüssel geben, Milchreis unterheben.",
+      "Apfelwürfel darüber geben und mit Konfitüre toppen.",
+      "Optional mit etwas Zucker/Honig süßen. Kalt servieren."
+    ],
+    "price_total_before_eur": 7.16,
+    "price_total_eur": 5.41,
+    "savings_percent": 24.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R011",
+    "name": "Kiwi-Joghurt-Bowl mit Schoko-Splittern",
+    "ingredients": [
+      {
+        "name": "EDEKA — Zespri Jumbo SunGold Kiwi (Stück, Klasse I)",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "E001",
+        "price_eur": 1.0,
+        "price_before_eur": null,
+        "brand": "Zespri",
+        "product": "Jumbo SunGold Kiwi (Stück)",
+        "note": "Herkunft: Italien, Klasse I"
+      },
+      {
+        "name": "WEIHENSTEPHAN — Joghurt (500-g-Becher)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O030",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "WEIHENSTEPHAN",
+        "product": "Joghurt (500-g-Becher)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Milka Schokolade (250 g, versch. Sorten)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "E008",
+        "price_eur": 2.79,
+        "price_before_eur": 4.98,
+        "brand": "Milka",
+        "product": "Schokolade (250 g)",
+        "note": "versch. Sorten (250–300 g)"
+      },
+      {
+        "name": "EDEKA — Zucker oder Honig",
+        "quantity": 1,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Zucker oder Honig",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Kiwi schälen und in Scheiben schneiden.",
+      "Joghurt in eine Schüssel geben und optional leicht süßen.",
+      "Kiwi darauf anrichten.",
+      "Milka-Schokolade grob raspeln oder hacken und als Topping darüberstreuen.",
+      "Sofort servieren."
+    ],
+    "price_total_before_eur": 7.47,
+    "price_total_eur": 4.78,
+    "savings_percent": 36.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R012",
+    "name": "Raclette-Kartoffel-Zwiebel-Pfanne",
+    "ingredients": [
+      {
+        "name": "ALDI Nord — Speisekartoffeln (5-kg-Netz)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O001",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Speisekartoffeln (5-kg-Netz)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Le Rustique Raclette l'Originale (400 g)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "E004",
+        "price_eur": 3.49,
+        "price_before_eur": 6.02,
+        "brand": "Le Rustique",
+        "product": "Raclette l'Originale (400 g)",
+        "note": "Alternative Packung: Ohne Rinde (360 g)"
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      },
+      {
+        "name": "EDEKA — Salz",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Salz",
+        "note": "Grundgewürz"
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Kartoffeln in Würfel schneiden (mit Schale geht auch) und in einer Pfanne mit Öl 12–15 Minuten braten.",
+      "Zwiebeln in Streifen schneiden und 3–4 Minuten mitbraten, bis sie weich sind.",
+      "Mit Salz und Pfeffer würzen.",
+      "Raclette in Scheiben schneiden und über die Kartoffeln legen.",
+      "Deckel auflegen und 2–3 Minuten schmelzen lassen.",
+      "Direkt aus der Pfanne servieren."
+    ],
+    "price_total_before_eur": 10.0,
+    "price_total_eur": 7.47,
+    "savings_percent": 25.3,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R013",
+    "name": "Buko-Tomaten-Romana-Wraps (Low Carb)",
+    "ingredients": [
+      {
+        "name": "EDEKA — Arla Buko Frischkäse (200 g, versch. Sorten)",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "E003",
+        "price_eur": 0.99,
+        "price_before_eur": 1.98,
+        "brand": "Arla",
+        "product": "Buko Frischkäse (200 g)",
+        "note": "versch. Sorten"
+      },
+      {
+        "name": "ALDI Nord — Mini-Romana-Salatherzen (2er-Pack)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 0.79,
+        "price_before_eur": 0.89,
+        "brand": "ALDI Nord",
+        "product": "Mini-Romana-Salatherzen (2er-Pack)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Romatomaten (500-g-Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O114",
+        "price_eur": 0.89,
+        "price_before_eur": 0.99,
+        "brand": "ALDI Nord",
+        "product": "Romatomaten (500-g-Schale)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Romana waschen, trocken schleudern und die größten Blätter als 'Wraps' beiseitelegen.",
+      "Zwiebel sehr fein würfeln, Tomaten würfeln.",
+      "Arla Buko in einer Schüssel cremig rühren (optional mit etwas Zitronensaft).",
+      "Buko auf die Romana-Blätter streichen, Tomaten und Zwiebeln darauf verteilen.",
+      "Mit Pfeffer abschmecken, Blätter zusammenklappen/rollen und direkt servieren."
+    ],
+    "price_total_before_eur": 5.85,
+    "price_total_eur": 4.66,
+    "savings_percent": 20.3,
+    "diet_categories": [
+      "Vegetarisch",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R014",
+    "name": "Hähnchen-Romana-Boats mit Tomaten & Käse",
+    "ingredients": [
+      {
+        "name": "MEINE METZGEREI — Hähnchen-Geschnetzeltes",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O019",
+        "price_eur": 3.79,
+        "price_before_eur": 4.99,
+        "brand": "MEINE METZGEREI",
+        "product": "Hähnchen-Geschnetzeltes",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Mini-Romana-Salatherzen (2er-Pack)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 0.79,
+        "price_before_eur": 0.89,
+        "brand": "ALDI Nord",
+        "product": "Mini-Romana-Salatherzen (2er-Pack)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Romatomaten (500-g-Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O114",
+        "price_eur": 0.89,
+        "price_before_eur": 0.99,
+        "brand": "ALDI Nord",
+        "product": "Romatomaten (500-g-Schale)",
+        "note": null
+      },
+      {
+        "name": "LEERDAMMER — Reibekäse Pizza & Pasta",
+        "quantity": 160,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.49,
+        "price_before_eur": 2.89,
+        "brand": "LEERDAMMER",
+        "product": "Reibekäse Pizza & Pasta",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      },
+      {
+        "name": "EDEKA — Salz",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Salz",
+        "note": "Grundgewürz"
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Romana-Blätter waschen und trocken tupfen (sie dienen als 'Boats').",
+      "Hähnchen in einer Pfanne mit etwas Öl 5–7 Minuten anbraten, bis es durch ist. Mit Salz und Pfeffer würzen.",
+      "Tomaten würfeln und kurz in der Pfanne 1 Minute mitschwenken (oder roh lassen).",
+      "Hähnchen-Tomaten-Mix in die Romana-Blätter füllen.",
+      "Käse darüberstreuen; optional kurz unter den Grill/Ofen 2 Minuten, bis er schmilzt.",
+      "Servieren."
+    ],
+    "price_total_before_eur": 9.76,
+    "price_total_eur": 6.96,
+    "savings_percent": 28.7,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R015",
+    "name": "Edamame-Reis-Bowl mit Teriyaki",
+    "ingredients": [
+      {
+        "name": "ASIA GREEN GARDEN — Edamame (Packung, ca. 400 g)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O079",
+        "price_eur": 1.79,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Edamame (Packung, ca. 400 g)",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Teriyaki-Sauce (250-ml-Flasche)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O104",
+        "price_eur": 1.29,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Teriyaki-Sauce (250-ml-Flasche)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Reis",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Reis",
+        "note": "z. B. Basmati"
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      }
+    ],
+    "steps": [
+      "Reis nach Packungsangabe kochen (als Basis für die Bowl).",
+      "Edamame nach Packungsangabe erhitzen (kurz kochen oder in der Pfanne braten).",
+      "Reis in eine Schüssel geben, Edamame darauf verteilen.",
+      "Mit Teriyaki-Sauce abschmecken; optional mit etwas Öl abrunden.",
+      "Heiß oder lauwarm servieren."
+    ],
+    "price_total_before_eur": 3.08,
+    "price_total_eur": 3.08,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "High Protein",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R016",
+    "name": "Raclette-Zwiebel-Omelett",
+    "ingredients": [
+      {
+        "name": "EDEKA — Le Rustique Raclette l'Originale (400 g)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "E004",
+        "price_eur": 3.49,
+        "price_before_eur": 6.02,
+        "brand": "Le Rustique",
+        "product": "Raclette l'Originale (400 g)",
+        "note": "Alternative Packung: Ohne Rinde (360 g)"
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Eier",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Eier",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Olivenöl oder Rapsöl",
+        "quantity": 2,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Olivenöl oder Rapsöl",
+        "note": "zum Braten"
+      },
+      {
+        "name": "EDEKA — Salz",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Salz",
+        "note": "Grundgewürz"
+      },
+      {
+        "name": "EDEKA — Pfeffer",
+        "quantity": 1,
+        "unit": "tsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Pfeffer",
+        "note": "Grundgewürz"
+      }
+    ],
+    "steps": [
+      "Zwiebel in feine Ringe schneiden.",
+      "Pfanne erhitzen, etwas Öl zugeben und Zwiebeln 3–4 Minuten anbraten, bis sie weich sind.",
+      "Eier in einer Schüssel verquirlen, salzen und pfeffern.",
+      "Eier über die Zwiebeln gießen und bei mittlerer Hitze stocken lassen.",
+      "Raclette in Stücke schneiden, auf die Omelett-Oberfläche legen und unter Deckel 2 Minuten schmelzen lassen.",
+      "Omelett zusammenklappen und servieren."
+    ],
+    "price_total_before_eur": 8.01,
+    "price_total_eur": 5.48,
+    "savings_percent": 31.6,
+    "diet_categories": [
+      "High Protein",
+      "Vegetarisch",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R017",
+    "name": "Schoko-Apfel-Joghurt-Parfait mit Konfitüre",
+    "ingredients": [
+      {
+        "name": "ALDI Nord — Äpfel (1,5-kg-Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O139",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Äpfel (1,5-kg-Beutel)",
+        "note": null
+      },
+      {
+        "name": "WEIHENSTEPHAN — Joghurt (500-g-Becher)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O030",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "WEIHENSTEPHAN",
+        "product": "Joghurt (500-g-Becher)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Milka Schokolade (250 g, versch. Sorten)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "E008",
+        "price_eur": 2.79,
+        "price_before_eur": 4.98,
+        "brand": "Milka",
+        "product": "Schokolade (250 g)",
+        "note": "versch. Sorten (250–300 g)"
+      },
+      {
+        "name": "SCHWARTAU — Konfitüre Extra",
+        "quantity": 340,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O045",
+        "price_eur": 1.99,
+        "price_before_eur": 2.69,
+        "brand": "SCHWARTAU",
+        "product": "Konfitüre Extra",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Äpfel waschen, entkernen und in kleine Würfel schneiden.",
+      "Joghurt cremig rühren.",
+      "In ein Glas schichten: Joghurt → Apfelwürfel → ein Löffel Konfitüre; wiederholen.",
+      "Milka-Schokolade raspeln/hacken und oben drüber geben.",
+      "10 Minuten kalt stellen (optional) und servieren."
+    ],
+    "price_total_before_eur": 11.15,
+    "price_total_eur": 7.76,
+    "savings_percent": 30.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R018",
+    "name": "Kiwi-Apfel-Fruchtsalat mit Saft-Dressing",
+    "ingredients": [
+      {
+        "name": "EDEKA — Zespri Jumbo SunGold Kiwi (Stück, Klasse I)",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "E001",
+        "price_eur": 1.0,
+        "price_before_eur": null,
+        "brand": "Zespri",
+        "product": "Jumbo SunGold Kiwi (Stück)",
+        "note": "Herkunft: Italien, Klasse I"
+      },
+      {
+        "name": "ALDI Nord — Äpfel (1,5-kg-Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O139",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Äpfel (1,5-kg-Beutel)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Saft oder Nektar (1 l, versch. Sorten)",
+        "quantity": 1,
+        "unit": "l",
+        "from_offer": true,
+        "offer_id": "E010",
+        "price_eur": 1.59,
+        "price_before_eur": 1.99,
+        "brand": "EDEKA",
+        "product": "Saft oder Nektar (1 l)",
+        "note": "versch. Sorten"
+      },
+      {
+        "name": "EDEKA — Zitronensaft",
+        "quantity": 1,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Zitronensaft",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Kiwi schälen und würfeln. Äpfel waschen, entkernen und würfeln.",
+      "Obst in eine Schüssel geben.",
+      "Für ein leichtes Dressing 2–3 EL Saft mit 1 EL Zitronensaft verrühren.",
+      "Über das Obst geben, kurz mischen und kalt servieren."
+    ],
+    "price_total_before_eur": 4.98,
+    "price_total_eur": 4.58,
+    "savings_percent": 8.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R019",
+    "name": "Iced Coffee (Prodomo) mit Milch",
+    "ingredients": [
+      {
+        "name": "EDEKA — Dallmayr Prodomo (gemahlener Bohnenkaffee, 500 g)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "E005",
+        "price_eur": 5.99,
+        "price_before_eur": 10.51,
+        "brand": "Dallmayr",
+        "product": "Prodomo (gemahlener Kaffee, 500 g)",
+        "note": "vakuumverpackt"
+      },
+      {
+        "name": "EDEKA — Milch",
+        "quantity": 200,
+        "unit": "ml",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Milch",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Zucker oder Honig",
+        "quantity": 1,
+        "unit": "tbsp",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Zucker oder Honig",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Kaffee zubereiten (stark: z. B. 2 TL auf 200 ml Wasser) und vollständig abkühlen lassen.",
+      "Ein Glas mit Eiswürfeln füllen (optional).",
+      "Abgekühlten Kaffee einfüllen, Milch dazugeben und nach Wunsch süßen.",
+      "Umrühren und sofort trinken."
+    ],
+    "price_total_before_eur": 10.51,
+    "price_total_eur": 5.99,
+    "savings_percent": 43.0,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienarm"
+    ]
+  },
+  {
+    "id": "R020",
+    "name": "Schoko-Fondue mit Kiwi & Apfel",
+    "ingredients": [
+      {
+        "name": "EDEKA — Milka Schokolade (250 g, versch. Sorten)",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "E008",
+        "price_eur": 2.79,
+        "price_before_eur": 4.98,
+        "brand": "Milka",
+        "product": "Schokolade (250 g)",
+        "note": "versch. Sorten (250–300 g)"
+      },
+      {
+        "name": "EDEKA — Zespri Jumbo SunGold Kiwi (Stück, Klasse I)",
+        "quantity": 1,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "E001",
+        "price_eur": 1.0,
+        "price_before_eur": null,
+        "brand": "Zespri",
+        "product": "Jumbo SunGold Kiwi (Stück)",
+        "note": "Herkunft: Italien, Klasse I"
+      },
+      {
+        "name": "ALDI Nord — Äpfel (1,5-kg-Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O139",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Äpfel (1,5-kg-Beutel)",
+        "note": null
+      },
+      {
+        "name": "EDEKA — Milch",
+        "quantity": 200,
+        "unit": "ml",
+        "from_offer": false,
+        "offer_id": null,
+        "price_eur": null,
+        "price_before_eur": null,
+        "brand": "EDEKA",
+        "product": "Milch",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Schokolade grob hacken.",
+      "Schokolade mit einem kleinen Schluck Milch in einem kleinen Topf bei sehr niedriger Hitze schmelzen, dabei ständig rühren (nicht kochen lassen).",
+      "Kiwi schälen und in Stücke schneiden. Äpfel waschen, entkernen und in Spalten schneiden.",
+      "Schokolade in eine Schüssel geben. Obststücke eintunken und genießen.",
+      "Optional: mit extra Schoko nachlegen."
+    ],
+    "price_total_before_eur": 7.97,
+    "price_total_eur": 5.78,
+    "savings_percent": 27.5,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  }
+]

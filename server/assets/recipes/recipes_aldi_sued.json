@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "R058",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & FERRERO",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O54",
+        "exact_name": "CHOCEUR Tafelschokolade (185–205 g)",
+        "brand": "CHOCEUR",
+        "unit": "185–205 g Tafel",
+        "price_eur": 2.39,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O10",
+        "exact_name": "FERRERO Milch-Schnitte (5 Stück + 1 gratis)",
+        "brand": "FERRERO",
+        "unit": "140 g Packung",
+        "price_eur": 3.29,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O08",
+        "exact_name": "JACOBS Kaffeesticks (12 Stück + 2 gratis)",
+        "brand": "JACOBS",
+        "unit": "134.4–148.8 g Packung (je nach Sorte)",
+        "price_eur": 1.99,
+        "uvp_eur": 2.79,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (185–205 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O54",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "FERRERO — FERRERO Milch-Schnitte (5 Stück + 1 gratis)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O10",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "JACOBS — JACOBS Kaffeesticks (12 Stück + 2 gratis)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O08",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 8.47,
+      "price_now_eur": 7.67,
+      "savings_percent": 9.4
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R059",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & DR. OETKER",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O54",
+        "exact_name": "CHOCEUR Tafelschokolade (185–205 g)",
+        "brand": "CHOCEUR",
+        "unit": "185–205 g Tafel",
+        "price_eur": 2.39,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O06",
+        "exact_name": "DR. OETKER High-Protein-Pudding oder -Milchreis (versch. Sorten)",
+        "brand": "DR. OETKER",
+        "unit": "400 g Becher",
+        "price_eur": 1.79,
+        "uvp_eur": 2.59,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O08",
+        "exact_name": "JACOBS Kaffeesticks (12 Stück + 2 gratis)",
+        "brand": "JACOBS",
+        "unit": "134.4–148.8 g Packung (je nach Sorte)",
+        "price_eur": 1.99,
+        "uvp_eur": 2.79,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (185–205 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O54",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "DR. OETKER — DR. OETKER High-Protein-Pudding oder -Milchreis (versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O06",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "JACOBS — JACOBS Kaffeesticks (12 Stück + 2 gratis)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O08",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 7.77,
+      "price_now_eur": 6.17,
+      "savings_percent": 20.6
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R060",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & EHRMANN",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O53",
+        "exact_name": "CHOCEUR Tafelschokolade (90 g bzw. 100 g)",
+        "brand": "CHOCEUR",
+        "unit": "90 g bzw. 100 g Tafel",
+        "price_eur": 0.99,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O05",
+        "exact_name": "EHRMANN Obstgarten (versch. Sorten)",
+        "brand": "EHRMANN",
+        "unit": "125 g Packung",
+        "price_eur": 0.39,
+        "uvp_eur": 0.79,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O11",
+        "exact_name": "KERRYGOLD Original irische Butter",
+        "brand": "KERRYGOLD",
+        "unit": "200 g Packung",
+        "price_eur": 2.19,
+        "uvp_eur": 3.99,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (90 g bzw. 100 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O53",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "EHRMANN — EHRMANN Obstgarten (versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O05",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "KERRYGOLD — KERRYGOLD Original irische Butter",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O11",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 5.77,
+      "price_now_eur": 3.57,
+      "savings_percent": 38.1
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R061",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & FERRERO",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O53",
+        "exact_name": "CHOCEUR Tafelschokolade (90 g bzw. 100 g)",
+        "brand": "CHOCEUR",
+        "unit": "90 g bzw. 100 g Tafel",
+        "price_eur": 0.99,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O10",
+        "exact_name": "FERRERO Milch-Schnitte (5 Stück + 1 gratis)",
+        "brand": "FERRERO",
+        "unit": "140 g Packung",
+        "price_eur": 3.29,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O11",
+        "exact_name": "KERRYGOLD Original irische Butter",
+        "brand": "KERRYGOLD",
+        "unit": "200 g Packung",
+        "price_eur": 2.19,
+        "uvp_eur": 3.99,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (90 g bzw. 100 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O53",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "FERRERO — FERRERO Milch-Schnitte (5 Stück + 1 gratis)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O10",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "KERRYGOLD — KERRYGOLD Original irische Butter",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O11",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 8.27,
+      "price_now_eur": 6.47,
+      "savings_percent": 21.8
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R062",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & FERRERO",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O54",
+        "exact_name": "CHOCEUR Tafelschokolade (185–205 g)",
+        "brand": "CHOCEUR",
+        "unit": "185–205 g Tafel",
+        "price_eur": 2.39,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O10",
+        "exact_name": "FERRERO Milch-Schnitte (5 Stück + 1 gratis)",
+        "brand": "FERRERO",
+        "unit": "140 g Packung",
+        "price_eur": 3.29,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O11",
+        "exact_name": "KERRYGOLD Original irische Butter",
+        "brand": "KERRYGOLD",
+        "unit": "200 g Packung",
+        "price_eur": 2.19,
+        "uvp_eur": 3.99,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (185–205 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O54",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "FERRERO — FERRERO Milch-Schnitte (5 Stück + 1 gratis)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O10",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "KERRYGOLD — KERRYGOLD Original irische Butter",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O11",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 9.67,
+      "price_now_eur": 7.87,
+      "savings_percent": 18.6
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R063",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & EHRMANN",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O53",
+        "exact_name": "CHOCEUR Tafelschokolade (90 g bzw. 100 g)",
+        "brand": "CHOCEUR",
+        "unit": "90 g bzw. 100 g Tafel",
+        "price_eur": 0.99,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O05",
+        "exact_name": "EHRMANN Obstgarten (versch. Sorten)",
+        "brand": "EHRMANN",
+        "unit": "125 g Packung",
+        "price_eur": 0.39,
+        "uvp_eur": 0.79,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O11",
+        "exact_name": "KERRYGOLD Original irische Butter",
+        "brand": "KERRYGOLD",
+        "unit": "200 g Packung",
+        "price_eur": 2.19,
+        "uvp_eur": 3.99,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (90 g bzw. 100 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O53",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "EHRMANN — EHRMANN Obstgarten (versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O05",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "KERRYGOLD — KERRYGOLD Original irische Butter",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O11",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 5.77,
+      "price_now_eur": 3.57,
+      "savings_percent": 38.1
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R064",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & EHRMANN",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O54",
+        "exact_name": "CHOCEUR Tafelschokolade (185–205 g)",
+        "brand": "CHOCEUR",
+        "unit": "185–205 g Tafel",
+        "price_eur": 2.39,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O05",
+        "exact_name": "EHRMANN Obstgarten (versch. Sorten)",
+        "brand": "EHRMANN",
+        "unit": "125 g Packung",
+        "price_eur": 0.39,
+        "uvp_eur": 0.79,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O07",
+        "exact_name": "MESSMER Früchtetee (20 Beutel, versch. Sorten, z.B. Toskanischer Pfirsich)",
+        "brand": "MESSMER",
+        "unit": "50 g Packung",
+        "price_eur": 1.49,
+        "uvp_eur": 2.39,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (185–205 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O54",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "EHRMANN — EHRMANN Obstgarten (versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O05",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "MESSMER — MESSMER Früchtetee (20 Beutel, versch. Sorten, z.B. Toskanischer Pfirsich)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O07",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 5.57,
+      "price_now_eur": 4.27,
+      "savings_percent": 23.3
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R065",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & EHRMANN",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O54",
+        "exact_name": "CHOCEUR Tafelschokolade (185–205 g)",
+        "brand": "CHOCEUR",
+        "unit": "185–205 g Tafel",
+        "price_eur": 2.39,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O05",
+        "exact_name": "EHRMANN Obstgarten (versch. Sorten)",
+        "brand": "EHRMANN",
+        "unit": "125 g Packung",
+        "price_eur": 0.39,
+        "uvp_eur": 0.79,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O11",
+        "exact_name": "KERRYGOLD Original irische Butter",
+        "brand": "KERRYGOLD",
+        "unit": "200 g Packung",
+        "price_eur": 2.19,
+        "uvp_eur": 3.99,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (185–205 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O54",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "EHRMANN — EHRMANN Obstgarten (versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O05",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "KERRYGOLD — KERRYGOLD Original irische Butter",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O11",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 7.17,
+      "price_now_eur": 4.97,
+      "savings_percent": 30.7
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R066",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & DR. OETKER",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O53",
+        "exact_name": "CHOCEUR Tafelschokolade (90 g bzw. 100 g)",
+        "brand": "CHOCEUR",
+        "unit": "90 g bzw. 100 g Tafel",
+        "price_eur": 0.99,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O06",
+        "exact_name": "DR. OETKER High-Protein-Pudding oder -Milchreis (versch. Sorten)",
+        "brand": "DR. OETKER",
+        "unit": "400 g Becher",
+        "price_eur": 1.79,
+        "uvp_eur": 2.59,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O07",
+        "exact_name": "MESSMER Früchtetee (20 Beutel, versch. Sorten, z.B. Toskanischer Pfirsich)",
+        "brand": "MESSMER",
+        "unit": "50 g Packung",
+        "price_eur": 1.49,
+        "uvp_eur": 2.39,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (90 g bzw. 100 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O53",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "DR. OETKER — DR. OETKER High-Protein-Pudding oder -Milchreis (versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O06",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "MESSMER — MESSMER Früchtetee (20 Beutel, versch. Sorten, z.B. Toskanischer Pfirsich)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O07",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 5.97,
+      "price_now_eur": 4.27,
+      "savings_percent": 28.5
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R067",
+    "title": "Schnelles Dessert: CHOCEUR Schoko & MEINE KUCHEN WELT",
+    "servings": 2,
+    "prep_minutes": 8,
+    "cook_minutes": 0,
+    "tags": [
+      "dessert",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O54",
+        "exact_name": "CHOCEUR Tafelschokolade (185–205 g)",
+        "brand": "CHOCEUR",
+        "unit": "185–205 g Tafel",
+        "price_eur": 2.39,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O43",
+        "exact_name": "MEINE KUCHEN WELT Berliner bzw. Krapfen (6 Stück)",
+        "brand": "MEINE KUCHEN WELT",
+        "unit": "450 g Packung",
+        "price_eur": 1.79,
+        "uvp_eur": null,
+        "price_before_eur": 2.49
+      },
+      {
+        "offer_id": "O11",
+        "exact_name": "KERRYGOLD Original irische Butter",
+        "brand": "KERRYGOLD",
+        "unit": "200 g Packung",
+        "price_eur": 2.19,
+        "uvp_eur": 3.99,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "CHOCEUR — CHOCEUR Tafelschokolade (185–205 g)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O54",
+        "note": "als Schoko-Element"
+      },
+      {
+        "name": "MEINE KUCHEN WELT — MEINE KUCHEN WELT Berliner bzw. Krapfen (6 Stück)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O43",
+        "note": "als Dessert-Basis"
+      },
+      {
+        "name": "KERRYGOLD — KERRYGOLD Original irische Butter",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O11",
+        "note": "zum Servieren/als Getränk-Beilage"
+      }
+    ],
+    "steps": [
+      "Dessertkomponenten bereitstellen.",
+      "Joghurt/Quark in Gläser füllen und mit Schoko-Elementen toppen.",
+      "Mit Kaffee oder Tee servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 8.87,
+      "price_now_eur": 6.37,
+      "savings_percent": 28.2
+    },
+    "diet_categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "High Protein"
+    ]
+  },
+  {
+    "id": "R068",
+    "title": "Hackfleisch-Pfanne mit Pesto – Variante 1",
+    "servings": 2,
+    "prep_minutes": 12,
+    "cook_minutes": 15,
+    "tags": [
+      "hauptgericht",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O39",
+        "exact_name": "MEINE METZGEREI Hackfleisch vom Rind",
+        "brand": "MEINE METZGEREI",
+        "unit": "1 kg Packung",
+        "price_eur": 9.99,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O22",
+        "exact_name": "BARILLA Pesto (versch. Sorten)",
+        "brand": "BARILLA",
+        "unit": "190 g bzw. 200 g Glas",
+        "price_eur": 1.79,
+        "uvp_eur": null,
+        "price_before_eur": 3.49
+      },
+      {
+        "offer_id": "O03",
+        "exact_name": "MILSANI Emmentaler in Scheiben",
+        "brand": "MILSANI",
+        "unit": "250 g Packung",
+        "price_eur": 1.99,
+        "uvp_eur": null,
+        "price_before_eur": 2.49
+      },
+      {
+        "offer_id": "O09",
+        "exact_name": "DALLMANN’S Salbei-Bonbons (mit Vitamin C, versch. Sorten)",
+        "brand": "DALLMANN’S",
+        "unit": "3 x 37 g = 111 g Packung",
+        "price_eur": 2.49,
+        "uvp_eur": null,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "MEINE METZGEREI — MEINE METZGEREI Hackfleisch vom Rind",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O39",
+        "note": null
+      },
+      {
+        "name": "BARILLA — BARILLA Pesto (versch. Sorten)",
+        "quantity": 0.5,
+        "unit": "Glas",
+        "from_offer": true,
+        "offer_id": "O22",
+        "note": null
+      },
+      {
+        "name": "MILSANI — MILSANI Emmentaler in Scheiben",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O03",
+        "note": null
+      },
+      {
+        "name": "DALLMANN’S — DALLMANN’S Salbei-Bonbons (mit Vitamin C, versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O09",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Hauptkomponente nach Produkt zubereiten (anbraten/erwärmen/auftauen).",
+      "Beilagen und Dips vorbereiten, ggf. abtropfen lassen.",
+      "Alles heiß anrichten und mit Sauce/Dip servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 18.46,
+      "price_now_eur": 16.26,
+      "savings_percent": 11.9
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R069",
+    "title": "Back-Käse mit Antipasti – Variante 2",
+    "servings": 2,
+    "prep_minutes": 12,
+    "cook_minutes": 15,
+    "tags": [
+      "hauptgericht",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O32",
+        "exact_name": "ALPENHAIN Back-Käse (versch. Sorten)",
+        "brand": "ALPENHAIN",
+        "unit": "200 g Packung",
+        "price_eur": 1.99,
+        "uvp_eur": 3.49,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O33",
+        "exact_name": "WONNEMEYER Antipasti (versch. Sorten)",
+        "brand": "WONNEMEYER",
+        "unit": "150 g Packung",
+        "price_eur": 1.49,
+        "uvp_eur": null,
+        "price_before_eur": 1.99
+      },
+      {
+        "offer_id": "O36",
+        "exact_name": "WONNEMEYER Olivenvariation (versch. Sorten)",
+        "brand": "WONNEMEYER",
+        "unit": "100 g Packung",
+        "price_eur": 0.99,
+        "uvp_eur": null,
+        "price_before_eur": 1.19
+      },
+      {
+        "offer_id": "O15",
+        "exact_name": "MEINE METZGEREI Hähnchenbrustfilet-Teilstücke",
+        "brand": "MEINE METZGEREI",
+        "unit": "600 g Packung",
+        "price_eur": 5.19,
+        "uvp_eur": null,
+        "price_before_eur": 6.79
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "ALPENHAIN — ALPENHAIN Back-Käse (versch. Sorten)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O32",
+        "note": null
+      },
+      {
+        "name": "WONNEMEYER — WONNEMEYER Antipasti (versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O33",
+        "note": null
+      },
+      {
+        "name": "WONNEMEYER — WONNEMEYER Olivenvariation (versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O36",
+        "note": null
+      },
+      {
+        "name": "MEINE METZGEREI — MEINE METZGEREI Hähnchenbrustfilet-Teilstücke",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O15",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Hauptkomponente nach Produkt zubereiten (anbraten/erwärmen/auftauen).",
+      "Beilagen und Dips vorbereiten, ggf. abtropfen lassen.",
+      "Alles heiß anrichten und mit Sauce/Dip servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 13.46,
+      "price_now_eur": 9.66,
+      "savings_percent": 28.2
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R070",
+    "title": "Chicken-Burger Teller mit Feinkostsauce – Variante 3",
+    "servings": 2,
+    "prep_minutes": 12,
+    "cook_minutes": 15,
+    "tags": [
+      "hauptgericht",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O38",
+        "exact_name": "MEINE METZGEREI Chicken-Burger, paniert (küchenfertig)",
+        "brand": "MEINE METZGEREI",
+        "unit": "800 g Packung",
+        "price_eur": 5.99,
+        "uvp_eur": null,
+        "price_before_eur": 7.29
+      },
+      {
+        "offer_id": "O27",
+        "exact_name": "HEINZ Feinkostsauce (versch. Sorten)",
+        "brand": "HEINZ",
+        "unit": "220 ml Flasche",
+        "price_eur": 1.29,
+        "uvp_eur": 2.29,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O35",
+        "exact_name": "DELIKATO Tomatenketchup",
+        "brand": "DELIKATO",
+        "unit": "500 ml Flasche",
+        "price_eur": 0.99,
+        "uvp_eur": null,
+        "price_before_eur": 1.29
+      },
+      {
+        "offer_id": "O22",
+        "exact_name": "BARILLA Pesto (versch. Sorten)",
+        "brand": "BARILLA",
+        "unit": "190 g bzw. 200 g Glas",
+        "price_eur": 1.79,
+        "uvp_eur": null,
+        "price_before_eur": 3.49
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "MEINE METZGEREI — MEINE METZGEREI Chicken-Burger, paniert (küchenfertig)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O38",
+        "note": null
+      },
+      {
+        "name": "HEINZ — HEINZ Feinkostsauce (versch. Sorten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O27",
+        "note": null
+      },
+      {
+        "name": "DELIKATO — DELIKATO Tomatenketchup",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O35",
+        "note": null
+      },
+      {
+        "name": "BARILLA — BARILLA Pesto (versch. Sorten)",
+        "quantity": 0.5,
+        "unit": "Glas",
+        "from_offer": true,
+        "offer_id": "O22",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Hauptkomponente nach Produkt zubereiten (anbraten/erwärmen/auftauen).",
+      "Beilagen und Dips vorbereiten, ggf. abtropfen lassen.",
+      "Alles heiß anrichten und mit Sauce/Dip servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 14.36,
+      "price_now_eur": 10.06,
+      "savings_percent": 29.9
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R071",
+    "title": "Gyros-Pfanne mit Zaziki – Variante 4",
+    "servings": 2,
+    "prep_minutes": 12,
+    "cook_minutes": 15,
+    "tags": [
+      "hauptgericht",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O23",
+        "exact_name": "MEINE METZGEREI Gyros vom Schwein (k üchenfertig zubereitet, nach Gyros-Art)",
+        "brand": "MEINE METZGEREI",
+        "unit": "500 g Packung",
+        "price_eur": 2.99,
+        "uvp_eur": null,
+        "price_before_eur": 4.29
+      },
+      {
+        "offer_id": "O24",
+        "exact_name": "WONNEMEYER Zaziki (mit Meersalz & Olivenöl)",
+        "brand": "WONNEMEYER",
+        "unit": "500 g Becher",
+        "price_eur": 1.29,
+        "uvp_eur": null,
+        "price_before_eur": 1.65
+      },
+      {
+        "offer_id": "O21",
+        "exact_name": "KING’S CROWN Sonnenmais",
+        "brand": "KING’S CROWN",
+        "unit": "425 ml Dose (Abtropfgewicht 285 g)",
+        "price_eur": 0.79,
+        "uvp_eur": null,
+        "price_before_eur": 0.99
+      },
+      {
+        "offer_id": "O16",
+        "exact_name": "KING’S CROWN Champignons (1. Wahl, in Scheiben)",
+        "brand": "KING’S CROWN",
+        "unit": "280 g Glas (Abtropfgewicht 170 g)",
+        "price_eur": 0.79,
+        "uvp_eur": null,
+        "price_before_eur": 0.99
+      },
+      {
+        "offer_id": "O42",
+        "exact_name": "HAWESTA Heringsfilets in Tomaten-Creme",
+        "brand": "HAWESTA",
+        "unit": "3 x 200 g = 600 g Packung",
+        "price_eur": 2.99,
+        "uvp_eur": null,
+        "price_before_eur": null
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "MEINE METZGEREI — MEINE METZGEREI Gyros vom Schwein (k üchenfertig zubereitet, nach Gyros-Art)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O23",
+        "note": null
+      },
+      {
+        "name": "WONNEMEYER — WONNEMEYER Zaziki (mit Meersalz & Olivenöl)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O24",
+        "note": null
+      },
+      {
+        "name": "KING’S CROWN — KING’S CROWN Sonnenmais",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O21",
+        "note": null
+      },
+      {
+        "name": "KING’S CROWN — KING’S CROWN Champignons (1. Wahl, in Scheiben)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O16",
+        "note": null
+      },
+      {
+        "name": "HAWESTA — HAWESTA Heringsfilets in Tomaten-Creme",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O42",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Hauptkomponente nach Produkt zubereiten (anbraten/erwärmen/auftauen).",
+      "Beilagen und Dips vorbereiten, ggf. abtropfen lassen.",
+      "Alles heiß anrichten und mit Sauce/Dip servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 10.91,
+      "price_now_eur": 8.85,
+      "savings_percent": 18.9
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R072",
+    "title": "Rostbratwürste-Party mit Dips – Variante 5",
+    "servings": 2,
+    "prep_minutes": 12,
+    "cook_minutes": 15,
+    "tags": [
+      "hauptgericht",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O40",
+        "exact_name": "GUT DREI EICHEN Nürnberger Rostbratwürste (28 Stück)",
+        "brand": "GUT DREI EICHEN",
+        "unit": "600 g Packung",
+        "price_eur": 4.79,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O24",
+        "exact_name": "WONNEMEYER Zaziki (mit Meersalz & Olivenöl)",
+        "brand": "WONNEMEYER",
+        "unit": "500 g Becher",
+        "price_eur": 1.29,
+        "uvp_eur": null,
+        "price_before_eur": 1.65
+      },
+      {
+        "offer_id": "O35",
+        "exact_name": "DELIKATO Tomatenketchup",
+        "brand": "DELIKATO",
+        "unit": "500 ml Flasche",
+        "price_eur": 0.99,
+        "uvp_eur": null,
+        "price_before_eur": 1.29
+      },
+      {
+        "offer_id": "O15",
+        "exact_name": "MEINE METZGEREI Hähnchenbrustfilet-Teilstücke",
+        "brand": "MEINE METZGEREI",
+        "unit": "600 g Packung",
+        "price_eur": 5.19,
+        "uvp_eur": null,
+        "price_before_eur": 6.79
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "GUT DREI EICHEN — GUT DREI EICHEN Nürnberger Rostbratwürste (28 Stück)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O40",
+        "note": null
+      },
+      {
+        "name": "WONNEMEYER — WONNEMEYER Zaziki (mit Meersalz & Olivenöl)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O24",
+        "note": null
+      },
+      {
+        "name": "DELIKATO — DELIKATO Tomatenketchup",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O35",
+        "note": null
+      },
+      {
+        "name": "MEINE METZGEREI — MEINE METZGEREI Hähnchenbrustfilet-Teilstücke",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O15",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Hauptkomponente nach Produkt zubereiten (anbraten/erwärmen/auftauen).",
+      "Beilagen und Dips vorbereiten, ggf. abtropfen lassen.",
+      "Alles heiß anrichten und mit Sauce/Dip servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 14.52,
+      "price_now_eur": 12.26,
+      "savings_percent": 15.6
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R073",
+    "title": "Garnelen-Pfanne mit Teriyaki – Variante 6",
+    "servings": 2,
+    "prep_minutes": 12,
+    "cook_minutes": 15,
+    "tags": [
+      "hauptgericht",
+      "schnell"
+    ],
+    "offers_used": [
+      {
+        "offer_id": "O17",
+        "exact_name": "BIO Bio-Party-Garnelen oder -Crevetten (geschält & gekocht)",
+        "brand": "BIO",
+        "unit": "80 g Packung",
+        "price_eur": 1.99,
+        "uvp_eur": null,
+        "price_before_eur": 2.49
+      },
+      {
+        "offer_id": "O30",
+        "exact_name": "BAMBOO GARDEN Würzmischung Japanese Teriyaki (Asiatische Spezialitäten)",
+        "brand": "BAMBOO GARDEN",
+        "unit": "25 g Packung",
+        "price_eur": 1.19,
+        "uvp_eur": null,
+        "price_before_eur": null
+      },
+      {
+        "offer_id": "O21",
+        "exact_name": "KING’S CROWN Sonnenmais",
+        "brand": "KING’S CROWN",
+        "unit": "425 ml Dose (Abtropfgewicht 285 g)",
+        "price_eur": 0.79,
+        "uvp_eur": null,
+        "price_before_eur": 0.99
+      },
+      {
+        "offer_id": "O15",
+        "exact_name": "MEINE METZGEREI Hähnchenbrustfilet-Teilstücke",
+        "brand": "MEINE METZGEREI",
+        "unit": "600 g Packung",
+        "price_eur": 5.19,
+        "uvp_eur": null,
+        "price_before_eur": 6.79
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "BIO — BIO Bio-Party-Garnelen oder -Crevetten (geschält & gekocht)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O17",
+        "note": null
+      },
+      {
+        "name": "BAMBOO GARDEN — BAMBOO GARDEN Würzmischung Japanese Teriyaki (Asiatische Spezialitäten)",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O30",
+        "note": null
+      },
+      {
+        "name": "KING’S CROWN — KING’S CROWN Sonnenmais",
+        "quantity": null,
+        "unit": null,
+        "from_offer": true,
+        "offer_id": "O21",
+        "note": null
+      },
+      {
+        "name": "MEINE METZGEREI — MEINE METZGEREI Hähnchenbrustfilet-Teilstücke",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O15",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Hauptkomponente nach Produkt zubereiten (anbraten/erwärmen/auftauen).",
+      "Beilagen und Dips vorbereiten, ggf. abtropfen lassen.",
+      "Alles heiß anrichten und mit Sauce/Dip servieren."
+    ],
+    "recipe_pricing": {
+      "price_before_eur": 11.46,
+      "price_now_eur": 9.16,
+      "savings_percent": 20.1
+    },
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  }
+]

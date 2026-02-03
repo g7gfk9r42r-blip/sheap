@@ -1,0 +1,196 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Recipe",
+  "description": "Recipe generated from supermarket offers",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "description",
+    "supermarket",
+    "weekKey",
+    "category",
+    "dietTags",
+    "servings",
+    "prepMinutes",
+    "cookMinutes",
+    "difficulty",
+    "ingredients",
+    "steps",
+    "nutrition"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z_]+-\\d{4}-W\\d{2}-\\d{3}$",
+      "description": "Unique ID: {supermarket}-{weekKey}-{index}"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 5,
+      "maxLength": 80,
+      "description": "Recipe title"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 50,
+      "maxLength": 200,
+      "description": "Recipe description"
+    },
+    "supermarket": {
+      "type": "string",
+      "description": "Supermarket name"
+    },
+    "weekKey": {
+      "type": "string",
+      "pattern": "^\\d{4}-W\\d{2}$",
+      "description": "Week key (YYYY-Wnn)"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["Breakfast", "Lunch", "Dinner", "Snack", "Dessert"],
+      "description": "Recipe category"
+    },
+    "dietTags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "vegetarian",
+          "vegan",
+          "high-protein",
+          "low-carb",
+          "balanced",
+          "quick",
+          "budget"
+        ]
+      },
+      "minItems": 1,
+      "maxItems": 3,
+      "description": "Diet/lifestyle tags"
+    },
+    "servings": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 8,
+      "description": "Number of servings"
+    },
+    "prepMinutes": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 120,
+      "description": "Preparation time in minutes"
+    },
+    "cookMinutes": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 180,
+      "description": "Cooking time in minutes"
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["easy", "medium", "hard"],
+      "description": "Difficulty level"
+    },
+    "ingredients": {
+      "type": "array",
+      "minItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["name", "amount", "unit", "isPantry", "storeHint"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 2,
+            "maxLength": 100,
+            "description": "Ingredient name"
+          },
+          "amount": {
+            "type": "number",
+            "minimum": 0.1,
+            "description": "Amount"
+          },
+          "unit": {
+            "type": "string",
+            "enum": ["g", "ml", "stk", "tl", "el", "kg", "l"],
+            "description": "Unit"
+          },
+          "isPantry": {
+            "type": "boolean",
+            "description": "Is pantry item"
+          },
+          "offerRef": {
+            "type": ["string", "null"],
+            "description": "Reference to offer ID"
+          },
+          "offerMatchNote": {
+            "type": ["string", "null"],
+            "maxLength": 200,
+            "description": "How ingredient matches offer"
+          },
+          "storeHint": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 100,
+            "description": "Where to find in store"
+          }
+        }
+      },
+      "description": "List of ingredients"
+    },
+    "steps": {
+      "type": "array",
+      "minItems": 5,
+      "items": {
+        "type": "string",
+        "minLength": 10,
+        "maxLength": 300,
+        "description": "Cooking step"
+      },
+      "description": "Cooking steps"
+    },
+    "nutrition": {
+      "type": "object",
+      "required": ["kcal_total", "kcal_per_serving", "kcal_source", "kcal_confidence"],
+      "properties": {
+        "kcal_total": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Total calories for recipe"
+        },
+        "kcal_per_serving": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Calories per serving"
+        },
+        "protein_g": {
+          "type": ["number", "null"],
+          "minimum": 0,
+          "description": "Protein in grams (optional)"
+        },
+        "fat_g": {
+          "type": ["number", "null"],
+          "minimum": 0,
+          "description": "Fat in grams (optional)"
+        },
+        "carbs_g": {
+          "type": ["number", "null"],
+          "minimum": 0,
+          "description": "Carbs in grams (optional)"
+        },
+        "kcal_source": {
+          "type": "string",
+          "enum": ["estimated", "database", "calculated", "missing"],
+          "description": "Source of calorie data"
+        },
+        "kcal_confidence": {
+          "type": "string",
+          "enum": ["low", "medium", "high"],
+          "description": "Confidence in calorie data"
+        }
+      },
+      "description": "Nutrition information"
+    }
+  }
+}
+

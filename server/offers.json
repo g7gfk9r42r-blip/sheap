@@ -1,0 +1,209 @@
+[
+    {
+      "product": "Frische Grobe Bratwurst",
+      "brand": "Metzgerfrisch",
+      "weight": "1 kg",
+      "price": 4.99,
+      "price_per_kg": 4.99,
+      "discount_percent": -30,
+      "category": "Fleisch"
+    },
+    {
+      "product": "Schweine-Gyros mariniert",
+      "brand": "Metzgerfrisch",
+      "weight": "750 g",
+      "price": 4.29,
+      "price_per_kg": 5.72,
+      "discount_percent": null,
+      "category": "Fleisch"
+    },
+    {
+      "product": "Rinder-Keulensteaks mariniert",
+      "brand": "Metzgerfrisch",
+      "weight": "800 g",
+      "price": 11.99,
+      "price_per_kg": 14.99,
+      "discount_percent": null,
+      "category": "Fleisch"
+    },
+    {
+      "product": "Entrecôte vom Charolais-Rind",
+      "brand": "Sansibar Deluxe",
+      "weight": "ca. 300 g",
+      "price": 9.00,
+      "price_per_kg": 29.99,
+      "discount_percent": null,
+      "category": "Fleisch"
+    },
+    {
+      "product": "Schweine Mini-Knusperchen Cornflakes paniert",
+      "brand": "Metzgerfrisch",
+      "weight": "960 g",
+      "price": 6.99,
+      "price_per_kg": 7.28,
+      "discount_percent": null,
+      "category": "Fleisch"
+    },
+    {
+      "product": "Frischer Irischer Angus Burger",
+      "brand": "Metzgerfrisch Premium",
+      "weight": "260 g",
+      "price": 3.49,
+      "price_per_kg": 13.42,
+      "discount_percent": null,
+      "category": "Fleisch"
+    },
+    {
+      "product": "Hähnchen-Bällchen",
+      "brand": "Metzgerfrisch",
+      "weight": "1 kg",
+      "price": 5.99,
+      "price_per_kg": 5.99,
+      "discount_percent": null,
+      "category": "Geflügel"
+    },
+    {
+      "product": "Saupiquet Thunfisch-Filets (Aktionspack)",
+      "brand": "Saupiquet",
+      "weight": "2x 160 g",
+      "price": 3.33,
+      "price_per_kg": 10.40,
+      "discount_percent": -34,
+      "category": "Fischkonserven"
+    },
+    {
+      "product": "Saint Albray / Chavroux / Saint Agur (Käse-Auswahl)",
+      "brand": "Saint Albray / Chavroux / Saint Agur",
+      "weight": "125–180 g",
+      "price": 2.29,
+      "price_per_kg": null,
+      "discount_percent": -36,
+      "category": "Käse"
+    },
+    {
+      "product": "Kerrygold Extra XXL",
+      "brand": "Kerrygold",
+      "weight": "400 g",
+      "price": 4.44,
+      "price_per_kg": 11.10,
+      "discount_percent": -47,
+      "category": "Butter"
+    },
+    {
+      "product": "Dr. Oetker Minikuchen",
+      "brand": "Dr. Oetker",
+      "weight": "140–172 g",
+      "price": 1.99,
+      "price_per_kg": null,
+      "discount_percent": -26,
+      "category": "Backwaren"
+    },
+    {
+      "product": "Milka Kekse/Küchlein",
+      "brand": "Milka",
+      "weight": "132–185 g",
+      "price": 1.99,
+      "price_per_kg": null,
+      "discount_percent": -31,
+      "category": "Süßwaren"
+    },
+    {
+      "product": "Balisto (8er Pack)",
+      "brand": "Balisto",
+      "weight": "148 g",
+      "price": 1.99,
+      "price_per_kg": 13.45,
+      "discount_percent": -33,
+      "category": "Snacks"
+    },
+    {
+      "product": "Kellogg’s Cerealien (Frosties etc.)",
+      "brand": "Kellogg's",
+      "weight": "327–378 g",
+      "price": 4.89,
+      "price_per_kg": null,
+      "discount_percent": -33,
+      "category": "Frühstück"
+    },
+    {
+      "product": "Nestlé After Eight Classic",
+      "brand": "Nestlé",
+      "weight": "200 g",
+      "price": 2.29,
+      "price_per_kg": 11.45,
+      "discount_percent": -42,
+      "category": "Süßwaren"
+    },
+    {
+      "product": "Wagner Pizza / Flammkuchen Sortiment",
+      "brand": "Wagner",
+      "weight": null,
+      "price": null,
+      "price_per_kg": null,
+      "discount_percent": -55,
+      "category": "TK-Pizza"
+    },
+    {
+      "product": "Iglo Fischstäbchen (XXL 50 Stück)",
+      "brand": "Iglo",
+      "weight": "800 g",
+      "price": 4.99,
+      "price_per_kg": 6.24,
+      "discount_percent": -40,
+      "category": "Fisch TK"
+    },
+    {
+      "product": "Iglo Fertiggericht XXL",
+      "brand": "Iglo",
+      "weight": "800 g",
+      "price": 4.99,
+      "price_per_kg": 6.24,
+      "discount_percent": -21,
+      "category": "Fertiggerichte TK"
+    },
+    {
+      "product": "Gazi Schaf-/Ziegenkäse",
+      "brand": "Gazi",
+      "weight": "150 g",
+      "price": 1.99,
+      "price_per_kg": 13.27,
+      "discount_percent": -31,
+      "category": "Käse"
+    },
+    {
+      "product": "Exquisa / miree Frischkäse",
+      "brand": "Exquisa / miree",
+      "weight": "135–200 g",
+      "price": 1.11,
+      "price_per_kg": null,
+      "discount_percent": -44,
+      "category": "Frischkäse"
+    },
+    {
+      "product": "Nadler Sahne-Heringsfilets",
+      "brand": "Nadler",
+      "weight": "440 g",
+      "price": 1.99,
+      "price_per_kg": 4.52,
+      "discount_percent": -48,
+      "category": "Fisch-Feinkost"
+    },
+    {
+      "product": "Zott Monte",
+      "brand": "Zott",
+      "weight": "6×55 g",
+      "price": 1.49,
+      "price_per_kg": 4.52,
+      "discount_percent": -34,
+      "category": "Dessert"
+    },
+    {
+      "product": "Danone Fruchtzwerge",
+      "brand": "Danone",
+      "weight": "6×50 g",
+      "price": 1.49,
+      "price_per_kg": 4.97,
+      "discount_percent": -37,
+      "category": "Dessert"
+    }
+  ]

@@ -1,0 +1,320 @@
+{
+  "common": [],
+  "onlyIn1": [
+    {
+      "name": "Räucherlachs Ländertrio",
+      "price": "7.99",
+      "unit": "240 g",
+      "brand": "Sansibar Deluxe",
+      "discount": "",
+      "category": "Fisch"
+    },
+    {
+      "name": "Lachsspezialitäten",
+      "price": "3.99",
+      "unit": "150/123 g",
+      "brand": "Sansibar Deluxe",
+      "discount": "",
+      "category": "Fisch"
+    },
+    {
+      "name": "ASC Tapas Garnelen",
+      "price": "1.99",
+      "unit": "100 g",
+      "brand": "Sansibar Deluxe",
+      "discount": "",
+      "category": "Fisch"
+    },
+    {
+      "name": "Champignons in Scheiben",
+      "price": "0.99",
+      "unit": "230 g",
+      "brand": "Freshona",
+      "discount": "23%",
+      "category": "Gemüse"
+    },
+    {
+      "name": "Sonnenmais",
+      "price": "0.79",
+      "unit": "285 g",
+      "brand": "Freshona",
+      "discount": "20%",
+      "category": "Gemüse"
+    },
+    {
+      "name": "Kidney Bohnen",
+      "price": "0.55",
+      "unit": "255 g",
+      "brand": "Freshona",
+      "discount": "20%",
+      "category": "Gemüse"
+    },
+    {
+      "name": "Gewürzgurken Auslese",
+      "price": "1.11",
+      "unit": "360 g",
+      "brand": "Freshona",
+      "discount": "",
+      "category": "Gemüse"
+    },
+    {
+      "name": "Oliven",
+      "price": "0.99",
+      "unit": "160/170 g",
+      "brand": "Baresa",
+      "discount": "23%",
+      "category": "Gemüse"
+    },
+    {
+      "name": "Silberzwiebeln/Mixed Pickles",
+      "price": "1.29",
+      "unit": "300 g",
+      "brand": "",
+      "discount": "",
+      "category": "Gemüse"
+    },
+    {
+      "name": "Stangenspargel",
+      "price": "1.69",
+      "unit": "205 g",
+      "brand": "Freshona",
+      "discount": "10%",
+      "category": "Gemüse"
+    },
+    {
+      "name": "Deluxe Feinste Trüffel",
+      "price": "4.49",
+      "unit": "200 g",
+      "brand": "Deluxe",
+      "discount": "",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Deluxe Canache Pralinés",
+      "price": "3.99",
+      "unit": "130 g",
+      "brand": "Deluxe",
+      "discount": "",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Hamlet Belgische Pralinen",
+      "price": "6.99",
+      "unit": "250 g",
+      "brand": "Hamlet",
+      "discount": "30%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Deluxe Softe Honigkugeln",
+      "price": "4.49",
+      "unit": "235 g",
+      "brand": "Deluxe",
+      "discount": "",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Deluxe Torte",
+      "price": "4.49",
+      "unit": "500 g",
+      "brand": "Deluxe",
+      "discount": "",
+      "category": "Backwaren"
+    },
+    {
+      "name": "Deluxe Mousse",
+      "price": "3.79",
+      "unit": "350 g",
+      "brand": "Deluxe",
+      "discount": "",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Deluxe Dessertgläser",
+      "price": "2.29",
+      "unit": "2 x 60 g",
+      "brand": "Deluxe",
+      "discount": "",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Deluxe Schichtdessert mit Mascarpone",
+      "price": "1.69",
+      "unit": "85 g",
+      "brand": "Deluxe",
+      "discount": "",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Chio Tortillas",
+      "price": "1.11",
+      "unit": "110 g",
+      "brand": "Chio",
+      "discount": "44%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Wasa Tasty Snacks",
+      "price": "1.99",
+      "unit": "190/205/235/267 g",
+      "brand": "Wasa",
+      "discount": "33%",
+      "category": "Backwaren"
+    },
+    {
+      "name": "Lorenz Clubs Cracker",
+      "price": "1.19",
+      "unit": "200 g",
+      "brand": "Lorenz",
+      "discount": "33%",
+      "category": "Backwaren"
+    },
+    {
+      "name": "Homann Pellkartoffelsalat XXL",
+      "price": "2.99",
+      "unit": "1 kg",
+      "brand": "Homann",
+      "discount": "28%",
+      "category": "Kartoffeln"
+    },
+    {
+      "name": "Kinder Maxi King",
+      "price": "2.22",
+      "unit": "4x 35 g",
+      "brand": "Kinder",
+      "discount": "",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Chio Mikrowellen Popcorn",
+      "price": "0.99",
+      "unit": "100 g",
+      "brand": "Chio",
+      "discount": "23%",
+      "category": "Süßigkeiten"
+    }
+  ],
+  "onlyIn2": [
+    {
+      "name": "Kerrygold Original Irische Butter",
+      "price": "1.88",
+      "unit": "250 g",
+      "brand": "Kerrygold",
+      "discount": "52%",
+      "category": "Käse, Milchprodukte"
+    },
+    {
+      "name": "I Love Milka Pralinés",
+      "price": "1.55",
+      "unit": "110 g",
+      "brand": "Milka",
+      "discount": "55%",
+      "category": "Süßigkeiten, Schokolade"
+    },
+    {
+      "name": "Deluxe Handgefertigte Schokolade",
+      "price": "2.99",
+      "unit": "100 g",
+      "brand": "Deluxe",
+      "discount": "14%",
+      "category": "Süßigkeiten, Schokolade"
+    },
+    {
+      "name": "Combino Spaghetti XXL",
+      "price": "1.29",
+      "unit": "1 kg",
+      "brand": "Combino",
+      "discount": "13%",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Milbona Gouda jung in Scheiben",
+      "price": "3.49",
+      "unit": "600 g",
+      "brand": "Milbona",
+      "discount": "3%",
+      "category": "Käse"
+    },
+    {
+      "name": "Milbona Deutsche Markenbutter",
+      "price": "1.29",
+      "unit": "250 g",
+      "brand": "Milbona",
+      "discount": "7%",
+      "category": "Butter"
+    },
+    {
+      "name": "Fischstäbchen/Filegro XXL",
+      "price": "3.99",
+      "unit": "28 Stück",
+      "brand": "Iglo",
+      "discount": "42%",
+      "category": "Fisch"
+    },
+    {
+      "name": "Cremissimo Eis",
+      "price": "1.49",
+      "unit": "900/825 ml",
+      "brand": "Langnese",
+      "discount": "62%",
+      "category": "Tiefkühlware"
+    },
+    {
+      "name": "Bunte Vielfalt",
+      "price": "0.95",
+      "unit": "100 g",
+      "brand": "Ritter Sport",
+      "discount": "52%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Bresso Feine Häppchen/Géramont Weichkäse",
+      "price": "2.49",
+      "unit": "150/130 g",
+      "brand": "Bresso/Géramont",
+      "discount": "28%",
+      "category": "Käse"
+    },
+    {
+      "name": "Katjes Yoghurt Gums",
+      "price": "0.99",
+      "unit": "210/195 g",
+      "brand": "Katjes",
+      "discount": "28%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Nestlé Choco Crossies/Chocolat Chips",
+      "price": "2.29",
+      "unit": "150/115 g",
+      "brand": "Nestlé",
+      "discount": "39%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Iglo Rahm-Spinat",
+      "price": "1.79",
+      "unit": "750 g",
+      "brand": "Iglo",
+      "discount": "48%",
+      "category": "Tiefkühlware"
+    },
+    {
+      "name": "Trumpf Edle Tropfen in Nuss Obstbrand",
+      "price": "2.99",
+      "unit": "250 g",
+      "brand": "Trumpf",
+      "discount": "33%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Alesto Selection Studentenfutter Classic",
+      "price": "1.79",
+      "unit": "200 g",
+      "brand": "Alesto",
+      "discount": "21%",
+      "category": "Süßigkeiten"
+    }
+  ],
+  "priceDiffs": []
+}

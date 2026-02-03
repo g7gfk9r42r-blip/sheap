@@ -1,0 +1,229 @@
+[
+  {
+    "id": "rewe-1",
+    "title": "Hähnchenfilet mit Kräuterbutter und Champignons",
+    "description": "Saftige Hähnchenfilets mit aromatischer Kräuterbutter und zarten Champignons.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "proteinreich",
+      "budget"
+    ],
+    "total_cost": 10.27,
+    "total_cost_original": 16.47,
+    "savings_total": 6.2,
+    "cost_per_portion": 5.14,
+    "ingredients": [
+      {
+        "name": "GUT LANGENHOF Hähnchen-Innenfilets",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "GUT LANGENHOF Hähnchen-Innenfilets",
+        "offer_price": 6.99,
+        "original_price": 9.99,
+        "discount_percent": 30,
+        "brand": "GUT LANGENHOF",
+        "package_size": "800g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123456",
+        "barcode_ean": "4012345678901"
+      },
+      {
+        "name": "MEGGLE Kräuter Butter",
+        "amount": "50g",
+        "is_offer_product": true,
+        "offer_title_match": "MEGGLE Kräuter Butter",
+        "offer_price": 1.49,
+        "original_price": 2.49,
+        "discount_percent": 40,
+        "brand": "MEGGLE",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123457",
+        "barcode_ean": "4012345678902"
+      },
+      {
+        "name": "BONDUELLE Champignons",
+        "amount": "195g",
+        "is_offer_product": true,
+        "offer_title_match": "BONDUELLE Champignons",
+        "offer_price": 3.99,
+        "original_price": 6.49,
+        "discount_percent": 39,
+        "brand": "BONDUELLE",
+        "package_size": "3 x 195g",
+        "supermarket_location": "Konserven",
+        "article_number": "123458",
+        "barcode_ean": "4012345678903"
+      },
+      {
+        "name": "THOMY Rapsöl",
+        "amount": "2 EL",
+        "is_offer_product": true,
+        "offer_title_match": "THOMY Rapsöl",
+        "offer_price": 2.49,
+        "original_price": 2.99,
+        "discount_percent": 17,
+        "brand": "THOMY",
+        "package_size": "750ml",
+        "supermarket_location": "Öle & Fette",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      }
+    ],
+    "steps": [
+      "Hähnchen-Innenfilets mit Salz und Pfeffer würzen.",
+      "In einer Pfanne 1 EL Rapsöl erhitzen und die Filets von beiden Seiten goldbraun anbraten.",
+      "Kräuterbutter hinzufügen und die Filets darin schwenken.",
+      "Champignons abtropfen lassen und in einer separaten Pfanne mit 1 EL Rapsöl anbraten.",
+      "Champignons zu den Hähnchenfilets geben und alles zusammen für weitere 5 Minuten köcheln lassen.",
+      "Servieren und genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-2",
+    "title": "Kartoffeltaschen mit Preiselbeeren und Weichkäse",
+    "description": "Knusprige Kartoffeltaschen kombiniert mit fruchtigen Preiselbeeren und cremigem Weichkäse.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "budget"
+    ],
+    "total_cost": 6.57,
+    "total_cost_original": 9.97,
+    "savings_total": 3.4,
+    "cost_per_portion": 3.29,
+    "ingredients": [
+      {
+        "name": "POTATO MASTER Kartoffeltaschen",
+        "amount": "300g",
+        "is_offer_product": true,
+        "offer_title_match": "POTATO MASTER Kartoffeltaschen",
+        "offer_price": 2.29,
+        "original_price": 2.99,
+        "discount_percent": 23,
+        "brand": "POTATO MASTER",
+        "package_size": "600g",
+        "supermarket_location": "Tiefkühl",
+        "article_number": "123460",
+        "barcode_ean": "4012345678905"
+      },
+      {
+        "name": "ODENWALD Wild-Preiselbeeren",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "ODENWALD Wild-Preiselbeeren",
+        "offer_price": 2.49,
+        "original_price": 3.99,
+        "discount_percent": 38,
+        "brand": "ODENWALD",
+        "package_size": "390g",
+        "supermarket_location": "Konserven",
+        "article_number": "123461",
+        "barcode_ean": "4012345678906"
+      },
+      {
+        "name": "COBURGER Bayerischer Weichkäse",
+        "amount": "75g",
+        "is_offer_product": true,
+        "offer_title_match": "COBURGER Bayerischer Weichkäse",
+        "offer_price": 1.79,
+        "original_price": 1.99,
+        "discount_percent": 10,
+        "brand": "COBURGER",
+        "package_size": "150g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123462",
+        "barcode_ean": "4012345678907"
+      }
+    ],
+    "steps": [
+      "Kartoffeltaschen nach Packungsanweisung im Ofen oder in der Pfanne zubereiten.",
+      "Weichkäse in dünne Scheiben schneiden.",
+      "Kartoffeltaschen auf Teller legen und mit Weichkäse belegen.",
+      "Preiselbeeren darüber verteilen.",
+      "Servieren und genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "rewe-3",
+    "title": "Bananen-Honig Smoothie",
+    "description": "Ein erfrischender Smoothie aus reifen Bananen und süßem Honig.",
+    "supermarket": "REWE",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegan",
+      "schnell",
+      "gesund"
+    ],
+    "total_cost": 4.94,
+    "total_cost_original": 8.17,
+    "savings_total": 3.23,
+    "cost_per_portion": 2.47,
+    "ingredients": [
+      {
+        "name": "BIO SONNE Bio-Bananen",
+        "amount": "2 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "BIO SONNE Bio-Bananen",
+        "offer_price": 1.89,
+        "original_price": 2.39,
+        "discount_percent": 21,
+        "brand": "BIO SONNE",
+        "package_size": "1kg",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123463",
+        "barcode_ean": "4012345678908"
+      },
+      {
+        "name": "BEE GARDEN Blüten Honig",
+        "amount": "2 EL",
+        "is_offer_product": true,
+        "offer_title_match": "BEE GARDEN Blüten Honig",
+        "offer_price": 5.99,
+        "original_price": 9.99,
+        "discount_percent": 40,
+        "brand": "BEE GARDEN",
+        "package_size": "1kg",
+        "supermarket_location": "Honig & Sirup",
+        "article_number": "123464",
+        "barcode_ean": "4012345678909"
+      },
+      {
+        "name": "ALPRO Kokos Drink",
+        "amount": "400ml",
+        "is_offer_product": true,
+        "offer_title_match": "ALPRO Kokos Drink",
+        "offer_price": 1.99,
+        "original_price": 2.79,
+        "discount_percent": 29,
+        "brand": "ALPRO",
+        "package_size": "1l",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123465",
+        "barcode_ean": "4012345678910"
+      }
+    ],
+    "steps": [
+      "Bananen schälen und in Stücke schneiden.",
+      "Bananen, Honig und Kokos Drink in einen Mixer geben.",
+      "Alles gut durchmixen, bis eine cremige Konsistenz erreicht ist.",
+      "In Gläser füllen und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  }
+]

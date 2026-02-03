@@ -1,0 +1,3608 @@
+{
+  "retailer": "TEGUT",
+  "week_key": "2026-W05",
+  "valid_from": "2026-01-26",
+  "recipes": [
+    {
+      "id": "R001",
+      "slug": "homemade-cheeseburger",
+      "title": "Homemade Cheeseburger",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Tillman's Hamburger",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Brioche Buns",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Salatherzen",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 2,
+          "packs_used": 1,
+          "used_amount": 2.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Hochland Sandwichscheiben",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Heinz Feinkostsauce",
+          "brand": "HEINZ",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Tomate (1 Stk)",
+        "Gurke (1 Stk)"
+      ],
+      "steps": [
+        "Die Hamburger Patties nach Anleitung zubereiten.",
+        "Die Brioche Buns aufschneiden und leicht anrösten.",
+        "Die Salatherzen, Zwiebel, Tomate und Gurke in Scheiben schneiden.",
+        "Die Patties auf die Buns legen und mit Käse, Salat und Sauce belegen.",
+        "Zusammenklappen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R002",
+      "slug": "bolo-cheese-fries",
+      "title": "Bolo-Cheese Fries",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "High Protein",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Pommes Frites",
+          "brand": "MCCAIN",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Foodies Bolognese",
+          "brand": "FOODIES",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Kerrygold geriebener Käse",
+          "brand": "KERRYGOLD",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        }
+      ],
+      "without_offers": [
+        "Paprika (1/2 Stk)",
+        "Chili (1 Stk)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Die Pommes nach Anleitung im Ofen zubereiten.",
+        "Die Bolognese in einem Topf erhitzen.",
+        "Die Pommes auf einem Teller anrichten und mit Bolognese und Käse bestreuen.",
+        "Im Ofen kurz überbacken, bis der Käse schmilzt.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R003",
+      "slug": "cappelletti-bella-italia",
+      "title": "Cappelletti Bella Italia",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Cappelletti",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Bio-Gouda, gerieben",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.29,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Bio-Nudelsauce",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 340,
+          "packs_used": 1,
+          "used_amount": 340.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.99
+        }
+      ],
+      "without_offers": [
+        "Basilikum (1/2 Bunde)",
+        "Oregano (1 TL)",
+        "Parmesan (50 g)"
+      ],
+      "steps": [
+        "Die Cappelletti nach Anleitung kochen.",
+        "Die Nudelsauce in einem Topf erhitzen.",
+        "Die gekochten Cappelletti mit der Sauce vermengen.",
+        "Mit geriebenem Gouda bestreuen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R004",
+      "slug": "chicken-nuggets",
+      "title": "Chicken Nuggets",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Iglo Chicken Nuggets",
+          "brand": "IGLO",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Heinz Feinkostsauce",
+          "brand": "HEINZ",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Salatherzen",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 2,
+          "packs_used": 1,
+          "used_amount": 2.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Paprika (1/2 Stk)",
+        "Chili (1 Stk)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Die Chicken Nuggets nach Anleitung im Ofen zubereiten.",
+        "Die Salatherzen waschen und in Stücke zupfen.",
+        "Die Nuggets mit der Sauce servieren und mit Salat garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R005",
+      "slug": "vegetable-pasta",
+      "title": "Vegetable Pasta",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Bio-Nudelsauce",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 340,
+          "packs_used": 1,
+          "used_amount": 340.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Bio-Gouda, gerieben",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.29,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Cappelletti",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.99
+        }
+      ],
+      "without_offers": [
+        "Zucchini (1 Stk)",
+        "Paprika (1 Stk)",
+        "Basilikum (1/2 Bunde)"
+      ],
+      "steps": [
+        "Die Cappelletti nach Anleitung kochen.",
+        "Die Nudelsauce in einem Topf erhitzen.",
+        "Zucchini und Paprika in Würfel schneiden und in einer Pfanne anbraten.",
+        "Die gekochten Cappelletti mit der Sauce und dem Gemüse vermengen.",
+        "Mit geriebenem Gouda bestreuen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R006",
+      "slug": "chicken-stir-fry",
+      "title": "Chicken Stir-Fry",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Hähnchenbrustfilet-Teilstücke",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.99,
+          "price_before_eur": 5.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Paprika (1 Stk)",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Zucchini (1 Stk)",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Sojasauce (50 ml)",
+        "Ingwer (1 Stück)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Das Hähnchen in einer Pfanne anbraten.",
+        "Paprika und Zucchini in Streifen schneiden und hinzufügen.",
+        "Mit Sojasauce, Ingwer und Knoblauch würzen und weiter braten.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R007",
+      "slug": "vegetable-soup",
+      "title": "Vegetable Soup",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O021",
+          "name": "Bio-Blattspinat",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 450,
+          "packs_used": 1,
+          "used_amount": 450.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O022",
+          "name": "Bio-Junge Erbsen",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 450,
+          "packs_used": 1,
+          "used_amount": 450.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O023",
+          "name": "Zucchini (1 Stk)",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Karotte (1 Stk)",
+        "Zwiebel (1 Stk)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Die Zwiebel und Knoblauch anbraten.",
+        "Karotte und Zucchini würfeln und hinzufügen.",
+        "Mit Wasser aufgießen und die Erbsen und den Spinat hinzufügen.",
+        "Kochen lassen und mit Gewürzen abschmecken.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R008",
+      "slug": "sweet-potato-kumpir",
+      "title": "Sweet Potato Kumpir",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 35,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O024",
+          "name": "Bio-Süßkartoffeln",
+          "brand": "TEGUT",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O025",
+          "name": "Paprika (1 Stk)",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O026",
+          "name": "Zucchini (1 Stk)",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (50 ml)",
+        "Knoblauch (1 Zehe)",
+        "Petersilie (1/2 Bunde)"
+      ],
+      "steps": [
+        "Die Süßkartoffeln im Ofen backen, bis sie weich sind.",
+        "Paprika und Zucchini in Würfel schneiden und in einer Pfanne anbraten.",
+        "Die gebackenen Süßkartoffeln aufschneiden und mit dem Gemüse füllen.",
+        "Mit Olivenöl und Gewürzen abschmecken.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R009",
+      "slug": "spicy-chickpea-salad",
+      "title": "Spicy Chickpea Salad",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O027",
+          "name": "Kichererbsen",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O028",
+          "name": "Paprika (1 Stk)",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O029",
+          "name": "Zucchini (1 Stk)",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Koriander (1/2 Bunde)",
+        "Chili (1 Stk)"
+      ],
+      "steps": [
+        "Die Kichererbsen abspülen und abtropfen lassen.",
+        "Paprika und Zucchini in Würfel schneiden.",
+        "Alle Zutaten in einer Schüssel vermengen und mit Gewürzen abschmecken.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R010",
+      "slug": "fruit-smoothie",
+      "title": "Fruit Smoothie",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O030",
+          "name": "Bio-Mango",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O031",
+          "name": "Bio-Himbeeren",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O032",
+          "name": "Bio-Banane",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 0.99,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Zitrone (1/2 Stk)",
+        "Ingwer (1 Stück)",
+        "Minze (1/2 Bunde)"
+      ],
+      "steps": [
+        "Alle Zutaten in einen Mixer geben.",
+        "Mit Wasser oder Pflanzenmilch auffüllen.",
+        "Mixen, bis eine cremige Konsistenz erreicht ist.",
+        "In Gläser füllen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R011",
+      "slug": "homemade-cheeseburger-r011",
+      "title": "Homemade Cheeseburger",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Tillman's Hamburger",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Brioche Buns",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.69,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Heinz Feinkostsauce",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Salatherzen (2 Stück)",
+        "Kerrygold geriebener Käse (150 g)"
+      ],
+      "steps": [
+        "Die Hamburger-Patties in einer Pfanne mit etwas Öl braten.",
+        "Die Brioche Buns aufschneiden und leicht toasten.",
+        "Die Patties auf die Buns legen, mit Salatherzen und Feinkostsauce garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R012",
+      "slug": "bolo-cheese-fries-r012",
+      "title": "Bolo-Cheese Fries",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "Vegetarisch",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Pommes Frites",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Bolognese-Soße",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Cheddar, gerieben",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [],
+      "steps": [
+        "Die Pommes Frites nach Packungsanweisung zubereiten.",
+        "Die Bolognese-Soße erhitzen.",
+        "Die Pommes auf einem Teller anrichten, mit Bolognese-Soße übergießen und mit geriebenem Cheddar bestreuen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R013",
+      "slug": "cappelletti-bella-italia-r013",
+      "title": "Cappelletti Bella Italia",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Cappelletti",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.49,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Bio-Gouda, gerieben",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.29,
+          "price_before_eur": 2.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Bio-Nudelsauce",
+          "unit": "g",
+          "pack_size": 340,
+          "packs_used": 1,
+          "used_amount": 340.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [],
+      "steps": [
+        "Die Cappelletti in kochendem Wasser garen.",
+        "Die Nudelsauce in einem kleinen Topf erhitzen.",
+        "Die Cappelletti abgießen, mit der Sauce vermengen und mit geriebenem Gouda servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R014",
+      "slug": "chicken-nuggets-r014",
+      "title": "Chicken Nuggets",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "iglo Chicken Nuggets",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Heinz Feinkostsauce",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Pommes Frites (500 g)"
+      ],
+      "steps": [
+        "Die Chicken Nuggets nach Packungsanweisung zubereiten.",
+        "Die Feinkostsauce als Dip servieren.",
+        "Optional mit Pommes Frites als Beilage."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R015",
+      "slug": "vegetable-stir-fry",
+      "title": "Vegetable Stir-Fry",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Bio-Brokkoli",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Bio-Blumenkohl",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Mini Gurken",
+          "unit": "g",
+          "pack_size": 100,
+          "packs_used": 1,
+          "used_amount": 100.0,
+          "price_eur": 0.99,
+          "price_before_eur": 1.29,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Sojasauce (50 ml)",
+        "Knoblauch (2 Zehen)"
+      ],
+      "steps": [
+        "Brokkoli und Blumenkohl in Röschen teilen und in einer Pfanne anbraten.",
+        "Mini Gurken in Scheiben schneiden und hinzufügen.",
+        "Mit Sojasauce und Knoblauch würzen und kurz weiterbraten."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R016",
+      "slug": "spaghetti-bolognese",
+      "title": "Spaghetti Bolognese",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "Laktosefrei",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Barilla Pasta",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Foodies Bolognese",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (2 Zehen)"
+      ],
+      "steps": [
+        "Die Pasta nach Packungsanweisung kochen.",
+        "Die Bolognese in einem Topf erhitzen.",
+        "Die Pasta mit der Bolognese vermengen und mit frischem Basilikum servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R017",
+      "slug": "chicken-stir-fry-r017",
+      "title": "Chicken Stir-Fry",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Hähnchenbrustfilet",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.99,
+          "price_before_eur": 4.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Bio-Brokkoli",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Mini Gurken",
+          "unit": "g",
+          "pack_size": 100,
+          "packs_used": 1,
+          "used_amount": 100.0,
+          "price_eur": 0.99,
+          "price_before_eur": 1.29,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Sojasauce (50 ml)",
+        "Ingwer (1 Stück)"
+      ],
+      "steps": [
+        "Das Hähnchenbrustfilet in Streifen schneiden und in einer Pfanne anbraten.",
+        "Brokkoli und Mini Gurken hinzufügen und kurz mitbraten.",
+        "Mit Sojasauce und Ingwer würzen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R018",
+      "slug": "vegetable-soup-r018",
+      "title": "Vegetable Soup",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Bio-Möhren",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O021",
+          "name": "Bio-Kohlrabi",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (2 Zehen)"
+      ],
+      "steps": [
+        "Die Möhren und den Kohlrabi schälen und würfeln.",
+        "In einem Topf mit Wasser kochen, bis sie weich sind.",
+        "Mit einem Pürierstab pürieren und nach Geschmack würzen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R019",
+      "slug": "fruit-salad",
+      "title": "Fruit Salad",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O022",
+          "name": "Bio-Mango",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O023",
+          "name": "Heidelbeeren",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O024",
+          "name": "Zitronen",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Minze (1 Bund)"
+      ],
+      "steps": [
+        "Die Mango schälen und in Würfel schneiden.",
+        "Die Heidelbeeren waschen.",
+        "Die Zitrone auspressen und über das Obst geben, mit frischer Minze garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R020",
+      "slug": "pasta-salad",
+      "title": "Pasta Salad",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O025",
+          "name": "Barilla Pasta",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O026",
+          "name": "Bio-Cherry-Tomaten",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Basilikum (1 Bund)",
+        "Olivenöl (50 ml)"
+      ],
+      "steps": [
+        "Die Pasta nach Packungsanweisung kochen und abkühlen lassen.",
+        "Die Cherry-Tomaten halbieren und mit der Pasta vermengen.",
+        "Mit Olivenöl und frischem Basilikum anrichten."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R021",
+      "slug": "homemade-cheeseburger-r021",
+      "title": "Homemade Cheeseburger",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Tillman's Hamburger",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Jaus Brioche Buns",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.69,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Heinz Feinkostsauce",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Salatherzen",
+          "unit": "Stk",
+          "pack_size": 2,
+          "packs_used": 1,
+          "used_amount": 2.0,
+          "price_eur": 0.99,
+          "price_before_eur": 1.29,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Tomate (1 Stk)",
+        "Salatblatt (2 Blätter)"
+      ],
+      "steps": [
+        "Die Hamburger Patties nach Packungsanweisung grillen oder braten.",
+        "Die Brioche Buns aufschneiden und leicht toasten.",
+        "Die Patties auf die unteren Brötchenhälften legen.",
+        "Mit Salat, Zwiebel, Tomate und Feinkostsauce belegen.",
+        "Die oberen Brötchenhälften auflegen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R022",
+      "slug": "bolo-cheese-fries-r022",
+      "title": "Bolo-Cheese Fries",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "High Protein",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Pommes Frites",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Foodies Bolognese",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Kerrygold geriebener Käse",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [],
+      "steps": [
+        "Die Pommes Frites nach Packungsanweisung zubereiten.",
+        "Die Bolognese in einem Topf erhitzen.",
+        "Die fertigen Pommes auf einem Teller anrichten.",
+        "Die heiße Bolognese über die Pommes geben.",
+        "Mit geriebenem Käse bestreuen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R023",
+      "slug": "cappelletti-bella-italia-r023",
+      "title": "Cappelletti Bella Italia",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "High Protein",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Cappelletti",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Bio-Gouda, gerieben",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.29,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Bio-Nudelsauce",
+          "unit": "g",
+          "pack_size": 340,
+          "packs_used": 1,
+          "used_amount": 340.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Basilikum (1 TL)",
+        "Parmesan (50 g)"
+      ],
+      "steps": [
+        "Die Cappelletti nach Packungsanweisung kochen.",
+        "Die Nudelsauce in einem Topf erhitzen.",
+        "Die gekochten Cappelletti mit der Sauce vermengen.",
+        "Mit geriebenem Gouda und frischem Basilikum servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R024",
+      "slug": "chicken-nuggets-r024",
+      "title": "Chicken Nuggets",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "iglo Chicken Nuggets",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Heinz Feinkostsauce",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Salatherzen",
+          "unit": "Stk",
+          "pack_size": 2,
+          "packs_used": 1,
+          "used_amount": 2.0,
+          "price_eur": 0.99,
+          "price_before_eur": 1.29,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Paprika (1 Stk)",
+        "Ketchup (50 ml)"
+      ],
+      "steps": [
+        "Die Chicken Nuggets nach Packungsanweisung zubereiten.",
+        "Die Salatherzen waschen und in Stücke zupfen.",
+        "Die Nuggets mit der Feinkostsauce und frischem Gemüse servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R025",
+      "slug": "vegetable-stir-fry-r025",
+      "title": "Vegetable Stir-Fry",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Bio-Brokkoli",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Bio-Blumenkohl",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Mini Gurken",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Sojasauce (2 EL)",
+        "Ingwer (1 TL)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Brokkoli und Blumenkohl in Röschen teilen und in einer Pfanne mit Öl anbraten.",
+        "Die Mini Gurke in Scheiben schneiden und hinzufügen.",
+        "Mit Sojasauce, Ingwer und Knoblauch würzen und gut vermengen.",
+        "Für 5-7 Minuten braten, bis das Gemüse gar ist."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R026",
+      "slug": "spaghetti-aglio-e-olio",
+      "title": "Spaghetti Aglio e Olio",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Barilla Pasta",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Olivenöl",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (3 Zehen)",
+        "Chili (1 Stück)"
+      ],
+      "steps": [
+        "Die Spaghetti nach Packungsanweisung kochen.",
+        "In einer Pfanne Olivenöl erhitzen und den gehackten Knoblauch und Chili hinzufügen.",
+        "Die gekochten Spaghetti in die Pfanne geben und gut vermengen.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R027",
+      "slug": "chicken-stir-fry-r027",
+      "title": "Chicken Stir-Fry",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Hähnchenbrustfilet",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.99,
+          "price_before_eur": 4.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Paprika (rot)",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O021",
+          "name": "Brokkoli",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Sojasauce (2 EL)",
+        "Ingwer (1 TL)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Das Hähnchenbrustfilet in Streifen schneiden und in einer Pfanne anbraten.",
+        "Paprika und Brokkoli hinzufügen und weiter braten.",
+        "Mit Sojasauce, Ingwer und Knoblauch würzen und gut vermengen.",
+        "Für 5-7 Minuten braten, bis das Gemüse gar ist."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R028",
+      "slug": "vegetable-soup-r028",
+      "title": "Vegetable Soup",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O022",
+          "name": "Bio-Karotten",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O023",
+          "name": "Bio-Kohlrabi",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.79,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O024",
+          "name": "Bio-Sellerie",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (1 Zehe)",
+        "Petersilie (1 TL)"
+      ],
+      "steps": [
+        "Die Karotten, Kohlrabi und Sellerie klein schneiden.",
+        "In einem großen Topf mit Wasser und Gewürzen zum Kochen bringen.",
+        "Die Suppe 20 Minuten köcheln lassen, bis das Gemüse weich ist.",
+        "Mit frischer Petersilie garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R029",
+      "slug": "fruit-salad-r029",
+      "title": "Fruit Salad",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O025",
+          "name": "Bio-Äpfel",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O026",
+          "name": "Bio-Banane",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O027",
+          "name": "Bio-Orange",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zitronensaft (1 EL)",
+        "Honig (1 TL)"
+      ],
+      "steps": [
+        "Die Äpfel, Bananen und Orangen klein schneiden.",
+        "In einer Schüssel vermengen und mit Zitronensaft und Honig abschmecken.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R030",
+      "slug": "chocolate-mousse",
+      "title": "Chocolate Mousse",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O028",
+          "name": "Zartbitterschokolade",
+          "unit": "g",
+          "pack_size": 100,
+          "packs_used": 1,
+          "used_amount": 100.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O029",
+          "name": "Eier",
+          "unit": "Stk",
+          "pack_size": 10,
+          "packs_used": 1,
+          "used_amount": 10.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zucker (50 g)",
+        "Vanilleextrakt (1 TL)"
+      ],
+      "steps": [
+        "Die Zartbitterschokolade im Wasserbad schmelzen.",
+        "Die Eier trennen und das Eiweiß steif schlagen.",
+        "Die geschmolzene Schokolade mit den Eigelben und Zucker vermengen.",
+        "Das steif geschlagene Eiweiß vorsichtig unterheben.",
+        "In Gläser füllen und kalt stellen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R031",
+      "slug": "homemade-cheeseburger-r031",
+      "title": "Homemade Cheeseburger",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Tillman's Hamburger",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Jaus Brioche Buns",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.69,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Salatherzen",
+          "unit": "Stk",
+          "pack_size": 2,
+          "packs_used": 1,
+          "used_amount": 2.0,
+          "price_eur": 0.99,
+          "price_before_eur": 1.29,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Heinz Feinkostsauce",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Tomate (1 Stk)",
+        "Gurke (1 Stk)"
+      ],
+      "steps": [
+        "Die Hamburger Patties nach Anleitung braten.",
+        "Die Brioche Buns aufschneiden und leicht toasten.",
+        "Die Salatherzen, Zwiebel, Tomate und Gurke auf die Buns legen.",
+        "Die Patties auf das Gemüse legen und mit der Feinkostsauce garnieren.",
+        "Zusammenklappen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R032",
+      "slug": "bolo-cheese-fries-r032",
+      "title": "Bolo-Cheese Fries",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "High Protein",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Pommes Frites",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Bolognese-Soße",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Cheddar, gerieben",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 2,
+          "used_amount": 300.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [],
+      "steps": [
+        "Die Pommes Frites nach Anleitung im Ofen backen.",
+        "Die Bolognese-Soße erwärmen.",
+        "Die fertigen Pommes auf einem Teller anrichten.",
+        "Die Bolognese-Soße gleichmäßig über die Pommes gießen.",
+        "Mit geriebenem Cheddar bestreuen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R033",
+      "slug": "cappelletti-bella-italia-r033",
+      "title": "Cappelletti Bella Italia",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "High Protein",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Cappelletti",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.49,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Bio-Gouda, gerieben",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.29,
+          "price_before_eur": 2.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Bio-Nudelsauce",
+          "unit": "g",
+          "pack_size": 340,
+          "packs_used": 1,
+          "used_amount": 340.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [],
+      "steps": [
+        "Die Cappelletti nach Anleitung in Salzwasser kochen.",
+        "Die Nudelsauce in einem Topf erhitzen.",
+        "Die gekochten Cappelletti abtropfen lassen und mit der Nudelsauce vermengen.",
+        "Mit geriebenem Gouda bestreuen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R034",
+      "slug": "chicken-nuggets-r034",
+      "title": "Chicken Nuggets",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Chicken Nuggets",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Pommes Frites",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Heinz Feinkostsauce",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Ketchup (nach Geschmack)"
+      ],
+      "steps": [
+        "Die Chicken Nuggets nach Anleitung im Ofen backen.",
+        "Die Pommes Frites ebenfalls nach Anleitung zubereiten.",
+        "Die Nuggets und Pommes auf einem Teller anrichten.",
+        "Mit Heinz Feinkostsauce und Ketchup servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R035",
+      "slug": "vegetarian-pasta-salad",
+      "title": "Vegetarian Pasta Salad",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Pasta",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Bio-Cherry-Tomaten",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Gurke",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (nach Geschmack)",
+        "Basilikum (frisch)"
+      ],
+      "steps": [
+        "Die Pasta nach Anleitung kochen und abkühlen lassen.",
+        "Die Cherry-Tomaten halbieren und die Gurke würfeln.",
+        "Die abgekühlte Pasta mit Tomaten und Gurke vermengen.",
+        "Mit Olivenöl und frischem Basilikum abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R036",
+      "slug": "spicy-chicken-wraps",
+      "title": "Spicy Chicken Wraps",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Hähnchenbrustfilet",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.99,
+          "price_before_eur": 4.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Tortilla Wraps",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.49,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Paprika",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Chili (nach Geschmack)",
+        "Zwiebel (1 Stk)"
+      ],
+      "steps": [
+        "Die Hähnchenbrustfilets in Würfel schneiden und in einer Pfanne anbraten.",
+        "Die Paprika und Zwiebel ebenfalls in Würfel schneiden und dazugeben.",
+        "Die Tortilla Wraps kurz erwärmen.",
+        "Die Hähnchen-Paprika-Mischung auf die Wraps geben, nach Geschmack würzen und einrollen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R037",
+      "slug": "vegetable-stir-fry-r037",
+      "title": "Vegetable Stir-Fry",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Brokkoli",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O021",
+          "name": "Karotten",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O022",
+          "name": "Paprika",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Sojasauce (nach Geschmack)",
+        "Ingwer (1 Stück)"
+      ],
+      "steps": [
+        "Das Gemüse in gleich große Stücke schneiden.",
+        "In einer Pfanne mit etwas Öl anbraten.",
+        "Mit Sojasauce und Ingwer würzen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R038",
+      "slug": "fruit-smoothie-r038",
+      "title": "Fruit Smoothie",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O023",
+          "name": "Banane",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 4,
+          "used_amount": 4.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O024",
+          "name": "Erdbeeren",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O025",
+          "name": "Mango",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Zitronensaft (nach Geschmack)",
+        "Minze (frisch)"
+      ],
+      "steps": [
+        "Die Banane schälen und in Stücke schneiden.",
+        "Die Erdbeeren und Mango vorbereiten.",
+        "Alle Zutaten in einen Mixer geben und pürieren.",
+        "In Gläser füllen und mit frischer Minze garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R039",
+      "slug": "chocolate-banana-bread",
+      "title": "Chocolate Banana Bread",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 45,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O026",
+          "name": "Bananen",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 4,
+          "used_amount": 4.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O027",
+          "name": "Zucker",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O028",
+          "name": "Mehl",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 0.79,
+          "price_before_eur": 1.29,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Backpulver (1 Päckchen)",
+        "Kakaopulver (50 g)"
+      ],
+      "steps": [
+        "Die Bananen zerdrücken und mit Zucker vermengen.",
+        "Mehl und Kakaopulver hinzufügen und gut verrühren.",
+        "In eine Kastenform geben und bei 180°C ca. 30-35 Minuten backen.",
+        "Abkühlen lassen und in Scheiben schneiden."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R040",
+      "slug": "spicy-chickpea-salad-r040",
+      "title": "Spicy Chickpea Salad",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O029",
+          "name": "Kichererbsen",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O030",
+          "name": "Paprika",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99,
+          "brand": "TEGUT"
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O031",
+          "name": "Zwiebel",
+          "unit": "Stk",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99,
+          "brand": "TEGUT"
+        }
+      ],
+      "without_offers": [
+        "Chili (nach Geschmack)",
+        "Koriander (frisch)"
+      ],
+      "steps": [
+        "Die Kichererbsen abspülen und abtropfen lassen.",
+        "Paprika und Zwiebel klein schneiden.",
+        "Alle Zutaten in einer Schüssel vermengen und nach Geschmack würzen.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R041",
+      "slug": "homemade-cheeseburger-r041",
+      "title": "Homemade Cheeseburger",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Tillman's Hamburger",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Jaus Brioche Buns",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Heinz Feinkostsauce",
+          "brand": "HEINZ",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Salatherzen (2 Stk)"
+      ],
+      "steps": [
+        "Die Hamburger Patties nach Packungsanweisung grillen oder braten.",
+        "Die Brioche Buns aufschneiden und leicht toasten.",
+        "Die Patties auf die Buns legen, mit Salatherzen und Feinkostsauce garnieren.",
+        "Zusammenklappen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R042",
+      "slug": "bolo-cheese-fries-r042",
+      "title": "Bolo-Cheese Fries",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "High Protein",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Pommes Frites",
+          "brand": "MCCAIN",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Foodies Bolognese",
+          "brand": "FOODIES",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Kerrygold geriebener Käse",
+          "brand": "KERRYGOLD",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        }
+      ],
+      "without_offers": [],
+      "steps": [
+        "Die Pommes nach Packungsanweisung zubereiten.",
+        "In der Zwischenzeit die Bolognese in einem Topf erhitzen.",
+        "Die fertigen Pommes auf einem Teller anrichten, mit Bolognese übergießen und mit geriebenem Käse bestreuen.",
+        "Sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R043",
+      "slug": "cappelletti-bella-italia-r043",
+      "title": "Cappelletti Bella Italia",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Cappelletti",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.49,
+          "price_before_eur": 3.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Bio-Gouda, gerieben",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.29,
+          "price_before_eur": 2.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Bio-Nudelsauce",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 340,
+          "packs_used": 1,
+          "used_amount": 340.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.99
+        }
+      ],
+      "without_offers": [],
+      "steps": [
+        "Die Cappelletti nach Packungsanweisung kochen.",
+        "In einem Topf die Nudelsauce erhitzen.",
+        "Die gekochten Cappelletti mit der Sauce vermengen und mit geriebenem Gouda bestreuen.",
+        "Sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R044",
+      "slug": "chicken-nuggets-r044",
+      "title": "Chicken Nuggets",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "iglo Chicken Nuggets",
+          "brand": "IGLO",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Heinz Feinkostsauce",
+          "brand": "HEINZ",
+          "unit": "ml",
+          "pack_size": 220,
+          "packs_used": 1,
+          "used_amount": 220.0,
+          "price_eur": 1.49,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)"
+      ],
+      "steps": [
+        "Die Chicken Nuggets nach Packungsanweisung zubereiten.",
+        "In der Zwischenzeit den Salat waschen und in Stücke zupfen.",
+        "Die Nuggets mit der Feinkostsauce servieren und den Salat dazu reichen.",
+        "Sofort genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R045",
+      "slug": "vegetarian-pasta-salad-r045",
+      "title": "Vegetarian Pasta Salad",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Barilla Pasta",
+          "brand": "BARILLA",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "tegut... Bio-Cherry-Tomaten",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "tegut... Bio-Tempeh",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.49,
+          "price_before_eur": 3.49
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (3 EL)",
+        "Basilikum (frisch, 1 Bund)"
+      ],
+      "steps": [
+        "Die Pasta nach Packungsanweisung kochen.",
+        "Die Cherry-Tomaten halbieren und den Tempeh würfeln.",
+        "Die gekochte Pasta mit Tomaten und Tempeh vermengen.",
+        "Mit Olivenöl und frischem Basilikum abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R046",
+      "slug": "spicy-chicken-salad",
+      "title": "Spicy Chicken Salad",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Bio-Hähnchenbrustfilet",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 3.99,
+          "price_before_eur": 4.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Salatherzen",
+          "brand": "TEGUT",
+          "unit": "Stk",
+          "pack_size": 2,
+          "packs_used": 1,
+          "used_amount": 2.0,
+          "price_eur": 0.99,
+          "price_before_eur": 1.49
+        }
+      ],
+      "without_offers": [
+        "Chili (1 Stk)",
+        "Olivenöl (3 EL)"
+      ],
+      "steps": [
+        "Das Hähnchenbrustfilet in Würfel schneiden und in einer Pfanne anbraten.",
+        "Die Salatherzen waschen und in Stücke zupfen.",
+        "Das angebratene Hähnchen mit Chili und Olivenöl vermengen.",
+        "Auf dem Salat anrichten und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R047",
+      "slug": "vegetable-stir-fry-r047",
+      "title": "Vegetable Stir-Fry",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Bio-Brokkoli",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Bio-Blumenkohl",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        }
+      ],
+      "without_offers": [
+        "Sojasauce (3 EL)",
+        "Ingwer (1 Stück)"
+      ],
+      "steps": [
+        "Brokkoli und Blumenkohl in Röschen schneiden.",
+        "In einer Pfanne mit etwas Öl anbraten.",
+        "Mit Sojasauce und Ingwer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R048",
+      "slug": "sweet-potato-fries",
+      "title": "Sweet Potato Fries",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Bio-Süßkartoffeln",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Bio-Süßkartoffeln",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (3 EL)"
+      ],
+      "steps": [
+        "Die Süßkartoffeln schälen und in Stifte schneiden.",
+        "Mit Olivenöl und Paprika vermengen.",
+        "Im Ofen bei 200 Grad ca. 25 Minuten backen.",
+        "Sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R049",
+      "slug": "fruit-smoothie-r049",
+      "title": "Fruit Smoothie",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Bio-Mango",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O021",
+          "name": "Bio-Heidelbeeren",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        }
+      ],
+      "without_offers": [
+        "Pflanzenmilch (500 ml)"
+      ],
+      "steps": [
+        "Die Mango und Heidelbeeren in einen Mixer geben.",
+        "Mit Pflanzenmilch auffüllen und pürieren.",
+        "In Gläser füllen und sofort genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R050",
+      "slug": "chocolate-banana-bread-r050",
+      "title": "Chocolate Banana Bread",
+      "retailer": "TEGUT",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 8,
+      "duration_minutes": 45,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O022",
+          "name": "Bio-Bananen",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O023",
+          "name": "Bio-Dinkelmehl",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O024",
+          "name": "Bio-Schokoladenstückchen",
+          "brand": "TEGUT",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.49
+        }
+      ],
+      "without_offers": [
+        "Zucker (100 g)",
+        "Öl (50 ml)"
+      ],
+      "steps": [
+        "Die Bananen zerdrücken und mit Zucker und Öl vermengen.",
+        "Das Dinkelmehl und die Schokoladenstückchen unterrühren.",
+        "In eine Kastenform füllen und bei 180 Grad ca. 30 Minuten backen.",
+        "Abkühlen lassen und in Scheiben schneiden."
+      ],
+      "notes": ""
+    }
+  ]
+}

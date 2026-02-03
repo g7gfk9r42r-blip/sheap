@@ -1,0 +1,701 @@
+[
+  {
+    "id": "R001",
+    "name": "Speisekartoffeln & Zwiebeln & Gouda XXL Gratin",
+    "ingredients": [
+      {
+        "name": "ALDI Nord — Speisekartoffeln (5-kg-Netz)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O001",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Speisekartoffeln (5-kg-Netz)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "MILSANI — Gouda XXL",
+        "quantity": 600,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O024",
+        "price_eur": 2.99,
+        "price_before_eur": null,
+        "brand": "MILSANI",
+        "product": "Gouda XXL",
+        "note": null
+      },
+      {
+        "name": "LEERDAMMER — Reibekäse Auflauf",
+        "quantity": 160,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O026",
+        "price_eur": 1.49,
+        "price_before_eur": 2.89,
+        "brand": "LEERDAMMER",
+        "product": "Reibekäse Auflauf",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Backofen auf 200°C Ober-/Unterhitze vorheizen.",
+      "Speisekartoffeln waschen, ggf. schälen und in dünne Scheiben schneiden; Zwiebeln in feine Streifen schneiden.",
+      "Kartoffeln und Zwiebeln in einer Auflaufform schichten und mit Streichzart aus dem Angebot punktuell belegen.",
+      "Käse aus dem Angebot gleichmäßig darüberstreuen (ggf. Feta zerbröseln).",
+      "30–40 Minuten backen, bis die Kartoffeln weich und die Oberfläche goldbraun ist.",
+      "5 Minuten ruhen lassen und in Stücke schneiden."
+    ],
+    "price_total_before_eur": 9.86,
+    "price_total_eur": 8.46,
+    "savings_percent": 14.2,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R002",
+    "name": "Hähnchen-Geschnetzeltes & Cherrydatteltomaten & Reibekäse Pizza & Pasta Pfanne",
+    "ingredients": [
+      {
+        "name": "MEINE METZGEREI — Hähnchen-Geschnetzeltes",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O019",
+        "price_eur": 3.79,
+        "price_before_eur": 4.99,
+        "brand": "MEINE METZGEREI",
+        "product": "Hähnchen-Geschnetzeltes",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Cherrydatteltomaten (1-kg-Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 2.49,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Cherrydatteltomaten (1-kg-Schale)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "LEERDAMMER — Reibekäse Pizza & Pasta",
+        "quantity": 160,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O027",
+        "price_eur": 1.49,
+        "price_before_eur": 2.89,
+        "brand": "LEERDAMMER",
+        "product": "Reibekäse Pizza & Pasta",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Zwiebeln schneiden und in einer heißen Pfanne anbraten.",
+      "Protein aus dem Angebot dazugeben und nach Packung zubereiten (anbraten/erwärmen).",
+      "Tomaten oder Wok-Gemüse unterheben und kurz mitsautieren.",
+      "Mit Käse aus dem Angebot verfeinern oder mit Sauce (Soja/Wok/Teriyaki) abschmecken.",
+      "Optional Bauernbaguette als Beilage kurz aufbacken.",
+      "Heiß servieren."
+    ],
+    "price_total_before_eur": 12.36,
+    "price_total_eur": 9.76,
+    "savings_percent": 21.0,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R003",
+    "name": "Lachsforellenfiletseite & Speisekartoffeln Pfanne",
+    "ingredients": [
+      {
+        "name": "GOLDEN SEAFOOD — Lachsforellenfiletseite (ca. 520 g)",
+        "quantity": 520,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O022",
+        "price_eur": 7.79,
+        "price_before_eur": null,
+        "brand": "GOLDEN SEAFOOD",
+        "product": "Lachsforellenfiletseite (ca. 520 g)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Speisekartoffeln (5-kg-Netz)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O001",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Speisekartoffeln (5-kg-Netz)",
+        "note": null
+      },
+      {
+        "name": "BIO — Zitronen (500-g-Netz)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O111",
+        "price_eur": 1.39,
+        "price_before_eur": 1.59,
+        "brand": "BIO",
+        "product": "Zitronen (500-g-Netz)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Mini-Romana-Salatherzen (2er-Pack)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 0.79,
+        "price_before_eur": 0.89,
+        "brand": "ALDI Nord",
+        "product": "Mini-Romana-Salatherzen (2er-Pack)",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Zwiebeln schneiden und in einer heißen Pfanne anbraten.",
+      "Protein aus dem Angebot dazugeben und nach Packung zubereiten (anbraten/erwärmen).",
+      "Tomaten oder Wok-Gemüse unterheben und kurz mitsautieren.",
+      "Mit Käse aus dem Angebot verfeinern oder mit Sauce (Soja/Wok/Teriyaki) abschmecken.",
+      "Optional Bauernbaguette als Beilage kurz aufbacken.",
+      "Heiß servieren."
+    ],
+    "price_total_before_eur": 12.26,
+    "price_total_eur": 11.96,
+    "savings_percent": 2.4,
+    "diet_categories": [
+      "High Protein",
+      "Gluten-free",
+      "Laktosefrei"
+    ]
+  },
+  {
+    "id": "R004",
+    "name": "Currywurst XXL & Zwiebeln & Bauernbaguette Baguette",
+    "ingredients": [
+      {
+        "name": "CURRYSTAR — Currywurst XXL",
+        "quantity": 240,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O037",
+        "price_eur": 1.39,
+        "price_before_eur": null,
+        "brand": "CURRYSTAR",
+        "product": "Currywurst XXL",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Zwiebeln (5-kg-Sack)",
+        "quantity": 5000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O002",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Zwiebeln (5-kg-Sack)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Cherrydatteltomaten (1-kg-Schale)",
+        "quantity": 1000,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O003",
+        "price_eur": 2.49,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Cherrydatteltomaten (1-kg-Schale)",
+        "note": null
+      },
+      {
+        "name": "MEIN BESTES — Bauernbaguette (ofenfrisch)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O023",
+        "price_eur": 0.49,
+        "price_before_eur": 0.79,
+        "brand": "MEIN BESTES",
+        "product": "Bauernbaguette (ofenfrisch)",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Bauernbaguette/Brötchen/Croguette aufschneiden und kurz aufbacken (oder im Toaster anrösten).",
+      "Mit Frisch & Cremig, Streichzart oder Remoulade aus dem Angebot bestreichen.",
+      "Protein (Aufschnitt/Salami/Thunfisch-Salat/Fischröllchen) darauflegen.",
+      "Tomaten und (optional) Mini-Romana daraufgeben.",
+      "Mit Käse aus dem Angebot toppen und bei Bedarf 3–5 Minuten überbacken.",
+      "Warm servieren."
+    ],
+    "price_total_before_eur": 6.66,
+    "price_total_eur": 6.36,
+    "savings_percent": 4.5,
+    "diet_categories": [
+      "High Protein",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R005",
+    "name": "Sahne-Heringsfilets & Mini-Romana-Salatherzen & Bauernbaguette Baguette",
+    "ingredients": [
+      {
+        "name": "NADLER — Sahne-Heringsfilets",
+        "quantity": 440,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O038",
+        "price_eur": 2.29,
+        "price_before_eur": 2.89,
+        "brand": "NADLER",
+        "product": "Sahne-Heringsfilets",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Mini-Romana-Salatherzen (2er-Pack)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 0.79,
+        "price_before_eur": 0.89,
+        "brand": "ALDI Nord",
+        "product": "Mini-Romana-Salatherzen (2er-Pack)",
+        "note": null
+      },
+      {
+        "name": "BIO — Zitronen (500-g-Netz)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O111",
+        "price_eur": 1.39,
+        "price_before_eur": 1.59,
+        "brand": "BIO",
+        "product": "Zitronen (500-g-Netz)",
+        "note": null
+      },
+      {
+        "name": "MEIN BESTES — Bauernbaguette (ofenfrisch)",
+        "quantity": 300,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O023",
+        "price_eur": 0.49,
+        "price_before_eur": 0.79,
+        "brand": "MEIN BESTES",
+        "product": "Bauernbaguette (ofenfrisch)",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Bauernbaguette/Brötchen/Croguette aufschneiden und kurz aufbacken (oder im Toaster anrösten).",
+      "Mit Frisch & Cremig, Streichzart oder Remoulade aus dem Angebot bestreichen.",
+      "Protein (Aufschnitt/Salami/Thunfisch-Salat/Fischröllchen) darauflegen.",
+      "Tomaten und (optional) Mini-Romana daraufgeben.",
+      "Mit Käse aus dem Angebot toppen und bei Bedarf 3–5 Minuten überbacken.",
+      "Warm servieren."
+    ],
+    "price_total_before_eur": 6.16,
+    "price_total_eur": 4.96,
+    "savings_percent": 19.5,
+    "diet_categories": [
+      "High Protein",
+      "Kalorienarm",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "R006",
+    "name": "Thunfisch-Salat & Mini-Romana-Salatherzen Bowl",
+    "ingredients": [
+      {
+        "name": "GOLDEN SEAFOOD — Thunfisch-Salat",
+        "quantity": 160,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O129",
+        "price_eur": 1.69,
+        "price_before_eur": null,
+        "brand": "GOLDEN SEAFOOD",
+        "product": "Thunfisch-Salat",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Mini-Romana-Salatherzen (2er-Pack)",
+        "quantity": 2,
+        "unit": "pcs",
+        "from_offer": true,
+        "offer_id": "O004",
+        "price_eur": 0.79,
+        "price_before_eur": 0.89,
+        "brand": "ALDI Nord",
+        "product": "Mini-Romana-Salatherzen (2er-Pack)",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Romatomaten (500-g-Schale)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O114",
+        "price_eur": 0.89,
+        "price_before_eur": 0.99,
+        "brand": "ALDI Nord",
+        "product": "Romatomaten (500-g-Schale)",
+        "note": null
+      },
+      {
+        "name": "SKANDINAVIC’S — Remoulade",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O130",
+        "price_eur": 1.19,
+        "price_before_eur": null,
+        "brand": "SKANDINAVIC’S",
+        "product": "Remoulade",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Mini-Romana-Salatherzen waschen, trocken schleudern und grob zupfen.",
+      "Tomaten/Obst nach Wahl klein schneiden und zum Salat geben.",
+      "Protein aus dem Angebot (Aufschnitt, Salami, Fischröllchen, Thunfisch-Salat) in Stücke schneiden und untermischen.",
+      "Käse aus dem Angebot (Feta/Hirtenkäse/Gran Moravia) darübergeben.",
+      "Mit einer Sauce aus dem Angebot (z. B. Remoulade oder Joghurt als Basis) vermengen und abschmecken.",
+      "Direkt servieren."
+    ],
+    "price_total_before_eur": 4.76,
+    "price_total_eur": 4.56,
+    "savings_percent": 4.2,
+    "diet_categories": [
+      "High Protein",
+      "Low Carb",
+      "Gluten-free"
+    ]
+  },
+  {
+    "id": "R007",
+    "name": "Gyoza & Wok-Nudeln Wok-Pfanne",
+    "ingredients": [
+      {
+        "name": "ASIA GREEN GARDEN — Gyoza",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O077",
+        "price_eur": 2.49,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Gyoza",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Edamame (Packung, ca. 400 g)",
+        "quantity": 400,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O079",
+        "price_eur": 1.79,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Edamame (Packung, ca. 400 g)",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Wok-Nudeln",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O092",
+        "price_eur": 0.69,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Wok-Nudeln",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Teriyaki-Sauce (250-ml-Flasche)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O104",
+        "price_eur": 1.29,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Teriyaki-Sauce (250-ml-Flasche)",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Nudeln/Reisnudeln nach Packungsangabe zubereiten (oder bei fertigem Nudelgericht direkt erhitzen).",
+      "Wok/Pfanne stark erhitzen und etwas Sesam-/Erdnussöl aus dem Angebot verwenden.",
+      "Protein/Einlage (z. B. Gyoza, Garnelen, Surimi, Bratnudeln, Ramensuppe) nach Packung zubereiten bzw. anbraten.",
+      "Wok-Gemüse und/oder Zwiebeln/Tomaten hinzufügen und 3–5 Minuten pfannenrühren.",
+      "Mit Soja-, Teriyaki- oder Wok-Sauce abschmecken; für Schärfe Sambal oder Sriracha zugeben.",
+      "Nudeln untermischen, kurz durchschwenken und sofort servieren."
+    ],
+    "price_total_before_eur": 6.26,
+    "price_total_eur": 6.26,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "Vegan",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R008",
+    "name": "Crispy Garnelen & Wok-Nudeln Wok-Pfanne",
+    "ingredients": [
+      {
+        "name": "ASIA GREEN GARDEN — Crispy Garnelen",
+        "quantity": 230,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O075",
+        "price_eur": 3.29,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Crispy Garnelen",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Wok-Nudeln",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O092",
+        "price_eur": 0.69,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Wok-Nudeln",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Wok-Gemüse (Dose, ATG 310 g)",
+        "quantity": 310,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O093",
+        "price_eur": 0.99,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Wok-Gemüse (Dose, ATG 310 g)",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Sriracha-Sauce (250-ml-Flasche)",
+        "quantity": 250,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O103",
+        "price_eur": 1.49,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Sriracha-Sauce (250-ml-Flasche)",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Nudeln/Reisnudeln nach Packungsangabe zubereiten (oder bei fertigem Nudelgericht direkt erhitzen).",
+      "Wok/Pfanne stark erhitzen und etwas Sesam-/Erdnussöl aus dem Angebot verwenden.",
+      "Protein/Einlage (z. B. Gyoza, Garnelen, Surimi, Bratnudeln, Ramensuppe) nach Packung zubereiten bzw. anbraten.",
+      "Wok-Gemüse und/oder Zwiebeln/Tomaten hinzufügen und 3–5 Minuten pfannenrühren.",
+      "Mit Soja-, Teriyaki- oder Wok-Sauce abschmecken; für Schärfe Sambal oder Sriracha zugeben.",
+      "Nudeln untermischen, kurz durchschwenken und sofort servieren."
+    ],
+    "price_total_before_eur": 6.46,
+    "price_total_eur": 6.46,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "High Protein",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R009",
+    "name": "Knusperente Wok-Pfanne",
+    "ingredients": [
+      {
+        "name": "ASIA GREEN GARDEN — Knusperente",
+        "quantity": 550,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O078",
+        "price_eur": 8.99,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Knusperente",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Mie-Nudeln",
+        "quantity": 250,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O087",
+        "price_eur": 0.69,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Mie-Nudeln",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Wok-Gemüse (Dose, ATG 310 g)",
+        "quantity": 310,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O093",
+        "price_eur": 0.99,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Wok-Gemüse (Dose, ATG 310 g)",
+        "note": null
+      },
+      {
+        "name": "ASIA GREEN GARDEN — Soja-Sauce XXL (1-L-Flasche)",
+        "quantity": 1000,
+        "unit": "ml",
+        "from_offer": true,
+        "offer_id": "O101",
+        "price_eur": 2.99,
+        "price_before_eur": null,
+        "brand": "ASIA GREEN GARDEN",
+        "product": "Soja-Sauce XXL (1-L-Flasche)",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Nudeln/Reisnudeln nach Packungsangabe zubereiten (oder bei fertigem Nudelgericht direkt erhitzen).",
+      "Wok/Pfanne stark erhitzen und etwas Sesam-/Erdnussöl aus dem Angebot verwenden.",
+      "Protein/Einlage (z. B. Gyoza, Garnelen, Surimi, Bratnudeln, Ramensuppe) nach Packung zubereiten bzw. anbraten.",
+      "Wok-Gemüse und/oder Zwiebeln/Tomaten hinzufügen und 3–5 Minuten pfannenrühren.",
+      "Mit Soja-, Teriyaki- oder Wok-Sauce abschmecken; für Schärfe Sambal oder Sriracha zugeben.",
+      "Nudeln untermischen, kurz durchschwenken und sofort servieren."
+    ],
+    "price_total_before_eur": 13.66,
+    "price_total_eur": 13.66,
+    "savings_percent": 0.0,
+    "diet_categories": [
+      "High Protein",
+      "Laktosefrei",
+      "Kalorienreich"
+    ]
+  },
+  {
+    "id": "R010",
+    "name": "Äpfel & Konfitüre Extra Dessert",
+    "ingredients": [
+      {
+        "name": "MÜLLER — Milchreis",
+        "quantity": 200,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O120",
+        "price_eur": 0.44,
+        "price_before_eur": 0.99,
+        "brand": "MÜLLER",
+        "product": "Milchreis",
+        "note": null
+      },
+      {
+        "name": "WEIHENSTEPHAN — Joghurt (500-g-Becher)",
+        "quantity": 500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O030",
+        "price_eur": 0.99,
+        "price_before_eur": 1.49,
+        "brand": "WEIHENSTEPHAN",
+        "product": "Joghurt (500-g-Becher)",
+        "note": null
+      },
+      {
+        "name": "SCHWARTAU — Konfitüre Extra",
+        "quantity": 340,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O045",
+        "price_eur": 1.99,
+        "price_before_eur": 2.69,
+        "brand": "SCHWARTAU",
+        "product": "Konfitüre Extra",
+        "note": null
+      },
+      {
+        "name": "ALDI Nord — Äpfel (1,5-kg-Beutel)",
+        "quantity": 1500,
+        "unit": "g",
+        "from_offer": true,
+        "offer_id": "O139",
+        "price_eur": 1.99,
+        "price_before_eur": null,
+        "brand": "ALDI Nord",
+        "product": "Äpfel (1,5-kg-Beutel)",
+        "note": null
+      }
+    ],
+    "steps": [
+      "Obst (Äpfel/Kiwi/Orangen/Clementinen/Physalis) waschen und mundgerecht schneiden.",
+      "Joghurt, Vanilletraum, Früchtetraum oder Milchreis aus dem Angebot in eine Schüssel geben.",
+      "Konfitüre oder Goldsaft als Topping dazugeben (optional Nussmus als Klecks).",
+      "Alles kurz verrühren oder schichten.",
+      "Kalt servieren; nach Wunsch mit Tee aus dem Angebot."
+    ],
+    "price_total_before_eur": 7.16,
+    "price_total_eur": 5.41,
+    "savings_percent": 24.4,
+    "diet_categories": [
+      "Vegetarisch",
+      "Gluten-free",
+      "Kalorienreich"
+    ]
+  }
+]

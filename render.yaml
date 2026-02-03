@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: sheap
+    env: node
+    region: frankfurt
+    rootDir: server
+    buildCommand: npm ci && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      # Secrets (set in Render Dashboard):
+      # - ADMIN_SECRET
+      # Recommended persistent paths (requires a paid plan + disk mounted at /var/data):
+      - key: DATA_DIR
+        value: /var/data/data
+      - key: MEDIA_DIR
+        value: /var/data/media
+      # Optional (Flutter Web):
+      # - key: CORS_ORIGINS
+      #   value: https://yourdomain.com
+    disk:
+      name: sheap-data
+      mountPath: /var/data
+      sizeGB: 2
+
+

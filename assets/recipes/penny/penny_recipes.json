@@ -1,0 +1,3244 @@
+[
+  {
+    "id": "R001",
+    "title": "Balsamico-Pilze vom Grill",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "RAMA Culinesse",
+        "unit": "ml",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Heidelbeeren",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pilze putzen und in eine Schüssel geben.",
+      "Mit Balsamico, Öl, Salz, Pfeffer und gehacktem Knoblauch marinieren.",
+      "Die marinierten Pilze auf den Grill legen und ca. 10 Minuten grillen.",
+      "Mit frischem Basilikum garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "balsamico-pilze-vom-grill",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Basilikum (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R001.png"
+  },
+  {
+    "id": "R002",
+    "title": "Bratkartoffel-Pfanne",
+    "description": "",
+    "categories": [
+      "Kalorienarm",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 6.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "Rote Paprika",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.29,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "NATURGUT Deutsche Bio-Kartoffeln",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kartoffeln schälen, würfeln und in einer Pfanne mit Öl anbraten.",
+      "Die Paprika und Zwiebel hinzufügen und mitbraten.",
+      "Das Hähnchen-Gulasch in die Pfanne geben und alles gut vermengen.",
+      "Mit Salz, Pfeffer und Gewürzen abschmecken und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bratkartoffel-pfanne",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (1 Zehe)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R002.png"
+  },
+  {
+    "id": "R003",
+    "title": "Herzhafter Kartoffelkuchen mit Salami",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "STOCK­MEYER Salami",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 2,
+        "used_amount": 300.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.29,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "NATURGUT Deutsche Bio-Kartoffeln",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kartoffeln kochen, abkühlen lassen und reiben.",
+      "Die Zwiebel und Salami klein schneiden und unter die Kartoffeln mischen.",
+      "Die Eier hinzufügen und alles gut vermengen.",
+      "In einer Pfanne goldbraun braten und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "herzhafter-kartoffelkuchen-mit-salami",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Eier (2 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R003.png"
+  },
+  {
+    "id": "R004",
+    "title": "Chili con Carne",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 6.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "HEINZ Baked Beanz",
+        "unit": "g",
+        "pack_size": 415,
+        "packs_used": 1,
+        "used_amount": 415.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Das Hähnchen-Gulasch in einem Topf anbraten.",
+      "Die Zwiebel und Chili hinzufügen und kurz mitbraten.",
+      "Die Baked Beanz unterrühren und alles ca. 10 Minuten köcheln lassen.",
+      "Mit Gewürzen abschmecken und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chili-con-carne",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Chili (1 Stück)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R004.png"
+  },
+  {
+    "id": "R005",
+    "title": "Johannisbeer-Mojito",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "PAULANER Spezi oder Limo",
+        "unit": "l",
+        "pack_size": 6,
+        "packs_used": 1,
+        "used_amount": 6.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "Heidelbeeren",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 2.99,
+        "price_before_eur": 3.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Heidelbeeren in ein Glas geben und mit einem Stößel zerdrücken.",
+      "Minze und Limettensaft hinzufügen.",
+      "Mit Spezi oder Limo auffüllen und servieren."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "johannisbeer-mojito",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Minze (1 Handvoll)",
+      "Limette (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R005.png"
+  },
+  {
+    "id": "R006",
+    "title": "Peanutbutter Ice-Cream",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "MIKE MITCHELL’S Peanut Butter",
+        "unit": "g",
+        "pack_size": 350,
+        "packs_used": 1,
+        "used_amount": 350.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.29,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "MIKE MITCHELL’S Mega Marshmallows",
+        "unit": "g",
+        "pack_size": 400,
+        "packs_used": 1,
+        "used_amount": 400.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Erdnussbutter mit der Milch und Zucker in einer Schüssel vermengen.",
+      "Die Marshmallows hinzufügen und alles gut verrühren.",
+      "In eine Form füllen und für 4 Stunden ins Gefrierfach stellen.",
+      "Vor dem Servieren kurz antauen lassen."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "peanutbutter-ice-cream",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Milch (500 ml)",
+      "Zucker (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R006.png"
+  },
+  {
+    "id": "R007",
+    "title": "Pistazieneis-Sandwich",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "MIKE MITCHELL’S Cookies",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "MIKE MITCHELL’S Mini Muffin Mix",
+        "unit": "g",
+        "pack_size": 225,
+        "packs_used": 1,
+        "used_amount": 225.0,
+        "price_eur": 1.59,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Cookies zerbröseln und mit der Muffin-Mischung vermengen.",
+      "Die Mischung in eine Form drücken und für 30 Minuten ins Gefrierfach stellen.",
+      "Mit Pistazien bestreuen und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pistazieneis-sandwich",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pistazien (50 g)",
+      "Zucker (50 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R007.png"
+  },
+  {
+    "id": "R008",
+    "title": "Peanutbutter Ice-Cream with Popcorn",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "MIKE MITCHELL’S Popcorn",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "MIKE MITCHELL’S Peanutbutter Swirl",
+        "unit": "g",
+        "pack_size": 340,
+        "packs_used": 1,
+        "used_amount": 340.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Erdnussbutter mit der Milch und Zucker in einer Schüssel vermengen.",
+      "Das Popcorn hinzufügen und alles gut verrühren.",
+      "In eine Form füllen und für 4 Stunden ins Gefrierfach stellen.",
+      "Vor dem Servieren kurz antauen lassen."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "peanutbutter-ice-cream-with-popcorn",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Milch (500 ml)",
+      "Zucker (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R008.png"
+  },
+  {
+    "id": "R009",
+    "title": "Chicken Wings BBQ",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "MIKE MITCHELL’S Chicken Wings BBQ",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 5.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "MIKE MITCHELL’S Chicken Wings BBQ",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 5.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Wings mit der BBQ-Sauce und Knoblauch marinieren.",
+      "Im Ofen bei 200 Grad ca. 25 Minuten backen.",
+      "Mit frischem Gemüse servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-wings-bbq",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "BBQ-Sauce (100 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R009.png"
+  },
+  {
+    "id": "R010",
+    "title": "Pizza Stuffed Crust",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "MIKE MITCHELL’S Pizza Stuffed Crust",
+        "unit": "g",
+        "pack_size": 550,
+        "packs_used": 1,
+        "used_amount": 550.0,
+        "price_eur": 3.49,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "MIKE MITCHELL’S Pizza Stuffed Crust",
+        "unit": "g",
+        "pack_size": 550,
+        "packs_used": 1,
+        "used_amount": 550.0,
+        "price_eur": 3.49,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pizza nach Packungsanleitung zubereiten.",
+      "Mit Tomatensauce und Käse belegen.",
+      "Im Ofen goldbraun backen und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pizza-stuffed-crust",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tomatensauce (200 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R010.png"
+  },
+  {
+    "id": "R011",
+    "title": "Balsamico-Pilze vom Grill",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "RAMA Culinesse",
+        "unit": "ml",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Rote Paprika",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.19,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Rote Paprika in Streifen schneiden.",
+      "Die Pilze mit Rama Culinesse bestreichen und mit Salz und Pfeffer würzen.",
+      "Die Paprikastreifen auf den Grill legen und die Pilze dazugeben.",
+      "Nach 10 Minuten die Pilze wenden und mit Balsamico beträufeln.",
+      "Servieren und mit frischem Basilikum garnieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "balsamico-pilze-vom-grill-r011",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Basilikum (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R011.png"
+  },
+  {
+    "id": "R012",
+    "title": "Bratkartoffel-Pfanne",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 6.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "NATURGUT Bio Kartoffeln",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kartoffeln schälen und in Würfel schneiden.",
+      "Die Zwiebel würfeln und in einer Pfanne mit Öl anbraten.",
+      "Die Kartoffeln hinzufügen und goldbraun braten.",
+      "Das Hähnchen-Gulasch dazugeben und alles gut durchbraten.",
+      "Mit Petersilie garnieren und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bratkartoffel-pfanne-r012",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Petersilie (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R012.png"
+  },
+  {
+    "id": "R013",
+    "title": "Herzhafter Kartoffelkuchen mit Salami",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "STOCK­MEYER Salami",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.29,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "NATURGUT Bio Kartoffeln",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kartoffeln reiben und mit Eiern und Milch vermengen.",
+      "Die Salami klein schneiden und unter die Kartoffelmasse heben.",
+      "In einer Pfanne mit Öl goldbraun backen.",
+      "Auf einem Teller anrichten und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "herzhafter-kartoffelkuchen-mit-salami-r013",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (3 Stk)",
+      "Milch (100 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R013.png"
+  },
+  {
+    "id": "R014",
+    "title": "Chili con Carne",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 6.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "HEINZ Baked Beanz",
+        "unit": "g",
+        "pack_size": 415,
+        "packs_used": 1,
+        "used_amount": 415.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Zwiebel würfeln und in einer Pfanne anbraten.",
+      "Das Hähnchen-Gulasch hinzufügen und anbraten.",
+      "Die Baked Beans und Chili dazugeben und gut umrühren.",
+      "Für 10 Minuten köcheln lassen und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chili-con-carne-r014",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Chili (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R014.png"
+  },
+  {
+    "id": "R015",
+    "title": "Peanutbutter Ice-Cream",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "MIKE MITCHELL’S Peanut Butter",
+        "unit": "g",
+        "pack_size": 350,
+        "packs_used": 1,
+        "used_amount": 350.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "MIKE MITCHELL’S Popcorn",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Banane pürieren und mit Erdnussbutter vermengen.",
+      "In eine Schüssel geben und für 2 Stunden ins Gefrierfach stellen.",
+      "Das Popcorn in einer Pfanne rösten und als Topping verwenden.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "peanutbutter-ice-cream-r015",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Kakaopulver (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R015.png"
+  },
+  {
+    "id": "R016",
+    "title": "Johannisbeer-Mojito",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "PAULANER Spezi oder Limo",
+        "unit": "ml",
+        "pack_size": 1980,
+        "packs_used": 1,
+        "used_amount": 1980.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "PAULANER Spezi oder Limo",
+        "unit": "ml",
+        "pack_size": 1980,
+        "packs_used": 1,
+        "used_amount": 1980.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Limette auspressen und mit Minze vermengen.",
+      "Mit der Limo auffüllen und gut umrühren.",
+      "In Gläser füllen und mit Minze garnieren.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "johannisbeer-mojito-r016",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Minze (1 Handvoll)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R016.png"
+  },
+  {
+    "id": "R017",
+    "title": "Peanutbutter Ice-Cream mit Popcorn",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "MIKE MITCHELL’S Peanut Butter",
+        "unit": "g",
+        "pack_size": 350,
+        "packs_used": 1,
+        "used_amount": 350.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "MIKE MITCHELL’S Popcorn",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Banane pürieren und mit Erdnussbutter vermengen.",
+      "In eine Schüssel geben und für 2 Stunden ins Gefrierfach stellen.",
+      "Das Popcorn in einer Pfanne rösten und als Topping verwenden.",
+      "Servieren und genießen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "peanutbutter-ice-cream-with-popcorn-r017",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (1 Stk)",
+      "Kakaopulver (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R017.png"
+  },
+  {
+    "id": "R018",
+    "title": "Chicken Wings BBQ",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "MIKE MITCHELL’S Chicken Wings BBQ",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 5.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "MIKE MITCHELL’S Chicken Wings BBQ",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 5.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Wings mit BBQ-Sauce und Knoblauch marinieren.",
+      "Für 20 Minuten im Ofen bei 200 Grad backen.",
+      "Mit Beilagen nach Wahl servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-wings-bbq-r018",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "BBQ-Sauce (100 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R018.png"
+  },
+  {
+    "id": "R019",
+    "title": "Pizza Stuffed Crust",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienreich",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "MIKE MITCHELL’S Pizza Stuffed Crust",
+        "unit": "g",
+        "pack_size": 550,
+        "packs_used": 1,
+        "used_amount": 550.0,
+        "price_eur": 3.49,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "MIKE MITCHELL’S Pizza Stuffed Crust",
+        "unit": "g",
+        "pack_size": 550,
+        "packs_used": 1,
+        "used_amount": 550.0,
+        "price_eur": 3.49,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Pizza mit Tomatensauce bestreichen und mit Käse belegen.",
+      "Im Ofen bei 220 Grad für 15 Minuten backen.",
+      "In Stücke schneiden und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pizza-stuffed-crust-r019",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Tomatensauce (200 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R019.png"
+  },
+  {
+    "id": "R020",
+    "title": "High Protein Pudding",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "MIKE MITCHELL’S High Protein Pudding",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 0.85,
+        "price_before_eur": 1.29,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "MIKE MITCHELL’S High Protein Pudding",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 0.85,
+        "price_before_eur": 1.29,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den Pudding nach Anleitung zubereiten.",
+      "Mit Kakaopulver und Zucker verfeinern.",
+      "In Schalen füllen und servieren."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "high-protein-pudding",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Kakaopulver (1 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R020.png"
+  },
+  {
+    "id": "R021",
+    "title": "Balsamico-Pilze vom Grill",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "RAMA Culinesse",
+        "unit": "ml",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Romanasalatherzen",
+        "unit": "Stück",
+        "pack_size": 2,
+        "packs_used": 1,
+        "used_amount": 2.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Romanasalatherzen halbieren und mit Rama Culinesse bestreichen.",
+      "Die Pilze auf den Grill legen und von beiden Seiten grillen.",
+      "Mit Knoblauch und Basilikum garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "balsamico-pilze-vom-grill-r021",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Basilikum (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R021.png"
+  },
+  {
+    "id": "R022",
+    "title": "Bratkartoffel-Pfanne",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 5.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "RAMA Sooo buttrig!",
+        "unit": "g",
+        "pack_size": 225,
+        "packs_used": 1,
+        "used_amount": 225.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "NATURGUT Deutsche Bio-Kartoffeln",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kartoffeln schälen und in Würfel schneiden.",
+      "In einer Pfanne Rama Sooo buttrig! erhitzen und die Kartoffeln anbraten.",
+      "Das Hähnchen-Gulasch hinzufügen und alles gut durchbraten.",
+      "Mit Zwiebel und Paprika garnieren und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bratkartoffel-pfanne-r022",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Paprika (1 Stück)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R022.png"
+  },
+  {
+    "id": "R023",
+    "title": "Herzhafter Kartoffelkuchen mit Salami",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "STOCK­MEYER Salami",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "NATURGUT Bio Frischkäse",
+        "unit": "g",
+        "pack_size": 175,
+        "packs_used": 1,
+        "used_amount": 175.0,
+        "price_eur": 1.39,
+        "price_before_eur": 1.39,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "NATURGUT Deutsche Bio-Kartoffeln",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kartoffeln kochen und pürieren.",
+      "Frischkäse und Eier unter die Kartoffeln mischen.",
+      "Die Salami in Würfel schneiden und unterheben.",
+      "In einer Auflaufform backen, bis der Kuchen goldbraun ist."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "herzhafter-kartoffelkuchen-mit-salami-r023",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (3 Stk)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R023.png"
+  },
+  {
+    "id": "R024",
+    "title": "Chili con Carne",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 5.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "HEINZ Baked Beanz",
+        "unit": "g",
+        "pack_size": 415,
+        "packs_used": 1,
+        "used_amount": 415.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Das Hähnchen-Gulasch in einem Topf anbraten.",
+      "Zwiebel und Chili hinzufügen und kurz mitbraten.",
+      "Die Baked Beanz dazugeben und alles gut vermischen.",
+      "Mit Gewürzen abschmecken und servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chili-con-carne-r024",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Chili (1 Stück)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R024.png"
+  },
+  {
+    "id": "R025",
+    "title": "Johannisbeer-Mojito",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "PAULANER Spezi oder Limo",
+        "unit": "ml",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "Johannisbeeren",
+        "unit": "g",
+        "pack_size": 250,
+        "packs_used": 1,
+        "used_amount": 250.0,
+        "price_eur": 2.99,
+        "price_before_eur": 2.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Johannisbeeren mit Minze und Limettensaft vermischen.",
+      "Mit PAULANER Spezi oder Limo auffüllen und gut umrühren.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "johannisbeer-mojito-r025",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Minze (1 Bund)",
+      "Limette (1 Stück)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R025.png"
+  },
+  {
+    "id": "R026",
+    "title": "Peanutbutter Ice-Cream",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "MIKE MITCHELL’S Peanut Butter",
+        "unit": "g",
+        "pack_size": 350,
+        "packs_used": 1,
+        "used_amount": 350.0,
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "MIKE MITCHELL’S Popcorn",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Banane pürieren und mit Erdnussbutter vermischen.",
+      "In eine Schüssel füllen und für 2 Stunden ins Gefrierfach stellen.",
+      "Mit Popcorn und Kakaopulver garnieren und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "peanutbutter-ice-cream-r026",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (2 Stück)",
+      "Kakaopulver (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R026.png"
+  },
+  {
+    "id": "R027",
+    "title": "Pistazieneis-Sandwich",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "MIKE MITCHELL’S Cookies",
+        "unit": "g",
+        "pack_size": 128,
+        "packs_used": 1,
+        "used_amount": 128.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "MIKE MITCHELL’S Pistazieneis",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Cookies auf einer Seite mit Pistazieneis bestreichen.",
+      "Zwei Cookies zusammenlegen und für 30 Minuten ins Gefrierfach stellen.",
+      "Kalt servieren."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pistazieneis-sandwich-r027",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pistazien (50 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R027.png"
+  },
+  {
+    "id": "R028",
+    "title": "Chicken Wings BBQ",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "MIKE MITCHELL’S Chicken Wings BBQ",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 4.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O017",
+        "name": "MIKE MITCHELL’S Chicken Wings BBQ",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 4.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Wings mit BBQ-Sauce bestreichen.",
+      "Im Ofen bei 200 Grad 25 Minuten backen.",
+      "Mit Paprika garnieren und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-wings-bbq-r028",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "BBQ-Sauce (100 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R028.png"
+  },
+  {
+    "id": "R029",
+    "title": "Mango-Salat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O018",
+        "name": "Mango",
+        "unit": "Stück",
+        "pack_size": 1,
+        "packs_used": 1,
+        "used_amount": 1.0,
+        "price_eur": 0.77,
+        "price_before_eur": 0.77,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O019",
+        "name": "Snacktomaten-Mix",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Mango schälen und in Würfel schneiden.",
+      "Die Snacktomaten halbieren und mit der Mango vermischen.",
+      "Mit Zwiebel und Koriander garnieren und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "mango-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Koriander (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R029.png"
+  },
+  {
+    "id": "R030",
+    "title": "Fischstäbchen mit Kartoffeln",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O020",
+        "name": "IGLO 15 Fischstäbchen",
+        "unit": "g",
+        "pack_size": 450,
+        "packs_used": 1,
+        "used_amount": 450.0,
+        "price_eur": 2.79,
+        "price_before_eur": 2.79,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O021",
+        "name": "NATURGUT Deutsche Bio-Kartoffeln",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kartoffeln schälen, kochen und stampfen.",
+      "Die Fischstäbchen nach Packungsanweisung zubereiten.",
+      "Mit Zitrone und Dill garnieren und servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fischstaebchen-mit-kartoffeln",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zitrone (1 Stück)",
+      "Dill (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R030.png"
+  },
+  {
+    "id": "R031",
+    "title": "Balsamico-Pilze vom Grill",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "RAMA Culinesse",
+        "unit": "ml",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "RAMA Culinesse",
+        "unit": "ml",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Champignons putzen und in eine Schüssel geben.",
+      "Balsamico, Rama Culinesse und gehackten Knoblauch hinzufügen.",
+      "Alles gut vermengen und für 10 Minuten marinieren lassen.",
+      "Die marinierten Pilze auf den Grill legen und ca. 5 Minuten grillen."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "balsamico-pilze-vom-grill-r031",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Champignons (300 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R031.png"
+  },
+  {
+    "id": "R032",
+    "title": "Bratkartoffel-Pfanne",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 6.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "NATURGUT Deutsche Bio-Kartoffeln",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Kartoffeln schälen und in Würfel schneiden.",
+      "Zwiebel und Paprika ebenfalls würfeln.",
+      "In einer Pfanne Öl erhitzen, Zwiebel und Paprika anbraten.",
+      "Kartoffeln und Hähnchen-Gulasch hinzufügen und alles gut braten, bis die Kartoffeln goldbraun sind."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bratkartoffel-pfanne-r032",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R032.png"
+  },
+  {
+    "id": "R033",
+    "title": "Herzhafter Kartoffelkuchen mit Salami",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "STOCK­MEYER Salami",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.79,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "NATURGUT Deutsche Bio-Kartoffeln",
+        "unit": "g",
+        "pack_size": 2000,
+        "packs_used": 1,
+        "used_amount": 2000.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Kartoffeln kochen und pürieren.",
+      "Zwiebel würfeln und in einer Pfanne anbraten.",
+      "Eier und Milch unter das Kartoffelpüree mischen.",
+      "Salami und Zwiebel hinzufügen und alles in eine Auflaufform geben.",
+      "Im Ofen bei 180°C ca. 20 Minuten backen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "herzhafter-kartoffelkuchen-mit-salami-r033",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (2 Stk)",
+      "Milch (100 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R033.png"
+  },
+  {
+    "id": "R034",
+    "title": "Chili con Carne",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 6.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "HEINZ Baked Beanz",
+        "unit": "g",
+        "pack_size": 415,
+        "packs_used": 1,
+        "used_amount": 415.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zwiebel und Paprika würfeln und in einem Topf anbraten.",
+      "Hähnchen-Gulasch hinzufügen und anbraten.",
+      "Bohnen und Gewürze hinzufügen und alles gut vermengen.",
+      "Bei niedriger Hitze 10 Minuten köcheln lassen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chili-con-carne-r034",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R034.png"
+  },
+  {
+    "id": "R035",
+    "title": "Johannisbeer-Mojito",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "PAULANER Spezi oder Limo",
+        "unit": "l",
+        "pack_size": 2,
+        "packs_used": 1,
+        "used_amount": 2.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "PAULANER Spezi oder Limo",
+        "unit": "l",
+        "pack_size": 2,
+        "packs_used": 1,
+        "used_amount": 2.0,
+        "price_eur": 3.99,
+        "price_before_eur": 4.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Johannisbeeren mit Zucker zerdrücken.",
+      "Minze hinzufügen und alles gut vermischen.",
+      "Mit PAULANER Spezi auffüllen und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "johannisbeer-mojito-r035",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Johannisbeeren (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R035.png"
+  },
+  {
+    "id": "R036",
+    "title": "Peanutbutter Ice-Cream",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "MIKE MITCHELL’S Peanut Butter",
+        "unit": "g",
+        "pack_size": 350,
+        "packs_used": 1,
+        "used_amount": 350.0,
+        "price_eur": 1.79,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "MIKE MITCHELL’S Milchdrink",
+        "unit": "ml",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 0.77,
+        "price_before_eur": 1.29,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Milchdrink mit Erdnussbutter und Zucker vermengen.",
+      "In eine Eismaschine geben oder in eine Schüssel füllen und ins Gefrierfach stellen.",
+      "Alle 30 Minuten umrühren, bis die gewünschte Konsistenz erreicht ist."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "peanutbutter-ice-cream-r036",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zucker (100 g)",
+      "Vanille (1 TL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R036.png"
+  },
+  {
+    "id": "R037",
+    "title": "Pistazieneis-Sandwich",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "MIKE MITCHELL’S Cookies",
+        "unit": "g",
+        "pack_size": 128,
+        "packs_used": 1,
+        "used_amount": 128.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "MIKE MITCHELL’S Cookies",
+        "unit": "g",
+        "pack_size": 128,
+        "packs_used": 1,
+        "used_amount": 128.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Zwei Cookies nehmen und jeweils eine Portion Pistazieneis dazwischenlegen.",
+      "Die Sandwiches für 10 Minuten ins Gefrierfach legen.",
+      "Vor dem Servieren kurz antauen lassen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pistazieneis-sandwich-r037",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pistazieneis (400 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R037.png"
+  },
+  {
+    "id": "R038",
+    "title": "Obstgarten Joghurt",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "EHRMANN Obstgarten",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 0.44,
+        "price_before_eur": 0.79,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "EHRMANN Obstgarten",
+        "unit": "g",
+        "pack_size": 125,
+        "packs_used": 1,
+        "used_amount": 125.0,
+        "price_eur": 0.44,
+        "price_before_eur": 0.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Obstgarten Joghurt in eine Schüssel geben.",
+      "Früchte klein schneiden und hinzufügen.",
+      "Mit Honig süßen und gut vermengen."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "obstgarten-joghurt",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Früchte (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R038.png"
+  },
+  {
+    "id": "R039",
+    "title": "Snacktomaten-Salat",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Snacktomaten-Mix",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "Snacktomaten-Mix",
+        "unit": "g",
+        "pack_size": 300,
+        "packs_used": 1,
+        "used_amount": 300.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Snacktomaten halbieren und in eine Schüssel geben.",
+      "Basilikum und Feta hinzufügen.",
+      "Mit Olivenöl beträufeln und gut vermengen."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "snacktomaten-salat",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Basilikum (10 Blätter)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R039.png"
+  },
+  {
+    "id": "R040",
+    "title": "Fischstäbchen mit Pommes",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "IGLO 15 Fischstäbchen",
+        "unit": "g",
+        "pack_size": 450,
+        "packs_used": 1,
+        "used_amount": 450.0,
+        "price_eur": 2.79,
+        "price_before_eur": 3.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "MC CAIN 1-2-3 Frites Original",
+        "unit": "g",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.59,
+        "price_before_eur": 2.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Fischstäbchen nach Packungsanleitung zubereiten.",
+      "Pommes im Ofen backen.",
+      "Mit Ketchup und Salat servieren."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "fischstaebchen-mit-pommes",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Ketchup (50 g)",
+      "Salat (100 g)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R040.png"
+  },
+  {
+    "id": "R041",
+    "title": "Balsamico-Pilze vom Grill",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Gluten-free",
+      "Kalorienarm"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O001",
+        "name": "RAMA Culinesse",
+        "unit": "ml",
+        "pack_size": 750,
+        "packs_used": 1,
+        "used_amount": 750.0,
+        "price_eur": 1.99,
+        "price_before_eur": 2.19,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O002",
+        "name": "Romanasalatherzen",
+        "unit": "Stück",
+        "pack_size": 2,
+        "packs_used": 1,
+        "used_amount": 2.0,
+        "price_eur": 0.79,
+        "price_before_eur": 0.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Romanasalatherzen längs halbieren und mit Rama Culinesse bestreichen.",
+      "Die Pilze auf den Grill legen und ca. 5 Minuten grillen.",
+      "Mit Knoblauch und Petersilie bestreuen und servieren."
+    ],
+    "duration_minutes": 15,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "balsamico-pilze-vom-grill-r041",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Knoblauch (2 Zehen)",
+      "Petersilie (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R041.png"
+  },
+  {
+    "id": "R042",
+    "title": "Bratkartoffel-Pfanne",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O003",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 5.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O004",
+        "name": "NATURGUT Deutsche Bio-Kartoffeln",
+        "unit": "kg",
+        "pack_size": 2,
+        "packs_used": 1,
+        "used_amount": 2.0,
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kartoffeln schälen und in Würfel schneiden.",
+      "Die Zwiebel und Paprika klein schneiden.",
+      "In einer Pfanne Öl erhitzen, die Kartoffeln und das Hähnchen anbraten.",
+      "Zwiebel und Paprika hinzufügen und alles gut durchbraten."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "bratkartoffel-pfanne-r042",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Paprika (1 Stk)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R042.png"
+  },
+  {
+    "id": "R043",
+    "title": "Herzhafter Kartoffelkuchen mit Salami",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O005",
+        "name": "STOCK­MEYER Salami",
+        "unit": "g",
+        "pack_size": 150,
+        "packs_used": 1,
+        "used_amount": 150.0,
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O006",
+        "name": "NATURGUT Bio Kartoffeln",
+        "unit": "kg",
+        "pack_size": 2,
+        "packs_used": 1,
+        "used_amount": 2.0,
+        "price_eur": 1.79,
+        "price_before_eur": 1.79,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Kartoffeln kochen und pürieren.",
+      "Die Salami klein schneiden und unter das Kartoffelpüree mischen.",
+      "In einer Auflaufform die Mischung verteilen und im Ofen backen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "herzhafter-kartoffelkuchen-mit-salami-r043",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Eier (2 Stk)",
+      "Milch (100 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R043.png"
+  },
+  {
+    "id": "R044",
+    "title": "Chili con Carne",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O007",
+        "name": "HEINZ Baked Beanz",
+        "unit": "g",
+        "pack_size": 415,
+        "packs_used": 1,
+        "used_amount": 415.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O008",
+        "name": "MÜHLENHOF Frisches Hähnchen-Gulasch",
+        "unit": "g",
+        "pack_size": 500,
+        "packs_used": 1,
+        "used_amount": 500.0,
+        "price_eur": 5.49,
+        "price_before_eur": 5.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Das Hähnchen in Würfel schneiden und anbraten.",
+      "Zwiebel und Paprika hinzufügen und kurz mitbraten.",
+      "Die Baked Beanz unterrühren und alles gut durchkochen lassen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chili-con-carne-r044",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Zwiebel (1 Stk)",
+      "Knoblauch (2 Zehen)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R044.png"
+  },
+  {
+    "id": "R045",
+    "title": "Johannisbeer-Mojito",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "PAULANER Spezi oder Limo",
+        "unit": "l",
+        "pack_size": 2,
+        "packs_used": 1,
+        "used_amount": 2.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O009",
+        "name": "PAULANER Spezi oder Limo",
+        "unit": "l",
+        "pack_size": 2,
+        "packs_used": 1,
+        "used_amount": 2.0,
+        "price_eur": 3.99,
+        "price_before_eur": 3.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Minze und Limette in einem Glas zerdrücken.",
+      "Zucker hinzufügen und mit der Limo auffüllen.",
+      "Gut umrühren und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "johannisbeer-mojito-r045",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Minze (1 Bund)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R045.png"
+  },
+  {
+    "id": "R046",
+    "title": "Peanutbutter Ice-Cream",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O010",
+        "name": "MIKE MITCHELL’S Peanutbutter Swirl",
+        "unit": "g",
+        "pack_size": 340,
+        "packs_used": 1,
+        "used_amount": 340.0,
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O011",
+        "name": "MIKE MITCHELL’S Popcorn",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 1.29,
+        "price_before_eur": 1.29,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Banane pürieren und mit der Erdnussbutter vermischen.",
+      "Die Milch hinzufügen und gut verrühren.",
+      "In einer Eismaschine gefrieren lassen."
+    ],
+    "duration_minutes": 30,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "peanutbutter-ice-cream-r046",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Banane (2 Stk)",
+      "Milch (200 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R046.png"
+  },
+  {
+    "id": "R047",
+    "title": "Pistazieneis-Sandwich",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "MIKE MITCHELL’S Cookies",
+        "unit": "g",
+        "pack_size": 128,
+        "packs_used": 1,
+        "used_amount": 128.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O012",
+        "name": "MIKE MITCHELL’S Cookies",
+        "unit": "g",
+        "pack_size": 128,
+        "packs_used": 1,
+        "used_amount": 128.0,
+        "price_eur": 1.49,
+        "price_before_eur": 1.49,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Cookies auf einer Platte auslegen.",
+      "Das Pistazieneis zwischen zwei Cookies geben und zusammensetzen.",
+      "Für 30 Minuten ins Gefrierfach legen."
+    ],
+    "duration_minutes": 20,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "pistazieneis-sandwich-r047",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Pistazieneis (500 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R047.png"
+  },
+  {
+    "id": "R048",
+    "title": "Chicken Wings BBQ",
+    "description": "",
+    "categories": [
+      "Kalorienreich",
+      "Gluten-free",
+      "Vegetarisch"
+    ],
+    "servings": 4,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "MIKE MITCHELL’S Chicken Wings BBQ",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 4.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O013",
+        "name": "MIKE MITCHELL’S Chicken Wings BBQ",
+        "unit": "g",
+        "pack_size": 1000,
+        "packs_used": 1,
+        "used_amount": 1000.0,
+        "price_eur": 4.99,
+        "price_before_eur": 4.99,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Die Chicken Wings mit der BBQ-Sauce und Knoblauch marinieren.",
+      "Im Ofen bei 200 Grad ca. 30 Minuten backen.",
+      "Mit Beilagen nach Wahl servieren."
+    ],
+    "duration_minutes": 45,
+    "difficulty": "medium",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "chicken-wings-bbq-r048",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "BBQ-Sauce (100 ml)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R048.png"
+  },
+  {
+    "id": "R049",
+    "title": "Peanutbutter Joghurt",
+    "description": "",
+    "categories": [
+      "Vegan",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "MIKE MITCHELL’S High Protein Pudding",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 0.85,
+        "price_before_eur": 0.85,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O014",
+        "name": "MIKE MITCHELL’S High Protein Pudding",
+        "unit": "g",
+        "pack_size": 200,
+        "packs_used": 1,
+        "used_amount": 200.0,
+        "price_eur": 0.85,
+        "price_before_eur": 0.85,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den High Protein Pudding mit Erdnussbutter und Honig vermischen.",
+      "In Schalen anrichten und servieren."
+    ],
+    "duration_minutes": 5,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "peanutbutter-joghurt",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Erdnussbutter (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R049.png"
+  },
+  {
+    "id": "R050",
+    "title": "Salat mit Käse und Nüssen",
+    "description": "",
+    "categories": [
+      "Vegetarisch",
+      "Kalorienarm",
+      "Gluten-free"
+    ],
+    "servings": 2,
+    "ingredients": [
+      {
+        "from_offer": true,
+        "offer_id": "O015",
+        "name": "SALAKIS Schafkäse",
+        "unit": "g",
+        "pack_size": 180,
+        "packs_used": 1,
+        "used_amount": 180.0,
+        "price_eur": 1.99,
+        "price_before_eur": 1.99,
+        "brand": "PENNY"
+      },
+      {
+        "from_offer": true,
+        "offer_id": "O016",
+        "name": "NATURGUT Bio Apfelmix",
+        "unit": "g",
+        "pack_size": 360,
+        "packs_used": 1,
+        "used_amount": 360.0,
+        "price_eur": 1.15,
+        "price_before_eur": 1.15,
+        "brand": "PENNY"
+      }
+    ],
+    "extra_ingredients": [],
+    "steps": [
+      "Den Apfelmix in eine Schüssel geben.",
+      "Den Schafkäse und die Walnüsse hinzufügen.",
+      "Mit Balsamico abschmecken und servieren."
+    ],
+    "duration_minutes": 10,
+    "difficulty": "easy",
+    "retailer": "PENNY",
+    "valid_from": "2026-01-26",
+    "week_key": "2026-W05",
+    "slug": "salat-mit-kaese-und-nuessen",
+    "image_hint": "stock",
+    "base_ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Öl",
+      "Wasser",
+      "Zucker",
+      "Gewürze"
+    ],
+    "without_offers": [
+      "Walnüsse (50 g)",
+      "Balsamico (2 EL)"
+    ],
+    "notes": "",
+    "image_path": "assets/images/recipes/penny_R050.png"
+  }
+]

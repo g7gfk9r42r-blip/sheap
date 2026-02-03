@@ -1,0 +1,71 @@
+Generate exactly {{BATCH_SIZE}} unique recipes from supermarket offers.
+
+METADATA:
+- Supermarket: {{SUPERMARKET}}
+- Week: {{WEEKKEY}}
+- Batch: {{BATCH_NUMBER}}
+
+OUTPUT FORMAT:
+Pure JSON array ONLY - no markdown, no explanations:
+[{"id": "...", "title": "...", ...}, ...]
+
+RECIPE ID FORMAT:
+"{{SUPERMARKET}}-{{WEEKKEY}}-{{BATCH_NUMBER}}XX"
+Where XX = 01, 02, 03, ... (sequential within batch)
+
+REQUIRED FIELDS PER RECIPE:
+{
+  "id": "string",
+  "title": "string (max 80 chars)",
+  "description": "string (50-200 chars)",
+  "supermarket": "{{SUPERMARKET}}",
+  "weekKey": "{{WEEKKEY}}",
+  "category": "Breakfast|Lunch|Dinner|Snack|Dessert",
+  "dietTags": ["vegetarian|vegan|high-protein|low-carb|balanced|quick|budget"],
+  "servings": 1-8,
+  "prepMinutes": 0-120,
+  "cookMinutes": 0-180,
+  "difficulty": "easy|medium|hard",
+  "ingredients": [
+    {
+      "name": "string",
+      "amount": number,
+      "unit": "g|ml|stk|tl|el|kg|l",
+      "isPantry": boolean,
+      "offerRef": "string or null",
+      "offerMatchNote": "string or null",
+      "storeHint": "string (WHERE to find: Kühlregal, Obst & Gemüse, etc.)"
+    }
+  ],
+  "steps": ["string (minimum 5 detailed steps)"],
+  "nutrition": {
+    "kcal_total": number,
+    "kcal_per_serving": number,
+    "kcal_source": "estimated",
+    "kcal_confidence": "low"
+  }
+}
+
+STRICT RULES:
+1. Minimum 5 ingredients per recipe (at least 3 NON-pantry from offers)
+2. Minimum 5 cooking steps (detailed, not generic like "Season to taste")
+3. Every ingredient MUST have storeHint
+4. Filter out NON-FOOD items (toiletries, electronics, decoration, greeting cards)
+5. For nutrition: ALWAYS use kcal_source="estimated" and kcal_confidence="low"
+6. Don't invent precise calories - rough estimates only
+7. Avoid duplicate IDs from: {{EXISTING_IDS}}
+
+CATEGORY BALANCE (aim for):
+- 30% Breakfast
+- 40% Lunch/Dinner
+- 20% Snack
+- 10% Dessert
+
+PANTRY ITEMS (use freely, set isPantry=true, offerRef=null):
+Salt, pepper, oil, vinegar, garlic, onions, eggs, flour, sugar, herbs, spices
+
+OFFERS DATA:
+{{RAW_TEXT}}
+
+Output {{BATCH_SIZE}} recipes as JSON array now:
+

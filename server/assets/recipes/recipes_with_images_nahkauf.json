@@ -1,0 +1,155 @@
+[
+  {
+    "id": "nahkauf-1",
+    "title": "Cremiger Burrata-Salat mit Serrano",
+    "description": "Ein frischer Salat mit cremigem Burrata und würzigem Serrano-Schinken.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "gesund",
+      "vegetarisch"
+    ],
+    "total_cost": 5.47,
+    "total_cost_original": 7.07,
+    "savings_total": 1.6,
+    "cost_per_portion": 2.74,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Campofrio Serrano Schinken",
+        "amount": "40g",
+        "is_offer_product": true,
+        "offer_title_match": "Campofrio Serrano Schinken",
+        "offer_price": 1.69,
+        "brand": "Campofrio",
+        "package_size": "80g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Bonduelle Goldmais",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Bonduelle Goldmais",
+        "offer_price": 1.11,
+        "brand": "Bonduelle",
+        "package_size": "300g",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Burrata in Stücke zupfen und auf zwei Teller verteilen.",
+      "Serrano-Schinken in Streifen schneiden und über den Burrata legen.",
+      "Goldmais abtropfen lassen und gleichmäßig über den Salat streuen.",
+      "Mit Salz, Pfeffer und einem Schuss Olivenöl abschmecken."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "nahkauf-2",
+    "title": "Erdnuss-Locken-Snack mit Hüttenkäse",
+    "description": "Ein knuspriger Snack mit Erdnuss-Locken und cremigem Hüttenkäse.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "vegetarisch"
+    ],
+    "total_cost": 3.57,
+    "total_cost_original": 4.57,
+    "savings_total": 1.0,
+    "cost_per_portion": 1.79,
+    "ingredients": [
+      {
+        "name": "Lorenz Erdnuss Locken",
+        "amount": "75g",
+        "is_offer_product": true,
+        "offer_title_match": "Lorenz Erdnuss Locken",
+        "offer_price": 0.99,
+        "brand": "Lorenz",
+        "package_size": "150g",
+        "supermarket_location": "Süßwaren"
+      },
+      {
+        "name": "Gervais Hüttenkäse",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Gervais Hüttenkäse",
+        "offer_price": 1.29,
+        "brand": "Gervais",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Erdnuss Locken auf zwei Schalen verteilen.",
+      "Hüttenkäse in einer separaten Schale anrichten.",
+      "Erdnuss Locken in den Hüttenkäse dippen und genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "nahkauf-3",
+    "title": "Prosciutto Cotto Sandwich mit Ajvar",
+    "description": "Ein herzhaftes Sandwich mit Prosciutto Cotto und würzigem Ajvar.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "herzhaft",
+      "snack"
+    ],
+    "total_cost": 7.17,
+    "total_cost_original": 9.46,
+    "savings_total": 2.29,
+    "cost_per_portion": 3.59,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Prosciutto Cotto",
+        "amount": "50g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Prosciutto Cotto",
+        "offer_price": 3.49,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Zwei Scheiben Brot mit Ajvar bestreichen.",
+      "Prosciutto Cotto gleichmäßig auf die Brotscheiben verteilen.",
+      "Brot zusammenklappen und diagonal halbieren.",
+      "Mit einem Salatblatt servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  }
+]

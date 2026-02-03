@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "aldi_nord-1",
+    "title": "Mozzarella Pizza mit Oliven und Rotkohl",
+    "description": "Knusprige Pizza mit saftigen Oliven und würzigem Rotkohl.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "budget"
+    ],
+    "total_cost": 4.87,
+    "total_cost_original": 8.17,
+    "savings_total": 3.3,
+    "cost_per_portion": 2.44,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Mozzarella",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Mozzarella",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "355 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123456",
+        "barcode_ean": "4012345678901"
+      },
+      {
+        "name": "KING’S CROWN Oliven in Scheiben",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "KING’S CROWN Oliven in Scheiben",
+        "offer_price": 0.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "KING’S CROWN",
+        "package_size": "220 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123457",
+        "barcode_ean": "4012345678902"
+      },
+      {
+        "name": "KÜHNE Rotkohl",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "KÜHNE Rotkohl",
+        "offer_price": 1.29,
+        "original_price": 2.19,
+        "discount_percent": 41,
+        "brand": "KÜHNE",
+        "package_size": "720 ml",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123458",
+        "barcode_ean": "4012345678903"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen.",
+      "Oliven und Rotkohl gleichmäßig auf der Pizza verteilen.",
+      "Pizza für 10-12 Minuten backen, bis der Käse geschmolzen und der Boden knusprig ist.",
+      "Pizza aus dem Ofen nehmen, in Stücke schneiden und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/aldi_nord-1.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "aldi_nord-2",
+    "title": "Fusilli mit Hühnerfrikassee",
+    "description": "Cremige Fusilli mit herzhaftem Hühnerfrikassee.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "herzhaft",
+      "einfach"
+    ],
+    "total_cost": 4.47,
+    "total_cost_original": 4.47,
+    "savings_total": 0.0,
+    "cost_per_portion": 2.24,
+    "ingredients": [
+      {
+        "name": "CUCINA Fusilli",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "CUCINA Fusilli",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "CUCINA",
+        "package_size": "500 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      },
+      {
+        "name": "SPEISEZEIT Hühnerfrikassee",
+        "amount": "400 g",
+        "is_offer_product": true,
+        "offer_title_match": "SPEISEZEIT Hühnerfrikassee",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "SPEISEZEIT",
+        "package_size": "400 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123460",
+        "barcode_ean": "4012345678905"
+      }
+    ],
+    "steps": [
+      "Fusilli in kochendem Salzwasser nach Packungsanweisung garen.",
+      "Hühnerfrikassee in einem Topf bei mittlerer Hitze erwärmen.",
+      "Gekochte Fusilli abgießen und mit dem Hühnerfrikassee vermengen.",
+      "Mit Salz und Pfeffer abschmecken.",
+      "Auf Tellern anrichten und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/aldi_nord-2.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "aldi_nord-3",
+    "title": "Krakauer mit Kartoffelspezialität",
+    "description": "Deftige Krakauer Wurst mit einer herzhaften Kartoffelbeilage.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "traditionell",
+      "einfach"
+    ],
+    "total_cost": 4.68,
+    "total_cost_original": 4.68,
+    "savings_total": 0.0,
+    "cost_per_portion": 2.34,
+    "ingredients": [
+      {
+        "name": "Krakauer",
+        "amount": "350 g",
+        "is_offer_product": true,
+        "offer_title_match": "Krakauer",
+        "offer_price": 3.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "ALDI Nord",
+        "package_size": "350 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123461",
+        "barcode_ean": "4012345678906"
+      },
+      {
+        "name": "SPEISEZEIT Kartoffelspezialität",
+        "amount": "400 g",
+        "is_offer_product": true,
+        "offer_title_match": "SPEISEZEIT Kartoffelspezialität",
+        "offer_price": 1.19,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "SPEISEZEIT",
+        "package_size": "400 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123462",
+        "barcode_ean": "4012345678907"
+      }
+    ],
+    "steps": [
+      "Krakauer in einer Pfanne bei mittlerer Hitze anbraten, bis sie goldbraun sind.",
+      "Kartoffelspezialität nach Packungsanweisung zubereiten.",
+      "Krakauer und Kartoffelspezialität auf Tellern anrichten.",
+      "Mit Senf oder Ketchup servieren, falls gewünscht."
+    ],
+    "image_path": "server/media/recipe_images/unknown/aldi_nord-3.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "aldi_nord-4",
+    "title": "Thunfisch Pizza mit Gurkensalat",
+    "description": "Leckere Thunfisch Pizza kombiniert mit einem erfrischenden Gurkensalat.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "schnell",
+      "erfrischend"
+    ],
+    "total_cost": 4.19,
+    "total_cost_original": 6.67,
+    "savings_total": 2.48,
+    "cost_per_portion": 2.1,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Tonno",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Tonno",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "355 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123463",
+        "barcode_ean": "4012345678908"
+      },
+      {
+        "name": "Gurkensalat",
+        "amount": "360 ml",
+        "is_offer_product": true,
+        "offer_title_match": "Gurkensalat",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "ALDI Nord",
+        "package_size": "720 ml",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123464",
+        "barcode_ean": "4012345678909"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen und für 10-12 Minuten backen.",
+      "Gurkensalat in eine Schüssel geben und nach Belieben mit Salz und Pfeffer abschmecken.",
+      "Pizza aus dem Ofen nehmen, in Stücke schneiden.",
+      "Pizza mit Gurkensalat servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-5",
+    "title": "Salami Pizza mit Cashew Topping",
+    "description": "Knusprige Salami Pizza verfeinert mit knackigen Cashews.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "herzhaft",
+      "knusprig"
+    ],
+    "total_cost": 5.77,
+    "total_cost_original": 8.77,
+    "savings_total": 3.0,
+    "cost_per_portion": 2.89,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Salami",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Salami",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "320 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123465",
+        "barcode_ean": "4012345678910"
+      },
+      {
+        "name": "TRADER JOE’S Cashews",
+        "amount": "75 g",
+        "is_offer_product": true,
+        "offer_title_match": "TRADER JOE’S Cashews",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "TRADER JOE’S",
+        "package_size": "150 g",
+        "supermarket_location": "Snacks & Süßes",
+        "article_number": "123466",
+        "barcode_ean": "4012345678911"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen und für 10-12 Minuten backen.",
+      "Cashews grob hacken.",
+      "Pizza aus dem Ofen nehmen und mit den gehackten Cashews bestreuen.",
+      "Pizza in Stücke schneiden und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-6",
+    "title": "Spinaci Pizza mit Oliven und Gurkensalat",
+    "description": "Vegetarische Pizza mit Spinat, Oliven und einem frischen Gurkensalat.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "frisch"
+    ],
+    "total_cost": 4.07,
+    "total_cost_original": 6.77,
+    "savings_total": 2.7,
+    "cost_per_portion": 2.04,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Spinaci",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Spinaci",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "390 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123467",
+        "barcode_ean": "4012345678912"
+      },
+      {
+        "name": "KING’S CROWN Oliven in Scheiben",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "KING’S CROWN Oliven in Scheiben",
+        "offer_price": 0.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "KING’S CROWN",
+        "package_size": "220 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123457",
+        "barcode_ean": "4012345678902"
+      },
+      {
+        "name": "Gurkensalat",
+        "amount": "360 ml",
+        "is_offer_product": true,
+        "offer_title_match": "Gurkensalat",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "ALDI Nord",
+        "package_size": "720 ml",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123464",
+        "barcode_ean": "4012345678909"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen und für 10-12 Minuten backen.",
+      "Oliven gleichmäßig auf der Pizza verteilen.",
+      "Gurkensalat in eine Schüssel geben und nach Belieben mit Salz und Pfeffer abschmecken.",
+      "Pizza aus dem Ofen nehmen, in Stücke schneiden und mit Gurkensalat servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-7",
+    "title": "Chef Frites mit Bockwurst",
+    "description": "Knusprige Pommes Frites mit würziger Bockwurst.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "schnell",
+      "einfach"
+    ],
+    "total_cost": 4.82,
+    "total_cost_original": 7.38,
+    "savings_total": 2.56,
+    "cost_per_portion": 2.41,
+    "ingredients": [
+      {
+        "name": "MCCAIN Chef Frites",
+        "amount": "375 g",
+        "is_offer_product": true,
+        "offer_title_match": "MCCAIN Chef Frites",
+        "offer_price": 1.49,
+        "original_price": 2.59,
+        "discount_percent": 42,
+        "brand": "MCCAIN",
+        "package_size": "750 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123468",
+        "barcode_ean": "4012345678913"
+      },
+      {
+        "name": "METTEN Dicke Sauerländer Bockwurst",
+        "amount": "422 g",
+        "is_offer_product": true,
+        "offer_title_match": "METTEN Dicke Sauerländer Bockwurst",
+        "offer_price": 3.33,
+        "original_price": 4.79,
+        "discount_percent": 30,
+        "brand": "METTEN",
+        "package_size": "845 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123469",
+        "barcode_ean": "4012345678914"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Chef Frites auf ein Backblech legen und für 20-25 Minuten backen, bis sie knusprig sind.",
+      "Bockwurst in einem Topf mit heißem Wasser erhitzen.",
+      "Frites aus dem Ofen nehmen und auf Tellern anrichten.",
+      "Bockwurst dazugeben und mit Ketchup oder Senf servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-8",
+    "title": "Eierlikör-Eis mit Marzipan",
+    "description": "Cremiges Eierlikör-Eis verfeinert mit süßem Marzipan.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "schnell",
+      "dessert"
+    ],
+    "total_cost": 2.68,
+    "total_cost_original": 4.18,
+    "savings_total": 1.5,
+    "cost_per_portion": 1.34,
+    "ingredients": [
+      {
+        "name": "LANGNESE Cremissimo Eierlikör",
+        "amount": "412 ml",
+        "is_offer_product": true,
+        "offer_title_match": "LANGNESE Cremissimo Eierlikör",
+        "offer_price": 1.49,
+        "original_price": 3.99,
+        "discount_percent": 62,
+        "brand": "LANGNESE",
+        "package_size": "825 ml",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123470",
+        "barcode_ean": "4012345678915"
+      },
+      {
+        "name": "CHOCEUR Marzipanschwein",
+        "amount": "34 g",
+        "is_offer_product": true,
+        "offer_title_match": "CHOCEUR Marzipanschwein",
+        "offer_price": 1.19,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "CHOCEUR",
+        "package_size": "34 g",
+        "supermarket_location": "Süßwaren",
+        "article_number": "123471",
+        "barcode_ean": "4012345678916"
+      }
+    ],
+    "steps": [
+      "Eiscreme in Schalen portionieren.",
+      "Marzipanschwein in kleine Stücke schneiden.",
+      "Marzipanstücke über das Eis streuen.",
+      "Sofort servieren und genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-9",
+    "title": "Pepperoni-Salame Pizza mit Partycracker",
+    "description": "Würzige Pizza mit knusprigen Partycrackern als Beilage.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "knusprig",
+      "herzhaft"
+    ],
+    "total_cost": 2.78,
+    "total_cost_original": 5.28,
+    "savings_total": 2.5,
+    "cost_per_portion": 1.39,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Pepperoni-Salame",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Pepperoni-Salame",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "320 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123472",
+        "barcode_ean": "4012345678917"
+      },
+      {
+        "name": "LORENZ Clubs Partycracker",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "LORENZ Clubs Partycracker",
+        "offer_price": 0.99,
+        "original_price": 1.79,
+        "discount_percent": 44,
+        "brand": "LORENZ",
+        "package_size": "200 g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": "123473",
+        "barcode_ean": "4012345678918"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen und für 10-12 Minuten backen.",
+      "Pizza aus dem Ofen nehmen, in Stücke schneiden.",
+      "Partycracker in einer Schüssel servieren.",
+      "Pizza mit Partycrackern genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-10",
+    "title": "Bunte Sahne-Platte mit Beeren",
+    "description": "Eine süße Sahne-Platte kombiniert mit frischen Beeren.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 15,
+    "portions": 4,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "schnell",
+      "dessert"
+    ],
+    "total_cost": 7.99,
+    "total_cost_original": 13.99,
+    "savings_total": 6.0,
+    "cost_per_portion": 2.0,
+    "ingredients": [
+      {
+        "name": "COPPENRATH & WIESE Bunte Sahne-Platte",
+        "amount": "800 g",
+        "is_offer_product": true,
+        "offer_title_match": "COPPENRATH & WIESE Bunte Sahne-Platte",
+        "offer_price": 7.99,
+        "original_price": 13.99,
+        "discount_percent": 42,
+        "brand": "COPPENRATH & WIESE",
+        "package_size": "800 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123474",
+        "barcode_ean": "4012345678919"
+      }
+    ],
+    "steps": [
+      "Sahne-Platte aus der Verpackung nehmen.",
+      "Nach Belieben mit frischen Beeren dekorieren.",
+      "In Stücke schneiden und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-11",
+    "title": "Baileys Eis mit Pralinen",
+    "description": "Cremiges Baileys Eis kombiniert mit feinen Pralinen.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "schnell",
+      "dessert"
+    ],
+    "total_cost": 2.68,
+    "total_cost_original": 4.18,
+    "savings_total": 1.5,
+    "cost_per_portion": 1.34,
+    "ingredients": [
+      {
+        "name": "LANGNESE Cremissimo Baileys",
+        "amount": "412 ml",
+        "is_offer_product": true,
+        "offer_title_match": "LANGNESE Cremissimo Baileys",
+        "offer_price": 1.49,
+        "original_price": 3.99,
+        "discount_percent": 62,
+        "brand": "LANGNESE",
+        "package_size": "825 ml",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123475",
+        "barcode_ean": "4012345678920"
+      },
+      {
+        "name": "CHOCEUR Pralinen",
+        "amount": "38 g",
+        "is_offer_product": true,
+        "offer_title_match": "CHOCEUR Pralinen",
+        "offer_price": 1.19,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "CHOCEUR",
+        "package_size": "38 g",
+        "supermarket_location": "Süßwaren",
+        "article_number": "123476",
+        "barcode_ean": "4012345678921"
+      }
+    ],
+    "steps": [
+      "Eiscreme in Schalen portionieren.",
+      "Pralinen grob hacken.",
+      "Pralinenstücke über das Eis streuen.",
+      "Sofort servieren und genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-12",
+    "title": "Fusilli mit Heringsfilets",
+    "description": "Pasta mit würzigen Heringsfilets und cremiger Sauce.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "schnell",
+      "einfach"
+    ],
+    "total_cost": 2.4,
+    "total_cost_original": 3.28,
+    "savings_total": 0.88,
+    "cost_per_portion": 1.2,
+    "ingredients": [
+      {
+        "name": "CUCINA Fusilli",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "CUCINA Fusilli",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "CUCINA",
+        "package_size": "500 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      },
+      {
+        "name": "APPEL Heringsfilets",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "APPEL Heringsfilets",
+        "offer_price": 1.11,
+        "original_price": 1.99,
+        "discount_percent": 44,
+        "brand": "APPEL",
+        "package_size": "200 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123477",
+        "barcode_ean": "4012345678922"
+      }
+    ],
+    "steps": [
+      "Fusilli in kochendem Salzwasser nach Packungsanweisung garen.",
+      "Heringsfilets in einer Pfanne bei mittlerer Hitze erwärmen.",
+      "Gekochte Fusilli abgießen und mit den Heringsfilets vermengen.",
+      "Mit Salz und Pfeffer abschmecken.",
+      "Auf Tellern anrichten und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-13",
+    "title": "Knusprige Smiles mit Ketchup",
+    "description": "Lustige Kartoffel-Smileys mit einem Hauch von Ketchup.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "knusprig",
+      "einfach"
+    ],
+    "total_cost": 3.28,
+    "total_cost_original": 5.38,
+    "savings_total": 2.1,
+    "cost_per_portion": 1.64,
+    "ingredients": [
+      {
+        "name": "MCCAIN Smiles",
+        "amount": "450 g",
+        "is_offer_product": true,
+        "offer_title_match": "MCCAIN Smiles",
+        "offer_price": 1.49,
+        "original_price": 2.59,
+        "discount_percent": 42,
+        "brand": "MCCAIN",
+        "package_size": "450 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123478",
+        "barcode_ean": "4012345678923"
+      },
+      {
+        "name": "HEINZ Ketchup",
+        "amount": "200 ml",
+        "is_offer_product": true,
+        "offer_title_match": "HEINZ Ketchup",
+        "offer_price": 1.79,
+        "original_price": 2.79,
+        "discount_percent": 35,
+        "brand": "HEINZ",
+        "package_size": "400 ml",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123479",
+        "barcode_ean": "4012345678924"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Smiles auf ein Backblech legen und für 15-20 Minuten backen, bis sie knusprig sind.",
+      "Smiles aus dem Ofen nehmen und auf Tellern anrichten.",
+      "Mit Ketchup servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-14",
+    "title": "Eiscreme mit Cashew-Topping",
+    "description": "Cremige Eiscreme mit knackigen Cashews als Topping.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "schnell",
+      "dessert"
+    ],
+    "total_cost": 5.98,
+    "total_cost_original": 8.98,
+    "savings_total": 3.0,
+    "cost_per_portion": 2.99,
+    "ingredients": [
+      {
+        "name": "HÄAGEN-DAZS Eiscreme",
+        "amount": "460 ml",
+        "is_offer_product": true,
+        "offer_title_match": "HÄAGEN-DAZS Eiscreme",
+        "offer_price": 3.99,
+        "original_price": 6.99,
+        "discount_percent": 42,
+        "brand": "HÄAGEN-DAZS",
+        "package_size": "460 ml",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123480",
+        "barcode_ean": "4012345678925"
+      },
+      {
+        "name": "TRADER JOE’S Cashews",
+        "amount": "75 g",
+        "is_offer_product": true,
+        "offer_title_match": "TRADER JOE’S Cashews",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "TRADER JOE’S",
+        "package_size": "150 g",
+        "supermarket_location": "Snacks & Süßes",
+        "article_number": "123466",
+        "barcode_ean": "4012345678911"
+      }
+    ],
+    "steps": [
+      "Eiscreme in Schalen portionieren.",
+      "Cashews grob hacken.",
+      "Cashewstücke über das Eis streuen.",
+      "Sofort servieren und genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-15",
+    "title": "Käse-Pizza mit Oliven und Rotkohl",
+    "description": "Knusprige Käse-Pizza mit würzigen Oliven und Rotkohl.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "budget"
+    ],
+    "total_cost": 4.87,
+    "total_cost_original": 8.17,
+    "savings_total": 3.3,
+    "cost_per_portion": 2.44,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Mozzarella",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Mozzarella",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "355 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123456",
+        "barcode_ean": "4012345678901"
+      },
+      {
+        "name": "KING’S CROWN Oliven in Scheiben",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "KING’S CROWN Oliven in Scheiben",
+        "offer_price": 0.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "KING’S CROWN",
+        "package_size": "220 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123457",
+        "barcode_ean": "4012345678902"
+      },
+      {
+        "name": "KÜHNE Rotkohl",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "KÜHNE Rotkohl",
+        "offer_price": 1.29,
+        "original_price": 2.19,
+        "discount_percent": 41,
+        "brand": "KÜHNE",
+        "package_size": "720 ml",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123458",
+        "barcode_ean": "4012345678903"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen.",
+      "Oliven und Rotkohl gleichmäßig auf der Pizza verteilen.",
+      "Pizza für 10-12 Minuten backen, bis der Käse geschmolzen und der Boden knusprig ist.",
+      "Pizza aus dem Ofen nehmen, in Stücke schneiden und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-16",
+    "title": "Fusilli mit Hühnerfrikassee",
+    "description": "Cremige Fusilli mit herzhaftem Hühnerfrikassee.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "herzhaft",
+      "einfach"
+    ],
+    "total_cost": 4.47,
+    "total_cost_original": 4.47,
+    "savings_total": 0.0,
+    "cost_per_portion": 2.24,
+    "ingredients": [
+      {
+        "name": "CUCINA Fusilli",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "CUCINA Fusilli",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "CUCINA",
+        "package_size": "500 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      },
+      {
+        "name": "SPEISEZEIT Hühnerfrikassee",
+        "amount": "400 g",
+        "is_offer_product": true,
+        "offer_title_match": "SPEISEZEIT Hühnerfrikassee",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "SPEISEZEIT",
+        "package_size": "400 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123460",
+        "barcode_ean": "4012345678905"
+      }
+    ],
+    "steps": [
+      "Fusilli in kochendem Salzwasser nach Packungsanweisung garen.",
+      "Hühnerfrikassee in einem Topf bei mittlerer Hitze erwärmen.",
+      "Gekochte Fusilli abgießen und mit dem Hühnerfrikassee vermengen.",
+      "Mit Salz und Pfeffer abschmecken.",
+      "Auf Tellern anrichten und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-17",
+    "title": "Krakauer mit Kartoffelspezialität",
+    "description": "Deftige Krakauer Wurst mit einer herzhaften Kartoffelbeilage.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "traditionell",
+      "einfach"
+    ],
+    "total_cost": 4.68,
+    "total_cost_original": 4.68,
+    "savings_total": 0.0,
+    "cost_per_portion": 2.34,
+    "ingredients": [
+      {
+        "name": "Krakauer",
+        "amount": "350 g",
+        "is_offer_product": true,
+        "offer_title_match": "Krakauer",
+        "offer_price": 3.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "ALDI Nord",
+        "package_size": "350 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123461",
+        "barcode_ean": "4012345678906"
+      },
+      {
+        "name": "SPEISEZEIT Kartoffelspezialität",
+        "amount": "400 g",
+        "is_offer_product": true,
+        "offer_title_match": "SPEISEZEIT Kartoffelspezialität",
+        "offer_price": 1.19,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "SPEISEZEIT",
+        "package_size": "400 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123462",
+        "barcode_ean": "4012345678907"
+      }
+    ],
+    "steps": [
+      "Krakauer in einer Pfanne bei mittlerer Hitze anbraten, bis sie goldbraun sind.",
+      "Kartoffelspezialität nach Packungsanweisung zubereiten.",
+      "Krakauer und Kartoffelspezialität auf Tellern anrichten.",
+      "Mit Senf oder Ketchup servieren, falls gewünscht."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-18",
+    "title": "Thunfisch Pizza mit Gurkensalat",
+    "description": "Leckere Thunfisch Pizza kombiniert mit einem erfrischenden Gurkensalat.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "schnell",
+      "erfrischend"
+    ],
+    "total_cost": 4.19,
+    "total_cost_original": 6.67,
+    "savings_total": 2.48,
+    "cost_per_portion": 2.1,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Tonno",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Tonno",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "355 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123463",
+        "barcode_ean": "4012345678908"
+      },
+      {
+        "name": "Gurkensalat",
+        "amount": "360 ml",
+        "is_offer_product": true,
+        "offer_title_match": "Gurkensalat",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "ALDI Nord",
+        "package_size": "720 ml",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123464",
+        "barcode_ean": "4012345678909"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen und für 10-12 Minuten backen.",
+      "Gurkensalat in eine Schüssel geben und nach Belieben mit Salz und Pfeffer abschmecken.",
+      "Pizza aus dem Ofen nehmen, in Stücke schneiden.",
+      "Pizza mit Gurkensalat servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-19",
+    "title": "Salami Pizza mit Cashew Topping",
+    "description": "Knusprige Salami Pizza verfeinert mit knackigen Cashews.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "herzhaft",
+      "knusprig"
+    ],
+    "total_cost": 5.77,
+    "total_cost_original": 8.77,
+    "savings_total": 3.0,
+    "cost_per_portion": 2.89,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Salami",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Salami",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "320 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123465",
+        "barcode_ean": "4012345678910"
+      },
+      {
+        "name": "TRADER JOE’S Cashews",
+        "amount": "75 g",
+        "is_offer_product": true,
+        "offer_title_match": "TRADER JOE’S Cashews",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "TRADER JOE’S",
+        "package_size": "150 g",
+        "supermarket_location": "Snacks & Süßes",
+        "article_number": "123466",
+        "barcode_ean": "4012345678911"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen und für 10-12 Minuten backen.",
+      "Cashews grob hacken.",
+      "Pizza aus dem Ofen nehmen und mit den gehackten Cashews bestreuen.",
+      "Pizza in Stücke schneiden und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-20",
+    "title": "Spinaci Pizza mit Oliven und Gurkensalat",
+    "description": "Vegetarische Pizza mit Spinat, Oliven und einem frischen Gurkensalat.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "frisch"
+    ],
+    "total_cost": 4.07,
+    "total_cost_original": 6.77,
+    "savings_total": 2.7,
+    "cost_per_portion": 2.04,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Spinaci",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Spinaci",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "390 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123467",
+        "barcode_ean": "4012345678912"
+      },
+      {
+        "name": "KING’S CROWN Oliven in Scheiben",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "KING’S CROWN Oliven in Scheiben",
+        "offer_price": 0.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "KING’S CROWN",
+        "package_size": "220 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123457",
+        "barcode_ean": "4012345678902"
+      },
+      {
+        "name": "Gurkensalat",
+        "amount": "360 ml",
+        "is_offer_product": true,
+        "offer_title_match": "Gurkensalat",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "ALDI Nord",
+        "package_size": "720 ml",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123464",
+        "barcode_ean": "4012345678909"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen und für 10-12 Minuten backen.",
+      "Oliven gleichmäßig auf der Pizza verteilen.",
+      "Gurkensalat in eine Schüssel geben und nach Belieben mit Salz und Pfeffer abschmecken.",
+      "Pizza aus dem Ofen nehmen, in Stücke schneiden und mit Gurkensalat servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-21",
+    "title": "Chef Frites mit Bockwurst",
+    "description": "Knusprige Pommes Frites mit würziger Bockwurst.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "herzhaft",
+      "schnell",
+      "einfach"
+    ],
+    "total_cost": 4.82,
+    "total_cost_original": 7.38,
+    "savings_total": 2.56,
+    "cost_per_portion": 2.41,
+    "ingredients": [
+      {
+        "name": "MCCAIN Chef Frites",
+        "amount": "375 g",
+        "is_offer_product": true,
+        "offer_title_match": "MCCAIN Chef Frites",
+        "offer_price": 1.49,
+        "original_price": 2.59,
+        "discount_percent": 42,
+        "brand": "MCCAIN",
+        "package_size": "750 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123468",
+        "barcode_ean": "4012345678913"
+      },
+      {
+        "name": "METTEN Dicke Sauerländer Bockwurst",
+        "amount": "422 g",
+        "is_offer_product": true,
+        "offer_title_match": "METTEN Dicke Sauerländer Bockwurst",
+        "offer_price": 3.33,
+        "original_price": 4.79,
+        "discount_percent": 30,
+        "brand": "METTEN",
+        "package_size": "845 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123469",
+        "barcode_ean": "4012345678914"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Chef Frites auf ein Backblech legen und für 20-25 Minuten backen, bis sie knusprig sind.",
+      "Bockwurst in einem Topf mit heißem Wasser erhitzen.",
+      "Frites aus dem Ofen nehmen und auf Tellern anrichten.",
+      "Bockwurst dazugeben und mit Ketchup oder Senf servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-22",
+    "title": "Eierlikör-Eis mit Marzipan",
+    "description": "Cremiges Eierlikör-Eis verfeinert mit süßem Marzipan.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "schnell",
+      "dessert"
+    ],
+    "total_cost": 2.68,
+    "total_cost_original": 4.18,
+    "savings_total": 1.5,
+    "cost_per_portion": 1.34,
+    "ingredients": [
+      {
+        "name": "LANGNESE Cremissimo Eierlikör",
+        "amount": "412 ml",
+        "is_offer_product": true,
+        "offer_title_match": "LANGNESE Cremissimo Eierlikör",
+        "offer_price": 1.49,
+        "original_price": 3.99,
+        "discount_percent": 62,
+        "brand": "LANGNESE",
+        "package_size": "825 ml",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123470",
+        "barcode_ean": "4012345678915"
+      },
+      {
+        "name": "CHOCEUR Marzipanschwein",
+        "amount": "34 g",
+        "is_offer_product": true,
+        "offer_title_match": "CHOCEUR Marzipanschwein",
+        "offer_price": 1.19,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "CHOCEUR",
+        "package_size": "34 g",
+        "supermarket_location": "Süßwaren",
+        "article_number": "123471",
+        "barcode_ean": "4012345678916"
+      }
+    ],
+    "steps": [
+      "Eiscreme in Schalen portionieren.",
+      "Marzipanschwein in kleine Stücke schneiden.",
+      "Marzipanstücke über das Eis streuen.",
+      "Sofort servieren und genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-23",
+    "title": "Pepperoni-Salame Pizza mit Partycracker",
+    "description": "Würzige Pizza mit knusprigen Partycrackern als Beilage.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "knusprig",
+      "herzhaft"
+    ],
+    "total_cost": 2.78,
+    "total_cost_original": 5.28,
+    "savings_total": 2.5,
+    "cost_per_portion": 1.39,
+    "ingredients": [
+      {
+        "name": "DR. OETKER Ristorante Pizza Pepperoni-Salame",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "DR. OETKER Ristorante Pizza Pepperoni-Salame",
+        "offer_price": 1.79,
+        "original_price": 3.49,
+        "discount_percent": 48,
+        "brand": "DR. OETKER",
+        "package_size": "320 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123472",
+        "barcode_ean": "4012345678917"
+      },
+      {
+        "name": "LORENZ Clubs Partycracker",
+        "amount": "100 g",
+        "is_offer_product": true,
+        "offer_title_match": "LORENZ Clubs Partycracker",
+        "offer_price": 0.99,
+        "original_price": 1.79,
+        "discount_percent": 44,
+        "brand": "LORENZ",
+        "package_size": "200 g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": "123473",
+        "barcode_ean": "4012345678918"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Pizza auf ein Backblech legen und für 10-12 Minuten backen.",
+      "Pizza aus dem Ofen nehmen, in Stücke schneiden.",
+      "Partycracker in einer Schüssel servieren.",
+      "Pizza mit Partycrackern genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-24",
+    "title": "Bunte Sahne-Platte mit Beeren",
+    "description": "Eine süße Sahne-Platte kombiniert mit frischen Beeren.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 15,
+    "portions": 4,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "schnell",
+      "dessert"
+    ],
+    "total_cost": 7.99,
+    "total_cost_original": 13.99,
+    "savings_total": 6.0,
+    "cost_per_portion": 2.0,
+    "ingredients": [
+      {
+        "name": "COPPENRATH & WIESE Bunte Sahne-Platte",
+        "amount": "800 g",
+        "is_offer_product": true,
+        "offer_title_match": "COPPENRATH & WIESE Bunte Sahne-Platte",
+        "offer_price": 7.99,
+        "original_price": 13.99,
+        "discount_percent": 42,
+        "brand": "COPPENRATH & WIESE",
+        "package_size": "800 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123474",
+        "barcode_ean": "4012345678919"
+      }
+    ],
+    "steps": [
+      "Sahne-Platte aus der Verpackung nehmen.",
+      "Nach Belieben mit frischen Beeren dekorieren.",
+      "In Stücke schneiden und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-25",
+    "title": "Baileys Eis mit Pralinen",
+    "description": "Cremiges Baileys Eis kombiniert mit feinen Pralinen.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "schnell",
+      "dessert"
+    ],
+    "total_cost": 2.68,
+    "total_cost_original": 4.18,
+    "savings_total": 1.5,
+    "cost_per_portion": 1.34,
+    "ingredients": [
+      {
+        "name": "LANGNESE Cremissimo Baileys",
+        "amount": "412 ml",
+        "is_offer_product": true,
+        "offer_title_match": "LANGNESE Cremissimo Baileys",
+        "offer_price": 1.49,
+        "original_price": 3.99,
+        "discount_percent": 62,
+        "brand": "LANGNESE",
+        "package_size": "825 ml",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123475",
+        "barcode_ean": "4012345678920"
+      },
+      {
+        "name": "CHOCEUR Pralinen",
+        "amount": "38 g",
+        "is_offer_product": true,
+        "offer_title_match": "CHOCEUR Pralinen",
+        "offer_price": 1.19,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "CHOCEUR",
+        "package_size": "38 g",
+        "supermarket_location": "Süßwaren",
+        "article_number": "123476",
+        "barcode_ean": "4012345678921"
+      }
+    ],
+    "steps": [
+      "Eiscreme in Schalen portionieren.",
+      "Pralinen grob hacken.",
+      "Pralinenstücke über das Eis streuen.",
+      "Sofort servieren und genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-26",
+    "title": "Fusilli mit Heringsfilets",
+    "description": "Pasta mit würzigen Heringsfilets und cremiger Sauce.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "schnell",
+      "einfach"
+    ],
+    "total_cost": 2.4,
+    "total_cost_original": 3.28,
+    "savings_total": 0.88,
+    "cost_per_portion": 1.2,
+    "ingredients": [
+      {
+        "name": "CUCINA Fusilli",
+        "amount": "250 g",
+        "is_offer_product": true,
+        "offer_title_match": "CUCINA Fusilli",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "CUCINA",
+        "package_size": "500 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      },
+      {
+        "name": "APPEL Heringsfilets",
+        "amount": "200 g",
+        "is_offer_product": true,
+        "offer_title_match": "APPEL Heringsfilets",
+        "offer_price": 1.11,
+        "original_price": 1.99,
+        "discount_percent": 44,
+        "brand": "APPEL",
+        "package_size": "200 g",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123477",
+        "barcode_ean": "4012345678922"
+      }
+    ],
+    "steps": [
+      "Fusilli in kochendem Salzwasser nach Packungsanweisung garen.",
+      "Heringsfilets in einer Pfanne bei mittlerer Hitze erwärmen.",
+      "Gekochte Fusilli abgießen und mit den Heringsfilets vermengen.",
+      "Mit Salz und Pfeffer abschmecken.",
+      "Auf Tellern anrichten und servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-27",
+    "title": "Knusprige Smiles mit Ketchup",
+    "description": "Lustige Kartoffel-Smileys mit einem Hauch von Ketchup.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "knusprig",
+      "einfach"
+    ],
+    "total_cost": 3.28,
+    "total_cost_original": 5.38,
+    "savings_total": 2.1,
+    "cost_per_portion": 1.64,
+    "ingredients": [
+      {
+        "name": "MCCAIN Smiles",
+        "amount": "450 g",
+        "is_offer_product": true,
+        "offer_title_match": "MCCAIN Smiles",
+        "offer_price": 1.49,
+        "original_price": 2.59,
+        "discount_percent": 42,
+        "brand": "MCCAIN",
+        "package_size": "450 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123478",
+        "barcode_ean": "4012345678923"
+      },
+      {
+        "name": "HEINZ Ketchup",
+        "amount": "200 ml",
+        "is_offer_product": true,
+        "offer_title_match": "HEINZ Ketchup",
+        "offer_price": 1.79,
+        "original_price": 2.79,
+        "discount_percent": 35,
+        "brand": "HEINZ",
+        "package_size": "400 ml",
+        "supermarket_location": "Haltbare Produkte",
+        "article_number": "123479",
+        "barcode_ean": "4012345678924"
+      }
+    ],
+    "steps": [
+      "Backofen auf 220°C vorheizen.",
+      "Smiles auf ein Backblech legen und für 15-20 Minuten backen, bis sie knusprig sind.",
+      "Smiles aus dem Ofen nehmen und auf Tellern anrichten.",
+      "Mit Ketchup servieren."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  },
+  {
+    "id": "aldi_nord-28",
+    "title": "Eiscreme mit Cashew-Topping",
+    "description": "Cremige Eiscreme mit knackigen Cashews als Topping.",
+    "supermarket": "ALDI Nord",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "schnell",
+      "dessert"
+    ],
+    "total_cost": 5.98,
+    "total_cost_original": 8.98,
+    "savings_total": 3.0,
+    "cost_per_portion": 2.99,
+    "ingredients": [
+      {
+        "name": "HÄAGEN-DAZS Eiscreme",
+        "amount": "460 ml",
+        "is_offer_product": true,
+        "offer_title_match": "HÄAGEN-DAZS Eiscreme",
+        "offer_price": 3.99,
+        "original_price": 6.99,
+        "discount_percent": 42,
+        "brand": "HÄAGEN-DAZS",
+        "package_size": "460 ml",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123480",
+        "barcode_ean": "4012345678925"
+      },
+      {
+        "name": "TRADER JOE’S Cashews",
+        "amount": "75 g",
+        "is_offer_product": true,
+        "offer_title_match": "TRADER JOE’S Cashews",
+        "offer_price": 1.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "TRADER JOE’S",
+        "package_size": "150 g",
+        "supermarket_location": "Snacks & Süßes",
+        "article_number": "123466",
+        "barcode_ean": "4012345678911"
+      }
+    ],
+    "steps": [
+      "Eiscreme in Schalen portionieren.",
+      "Cashews grob hacken.",
+      "Cashewstücke über das Eis streuen.",
+      "Sofort servieren und genießen."
+    ],
+    "image_status": "failed",
+    "image_error": "Error code: 400 - {'error': {'message': 'Billing hard limit has been reached', 'type': 'image_generation_user_error', 'param': None, 'code': 'billing_hard_limit_reached'}}"
+  }
+]

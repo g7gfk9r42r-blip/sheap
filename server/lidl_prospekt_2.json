@@ -1,0 +1,126 @@
+{
+  "extractedAt": "2025-12-14T15:29:29.236Z",
+  "totalProducts": 15,
+  "products": [
+    {
+      "name": "Kerrygold Original Irische Butter",
+      "price": "1.88",
+      "unit": "250 g",
+      "brand": "Kerrygold",
+      "discount": "52%",
+      "category": "Käse, Milchprodukte"
+    },
+    {
+      "name": "I Love Milka Pralinés",
+      "price": "1.55",
+      "unit": "110 g",
+      "brand": "Milka",
+      "discount": "55%",
+      "category": "Süßigkeiten, Schokolade"
+    },
+    {
+      "name": "Deluxe Handgefertigte Schokolade",
+      "price": "2.99",
+      "unit": "100 g",
+      "brand": "Deluxe",
+      "discount": "14%",
+      "category": "Süßigkeiten, Schokolade"
+    },
+    {
+      "name": "Combino Spaghetti XXL",
+      "price": "1.29",
+      "unit": "1 kg",
+      "brand": "Combino",
+      "discount": "13%",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Milbona Gouda jung in Scheiben",
+      "price": "3.49",
+      "unit": "600 g",
+      "brand": "Milbona",
+      "discount": "3%",
+      "category": "Käse"
+    },
+    {
+      "name": "Milbona Deutsche Markenbutter",
+      "price": "1.29",
+      "unit": "250 g",
+      "brand": "Milbona",
+      "discount": "7%",
+      "category": "Butter"
+    },
+    {
+      "name": "Fischstäbchen/Filegro XXL",
+      "price": "3.99",
+      "unit": "28 Stück",
+      "brand": "Iglo",
+      "discount": "42%",
+      "category": "Fisch"
+    },
+    {
+      "name": "Cremissimo Eis",
+      "price": "1.49",
+      "unit": "900/825 ml",
+      "brand": "Langnese",
+      "discount": "62%",
+      "category": "Tiefkühlware"
+    },
+    {
+      "name": "Bunte Vielfalt",
+      "price": "0.95",
+      "unit": "100 g",
+      "brand": "Ritter Sport",
+      "discount": "52%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Bresso Feine Häppchen/Géramont Weichkäse",
+      "price": "2.49",
+      "unit": "150/130 g",
+      "brand": "Bresso/Géramont",
+      "discount": "28%",
+      "category": "Käse"
+    },
+    {
+      "name": "Katjes Yoghurt Gums",
+      "price": "0.99",
+      "unit": "210/195 g",
+      "brand": "Katjes",
+      "discount": "28%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Nestlé Choco Crossies/Chocolat Chips",
+      "price": "2.29",
+      "unit": "150/115 g",
+      "brand": "Nestlé",
+      "discount": "39%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Iglo Rahm-Spinat",
+      "price": "1.79",
+      "unit": "750 g",
+      "brand": "Iglo",
+      "discount": "48%",
+      "category": "Tiefkühlware"
+    },
+    {
+      "name": "Trumpf Edle Tropfen in Nuss Obstbrand",
+      "price": "2.99",
+      "unit": "250 g",
+      "brand": "Trumpf",
+      "discount": "33%",
+      "category": "Süßigkeiten"
+    },
+    {
+      "name": "Alesto Selection Studentenfutter Classic",
+      "price": "1.79",
+      "unit": "200 g",
+      "brand": "Alesto",
+      "discount": "21%",
+      "category": "Süßigkeiten"
+    }
+  ]
+}

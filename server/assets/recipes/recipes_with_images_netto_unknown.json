@@ -1,0 +1,261 @@
+[
+  {
+    "id": "netto-1",
+    "title": "Schweinefilet mit Pflaumentomaten und Kartoffeln",
+    "description": "Zartes Schweinefilet mit saftigen Minipflaumentomaten und knusprigen Kartoffeln.",
+    "supermarket": "NETTO",
+    "estimated_total_time_minutes": 35,
+    "portions": 2,
+    "difficulty": "medium",
+    "tags": [
+      "fleisch",
+      "herzhaft",
+      "einfach"
+    ],
+    "total_cost": 12.76,
+    "total_cost_original": 15.77,
+    "savings_total": 3.01,
+    "cost_per_portion": 6.38,
+    "ingredients": [
+      {
+        "name": "Schweinefilet",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Schweinefilet",
+        "offer_price": 7.99,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "pro kg",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Minipflaumentomaten",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Minipflaumentomaten",
+        "offer_price": 2.98,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "500 g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Pfanni Speisekartoffeln",
+        "amount": "500g",
+        "is_offer_product": true,
+        "offer_title_match": "Pfanni Speisekartoffeln",
+        "offer_price": 1.8,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Pfanni",
+        "package_size": "2.5 kg",
+        "supermarket_location": "Lebensmittel",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "President Meersalz Butter",
+        "amount": "50g",
+        "is_offer_product": true,
+        "offer_title_match": "President Meersalz Butter",
+        "offer_price": 2.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "President",
+        "package_size": "250 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Schweinefilet in Medaillons schneiden und mit Salz und Pfeffer würzen.",
+      "Kartoffeln schälen und in Spalten schneiden.",
+      "Butter in einer Pfanne erhitzen und die Medaillons von beiden Seiten anbraten.",
+      "Kartoffeln in einer separaten Pfanne mit etwas Öl anbraten, bis sie knusprig sind.",
+      "Minipflaumentomaten halbieren und zum Schweinefilet in die Pfanne geben.",
+      "Alles zusammen für weitere 10 Minuten bei mittlerer Hitze garen.",
+      "Mit frischen Kräutern garnieren und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/netto-1.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "netto-2",
+    "title": "Linsensalat mit Mandarinen und Géramont",
+    "description": "Frischer Linsensalat mit saftigen Mandarinen und cremigem Géramont.",
+    "supermarket": "NETTO",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "leicht",
+      "schnell"
+    ],
+    "total_cost": 7.76,
+    "total_cost_original": 9.28,
+    "savings_total": 1.52,
+    "cost_per_portion": 3.88,
+    "ingredients": [
+      {
+        "name": "Müller´s Mühle Linsen",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Müller´s Mühle Linsen",
+        "offer_price": 1.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Müller´s Mühle",
+        "package_size": "500 g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Mandarinen",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Mandarinen",
+        "offer_price": 1.49,
+        "original_price": 1.79,
+        "discount_percent": 16,
+        "brand": null,
+        "package_size": "1 kg",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Géramont",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Géramont",
+        "offer_price": 2.22,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Géramont",
+        "package_size": "150 – 200 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Knorr Salatkrönung",
+        "amount": "50ml",
+        "is_offer_product": true,
+        "offer_title_match": "Knorr Salatkrönung",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "450 – 540 ml",
+        "supermarket_location": "Lebensmittel",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Linsen nach Packungsanweisung kochen und abkühlen lassen.",
+      "Mandarinen schälen und in kleine Stücke schneiden.",
+      "Géramont in kleine Würfel schneiden.",
+      "Linsen, Mandarinen und Géramont in einer Schüssel vermengen.",
+      "Knorr Salatkrönung darüber geben und gut vermischen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/netto-2.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "netto-3",
+    "title": "Hähnchenfilet mit Brokkoli und Reis",
+    "description": "Zartes Hähnchenfilet mit knackigem Brokkoli und duftendem Reis.",
+    "supermarket": "NETTO",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "proteinreich",
+      "gesund",
+      "einfach"
+    ],
+    "total_cost": 9.86,
+    "total_cost_original": 12.28,
+    "savings_total": 2.42,
+    "cost_per_portion": 4.93,
+    "ingredients": [
+      {
+        "name": "Hähnchen-Innenfilet",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Hähnchen-Innenfilet",
+        "offer_price": 3.79,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "400 g",
+        "supermarket_location": "Kühlregal",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Brokkoli",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Brokkoli",
+        "offer_price": 1.29,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": null,
+        "package_size": "500 g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Delverde Pasta",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Delverde Pasta",
+        "offer_price": 1.49,
+        "original_price": null,
+        "discount_percent": null,
+        "brand": "Delverde",
+        "package_size": "500 g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": null,
+        "barcode_ean": null
+      },
+      {
+        "name": "Bertolli Olivenöl",
+        "amount": "20ml",
+        "is_offer_product": true,
+        "offer_title_match": "Bertolli Olivenöl",
+        "offer_price": 5.99,
+        "original_price": 7.99,
+        "discount_percent": 25,
+        "brand": "Bertolli",
+        "package_size": "500 ml",
+        "supermarket_location": "Lebensmittel",
+        "article_number": null,
+        "barcode_ean": null
+      }
+    ],
+    "steps": [
+      "Hähnchen-Innenfilet mit Salz und Pfeffer würzen.",
+      "Brokkoli in Röschen teilen und kurz blanchieren.",
+      "Olivenöl in einer Pfanne erhitzen und das Hähnchenfilet darin anbraten.",
+      "Brokkoli hinzufügen und kurz mitbraten.",
+      "Pasta nach Packungsanweisung kochen und abgießen.",
+      "Alles zusammen in einer Schüssel vermengen und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/netto-3.webp",
+    "image_status": "skipped"
+  }
+]

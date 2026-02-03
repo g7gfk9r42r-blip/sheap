@@ -1,0 +1,264 @@
+{
+  "market": "kaufland",
+  "items": [
+    {
+      "market": "kaufland",
+      "name": "Hammer-Preis",
+      "price_eur": 49.99,
+      "quantity": null,
+      "raw": "Hammer-Preis                                            49,99 €                                                  Verkäufer: TradeXpress24"
+    },
+    {
+      "market": "kaufland",
+      "name": "Hammer-Preis                                            1.",
+      "price_eur": 99.9,
+      "quantity": "1l",
+      "raw": "Hammer-Preis                                            1.099,90 €/1l"
+    },
+    {
+      "market": "kaufland",
+      "name": "Produktdatenblatt                                  Verkäufer: keepontrading",
+      "price_eur": 34.99,
+      "quantity": null,
+      "raw": "Produktdatenblatt                                  Verkäufer: keepontrading                                34,99 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Produktdatenblatt                               Verkäufer: Philips-Haushaltsgeraete                     1.",
+      "price_eur": 49.0,
+      "quantity": null,
+      "raw": "Produktdatenblatt                               Verkäufer: Philips-Haushaltsgeraete                     1.049,00 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "UVP",
+      "price_eur": 229.99,
+      "quantity": null,
+      "raw": "UVP 229,99 €                                         525,90 €                                                170,00 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "UVP",
+      "price_eur": 499.99,
+      "quantity": null,
+      "raw": "UVP 499,99 €                                            12,49 €                                                6,02 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "UVP",
+      "price_eur": 590.0,
+      "quantity": null,
+      "raw": "UVP 590,00 €                                              20,92 €                                               18,50 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 16.0,
+      "quantity": "1kg",
+      "raw": "16,00 €/1kg"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 17.0,
+      "quantity": null,
+      "raw": "17,00 €                                                 246,95 €                                                24,99 €   -19%"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 17.99,
+      "quantity": null,
+      "raw": "17,99 €                                              Verkäufer: ErkTrade                                     Hammer-Preis"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 18.99,
+      "quantity": null,
+      "raw": "18,99 €    -5%                                       34,99 €                                                 91,90 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 19.33,
+      "quantity": "1kg",
+      "raw": "19,33 €/1kg"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 26.59,
+      "quantity": null,
+      "raw": "26,59 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 28.9,
+      "quantity": null,
+      "raw": "28,90 €                                                 UVP 119,99 €                                            109,99 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 29.95,
+      "quantity": null,
+      "raw": "29,95 €                                              UVP 259,90 €                                            393,00 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 39.5,
+      "quantity": null,
+      "raw": "39,50 €                                                   128,44 €                                              14,90 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 72.72,
+      "quantity": null,
+      "raw": "72,72 €                                              37,99 €                                                 9,50 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 90.33,
+      "quantity": null,
+      "raw": "90,33 €                                                 34,20 €                                                46,79 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 119.9,
+      "quantity": null,
+      "raw": "119,90 €                                              Verkäufer: 3NRG                                        Verkäufer: Retevis_Official_Shop"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 129.0,
+      "quantity": null,
+      "raw": "129,00 €                                                  92,56 €                                               UVP 1.335,00 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 169.0,
+      "quantity": null,
+      "raw": "169,00 €                                                  UVP 259,99 €                                          35,99 €    -11%"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 209.2,
+      "quantity": "1l",
+      "raw": "209,20 €/1l"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 243.99,
+      "quantity": null,
+      "raw": "243,99 €                                                 Verkäufer: huellenwelt                                Hammer-Preis"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 265.9,
+      "quantity": "1l",
+      "raw": "265,90 €/1l"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 429.68,
+      "quantity": null,
+      "raw": "429,68 €                                                  Hammer-Preis                                          Verkäufer: Technex"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 547.57,
+      "quantity": null,
+      "raw": "547,57 €                                                354,90 €                                                UVP 89,90 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 598.88,
+      "quantity": null,
+      "raw": "598,88 €                                             224,99 €                                                UVP 1.849,99 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 727.2,
+      "quantity": "1l",
+      "raw": "727,20 €/1l                                                                                                  190,00 €/1l"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 919.0,
+      "quantity": "1l",
+      "raw": "919,00 €/1l"
+    },
+    {
+      "market": "kaufland",
+      "name": "Unbenannt",
+      "price_eur": 939.9,
+      "quantity": null,
+      "raw": "939,90 €                                                62,74 €                                                28,99 €   -3%"
+    },
+    {
+      "market": "kaufland",
+      "name": "Verkäufer: BabyDirekt",
+      "price_eur": 84.9,
+      "quantity": null,
+      "raw": "Verkäufer: BabyDirekt                                     84,90 €                                               31,99 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Verkäufer: MCT_GmbH                                       Hammer-Preis",
+      "price_eur": 642.2,
+      "quantity": null,
+      "raw": "Verkäufer: MCT_GmbH                                       Hammer-Preis                                          642,20 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Verkäufer: Mosolut",
+      "price_eur": 88.9,
+      "quantity": null,
+      "raw": "Verkäufer: Mosolut                                   88,90 €                                                      Produktdatenblatt"
+    },
+    {
+      "market": "kaufland",
+      "name": "Verkäufer: P-Scholl-Reselling                           Verkäufer: UEBilliger",
+      "price_eur": 20.0,
+      "quantity": null,
+      "raw": "Verkäufer: P-Scholl-Reselling                           Verkäufer: UEBilliger                                   20,00 €"
+    },
+    {
+      "market": "kaufland",
+      "name": "Verkäufer: TBFurnitureGmbH",
+      "price_eur": 0.53,
+      "quantity": "1kg",
+      "raw": "Verkäufer: TBFurnitureGmbH                           0,53 €/1kg"
+    },
+    {
+      "market": "kaufland",
+      "name": "Verkäufer: hatservice",
+      "price_eur": 12.49,
+      "quantity": null,
+      "raw": "Verkäufer: hatservice                                   12,49 €/1m"
+    },
+    {
+      "market": "kaufland",
+      "name": "Verkäufer: ts-store                                     Verkäufer: Tovo-Trade",
+      "price_eur": 28.12,
+      "quantity": null,
+      "raw": "Verkäufer: ts-store                                     Verkäufer: Tovo-Trade                                  28,12 €"
+    }
+  ]
+}

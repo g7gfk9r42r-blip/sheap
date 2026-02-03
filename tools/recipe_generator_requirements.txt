@@ -1,0 +1,4 @@
+openai>=1.10.0
+jsonschema>=4.20.0
+pytest>=7.4.0
+requests>=2.31.0

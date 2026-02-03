@@ -1,0 +1,7 @@
+{
+  "crons": [
+    { "path": "/admin/refresh-offers?key=${ADMIN_SECRET}", "schedule": "0 18 * * 0" },
+    { "path": "/admin/refresh-recipes?key=${ADMIN_SECRET}", "schedule": "30 18 * * 0" }
+  ]
+}
+

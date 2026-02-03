@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "nahkauf-1",
+    "title": "Cremiger Burrata-Salat mit Serrano",
+    "description": "Ein frischer Salat mit cremigem Burrata und würzigem Serrano-Schinken.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "gesund",
+      "vegetarisch"
+    ],
+    "total_cost": 5.47,
+    "total_cost_original": 7.07,
+    "savings_total": 1.6,
+    "cost_per_portion": 2.74,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Campofrio Serrano Schinken",
+        "amount": "40g",
+        "is_offer_product": true,
+        "offer_title_match": "Campofrio Serrano Schinken",
+        "offer_price": 1.69,
+        "brand": "Campofrio",
+        "package_size": "80g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Bonduelle Goldmais",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Bonduelle Goldmais",
+        "offer_price": 1.11,
+        "brand": "Bonduelle",
+        "package_size": "300g",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Burrata in Stücke zupfen und auf zwei Teller verteilen.",
+      "Serrano-Schinken in Streifen schneiden und über den Burrata legen.",
+      "Goldmais abtropfen lassen und gleichmäßig über den Salat streuen.",
+      "Mit Salz, Pfeffer und einem Schuss Olivenöl abschmecken."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-1.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "nahkauf-2",
+    "title": "Erdnuss-Locken-Snack mit Hüttenkäse",
+    "description": "Ein knuspriger Snack mit Erdnuss-Locken und cremigem Hüttenkäse.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "vegetarisch"
+    ],
+    "total_cost": 3.57,
+    "total_cost_original": 4.57,
+    "savings_total": 1.0,
+    "cost_per_portion": 1.79,
+    "ingredients": [
+      {
+        "name": "Lorenz Erdnuss Locken",
+        "amount": "75g",
+        "is_offer_product": true,
+        "offer_title_match": "Lorenz Erdnuss Locken",
+        "offer_price": 0.99,
+        "brand": "Lorenz",
+        "package_size": "150g",
+        "supermarket_location": "Süßwaren"
+      },
+      {
+        "name": "Gervais Hüttenkäse",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Gervais Hüttenkäse",
+        "offer_price": 1.29,
+        "brand": "Gervais",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Erdnuss Locken auf zwei Schalen verteilen.",
+      "Hüttenkäse in einer separaten Schale anrichten.",
+      "Erdnuss Locken in den Hüttenkäse dippen und genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-2.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "nahkauf-3",
+    "title": "Prosciutto Cotto Sandwich mit Ajvar",
+    "description": "Ein herzhaftes Sandwich mit Prosciutto Cotto und würzigem Ajvar.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "herzhaft",
+      "snack"
+    ],
+    "total_cost": 7.17,
+    "total_cost_original": 9.46,
+    "savings_total": 2.29,
+    "cost_per_portion": 3.59,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Prosciutto Cotto",
+        "amount": "50g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Prosciutto Cotto",
+        "offer_price": 3.49,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Zwei Scheiben Brot mit Ajvar bestreichen.",
+      "Prosciutto Cotto gleichmäßig auf die Brotscheiben verteilen.",
+      "Brot zusammenklappen und diagonal halbieren.",
+      "Mit einem Salatblatt servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-3.webp",
+    "image_status": "skipped"
+  },
+  {
+    "id": "nahkauf-4",
+    "title": "Knuspriges Müsli mit Joghurt und Früchten",
+    "description": "Ein gesundes Frühstück mit knusprigem Müsli und frischem Joghurt.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frühstück",
+      "gesund",
+      "vegetarisch"
+    ],
+    "total_cost": 3.6,
+    "total_cost_original": 4.71,
+    "savings_total": 1.11,
+    "cost_per_portion": 1.8,
+    "ingredients": [
+      {
+        "name": "Kölln Knusper Schoko & Keks Hafer-Müsli",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Kölln Knusper Schoko & Keks Hafer-Müsli",
+        "offer_price": 2.49,
+        "brand": "Kölln",
+        "package_size": "440g",
+        "supermarket_location": "Müsli"
+      },
+      {
+        "name": "Landliebe Joghurt",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Landliebe Joghurt",
+        "offer_price": 1.11,
+        "brand": "Landliebe",
+        "package_size": "500g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Joghurt in zwei Schalen verteilen.",
+      "Müsli gleichmäßig über den Joghurt streuen.",
+      "Mit frischen Früchten nach Wahl garnieren.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-4.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: kölln knusper schoko & keks hafer-müsli, landliebe joghurt. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-5",
+    "title": "Salami-Pizza mit Ketchup",
+    "description": "Eine schnelle Pizza mit würziger Salami und Heinz Ketchup.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "herzhaft",
+      "pizza"
+    ],
+    "total_cost": 4.27,
+    "total_cost_original": 5.76,
+    "savings_total": 1.49,
+    "cost_per_portion": 2.14,
+    "ingredients": [
+      {
+        "name": "Wiltmann Salami",
+        "amount": "40g",
+        "is_offer_product": true,
+        "offer_title_match": "Wiltmann Salami",
+        "offer_price": 1.29,
+        "brand": "Wiltmann",
+        "package_size": "80g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Heinz Tomato Ketchup",
+        "amount": "50ml",
+        "is_offer_product": true,
+        "offer_title_match": "Heinz Tomato Ketchup oder Mayonnaise",
+        "offer_price": 1.49,
+        "brand": "Heinz",
+        "package_size": "400ml",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Pizzateig ausrollen und mit Ketchup bestreichen.",
+      "Salami in Scheiben schneiden und auf dem Teig verteilen.",
+      "Im vorgeheizten Ofen bei 200°C für 15 Minuten backen.",
+      "In Stücke schneiden und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-5.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: wiltmann salami, heinz tomato ketchup. served on a wooden board. top-down angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-6",
+    "title": "Klassischer Nudel- oder Kartoffelsalat",
+    "description": "Ein klassischer Salat mit Homann Nudel- oder Kartoffelsalat.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "klassisch",
+      "beilage"
+    ],
+    "total_cost": 1.79,
+    "total_cost_original": 1.79,
+    "savings_total": 0.0,
+    "cost_per_portion": 0.9,
+    "ingredients": [
+      {
+        "name": "Homann Nudel- oder Pellkartoffelsalat",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Homann Nudel- oder Pellkartoffelsalat",
+        "offer_price": 1.79,
+        "brand": "Homann",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Nudel- oder Kartoffelsalat in eine Schüssel geben.",
+      "Mit Salz und Pfeffer abschmecken.",
+      "Optional mit frischen Kräutern garnieren.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-6.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: homann nudel- oder pellkartoffelsalat. served in a bowl. top-down angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-7",
+    "title": "Kidney-Bohnen-Eintopf",
+    "description": "Ein herzhaftes Eintopfgericht mit Erasco Eintopf und Kidney-Bohnen.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "eintopf",
+      "herzhaft",
+      "sättigend"
+    ],
+    "total_cost": 3.1,
+    "total_cost_original": 3.1,
+    "savings_total": 0.0,
+    "cost_per_portion": 1.55,
+    "ingredients": [
+      {
+        "name": "Erasco Eintopf",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Erasco Eintopf",
+        "offer_price": 1.99,
+        "brand": "Erasco",
+        "package_size": "800g",
+        "supermarket_location": "Konserven"
+      },
+      {
+        "name": "Bonduelle Kidney Bohnen",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Bonduelle Kidney Bohnen",
+        "offer_price": 1.11,
+        "brand": "Bonduelle",
+        "package_size": "400g",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Eintopf in einem Topf erhitzen.",
+      "Kidney-Bohnen abtropfen lassen und zum Eintopf geben.",
+      "Für 10 Minuten köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-7.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: erasco eintopf, bonduelle kidney bohnen. served in a ceramic bowl. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-8",
+    "title": "Schokoladen-Müsli mit Milch",
+    "description": "Ein einfaches Frühstück mit Kölln Schoko-Müsli und Weihenstephan Milch.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frühstück",
+      "schnell",
+      "vegetarisch"
+    ],
+    "total_cost": 3.6,
+    "total_cost_original": 4.71,
+    "savings_total": 1.11,
+    "cost_per_portion": 1.8,
+    "ingredients": [
+      {
+        "name": "Kölln Schoko weniger Zucker Hafer-Müsli",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Kölln Schoko weniger Zucker Hafer-Müsli",
+        "offer_price": 2.49,
+        "brand": "Kölln",
+        "package_size": "450g",
+        "supermarket_location": "Müsli"
+      },
+      {
+        "name": "Weihenstephan Haltbare Milch",
+        "amount": "250ml",
+        "is_offer_product": true,
+        "offer_title_match": "Weihenstephan Haltbare Milch",
+        "offer_price": 1.11,
+        "brand": "Weihenstephan",
+        "package_size": "1l",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Müsli in zwei Schalen verteilen.",
+      "Mit Milch übergießen.",
+      "Optional mit frischen Früchten garnieren.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-8.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: kölln schoko weniger zucker hafer-müsli, weihenstephan haltbare milch. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-9",
+    "title": "Scharfer Ajvar-Dip mit NicNac’s",
+    "description": "Ein würziger Dip mit Ajvar und knusprigen NicNac’s.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "vegetarisch"
+    ],
+    "total_cost": 2.78,
+    "total_cost_original": 3.78,
+    "savings_total": 1.0,
+    "cost_per_portion": 1.39,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konserven"
+      },
+      {
+        "name": "Lorenz NicNac’s",
+        "amount": "55g",
+        "is_offer_product": true,
+        "offer_title_match": "Lorenz NicNac’s",
+        "offer_price": 0.99,
+        "brand": "Lorenz",
+        "package_size": "110g",
+        "supermarket_location": "Süßwaren"
+      }
+    ],
+    "steps": [
+      "Ajvar in eine Schale geben.",
+      "NicNac’s in eine separate Schale geben.",
+      "NicNac’s in den Ajvar dippen und genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-9.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: feine welt ajvar, lorenz nicnac’s. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-10",
+    "title": "Fruchtiger Granini-Cocktail",
+    "description": "Ein erfrischender Cocktail mit Granini Trinkgenuss und Jack Daniel’s.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "getränk",
+      "erfrischend",
+      "alkoholisch"
+    ],
+    "total_cost": 16.48,
+    "total_cost_original": 16.48,
+    "savings_total": 0.0,
+    "cost_per_portion": 8.24,
+    "ingredients": [
+      {
+        "name": "Granini Trinkgenuss",
+        "amount": "250ml",
+        "is_offer_product": true,
+        "offer_title_match": "Granini Trinkgenuss",
+        "offer_price": 1.49,
+        "brand": "Granini",
+        "package_size": "1l",
+        "supermarket_location": "Getränke"
+      },
+      {
+        "name": "Jack Daniel’s Tennessee Whiskey",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "Jack Daniel’s Tennessee Whiskey",
+        "offer_price": 14.99,
+        "brand": "Jack Daniel’s",
+        "package_size": "0.7l",
+        "supermarket_location": "Wein & Spirituosen"
+      }
+    ],
+    "steps": [
+      "Granini Trinkgenuss und Jack Daniel’s in ein Glas geben.",
+      "Mit Eiswürfeln auffüllen.",
+      "Mit einer Zitronenscheibe garnieren.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-10.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: granini trinkgenuss, jack daniel’s tennessee whiskey. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-11",
+    "title": "Milka-Schokoladen-Dessert",
+    "description": "Ein süßes Dessert mit Milka Alpenmilch und Landliebe Joghurt.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dessert",
+      "süß",
+      "vegetarisch"
+    ],
+    "total_cost": 4.99,
+    "total_cost_original": 4.99,
+    "savings_total": 0.0,
+    "cost_per_portion": 2.5,
+    "ingredients": [
+      {
+        "name": "Milka Alpenmilch",
+        "amount": "125g",
+        "is_offer_product": true,
+        "offer_title_match": "Milka Alpenmilch",
+        "offer_price": 2.88,
+        "brand": "Milka",
+        "package_size": "250g",
+        "supermarket_location": "Süßwaren"
+      },
+      {
+        "name": "Landliebe Joghurt",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Landliebe Joghurt",
+        "offer_price": 1.11,
+        "brand": "Landliebe",
+        "package_size": "500g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Milka Alpenmilch in kleine Stücke brechen.",
+      "Joghurt in zwei Schalen verteilen.",
+      "Schokoladenstücke über den Joghurt streuen.",
+      "Optional mit frischen Beeren garnieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-11.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: milka alpenmilch, landliebe joghurt. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-12",
+    "title": "Pepsi-Cola Float",
+    "description": "Ein erfrischendes Getränk mit Pepsi und Landliebe Joghurt.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "getränk",
+      "erfrischend",
+      "süß"
+    ],
+    "total_cost": 1.9,
+    "total_cost_original": 1.9,
+    "savings_total": 0.0,
+    "cost_per_portion": 0.95,
+    "ingredients": [
+      {
+        "name": "Pepsi",
+        "amount": "500ml",
+        "is_offer_product": true,
+        "offer_title_match": "Pepsi",
+        "offer_price": 0.79,
+        "brand": "Pepsi",
+        "package_size": "1.25l",
+        "supermarket_location": "Getränke"
+      },
+      {
+        "name": "Landliebe Joghurt",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Landliebe Joghurt",
+        "offer_price": 1.11,
+        "brand": "Landliebe",
+        "package_size": "500g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Pepsi in zwei Gläser füllen.",
+      "Jeweils eine Kugel Joghurt in die Gläser geben.",
+      "Mit einem Strohhalm servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-12.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: pepsi, landliebe joghurt. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-13",
+    "title": "Knusprige Pringles mit Ketchup-Dip",
+    "description": "Ein knuspriger Snack mit Pringles und Heinz Ketchup.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "snack",
+      "schnell",
+      "vegetarisch"
+    ],
+    "total_cost": 2.98,
+    "total_cost_original": 2.98,
+    "savings_total": 0.0,
+    "cost_per_portion": 1.49,
+    "ingredients": [
+      {
+        "name": "Pringles",
+        "amount": "82g",
+        "is_offer_product": true,
+        "offer_title_match": "Pringles",
+        "offer_price": 1.49,
+        "brand": "Pringles",
+        "package_size": "165g",
+        "supermarket_location": "Süßwaren"
+      },
+      {
+        "name": "Heinz Tomato Ketchup",
+        "amount": "50ml",
+        "is_offer_product": true,
+        "offer_title_match": "Heinz Tomato Ketchup oder Mayonnaise",
+        "offer_price": 1.49,
+        "brand": "Heinz",
+        "package_size": "400ml",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Pringles in eine Schale geben.",
+      "Ketchup in eine separate Schale geben.",
+      "Pringles in den Ketchup dippen und genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-13.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: pringles, heinz tomato ketchup. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-14",
+    "title": "Süßer Nutella-Toast",
+    "description": "Ein süßer Snack mit Nutella und knusprigem Toast.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "snack",
+      "vegetarisch"
+    ],
+    "total_cost": 2.22,
+    "total_cost_original": 2.22,
+    "savings_total": 0.0,
+    "cost_per_portion": 1.11,
+    "ingredients": [
+      {
+        "name": "Nutella",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Nutella",
+        "offer_price": 2.22,
+        "brand": "Nutella",
+        "package_size": "450g",
+        "supermarket_location": "Süßwaren"
+      }
+    ],
+    "steps": [
+      "Toastbrot im Toaster rösten.",
+      "Nutella auf den warmen Toast streichen.",
+      "In Dreiecke schneiden und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-14.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: nutella. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-15",
+    "title": "Erdnuss-Schoko-Dessert",
+    "description": "Ein süßes Dessert mit Erdnuss Locken und Milka Gingerbread.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dessert",
+      "süß",
+      "vegetarisch"
+    ],
+    "total_cost": 3.87,
+    "total_cost_original": 3.87,
+    "savings_total": 0.0,
+    "cost_per_portion": 1.94,
+    "ingredients": [
+      {
+        "name": "Lorenz Erdnuss Locken",
+        "amount": "75g",
+        "is_offer_product": true,
+        "offer_title_match": "Lorenz Erdnuss Locken",
+        "offer_price": 0.99,
+        "brand": "Lorenz",
+        "package_size": "150g",
+        "supermarket_location": "Süßwaren"
+      },
+      {
+        "name": "Milka Gingerbread",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Milka Gingerbread",
+        "offer_price": 2.88,
+        "brand": "Milka",
+        "package_size": "300g",
+        "supermarket_location": "Süßwaren"
+      }
+    ],
+    "steps": [
+      "Milka Gingerbread in kleine Stücke brechen.",
+      "Erdnuss Locken in eine Schale geben.",
+      "Milka Stücke über die Erdnuss Locken streuen.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-15.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: lorenz erdnuss locken, milka gingerbread. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-16",
+    "title": "Eintopf mit Goldmais",
+    "description": "Ein sättigender Eintopf mit Erasco Eintopf und Bonduelle Goldmais.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "eintopf",
+      "herzhaft",
+      "sättigend"
+    ],
+    "total_cost": 3.1,
+    "total_cost_original": 3.1,
+    "savings_total": 0.0,
+    "cost_per_portion": 1.55,
+    "ingredients": [
+      {
+        "name": "Erasco Eintopf",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Erasco Eintopf",
+        "offer_price": 1.99,
+        "brand": "Erasco",
+        "package_size": "800g",
+        "supermarket_location": "Konserven"
+      },
+      {
+        "name": "Bonduelle Goldmais",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Bonduelle Goldmais",
+        "offer_price": 1.11,
+        "brand": "Bonduelle",
+        "package_size": "300g",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Eintopf in einem Topf erhitzen.",
+      "Goldmais abtropfen lassen und zum Eintopf geben.",
+      "Für 10 Minuten köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-16.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: erasco eintopf, bonduelle goldmais. served in a ceramic bowl. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-17",
+    "title": "Burrata mit Serrano und Ajvar",
+    "description": "Ein würziger Snack mit Burrata, Serrano-Schinken und Ajvar.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "snack",
+      "schnell",
+      "herzhaft"
+    ],
+    "total_cost": 5.37,
+    "total_cost_original": 7.06,
+    "savings_total": 1.69,
+    "cost_per_portion": 2.69,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Campofrio Serrano Schinken",
+        "amount": "40g",
+        "is_offer_product": true,
+        "offer_title_match": "Campofrio Serrano Schinken",
+        "offer_price": 1.69,
+        "brand": "Campofrio",
+        "package_size": "80g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Burrata in Stücke zupfen und auf zwei Teller verteilen.",
+      "Serrano-Schinken in Streifen schneiden und über den Burrata legen.",
+      "Ajvar in kleinen Schälchen dazu servieren.",
+      "Mit einem frischen Baguette genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-17.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: feine welt burrata di bufala, campofrio serrano schinken, feine welt ajvar. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-18",
+    "title": "Schoko-Müsli mit Milch",
+    "description": "Ein schnelles Frühstück mit Kölln Schoko-Müsli und Weihenstephan Milch.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frühstück",
+      "schnell",
+      "vegetarisch"
+    ],
+    "total_cost": 3.6,
+    "total_cost_original": 4.71,
+    "savings_total": 1.11,
+    "cost_per_portion": 1.8,
+    "ingredients": [
+      {
+        "name": "Kölln Schoko weniger Zucker Hafer-Müsli",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Kölln Schoko weniger Zucker Hafer-Müsli",
+        "offer_price": 2.49,
+        "brand": "Kölln",
+        "package_size": "450g",
+        "supermarket_location": "Müsli"
+      },
+      {
+        "name": "Weihenstephan Haltbare Milch",
+        "amount": "250ml",
+        "is_offer_product": true,
+        "offer_title_match": "Weihenstephan Haltbare Milch",
+        "offer_price": 1.11,
+        "brand": "Weihenstephan",
+        "package_size": "1l",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Müsli in zwei Schalen verteilen.",
+      "Mit Milch übergießen.",
+      "Optional mit frischen Früchten garnieren.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-18.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: kölln schoko weniger zucker hafer-müsli, weihenstephan haltbare milch. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-19",
+    "title": "Scharfer Ajvar-Dip mit NicNac’s",
+    "description": "Ein würziger Dip mit Ajvar und knusprigen NicNac’s.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "vegetarisch"
+    ],
+    "total_cost": 2.78,
+    "total_cost_original": 3.78,
+    "savings_total": 1.0,
+    "cost_per_portion": 1.39,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konserven"
+      },
+      {
+        "name": "Lorenz NicNac’s",
+        "amount": "55g",
+        "is_offer_product": true,
+        "offer_title_match": "Lorenz NicNac’s",
+        "offer_price": 0.99,
+        "brand": "Lorenz",
+        "package_size": "110g",
+        "supermarket_location": "Süßwaren"
+      }
+    ],
+    "steps": [
+      "Ajvar in eine Schale geben.",
+      "NicNac’s in eine separate Schale geben.",
+      "NicNac’s in den Ajvar dippen und genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-19.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: feine welt ajvar, lorenz nicnac’s. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-20",
+    "title": "Fruchtiger Granini-Cocktail",
+    "description": "Ein erfrischender Cocktail mit Granini Trinkgenuss und Jack Daniel’s.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "getränk",
+      "erfrischend",
+      "alkoholisch"
+    ],
+    "total_cost": 16.48,
+    "total_cost_original": 16.48,
+    "savings_total": 0.0,
+    "cost_per_portion": 8.24,
+    "ingredients": [
+      {
+        "name": "Granini Trinkgenuss",
+        "amount": "250ml",
+        "is_offer_product": true,
+        "offer_title_match": "Granini Trinkgenuss",
+        "offer_price": 1.49,
+        "brand": "Granini",
+        "package_size": "1l",
+        "supermarket_location": "Getränke"
+      },
+      {
+        "name": "Jack Daniel’s Tennessee Whiskey",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "Jack Daniel’s Tennessee Whiskey",
+        "offer_price": 14.99,
+        "brand": "Jack Daniel’s",
+        "package_size": "0.7l",
+        "supermarket_location": "Wein & Spirituosen"
+      }
+    ],
+    "steps": [
+      "Granini Trinkgenuss und Jack Daniel’s in ein Glas geben.",
+      "Mit Eiswürfeln auffüllen.",
+      "Mit einer Zitronenscheibe garnieren.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-20.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: granini trinkgenuss, jack daniel’s tennessee whiskey. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-21",
+    "title": "Milka-Schokoladen-Dessert",
+    "description": "Ein süßes Dessert mit Milka Alpenmilch und Landliebe Joghurt.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dessert",
+      "süß",
+      "vegetarisch"
+    ],
+    "total_cost": 4.99,
+    "total_cost_original": 4.99,
+    "savings_total": 0.0,
+    "cost_per_portion": 2.5,
+    "ingredients": [
+      {
+        "name": "Milka Alpenmilch",
+        "amount": "125g",
+        "is_offer_product": true,
+        "offer_title_match": "Milka Alpenmilch",
+        "offer_price": 2.88,
+        "brand": "Milka",
+        "package_size": "250g",
+        "supermarket_location": "Süßwaren"
+      },
+      {
+        "name": "Landliebe Joghurt",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Landliebe Joghurt",
+        "offer_price": 1.11,
+        "brand": "Landliebe",
+        "package_size": "500g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Milka Alpenmilch in kleine Stücke brechen.",
+      "Joghurt in zwei Schalen verteilen.",
+      "Schokoladenstücke über den Joghurt streuen.",
+      "Optional mit frischen Beeren garnieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-21.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: milka alpenmilch, landliebe joghurt. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-22",
+    "title": "Pepsi-Cola Float",
+    "description": "Ein erfrischendes Getränk mit Pepsi und Landliebe Joghurt.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "getränk",
+      "erfrischend",
+      "süß"
+    ],
+    "total_cost": 1.9,
+    "total_cost_original": 1.9,
+    "savings_total": 0.0,
+    "cost_per_portion": 0.95,
+    "ingredients": [
+      {
+        "name": "Pepsi",
+        "amount": "500ml",
+        "is_offer_product": true,
+        "offer_title_match": "Pepsi",
+        "offer_price": 0.79,
+        "brand": "Pepsi",
+        "package_size": "1.25l",
+        "supermarket_location": "Getränke"
+      },
+      {
+        "name": "Landliebe Joghurt",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Landliebe Joghurt",
+        "offer_price": 1.11,
+        "brand": "Landliebe",
+        "package_size": "500g",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Pepsi in zwei Gläser füllen.",
+      "Jeweils eine Kugel Joghurt in die Gläser geben.",
+      "Mit einem Strohhalm servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-22.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: pepsi, landliebe joghurt. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-23",
+    "title": "Knusprige Pringles mit Ketchup-Dip",
+    "description": "Ein knuspriger Snack mit Pringles und Heinz Ketchup.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "snack",
+      "schnell",
+      "vegetarisch"
+    ],
+    "total_cost": 2.98,
+    "total_cost_original": 2.98,
+    "savings_total": 0.0,
+    "cost_per_portion": 1.49,
+    "ingredients": [
+      {
+        "name": "Pringles",
+        "amount": "82g",
+        "is_offer_product": true,
+        "offer_title_match": "Pringles",
+        "offer_price": 1.49,
+        "brand": "Pringles",
+        "package_size": "165g",
+        "supermarket_location": "Süßwaren"
+      },
+      {
+        "name": "Heinz Tomato Ketchup",
+        "amount": "50ml",
+        "is_offer_product": true,
+        "offer_title_match": "Heinz Tomato Ketchup oder Mayonnaise",
+        "offer_price": 1.49,
+        "brand": "Heinz",
+        "package_size": "400ml",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Pringles in eine Schale geben.",
+      "Ketchup in eine separate Schale geben.",
+      "Pringles in den Ketchup dippen und genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-23.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: pringles, heinz tomato ketchup. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-24",
+    "title": "Süßer Nutella-Toast",
+    "description": "Ein süßer Snack mit Nutella und knusprigem Toast.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "süß",
+      "snack",
+      "vegetarisch"
+    ],
+    "total_cost": 2.22,
+    "total_cost_original": 2.22,
+    "savings_total": 0.0,
+    "cost_per_portion": 1.11,
+    "ingredients": [
+      {
+        "name": "Nutella",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Nutella",
+        "offer_price": 2.22,
+        "brand": "Nutella",
+        "package_size": "450g",
+        "supermarket_location": "Süßwaren"
+      }
+    ],
+    "steps": [
+      "Toastbrot im Toaster rösten.",
+      "Nutella auf den warmen Toast streichen.",
+      "In Dreiecke schneiden und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-24.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: nutella. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-25",
+    "title": "Erdnuss-Schoko-Dessert",
+    "description": "Ein süßes Dessert mit Erdnuss Locken und Milka Gingerbread.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dessert",
+      "süß",
+      "vegetarisch"
+    ],
+    "total_cost": 3.87,
+    "total_cost_original": 3.87,
+    "savings_total": 0.0,
+    "cost_per_portion": 1.94,
+    "ingredients": [
+      {
+        "name": "Lorenz Erdnuss Locken",
+        "amount": "75g",
+        "is_offer_product": true,
+        "offer_title_match": "Lorenz Erdnuss Locken",
+        "offer_price": 0.99,
+        "brand": "Lorenz",
+        "package_size": "150g",
+        "supermarket_location": "Süßwaren"
+      },
+      {
+        "name": "Milka Gingerbread",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Milka Gingerbread",
+        "offer_price": 2.88,
+        "brand": "Milka",
+        "package_size": "300g",
+        "supermarket_location": "Süßwaren"
+      }
+    ],
+    "steps": [
+      "Milka Gingerbread in kleine Stücke brechen.",
+      "Erdnuss Locken in eine Schale geben.",
+      "Milka Stücke über die Erdnuss Locken streuen.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-25.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: lorenz erdnuss locken, milka gingerbread. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-26",
+    "title": "Eintopf mit Goldmais",
+    "description": "Ein sättigender Eintopf mit Erasco Eintopf und Bonduelle Goldmais.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "eintopf",
+      "herzhaft",
+      "sättigend"
+    ],
+    "total_cost": 3.1,
+    "total_cost_original": 3.1,
+    "savings_total": 0.0,
+    "cost_per_portion": 1.55,
+    "ingredients": [
+      {
+        "name": "Erasco Eintopf",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Erasco Eintopf",
+        "offer_price": 1.99,
+        "brand": "Erasco",
+        "package_size": "800g",
+        "supermarket_location": "Konserven"
+      },
+      {
+        "name": "Bonduelle Goldmais",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Bonduelle Goldmais",
+        "offer_price": 1.11,
+        "brand": "Bonduelle",
+        "package_size": "300g",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Eintopf in einem Topf erhitzen.",
+      "Goldmais abtropfen lassen und zum Eintopf geben.",
+      "Für 10 Minuten köcheln lassen.",
+      "Mit Salz und Pfeffer abschmecken und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-26.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: erasco eintopf, bonduelle goldmais. served in a ceramic bowl. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-27",
+    "title": "Burrata mit Serrano und Ajvar",
+    "description": "Ein würziger Snack mit Burrata, Serrano-Schinken und Ajvar.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "snack",
+      "schnell",
+      "herzhaft"
+    ],
+    "total_cost": 5.37,
+    "total_cost_original": 7.06,
+    "savings_total": 1.69,
+    "cost_per_portion": 2.69,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Burrata di Bufala",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Burrata di Bufala",
+        "offer_price": 1.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "280g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "Campofrio Serrano Schinken",
+        "amount": "40g",
+        "is_offer_product": true,
+        "offer_title_match": "Campofrio Serrano Schinken",
+        "offer_price": 1.69,
+        "brand": "Campofrio",
+        "package_size": "80g",
+        "supermarket_location": "Kühlregal"
+      },
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konserven"
+      }
+    ],
+    "steps": [
+      "Burrata in Stücke zupfen und auf zwei Teller verteilen.",
+      "Serrano-Schinken in Streifen schneiden und über den Burrata legen.",
+      "Ajvar in kleinen Schälchen dazu servieren.",
+      "Mit einem frischen Baguette genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-27.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: feine welt burrata di bufala, campofrio serrano schinken, feine welt ajvar. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-28",
+    "title": "Schoko-Müsli mit Milch",
+    "description": "Ein schnelles Frühstück mit Kölln Schoko-Müsli und Weihenstephan Milch.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frühstück",
+      "schnell",
+      "vegetarisch"
+    ],
+    "total_cost": 3.6,
+    "total_cost_original": 4.71,
+    "savings_total": 1.11,
+    "cost_per_portion": 1.8,
+    "ingredients": [
+      {
+        "name": "Kölln Schoko weniger Zucker Hafer-Müsli",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Kölln Schoko weniger Zucker Hafer-Müsli",
+        "offer_price": 2.49,
+        "brand": "Kölln",
+        "package_size": "450g",
+        "supermarket_location": "Müsli"
+      },
+      {
+        "name": "Weihenstephan Haltbare Milch",
+        "amount": "250ml",
+        "is_offer_product": true,
+        "offer_title_match": "Weihenstephan Haltbare Milch",
+        "offer_price": 1.11,
+        "brand": "Weihenstephan",
+        "package_size": "1l",
+        "supermarket_location": "Kühlregal"
+      }
+    ],
+    "steps": [
+      "Müsli in zwei Schalen verteilen.",
+      "Mit Milch übergießen.",
+      "Optional mit frischen Früchten garnieren.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-28.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: kölln schoko weniger zucker hafer-müsli, weihenstephan haltbare milch. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-29",
+    "title": "Scharfer Ajvar-Dip mit NicNac’s",
+    "description": "Ein würziger Dip mit Ajvar und knusprigen NicNac’s.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "snack",
+      "vegetarisch"
+    ],
+    "total_cost": 2.78,
+    "total_cost_original": 3.78,
+    "savings_total": 1.0,
+    "cost_per_portion": 1.39,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Ajvar",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Ajvar",
+        "offer_price": 1.79,
+        "brand": "REWE Feine Welt",
+        "package_size": "212ml",
+        "supermarket_location": "Konserven"
+      },
+      {
+        "name": "Lorenz NicNac’s",
+        "amount": "55g",
+        "is_offer_product": true,
+        "offer_title_match": "Lorenz NicNac’s",
+        "offer_price": 0.99,
+        "brand": "Lorenz",
+        "package_size": "110g",
+        "supermarket_location": "Süßwaren"
+      }
+    ],
+    "steps": [
+      "Ajvar in eine Schale geben.",
+      "NicNac’s in eine separate Schale geben.",
+      "NicNac’s in den Ajvar dippen und genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-29.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: feine welt ajvar, lorenz nicnac’s. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-30",
+    "title": "Fruchtiger Granini-Cocktail",
+    "description": "Ein erfrischender Cocktail mit Granini Trinkgenuss und Jack Daniel’s.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "getränk",
+      "erfrischend",
+      "alkoholisch"
+    ],
+    "total_cost": 16.48,
+    "total_cost_original": 16.48,
+    "savings_total": 0.0,
+    "cost_per_portion": 8.24,
+    "ingredients": [
+      {
+        "name": "Granini Trinkgenuss",
+        "amount": "250ml",
+        "is_offer_product": true,
+        "offer_title_match": "Granini Trinkgenuss",
+        "offer_price": 1.49,
+        "brand": "Granini",
+        "package_size": "1l",
+        "supermarket_location": "Getränke"
+      },
+      {
+        "name": "Jack Daniel’s Tennessee Whiskey",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "Jack Daniel’s Tennessee Whiskey",
+        "offer_price": 14.99,
+        "brand": "Jack Daniel’s",
+        "package_size": "0.7l",
+        "supermarket_location": "Wein & Spirituosen"
+      }
+    ],
+    "steps": [
+      "Granini Trinkgenuss und Jack Daniel’s in ein Glas geben.",
+      "Mit Eiswürfeln auffüllen.",
+      "Mit einer Zitronenscheibe garnieren.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-30.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: granini trinkgenuss, jack daniel’s tennessee whiskey. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-31",
+    "title": "Lachs-Pasta mit Feldsalat",
+    "description": "Eine köstliche Kombination aus zartem Wildlachs und cremiger Pasta, serviert mit frischem Feldsalat.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "schnell",
+      "gesund"
+    ],
+    "total_cost": 7.68,
+    "total_cost_original": 10.47,
+    "savings_total": 2.79,
+    "cost_per_portion": 3.84,
+    "ingredients": [
+      {
+        "name": "Barilla Classic Pasta",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Classic Pasta",
+        "offer_price": 0.79,
+        "brand": "Barilla",
+        "package_size": "500g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": "123456",
+        "barcode_ean": "4012345678901"
+      },
+      {
+        "name": "REWE Feine Welt Kodiak Sockeye Wildlachs",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Kodiak Sockeye Wildlachs",
+        "offer_price": 3.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123457",
+        "barcode_ean": "4012345678902"
+      },
+      {
+        "name": "Feldsalat",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Feldsalat",
+        "offer_price": 1.11,
+        "brand": "",
+        "package_size": "150g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123458",
+        "barcode_ean": "4012345678903"
+      }
+    ],
+    "steps": [
+      "Pasta nach Packungsanweisung in Salzwasser kochen.",
+      "Lachs in einer Pfanne mit etwas Öl anbraten, bis er gar ist.",
+      "Feldsalat waschen und trocken schleudern.",
+      "Gekochte Pasta mit dem Lachs vermengen.",
+      "Mit Salz und Pfeffer abschmecken und mit Feldsalat servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-31.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: barilla classic pasta, feine welt kodiak sockeye wildlachs, feldsalat. served in a bowl. top-down angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-32",
+    "title": "Raclette-Kartoffeln mit Staudensellerie",
+    "description": "Herzhafte Raclette-Kartoffeln kombiniert mit knackigem Staudensellerie.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 35,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "herzhaft",
+      "einfach"
+    ],
+    "total_cost": 4.5,
+    "total_cost_original": 6.71,
+    "savings_total": 2.21,
+    "cost_per_portion": 2.25,
+    "ingredients": [
+      {
+        "name": "Speisekartoffeln »Raclette«",
+        "amount": "500g",
+        "is_offer_product": true,
+        "offer_title_match": "Speisekartoffeln »Raclette«",
+        "offer_price": 1.29,
+        "brand": "",
+        "package_size": "1.5kg",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      },
+      {
+        "name": "Emmi Raclette Scheiben natur",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Emmi Raclette Scheiben natur",
+        "offer_price": 2.22,
+        "brand": "Emmi",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123460",
+        "barcode_ean": "4012345678905"
+      },
+      {
+        "name": "Staudensellerie",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Staudensellerie",
+        "offer_price": 0.99,
+        "brand": "",
+        "package_size": "1 St.",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123461",
+        "barcode_ean": "4012345678906"
+      }
+    ],
+    "steps": [
+      "Kartoffeln schälen und in Salzwasser kochen, bis sie gar sind.",
+      "Staudensellerie waschen und in kleine Stücke schneiden.",
+      "Kartoffeln abgießen und in eine Auflaufform geben.",
+      "Raclette-Käse über die Kartoffeln legen und im Ofen gratinieren.",
+      "Mit Staudensellerie servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-32.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: potatoes »raclette«, emmi raclette scheiben natur, staudensellerie. served in a ceramic baking dish. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-33",
+    "title": "Wildlachs mit Möhren und Tomaten",
+    "description": "Ein leichtes und gesundes Gericht mit Wildlachs, Möhren und frischen Tomaten.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "gesund",
+      "schnell"
+    ],
+    "total_cost": 8.27,
+    "total_cost_original": 11.06,
+    "savings_total": 2.79,
+    "cost_per_portion": 4.14,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Kodiak Sockeye Wildlachs",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Kodiak Sockeye Wildlachs",
+        "offer_price": 3.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123457",
+        "barcode_ean": "4012345678902"
+      },
+      {
+        "name": "Speisemöhren",
+        "amount": "300g",
+        "is_offer_product": true,
+        "offer_title_match": "Speisemöhren",
+        "offer_price": 0.79,
+        "brand": "",
+        "package_size": "1kg",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123462",
+        "barcode_ean": "4012345678907"
+      },
+      {
+        "name": "Snacktomaten Mix",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Snacktomaten Mix",
+        "offer_price": 1.49,
+        "brand": "",
+        "package_size": "300g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123463",
+        "barcode_ean": "4012345678908"
+      }
+    ],
+    "steps": [
+      "Lachs in einer Pfanne mit etwas Öl anbraten.",
+      "Möhren schälen und in Scheiben schneiden, dann in einer separaten Pfanne anbraten.",
+      "Tomaten waschen und halbieren.",
+      "Lachs mit Möhren und Tomaten auf einem Teller anrichten.",
+      "Mit Salz und Pfeffer abschmecken."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-33.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: feine welt kodiak sockeye wildlachs, speisemöhren, snacktomaten mix. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-34",
+    "title": "Croissant-Sandwich mit Leerdammer",
+    "description": "Ein schnelles und leckeres Croissant-Sandwich mit geschmolzenem Leerdammer Käse.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "frühstück"
+    ],
+    "total_cost": 3.18,
+    "total_cost_original": 4.87,
+    "savings_total": 1.69,
+    "cost_per_portion": 1.59,
+    "ingredients": [
+      {
+        "name": "Knack & Back Fertigteig Croissants",
+        "amount": "240g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Croissants",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "240g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123464",
+        "barcode_ean": "4012345678909"
+      },
+      {
+        "name": "Leerdammer Käsescheiben",
+        "amount": "70g",
+        "is_offer_product": true,
+        "offer_title_match": "Leerdammer Käsescheiben",
+        "offer_price": 1.49,
+        "brand": "Leerdammer",
+        "package_size": "140g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123465",
+        "barcode_ean": "4012345678910"
+      }
+    ],
+    "steps": [
+      "Croissants nach Packungsanweisung im Ofen backen.",
+      "Leerdammer Käsescheiben halbieren.",
+      "Fertige Croissants aufschneiden und mit Käse belegen.",
+      "Croissants kurz in den Ofen geben, bis der Käse schmilzt.",
+      "Warm servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-34.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: knack & back fertigteig croissants, käsescheiben. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-35",
+    "title": "Pommes Frites mit Paprika-Dip",
+    "description": "Knusprige Pommes Frites aus dem Airfryer mit einem würzigen Paprika-Dip.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "snack",
+      "schnell",
+      "vegetarisch"
+    ],
+    "total_cost": 0.88,
+    "total_cost_original": 1.32,
+    "savings_total": 0.44,
+    "cost_per_portion": 0.44,
+    "ingredients": [
+      {
+        "name": "Maggi Airfryer Paprika Pommes Frites",
+        "amount": "34g",
+        "is_offer_product": true,
+        "offer_title_match": "Maggi Airfryer Paprika Pommes Frites",
+        "offer_price": 0.44,
+        "brand": "Maggi",
+        "package_size": "34g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": "123466",
+        "barcode_ean": "4012345678911"
+      }
+    ],
+    "steps": [
+      "Pommes Frites nach Packungsanweisung im Airfryer zubereiten.",
+      "Für den Dip Paprika-Pulver mit etwas Joghurt und Salz verrühren.",
+      "Pommes Frites mit dem Paprika-Dip servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-35.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: maggi airfryer paprika pommes frites. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-36",
+    "title": "Rouladen mit Kartoffelstampf",
+    "description": "Herzhafte Rouladen mit cremigem Kartoffelstampf, ideal für ein deftiges Abendessen.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 45,
+    "portions": 2,
+    "difficulty": "medium",
+    "tags": [
+      "fleisch",
+      "deftig",
+      "klassiker"
+    ],
+    "total_cost": 1.73,
+    "total_cost_original": 2.17,
+    "savings_total": 0.44,
+    "cost_per_portion": 0.87,
+    "ingredients": [
+      {
+        "name": "Maggi Fix Rouladen",
+        "amount": "33g",
+        "is_offer_product": true,
+        "offer_title_match": "Maggi Fix Rouladen",
+        "offer_price": 0.44,
+        "brand": "Maggi",
+        "package_size": "33g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": "123467",
+        "barcode_ean": "4012345678912"
+      },
+      {
+        "name": "Speisekartoffeln »Raclette«",
+        "amount": "500g",
+        "is_offer_product": true,
+        "offer_title_match": "Speisekartoffeln »Raclette«",
+        "offer_price": 1.29,
+        "brand": "",
+        "package_size": "1.5kg",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      }
+    ],
+    "steps": [
+      "Rouladen nach Packungsanweisung zubereiten.",
+      "Kartoffeln schälen, kochen und zu Stampf verarbeiten.",
+      "Rouladen mit Kartoffelstampf servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-36.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: maggi fix rouladen, potatoes »raclette«. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-37",
+    "title": "Fischstäbchen mit Dinkelbrötchen",
+    "description": "Knusprige Fischstäbchen serviert mit frischen Dinkelbrötchen, ideal für ein schnelles Mittagessen.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "schnell",
+      "einfach"
+    ],
+    "total_cost": 4.78,
+    "total_cost_original": 6.77,
+    "savings_total": 1.99,
+    "cost_per_portion": 2.39,
+    "ingredients": [
+      {
+        "name": "Frosta Fischstäbchen",
+        "amount": "225g",
+        "is_offer_product": true,
+        "offer_title_match": "Frosta Fischstäbchen",
+        "offer_price": 2.79,
+        "brand": "Frosta",
+        "package_size": "450g",
+        "supermarket_location": "Tiefkühl",
+        "article_number": "123468",
+        "barcode_ean": "4012345678913"
+      },
+      {
+        "name": "Coppenrath & Wiese Unsere Goldstücke 6 Dinkelbrötchen",
+        "amount": "420g",
+        "is_offer_product": true,
+        "offer_title_match": "Coppenrath & Wiese Unsere Goldstücke 6 Dinkelbrötchen",
+        "offer_price": 1.99,
+        "brand": "Coppenrath & Wiese",
+        "package_size": "420g",
+        "supermarket_location": "Tiefkühl",
+        "article_number": "123469",
+        "barcode_ean": "4012345678914"
+      }
+    ],
+    "steps": [
+      "Fischstäbchen nach Packungsanweisung zubereiten.",
+      "Dinkelbrötchen im Ofen aufbacken.",
+      "Fischstäbchen mit den warmen Dinkelbrötchen servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-37.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: frosta fischstäbchen, coppenrath & wiese unsere goldstücke 6 dinkelbrötchen. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-38",
+    "title": "Entenbrust mit Litschisauce",
+    "description": "Zarte Entenbrust kombiniert mit einer fruchtigen Litschisauce, ein exotisches Geschmackserlebnis.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 40,
+    "portions": 2,
+    "difficulty": "medium",
+    "tags": [
+      "fleisch",
+      "exotisch",
+      "besonders"
+    ],
+    "total_cost": 5.74,
+    "total_cost_original": 8.23,
+    "savings_total": 2.49,
+    "cost_per_portion": 2.87,
+    "ingredients": [
+      {
+        "name": "REWE Beste Wahl Barbarieentenbrust",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Beste Wahl Barbarieentenbrust",
+        "offer_price": 5.29,
+        "brand": "REWE Beste Wahl",
+        "package_size": "400g",
+        "supermarket_location": "Tiefkühl",
+        "article_number": "123470",
+        "barcode_ean": "4012345678915"
+      },
+      {
+        "name": "Litschis",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Litschis",
+        "offer_price": 0.45,
+        "brand": "",
+        "package_size": "100g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123471",
+        "barcode_ean": "4012345678916"
+      }
+    ],
+    "steps": [
+      "Entenbrust in einer Pfanne anbraten, bis sie knusprig ist.",
+      "Litschis schälen und entkernen.",
+      "Litschis in einem Topf erhitzen und zu einer Sauce pürieren.",
+      "Entenbrust mit der Litschisauce servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-38.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: beste wahl barbarieentenbrust, litschis. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-39",
+    "title": "Raclette mit Gemüse",
+    "description": "Ein klassisches Raclette mit einer Auswahl an frischem Gemüse, perfekt für einen gemütlichen Abend.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "gemütlich",
+      "einfach"
+    ],
+    "total_cost": 5.81,
+    "total_cost_original": 8.03,
+    "savings_total": 2.22,
+    "cost_per_portion": 2.91,
+    "ingredients": [
+      {
+        "name": "Emmi Raclette Scheiben natur",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Emmi Raclette Scheiben natur",
+        "offer_price": 2.22,
+        "brand": "Emmi",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123460",
+        "barcode_ean": "4012345678905"
+      },
+      {
+        "name": "Snacktomaten Mix",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Snacktomaten Mix",
+        "offer_price": 1.49,
+        "brand": "",
+        "package_size": "300g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123463",
+        "barcode_ean": "4012345678908"
+      },
+      {
+        "name": "Staudensellerie",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Staudensellerie",
+        "offer_price": 0.99,
+        "brand": "",
+        "package_size": "1 St.",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123461",
+        "barcode_ean": "4012345678906"
+      },
+      {
+        "name": "Speisemöhren",
+        "amount": "300g",
+        "is_offer_product": true,
+        "offer_title_match": "Speisemöhren",
+        "offer_price": 0.79,
+        "brand": "",
+        "package_size": "1kg",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123462",
+        "barcode_ean": "4012345678907"
+      }
+    ],
+    "steps": [
+      "Raclette-Käse in Pfännchen schmelzen.",
+      "Tomaten waschen und halbieren.",
+      "Staudensellerie in Stücke schneiden.",
+      "Möhren schälen und in Scheiben schneiden.",
+      "Gemüse mit geschmolzenem Raclette-Käse servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-39.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: emmi raclette scheiben natur, snacktomaten mix, staudensellerie, speisemöhren. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-40",
+    "title": "Kiwi-Litschisalat",
+    "description": "Ein erfrischender Obstsalat mit goldener Kiwi und süßen Litschis, perfekt als Dessert.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dessert",
+      "fruchtig",
+      "schnell"
+    ],
+    "total_cost": 1.0,
+    "total_cost_original": 1.45,
+    "savings_total": 0.45,
+    "cost_per_portion": 0.5,
+    "ingredients": [
+      {
+        "name": "Goldene Kiwi",
+        "amount": "2 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Goldene Kiwi",
+        "offer_price": 0.55,
+        "brand": "",
+        "package_size": "1 St.",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123472",
+        "barcode_ean": "4012345678917"
+      },
+      {
+        "name": "Litschis",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Litschis",
+        "offer_price": 0.45,
+        "brand": "",
+        "package_size": "100g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123471",
+        "barcode_ean": "4012345678916"
+      }
+    ],
+    "steps": [
+      "Kiwis schälen und in Scheiben schneiden.",
+      "Litschis schälen und entkernen.",
+      "Kiwi- und Litschistücke in einer Schüssel vermengen.",
+      "Nach Belieben mit etwas Honig abschmecken.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-40.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: goldene kiwi, litschis. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-41",
+    "title": "Pasta mit Sahnepudding-Dessert",
+    "description": "Eine einfache Pasta als Hauptgericht, gefolgt von einem cremigen Sahnepudding-Dessert.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 25,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "schnell",
+      "einfach",
+      "süß"
+    ],
+    "total_cost": 2.77,
+    "total_cost_original": 3.26,
+    "savings_total": 0.49,
+    "cost_per_portion": 1.39,
+    "ingredients": [
+      {
+        "name": "Barilla Classic Pasta",
+        "amount": "250g",
+        "is_offer_product": true,
+        "offer_title_match": "Barilla Classic Pasta",
+        "offer_price": 0.79,
+        "brand": "Barilla",
+        "package_size": "500g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": "123456",
+        "barcode_ean": "4012345678901"
+      },
+      {
+        "name": "Landliebe Sahnepudding",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Landliebe Sahnepudding",
+        "offer_price": 0.49,
+        "brand": "Landliebe",
+        "package_size": "150g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123473",
+        "barcode_ean": "4012345678918"
+      }
+    ],
+    "steps": [
+      "Pasta nach Packungsanweisung in Salzwasser kochen.",
+      "Pasta abgießen und mit etwas Olivenöl vermengen.",
+      "Sahnepudding in Schälchen füllen.",
+      "Pasta als Hauptgericht servieren.",
+      "Sahnepudding als Dessert genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-41.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: barilla classic pasta, landliebe sahnepudding. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-42",
+    "title": "Frühstücksbrötchen mit Vollmilchpudding",
+    "description": "Frische Sonntags-Brötchen mit einem süßen Vollmilchpudding als Dessert.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "frühstück",
+      "süß",
+      "einfach"
+    ],
+    "total_cost": 2.18,
+    "total_cost_original": 3.87,
+    "savings_total": 1.69,
+    "cost_per_portion": 1.09,
+    "ingredients": [
+      {
+        "name": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "Knack & Back Fertigteig Sonntags-Brötchen",
+        "offer_price": 1.69,
+        "brand": "Knack & Back",
+        "package_size": "400g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123474",
+        "barcode_ean": "4012345678919"
+      },
+      {
+        "name": "Landliebe Vollmilchpudding",
+        "amount": "225g",
+        "is_offer_product": true,
+        "offer_title_match": "Landliebe Vollmilchpudding",
+        "offer_price": 0.49,
+        "brand": "Landliebe",
+        "package_size": "225g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123475",
+        "barcode_ean": "4012345678920"
+      }
+    ],
+    "steps": [
+      "Brötchen nach Packungsanweisung im Ofen backen.",
+      "Vollmilchpudding in Schälchen füllen.",
+      "Brötchen warm servieren.",
+      "Vollmilchpudding als Dessert genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-42.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: knack & back fertigteig sonntags-brötchen, landliebe vollmilchpudding. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-43",
+    "title": "Haferdrink Smoothie mit Kiwi",
+    "description": "Ein erfrischender Smoothie aus Haferdrink und goldener Kiwi, ideal für einen gesunden Start in den Tag.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "getränk",
+      "gesund",
+      "schnell"
+    ],
+    "total_cost": 2.04,
+    "total_cost_original": 2.59,
+    "savings_total": 0.55,
+    "cost_per_portion": 1.02,
+    "ingredients": [
+      {
+        "name": "Alpro Barista Haferdrink",
+        "amount": "500ml",
+        "is_offer_product": true,
+        "offer_title_match": "Alpro Barista Haferdrink",
+        "offer_price": 1.49,
+        "brand": "Alpro",
+        "package_size": "1l",
+        "supermarket_location": "Lebensmittel",
+        "article_number": "123476",
+        "barcode_ean": "4012345678921"
+      },
+      {
+        "name": "Goldene Kiwi",
+        "amount": "2 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Goldene Kiwi",
+        "offer_price": 0.55,
+        "brand": "",
+        "package_size": "1 St.",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123472",
+        "barcode_ean": "4012345678917"
+      }
+    ],
+    "steps": [
+      "Kiwis schälen und in Stücke schneiden.",
+      "Haferdrink und Kiwistücke in einen Mixer geben.",
+      "Alles gut pürieren, bis ein cremiger Smoothie entsteht.",
+      "In Gläser füllen und sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-43.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: alpro barista haferdrink, goldene kiwi. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-44",
+    "title": "Choco & Cake Dessert",
+    "description": "Ein einfaches und schnelles Dessert mit Milka Choco & Cake, perfekt für Naschkatzen.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dessert",
+      "süß",
+      "schnell"
+    ],
+    "total_cost": 1.99,
+    "total_cost_original": 2.49,
+    "savings_total": 0.5,
+    "cost_per_portion": 1.0,
+    "ingredients": [
+      {
+        "name": "Milka Choco & Cake",
+        "amount": "175g",
+        "is_offer_product": true,
+        "offer_title_match": "Milka Choco & Cake",
+        "offer_price": 1.99,
+        "brand": "Milka",
+        "package_size": "175g",
+        "supermarket_location": "Süßwaren",
+        "article_number": "123477",
+        "barcode_ean": "4012345678922"
+      }
+    ],
+    "steps": [
+      "Milka Choco & Cake auspacken und auf einem Teller anrichten.",
+      "Nach Belieben mit frischen Früchten garnieren.",
+      "Sofort servieren und genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-44.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: milka choco & cake. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-45",
+    "title": "Roggenbrötchen mit Raclette-Käse",
+    "description": "Herzhafte Roggenbrötchen belegt mit geschmolzenem Raclette-Käse, ideal für ein schnelles Abendessen.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "herzhaft"
+    ],
+    "total_cost": 4.21,
+    "total_cost_original": 6.43,
+    "savings_total": 2.22,
+    "cost_per_portion": 2.11,
+    "ingredients": [
+      {
+        "name": "Coppenrath & Wiese Unsere Goldstücke 7 Roggenbrötchen",
+        "amount": "490g",
+        "is_offer_product": true,
+        "offer_title_match": "Coppenrath & Wiese Unsere Goldstücke 7 Roggenbrötchen",
+        "offer_price": 1.99,
+        "brand": "Coppenrath & Wiese",
+        "package_size": "490g",
+        "supermarket_location": "Tiefkühl",
+        "article_number": "123478",
+        "barcode_ean": "4012345678923"
+      },
+      {
+        "name": "Emmi Raclette Scheiben natur",
+        "amount": "200g",
+        "is_offer_product": true,
+        "offer_title_match": "Emmi Raclette Scheiben natur",
+        "offer_price": 2.22,
+        "brand": "Emmi",
+        "package_size": "200g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123460",
+        "barcode_ean": "4012345678905"
+      }
+    ],
+    "steps": [
+      "Roggenbrötchen im Ofen aufbacken.",
+      "Raclette-Käse auf die Brötchen legen und im Ofen schmelzen lassen.",
+      "Brötchen warm servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-45.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: coppenrath & wiese unsere goldstücke 7 roggenbrötchen, emmi raclette scheiben natur. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-46",
+    "title": "Litschis mit Sahnepudding",
+    "description": "Ein einfaches Dessert mit frischen Litschis und cremigem Sahnepudding.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dessert",
+      "süß",
+      "fruchtig"
+    ],
+    "total_cost": 0.94,
+    "total_cost_original": 1.43,
+    "savings_total": 0.49,
+    "cost_per_portion": 0.47,
+    "ingredients": [
+      {
+        "name": "Litschis",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Litschis",
+        "offer_price": 0.45,
+        "brand": "",
+        "package_size": "100g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123471",
+        "barcode_ean": "4012345678916"
+      },
+      {
+        "name": "Landliebe Sahnepudding",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Landliebe Sahnepudding",
+        "offer_price": 0.49,
+        "brand": "Landliebe",
+        "package_size": "150g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123473",
+        "barcode_ean": "4012345678918"
+      }
+    ],
+    "steps": [
+      "Litschis schälen und entkernen.",
+      "Litschis in Schälchen verteilen.",
+      "Sahnepudding über die Litschis geben.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-46.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: litschis, landliebe sahnepudding. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-47",
+    "title": "Tomaten-Käse-Salat",
+    "description": "Ein frischer Salat aus Snacktomaten und Leerdammer Käse, ideal als Beilage.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 15,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "frisch",
+      "schnell"
+    ],
+    "total_cost": 2.98,
+    "total_cost_original": 4.47,
+    "savings_total": 1.49,
+    "cost_per_portion": 1.49,
+    "ingredients": [
+      {
+        "name": "Snacktomaten Mix",
+        "amount": "300g",
+        "is_offer_product": true,
+        "offer_title_match": "Snacktomaten Mix",
+        "offer_price": 1.49,
+        "brand": "",
+        "package_size": "300g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123463",
+        "barcode_ean": "4012345678908"
+      },
+      {
+        "name": "Leerdammer Käsescheiben",
+        "amount": "140g",
+        "is_offer_product": true,
+        "offer_title_match": "Leerdammer Käsescheiben",
+        "offer_price": 1.49,
+        "brand": "Leerdammer",
+        "package_size": "140g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123465",
+        "barcode_ean": "4012345678910"
+      }
+    ],
+    "steps": [
+      "Tomaten waschen und halbieren.",
+      "Leerdammer Käse in kleine Stücke schneiden.",
+      "Tomaten und Käse in einer Schüssel vermengen.",
+      "Mit Salz, Pfeffer und etwas Olivenöl abschmecken.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-47.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: snacktomaten mix, käsescheiben. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-48",
+    "title": "Kartoffel-Möhren-Pfanne",
+    "description": "Eine einfache und gesunde Pfanne aus Kartoffeln und Möhren, perfekt als Beilage oder Hauptgericht.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 30,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "vegetarisch",
+      "gesund",
+      "einfach"
+    ],
+    "total_cost": 2.08,
+    "total_cost_original": 2.87,
+    "savings_total": 0.79,
+    "cost_per_portion": 1.04,
+    "ingredients": [
+      {
+        "name": "Speisekartoffeln »Raclette«",
+        "amount": "500g",
+        "is_offer_product": true,
+        "offer_title_match": "Speisekartoffeln »Raclette«",
+        "offer_price": 1.29,
+        "brand": "",
+        "package_size": "1.5kg",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      },
+      {
+        "name": "Speisemöhren",
+        "amount": "500g",
+        "is_offer_product": true,
+        "offer_title_match": "Speisemöhren",
+        "offer_price": 0.79,
+        "brand": "",
+        "package_size": "1kg",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123462",
+        "barcode_ean": "4012345678907"
+      }
+    ],
+    "steps": [
+      "Kartoffeln schälen und in Würfel schneiden.",
+      "Möhren schälen und in Scheiben schneiden.",
+      "Kartoffeln und Möhren in einer Pfanne mit etwas Öl anbraten.",
+      "Mit Salz und Pfeffer abschmecken.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-48.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: potatoes »raclette«, speisemöhren. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-49",
+    "title": "Feldsalat mit Lachs und Kiwi",
+    "description": "Ein frischer Salat aus Feldsalat, zartem Lachs und goldener Kiwi, ideal für ein leichtes Mittagessen.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 20,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "gesund",
+      "frisch"
+    ],
+    "total_cost": 5.55,
+    "total_cost_original": 7.99,
+    "savings_total": 2.44,
+    "cost_per_portion": 2.78,
+    "ingredients": [
+      {
+        "name": "Feldsalat",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Feldsalat",
+        "offer_price": 1.11,
+        "brand": "",
+        "package_size": "150g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123458",
+        "barcode_ean": "4012345678903"
+      },
+      {
+        "name": "REWE Feine Welt Kodiak Sockeye Wildlachs",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Kodiak Sockeye Wildlachs",
+        "offer_price": 3.89,
+        "brand": "REWE Feine Welt",
+        "package_size": "100g",
+        "supermarket_location": "Kühlregal",
+        "article_number": "123457",
+        "barcode_ean": "4012345678902"
+      },
+      {
+        "name": "Goldene Kiwi",
+        "amount": "1 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Goldene Kiwi",
+        "offer_price": 0.55,
+        "brand": "",
+        "package_size": "1 St.",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123472",
+        "barcode_ean": "4012345678917"
+      }
+    ],
+    "steps": [
+      "Feldsalat waschen und trocken schleudern.",
+      "Lachs in Streifen schneiden.",
+      "Kiwi schälen und in Scheiben schneiden.",
+      "Feldsalat, Lachs und Kiwi auf Tellern anrichten.",
+      "Mit einem Dressing nach Wahl servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-49.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: feldsalat, feine welt kodiak sockeye wildlachs, goldene kiwi. served in a bowl. top-down angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-50",
+    "title": "Milka Tender Dessert",
+    "description": "Ein süßes Dessert mit Milka Tender, ideal für Schokoladenliebhaber.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "dessert",
+      "süß",
+      "schokolade"
+    ],
+    "total_cost": 1.99,
+    "total_cost_original": 2.49,
+    "savings_total": 0.5,
+    "cost_per_portion": 1.0,
+    "ingredients": [
+      {
+        "name": "Milka Tender",
+        "amount": "5 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Milka Tender",
+        "offer_price": 1.99,
+        "brand": "Milka",
+        "package_size": "5 x 37g",
+        "supermarket_location": "Süßwaren",
+        "article_number": "123479",
+        "barcode_ean": "4012345678924"
+      }
+    ],
+    "steps": [
+      "Milka Tender auspacken und auf einem Teller anrichten.",
+      "Nach Belieben mit Sahne oder Früchten garnieren.",
+      "Sofort servieren und genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-50.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: milka tender. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-51",
+    "title": "Doritos Nacho Cheese Snack",
+    "description": "Ein knuspriger Snack aus Doritos Nacho Cheese, perfekt für einen gemütlichen Abend.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "snack",
+      "schnell",
+      "knusprig"
+    ],
+    "total_cost": 0.99,
+    "total_cost_original": 1.49,
+    "savings_total": 0.5,
+    "cost_per_portion": 0.5,
+    "ingredients": [
+      {
+        "name": "Doritos Nacho Cheese",
+        "amount": "110g",
+        "is_offer_product": true,
+        "offer_title_match": "Doritos Nacho Cheese",
+        "offer_price": 0.99,
+        "brand": "Doritos",
+        "package_size": "110g",
+        "supermarket_location": "Süßwaren",
+        "article_number": "123480",
+        "barcode_ean": "4012345678925"
+      }
+    ],
+    "steps": [
+      "Doritos Nacho Cheese in eine Schüssel füllen.",
+      "Nach Belieben mit einem Dip servieren.",
+      "Sofort genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-51.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: doritos nacho cheese. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-52",
+    "title": "Lays Chips Snack",
+    "description": "Ein klassischer Snack aus Lays Chips, ideal für zwischendurch.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "snack",
+      "schnell",
+      "klassisch"
+    ],
+    "total_cost": 0.99,
+    "total_cost_original": 1.49,
+    "savings_total": 0.5,
+    "cost_per_portion": 0.5,
+    "ingredients": [
+      {
+        "name": "Lay’s Chips",
+        "amount": "150g",
+        "is_offer_product": true,
+        "offer_title_match": "Lay’s Chips",
+        "offer_price": 0.99,
+        "brand": "Lay’s",
+        "package_size": "150g",
+        "supermarket_location": "Süßwaren",
+        "article_number": "123481",
+        "barcode_ean": "4012345678926"
+      }
+    ],
+    "steps": [
+      "Lays Chips in eine Schüssel füllen.",
+      "Nach Belieben mit einem Dip servieren.",
+      "Sofort genießen."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-52.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: lay’s chips. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-53",
+    "title": "Schlemmerfilet mit Kartoffeln",
+    "description": "Ein herzhaftes Schlemmerfilet serviert mit Kartoffeln, ideal für ein schnelles Abendessen.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 35,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "fisch",
+      "schnell",
+      "einfach"
+    ],
+    "total_cost": 4.08,
+    "total_cost_original": 5.37,
+    "savings_total": 1.29,
+    "cost_per_portion": 2.04,
+    "ingredients": [
+      {
+        "name": "Frosta Schlemmerfilet",
+        "amount": "360g",
+        "is_offer_product": true,
+        "offer_title_match": "Frosta Schlemmerfilet",
+        "offer_price": 2.79,
+        "brand": "Frosta",
+        "package_size": "360g",
+        "supermarket_location": "Tiefkühl",
+        "article_number": "123482",
+        "barcode_ean": "4012345678927"
+      },
+      {
+        "name": "Speisekartoffeln »Raclette«",
+        "amount": "500g",
+        "is_offer_product": true,
+        "offer_title_match": "Speisekartoffeln »Raclette«",
+        "offer_price": 1.29,
+        "brand": "",
+        "package_size": "1.5kg",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123459",
+        "barcode_ean": "4012345678904"
+      }
+    ],
+    "steps": [
+      "Schlemmerfilet nach Packungsanweisung im Ofen zubereiten.",
+      "Kartoffeln schälen und in Salzwasser kochen.",
+      "Kartoffeln abgießen und mit dem Schlemmerfilet servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-53.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: frosta schlemmerfilet, potatoes »raclette«. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-54",
+    "title": "Entenbrust mit Pommes Frites",
+    "description": "Zarte Entenbrust serviert mit knusprigen Pommes Frites, ein Genuss für Fleischliebhaber.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 40,
+    "portions": 2,
+    "difficulty": "medium",
+    "tags": [
+      "fleisch",
+      "schnell",
+      "herzhaft"
+    ],
+    "total_cost": 5.73,
+    "total_cost_original": 8.52,
+    "savings_total": 2.79,
+    "cost_per_portion": 2.87,
+    "ingredients": [
+      {
+        "name": "REWE Beste Wahl Barbarieentenbrust",
+        "amount": "400g",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Beste Wahl Barbarieentenbrust",
+        "offer_price": 5.29,
+        "brand": "REWE Beste Wahl",
+        "package_size": "400g",
+        "supermarket_location": "Tiefkühl",
+        "article_number": "123470",
+        "barcode_ean": "4012345678915"
+      },
+      {
+        "name": "Maggi Airfryer Paprika Pommes Frites",
+        "amount": "34g",
+        "is_offer_product": true,
+        "offer_title_match": "Maggi Airfryer Paprika Pommes Frites",
+        "offer_price": 0.44,
+        "brand": "Maggi",
+        "package_size": "34g",
+        "supermarket_location": "Lebensmittel",
+        "article_number": "123466",
+        "barcode_ean": "4012345678911"
+      }
+    ],
+    "steps": [
+      "Entenbrust in einer Pfanne anbraten, bis sie knusprig ist.",
+      "Pommes Frites nach Packungsanweisung im Airfryer zubereiten.",
+      "Entenbrust mit den Pommes Frites servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-54.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: beste wahl barbarieentenbrust, maggi airfryer paprika pommes frites. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-55",
+    "title": "Limoncello-Kiwi-Cocktail",
+    "description": "Ein erfrischender Cocktail aus Limoncello und goldener Kiwi, perfekt für einen Sommerabend.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 10,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "getränk",
+      "erfrischend",
+      "sommer"
+    ],
+    "total_cost": 7.54,
+    "total_cost_original": 8.09,
+    "savings_total": 0.55,
+    "cost_per_portion": 3.77,
+    "ingredients": [
+      {
+        "name": "REWE Feine Welt Limoncello",
+        "amount": "100ml",
+        "is_offer_product": true,
+        "offer_title_match": "REWE Feine Welt Limoncello oder Peachello",
+        "offer_price": 6.99,
+        "brand": "REWE Feine Welt",
+        "package_size": "0.7l",
+        "supermarket_location": "Wein & Spirituosen",
+        "article_number": "123483",
+        "barcode_ean": "4012345678928"
+      },
+      {
+        "name": "Goldene Kiwi",
+        "amount": "2 Stück",
+        "is_offer_product": true,
+        "offer_title_match": "Goldene Kiwi",
+        "offer_price": 0.55,
+        "brand": "",
+        "package_size": "1 St.",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123472",
+        "barcode_ean": "4012345678917"
+      }
+    ],
+    "steps": [
+      "Kiwis schälen und in Stücke schneiden.",
+      "Kiwi-Stücke in ein Glas geben.",
+      "Limoncello darüber gießen.",
+      "Mit Eiswürfeln auffüllen und servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-55.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: feine welt limoncello, goldene kiwi. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  },
+  {
+    "id": "nahkauf-56",
+    "title": "Crémant mit Litschis",
+    "description": "Ein prickelnder Crémant serviert mit frischen Litschis, ideal für besondere Anlässe.",
+    "supermarket": "nahkauf",
+    "estimated_total_time_minutes": 5,
+    "portions": 2,
+    "difficulty": "easy",
+    "tags": [
+      "getränk",
+      "prickelnd",
+      "besonders"
+    ],
+    "total_cost": 6.44,
+    "total_cost_original": 6.99,
+    "savings_total": 0.55,
+    "cost_per_portion": 3.22,
+    "ingredients": [
+      {
+        "name": "LaCheteau Crémant de Loire Brut",
+        "amount": "150ml",
+        "is_offer_product": true,
+        "offer_title_match": "LaCheteau Crémant de Loire Brut",
+        "offer_price": 5.99,
+        "brand": "LaCheteau",
+        "package_size": "0.75l",
+        "supermarket_location": "Wein & Spirituosen",
+        "article_number": "123484",
+        "barcode_ean": "4012345678929"
+      },
+      {
+        "name": "Litschis",
+        "amount": "100g",
+        "is_offer_product": true,
+        "offer_title_match": "Litschis",
+        "offer_price": 0.45,
+        "brand": "",
+        "package_size": "100g",
+        "supermarket_location": "Obst & Gemüse",
+        "article_number": "123471",
+        "barcode_ean": "4012345678916"
+      }
+    ],
+    "steps": [
+      "Litschis schälen und entkernen.",
+      "Litschis in ein Glas geben.",
+      "Crémant darüber gießen.",
+      "Sofort servieren."
+    ],
+    "image_path": "server/media/recipe_images/unknown/nahkauf-56.webp",
+    "image_prompt": "Ultra realistic food photography of Unknown Dish. Visible ingredients: lacheteau crémant de loire brut, litschis. served on a white plate. 45-degree angle, natural daylight, soft shadows, shallow depth of field, clean neutral background, no text, no logos, no packaging, no watermark, professional food styling, appetizing look.",
+    "image_provider": "openai",
+    "image_status": "generated"
+  }
+]
