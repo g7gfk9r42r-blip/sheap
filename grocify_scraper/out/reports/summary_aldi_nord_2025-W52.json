@@ -1,0 +1,14 @@
+{
+  "supermarket": "aldi_nord",
+  "week_key": "2025-W52",
+  "total_offers": 19,
+  "total_recipes": 50,
+  "flagged_offers": 1,
+  "flag_rate": 0.05263157894736842,
+  "validation_summary": {
+    "passed": 18,
+    "flagged": 1,
+    "rejected": 0
+  },
+  "generated_at": "2025-12-23T14:42:25.946226"
+}

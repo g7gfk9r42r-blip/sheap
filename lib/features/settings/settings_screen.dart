@@ -19,8 +19,6 @@ class SettingsScreen extends StatefulWidget {
 
 class _SettingsScreenState extends State<SettingsScreen> {
   SharedPreferences? _prefs;
-  bool _showWaterTracker = true;
-  bool _showWeightTracker = true;
   bool _personalizationEnabled = true;
   String _language = 'Deutsch';
 
@@ -45,8 +43,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
   Future<void> _loadPreferences() async {
     _prefs = await SharedPreferences.getInstance();
     setState(() {
-      _showWaterTracker = _prefs?.getBool('home_show_water_goal') ?? true;
-      _showWeightTracker = _prefs?.getBool('home_show_weight_tracking') ?? true;
       _language = _prefs?.getString('profile_language') ?? 'Deutsch';
     });
   }
@@ -102,20 +98,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
     } else {
       await _prefs?.setString(key, value.toString());
     }
-  }
-
-  Future<void> _toggleWaterTracker(bool value) async {
-    setState(() {
-      _showWaterTracker = value;
-    });
-    await _prefs?.setBool('home_show_water_goal', value);
-  }
-
-  Future<void> _toggleWeightTracker(bool value) async {
-    setState(() {
-      _showWeightTracker = value;
-    });
-    await _prefs?.setBool('home_show_weight_tracking', value);
   }
 
   Future<void> _clearCache() async {
@@ -329,28 +311,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   const SizedBox(height: 28),
 
                   _buildSectionTitle('Allgemein'),
-                  const SizedBox(height: 12),
-                  _buildSettingsItem(
-                    icon: Icons.water_drop_rounded,
-                    title: 'Wassertracker',
-                    trailing: Switch(
-                      value: _showWaterTracker,
-                      onChanged: _toggleWaterTracker,
-                      activeTrackColor: GrocifyTheme.primary,
-                      activeThumbColor: Colors.white,
-                    ),
-                  ),
-                  const SizedBox(height: 12),
-                  _buildSettingsItem(
-                    icon: Icons.monitor_weight_rounded,
-                    title: 'Gewichtstracker',
-                    trailing: Switch(
-                      value: _showWeightTracker,
-                      onChanged: _toggleWeightTracker,
-                      activeTrackColor: GrocifyTheme.primary,
-                      activeThumbColor: Colors.white,
-                    ),
-                  ),
                   const SizedBox(height: 12),
                   _buildSettingsItem(
                     icon: Icons.delete_sweep_rounded,

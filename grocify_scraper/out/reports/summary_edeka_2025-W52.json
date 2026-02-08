@@ -1,0 +1,14 @@
+{
+  "supermarket": "edeka",
+  "week_key": "2025-W52",
+  "total_offers": 9,
+  "total_recipes": 50,
+  "flagged_offers": 2,
+  "flag_rate": 0.2222222222222222,
+  "validation_summary": {
+    "passed": 7,
+    "flagged": 2,
+    "rejected": 0
+  },
+  "generated_at": "2025-12-23T14:43:14.917408"
+}

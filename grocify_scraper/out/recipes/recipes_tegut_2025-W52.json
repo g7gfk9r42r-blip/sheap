@@ -1,0 +1,7428 @@
+[
+  {
+    "id": "8c4c8f3e9cb4f373",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 1",
+    "servings": 2,
+    "cookTimeMinutes": 17,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "9812efce448b8d38",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 2",
+    "servings": 2,
+    "cookTimeMinutes": 27,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "96ad090c84b272f5",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 3",
+    "servings": 2,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "105dd803f70de951",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 4",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "c3f34e7e114f6267",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 5",
+    "servings": 2,
+    "cookTimeMinutes": 29,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "569739a4f590558e",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 6",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "861498bfe8b63704",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 7",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "a616f5414c97060e",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 8",
+    "servings": 2,
+    "cookTimeMinutes": 17,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "d271c38a1e10ffe2",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 9",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "250094e0855f0f3d",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 10",
+    "servings": 2,
+    "cookTimeMinutes": 29,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "605c1e8e57e2b34a",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 11",
+    "servings": 2,
+    "cookTimeMinutes": 29,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "c8da586c60f8318f",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 12",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "f668ab269259ec96",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 13",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "135d6f75e3b76e26",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 14",
+    "servings": 2,
+    "cookTimeMinutes": 23,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "374c396b47075ddd",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 15",
+    "servings": 2,
+    "cookTimeMinutes": 23,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "c949ab6d43a2834a",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 16",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "ebf7d7b9ee077360",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 17",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "22d5e17fb0bb9478",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 18",
+    "servings": 2,
+    "cookTimeMinutes": 30,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "5a9d0a4faf7fdf83",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 19",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "9d1be13d9b3e92bb",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 20",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "bd7565fab158852b",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 21",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "7ca20a7195e6f7bd",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 22",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "98dbc2bae2d4628f",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 23",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "a71fa04cd2a91b1a",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 24",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "48538376ac5a82fd",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 25",
+    "servings": 2,
+    "cookTimeMinutes": 24,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "bdf01aff392ae496",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 26",
+    "servings": 2,
+    "cookTimeMinutes": 21,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6be7473e64fc6648",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 27",
+    "servings": 2,
+    "cookTimeMinutes": 28,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "a05af6894163a649",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 28",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "2bbb898fb33ca349",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 29",
+    "servings": 2,
+    "cookTimeMinutes": 17,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "aba2e65b5bafcb04",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 30",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "b354f352cfa03316",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 31",
+    "servings": 2,
+    "cookTimeMinutes": 24,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "dcbed937f3347070",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 32",
+    "servings": 2,
+    "cookTimeMinutes": 30,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "3a0f41a926ff2d5c",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 33",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "7f735fd7b7749104",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 34",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "a7bf45f66bf72c76",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 35",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "32e1802fbbfd994f",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 36",
+    "servings": 2,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "cd245d444220b362",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 37",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "8ca0406357fa7f5a",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 38",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "bf1d50813785011b",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 39",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "8482ac2cd99c43b1",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 40",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "9cb03801b1ffc15a",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 41",
+    "servings": 2,
+    "cookTimeMinutes": 27,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "2dc65889adfce0ba",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 42",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "f645da00b0c70bca",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 43",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "b2a7d9c0ac3d6374",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 44",
+    "servings": 2,
+    "cookTimeMinutes": 29,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "9bd899eaa1c73007",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 45",
+    "servings": 2,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "942db6bc573d0b5b",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 46",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "f2e340d49e820eca",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 47",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "32711625835daa0b",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 48",
+    "servings": 2,
+    "cookTimeMinutes": 24,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "82c214ddb74f2568",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 49",
+    "servings": 2,
+    "cookTimeMinutes": 23,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "63172e70610958c9",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 50",
+    "servings": 2,
+    "cookTimeMinutes": 17,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "35534dbf23a57b1f",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 51",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "8dccb03f6b486d66",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 52",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "0c30d36d4025bb36",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 53",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "d9a19e040f5a0a21",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 54",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "52d404aae610ad60",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 55",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "884a7d279fbe5837",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 56",
+    "servings": 2,
+    "cookTimeMinutes": 24,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "2e41cee4d17b6666",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 57",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "408fb42be01c2562",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 58",
+    "servings": 2,
+    "cookTimeMinutes": 24,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6be6a451b83f4323",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 59",
+    "servings": 2,
+    "cookTimeMinutes": 23,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "c4f9f1e3fd52bc56",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 60",
+    "servings": 2,
+    "cookTimeMinutes": 21,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "bdeac6feeaf28533",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 61",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "0260653af4b47919",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 62",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "5622287bbe285fb2",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 63",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "3f39d25a076c6d2a",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 64",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6aa2185e76ba89de",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 65",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "faacc189f5e8ab6a",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 66",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "b54d02d650f7aecc",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 67",
+    "servings": 2,
+    "cookTimeMinutes": 29,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "e3511b34050416b7",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 68",
+    "servings": 2,
+    "cookTimeMinutes": 30,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "0328ee8fbdaa3abc",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 69",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "d884bae2c0dac4a6",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 70",
+    "servings": 2,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "f7631fd578ebe6fa",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 71",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "2adf6a727897600e",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 72",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "35267bce0b594c25",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 73",
+    "servings": 2,
+    "cookTimeMinutes": 28,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "86e6bb41a8b494c8",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 74",
+    "servings": 2,
+    "cookTimeMinutes": 23,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6b2f3a9d7898b212",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 75",
+    "servings": 2,
+    "cookTimeMinutes": 23,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "86cb66fdb9029f8c",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 76",
+    "servings": 2,
+    "cookTimeMinutes": 21,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "401b749b44184979",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 77",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "ea5660f7bd702862",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 78",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "866be45be70df163",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 79",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "34f3ec84db3f898f",
+    "supermarket": "tegut",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 80",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  }
+]

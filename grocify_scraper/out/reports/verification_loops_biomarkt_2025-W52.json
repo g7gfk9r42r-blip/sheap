@@ -1,0 +1,137 @@
+{
+  "loops": [
+    {
+      "loop": 1,
+      "pdf_count": 49,
+      "raw_count": 31,
+      "total_count": 80,
+      "growth_rate": 1.0,
+      "info": [
+        "Initial extraction"
+      ]
+    },
+    {
+      "loop": 2,
+      "pdf_count": 138,
+      "raw_count": 31,
+      "total_count": 169,
+      "growth_rate": 1.1125,
+      "info": [
+        "Completeness recheck: 89 new offers"
+      ]
+    },
+    {
+      "loop": 3,
+      "pdf_count": 138,
+      "raw_count": 31,
+      "total_count": 169,
+      "growth_rate": 0.0,
+      "info": [
+        "Microtext pass: completed in extraction"
+      ]
+    }
+  ],
+  "final_count": 78,
+  "stabilized": true,
+  "reconcile_report": {
+    "pdf_count": 138,
+    "list_count": 31,
+    "merged_count": 78,
+    "matches": [
+      {
+        "list_id": "69e1f66135af100d",
+        "pdf_id": "e5abc8ddefce8f4d",
+        "score": 0.7271186440677966
+      },
+      {
+        "list_id": "c63854d43b839d6e",
+        "pdf_id": "ffc4f8c584c68345",
+        "score": 0.7384615384615384
+      },
+      {
+        "list_id": "3de33e9909e6a152",
+        "pdf_id": "7a6c77ed63f5ff7d",
+        "score": 0.7181818181818181
+      }
+    ],
+    "pdf_only": [
+      "9573d2c686d8a74d",
+      "3269ddd0ddff5139",
+      "25bd5dbb4cabe24d",
+      "e291d3c44733724a",
+      "9e991c9f4612dad4",
+      "0ff8a1b70366d871",
+      "dcd0581f147c3493",
+      "f5c56951eb552442",
+      "da4b462aa30239c8",
+      "d697a71e8b0fe46e",
+      "031132c4f6afc9ad",
+      "eb9d729e06c9d76c",
+      "29bb3f4ceeb0d7c8",
+      "4d583faa735866bd",
+      "7577329d077a4c81",
+      "9e076f73ec9ec8f1",
+      "7c6cdd0f9b5ce669",
+      "26300ce975648649",
+      "5d9a50e26fb7ed34",
+      "ef160dfb66e185e7",
+      "3d065cd3fa747cb2",
+      "30201dd39e64c4a9",
+      "8e1bee21179c9c63",
+      "58b7751a9c20f618",
+      "3d42a73feedc5cda",
+      "c50d13ef537bb30e",
+      "13450109de37ea38",
+      "cdba157ff45497fe",
+      "835f5dca69e50551",
+      "96f95ef5e56ddd49",
+      "8609869e8c394119",
+      "23ed60ab9af26761",
+      "bdbda264515e627b",
+      "2954e2672b9a618d",
+      "1f280c010b00f1dd",
+      "f414d9fc86d4cd96",
+      "4bb343c942ad7f82",
+      "ab8b07e7729d982a",
+      "7d2a9cec9385ce05",
+      "557ce39503ba3f0f",
+      "22993a602c520077",
+      "769fbc260f228cd5",
+      "d49a1294cfb36e0f",
+      "b121d41f506f3977",
+      "e8665baecad51f69",
+      "7776d22b28233b66",
+      "{'name': 'Feldsalat oder Feldsalat-Mix', 'brand': 'null', 'price': 1.99, 'unit': '125 g', 'loyalty_price': '1,99', 'loyalty_label': None, 'discount': None, 'category': 'Gemüse', 'multi_price_info': 'je 125-g-Beutel (1 kg = 15,92)', 'valid_from': '17.12.2025', 'valid_to': '31.12.2025'}"
+    ],
+    "list_only": [
+      "c67670197b53a659",
+      "ad13b37b89ee1d7e",
+      "0f0a433640069f43",
+      "2b9931bf003f254c",
+      "db32834024ce7f62",
+      "3559e32908b7c607",
+      "22e708104a8f6413",
+      "be44c8508d08f968",
+      "f92625f1a562ca72",
+      "07bed8f02e0f3fbd",
+      "3ff38433312ddcbe",
+      "0b5e7b485930a582",
+      "c9a2912efeb846d2",
+      "90c5fee4d198d386",
+      "cfe23e535289c1d3",
+      "805b105d7d94c4a0",
+      "4f48a7b6f1d21660",
+      "cacb45c401da3928",
+      "8f4b26c101ba2eff",
+      "dbecf6220885db34",
+      "ea5455dde74f40b6",
+      "d3fc2eb16dea10a9",
+      "7ceacc16725d6a1b",
+      "45cd53f2c2014fa3",
+      "9dc592016c3bd685",
+      "2fbb91966668710a",
+      "c71af8be5ee498ef",
+      "7460caba705099c7"
+    ]
+  }
+}

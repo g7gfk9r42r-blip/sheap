@@ -1,0 +1,3207 @@
+{
+  "retailer": "NAHKAUF",
+  "week_key": "2026-W05",
+  "valid_from": "2026-01-26",
+  "recipes": [
+    {
+      "id": "R001",
+      "slug": "haferdrink-smoothie",
+      "title": "Haferdrink Smoothie",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Oatly Haferdrink Barista",
+          "brand": "Oatly",
+          "unit": "l",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Oatly Haferdrink Barista",
+          "brand": "Oatly",
+          "unit": "l",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        }
+      ],
+      "without_offers": [
+        "Banane (1 Stk)"
+      ],
+      "steps": [
+        "Haferdrink in einen Mixer geben.",
+        "Banane, Honig und Zimt hinzufügen.",
+        "Alles gut mixen, bis eine cremige Konsistenz erreicht ist.",
+        "In Gläser füllen und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R002",
+      "slug": "graved-lachs-salat",
+      "title": "Graved Lachs Salat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienarm",
+        "Laktosefrei",
+        "High Protein"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Meine Lieblinge Bio-Graved Lachs",
+          "brand": "Meine Lieblinge",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 1,
+          "used_amount": 80.0,
+          "price_eur": 3.79,
+          "price_before_eur": 3.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Rucola",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 0.85
+        }
+      ],
+      "without_offers": [
+        "Zitrone (1/2 Stk)",
+        "Olivenöl (1 EL)"
+      ],
+      "steps": [
+        "Rucola waschen und auf einem Teller anrichten.",
+        "Graved Lachs in Streifen schneiden und auf den Rucola legen.",
+        "Mit Zitronensaft, Olivenöl und Pfeffer würzen.",
+        "Sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R003",
+      "slug": "pizza-salami",
+      "title": "Pizza Salami",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "Laktosefrei",
+        "High Protein"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Original Wagner Steinofen Pizza Salami",
+          "brand": "Wagner",
+          "unit": "g",
+          "pack_size": 320,
+          "packs_used": 1,
+          "used_amount": 320.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Original Wagner Steinofen Pizza Salami",
+          "brand": "Wagner",
+          "unit": "g",
+          "pack_size": 320,
+          "packs_used": 1,
+          "used_amount": 320.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Oregano (1 TL)"
+      ],
+      "steps": [
+        "Pizza nach Packungsanleitung im Ofen backen.",
+        "Nach dem Backen mit Olivenöl beträufeln.",
+        "Mit Oregano und Paprika garnieren.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R004",
+      "slug": "jogurt-parfait",
+      "title": "Jogurt Parfait",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienarm",
+        "Laktosefrei",
+        "High Protein"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        }
+      ],
+      "without_offers": [
+        "Honig (2 EL)"
+      ],
+      "steps": [
+        "Jogurt in Schalen verteilen.",
+        "Mit Honig, Müsli und Beeren garnieren.",
+        "Sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R005",
+      "slug": "snickers-brownies",
+      "title": "Snickers Brownies",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "Vegetarisch",
+        "High Protein"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Mars Snickers Minis",
+          "brand": "Mars",
+          "unit": "g",
+          "pack_size": 227,
+          "packs_used": 1,
+          "used_amount": 227.0,
+          "price_eur": 2.99,
+          "price_before_eur": 2.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Mars Snickers Minis",
+          "brand": "Mars",
+          "unit": "g",
+          "pack_size": 227,
+          "packs_used": 1,
+          "used_amount": 227.0,
+          "price_eur": 2.99,
+          "price_before_eur": 2.99
+        }
+      ],
+      "without_offers": [
+        "Butter (100 g)"
+      ],
+      "steps": [
+        "Butter und Zucker schmelzen und gut verrühren.",
+        "Mehl hinzufügen und zu einem Teig vermengen.",
+        "Snickers klein schneiden und unter den Teig heben.",
+        "In eine Backform geben und bei 180°C ca. 20 Minuten backen.",
+        "Abkühlen lassen und in Stücke schneiden."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R006",
+      "slug": "grillhaehnchen-salat",
+      "title": "Grillhähnchen Salat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Wiesenhof Hähnchen Grillbraten",
+          "brand": "Wiesenhof",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 2,
+          "used_amount": 160.0,
+          "price_eur": 2.98,
+          "price_before_eur": 2.98
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Rucola",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 0.85
+        }
+      ],
+      "without_offers": [
+        "Kirschtomaten (100 g)",
+        "Olivenöl (1 EL)"
+      ],
+      "steps": [
+        "Hähnchen grillen und in Streifen schneiden.",
+        "Rucola und Kirschtomaten in einer Schüssel vermengen.",
+        "Hähnchenstreifen hinzufügen und mit Olivenöl und Balsamico anrichten.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R007",
+      "slug": "haferflocken-pancakes",
+      "title": "Haferflocken Pancakes",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Kölln Bio Haferflocken",
+          "brand": "Kölln",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Kölln Bio Haferflocken",
+          "brand": "Kölln",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        }
+      ],
+      "without_offers": [
+        "Ei (2 Stk)"
+      ],
+      "steps": [
+        "Haferflocken mit Milch und Ei vermengen.",
+        "Backpulver hinzufügen und gut verrühren.",
+        "In einer Pfanne kleine Pancakes ausbacken.",
+        "Mit Honig oder Früchten servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R008",
+      "slug": "pasta-mit-lachs",
+      "title": "Pasta mit Lachs",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Laktosefrei",
+        "Kalorienreich"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Followfood Bio Lachs Filets",
+          "brand": "Followfood",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 7.99,
+          "price_before_eur": 7.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Followfood Bio Lachs Filets",
+          "brand": "Followfood",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 7.99,
+          "price_before_eur": 7.99
+        }
+      ],
+      "without_offers": [
+        "Pasta (250 g)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanleitung kochen.",
+        "Zwiebel anbraten und Lachs hinzufügen.",
+        "Sahne unterrühren und mit der Pasta vermengen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R009",
+      "slug": "obstsalat",
+      "title": "Obstsalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Helle Tafeltrauben",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Helle Tafeltrauben",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        }
+      ],
+      "without_offers": [
+        "Äpfel (2 Stk)"
+      ],
+      "steps": [
+        "Äpfel und Orangen klein schneiden.",
+        "Trauben hinzufügen und alles vermengen.",
+        "Mit Zitronensaft beträufeln und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R010",
+      "slug": "schnelle-suppe",
+      "title": "Schnelle Suppe",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Knorr Suppenliebe",
+          "brand": "Knorr",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 0.69,
+          "price_before_eur": 0.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Knorr Suppenliebe",
+          "brand": "Knorr",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 0.69,
+          "price_before_eur": 0.69
+        }
+      ],
+      "without_offers": [
+        "Karotten (2 Stk)"
+      ],
+      "steps": [
+        "Knorr Suppenliebe in Wasser auflösen.",
+        "Karotten und Sellerie klein schneiden und hinzufügen.",
+        "Kurz aufkochen und mit Petersilie garnieren.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R011",
+      "slug": "creamy-chicken-salad",
+      "title": "Cremiger Hähnchensalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Wiesenhof Hähnchen Grillbraten",
+          "brand": "Wiesenhof",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 2,
+          "used_amount": 160.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Miracel Whip Salatcreme",
+          "brand": "Miracel",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Paprika (1 Stk)",
+        "Rucola (50 g)"
+      ],
+      "steps": [
+        "Hähnchen Grillbraten in kleine Stücke schneiden.",
+        "Zwiebel und Paprika fein würfeln.",
+        "In einer Schüssel Hähnchen, Zwiebel, Paprika, Jogurt und Salatcreme vermengen.",
+        "Mit Salz und Pfeffer abschmecken.",
+        "Rucola unterheben und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R012",
+      "slug": "spicy-salmon-pizza",
+      "title": "Würzige Lachs-Pizza",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Original Wagner Steinofen Pizza Salami",
+          "brand": "Wagner",
+          "unit": "g",
+          "pack_size": 320,
+          "packs_used": 1,
+          "used_amount": 320.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Meine Lieblinge Bio-Graved Lachs",
+          "brand": "Meine Lieblinge",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 2,
+          "used_amount": 160.0,
+          "price_eur": 3.79,
+          "price_before_eur": 3.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Grünländer mild & nussig Scheiben",
+          "brand": "Grünländer",
+          "unit": "g",
+          "pack_size": 140,
+          "packs_used": 1,
+          "used_amount": 140.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Chili (1/2 Stk)",
+        "Zwiebel (1 Stk)",
+        "Oliven (50 g)"
+      ],
+      "steps": [
+        "Pizza nach Packungsanleitung backen.",
+        "In der Zwischenzeit Lachs in Stücke schneiden.",
+        "Zwiebel und Chili fein hacken.",
+        "Pizza nach dem Backen mit Lachs, Zwiebel und Oliven belegen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R013",
+      "slug": "hearty-yogurt-bowl",
+      "title": "Herzhafte Joghurt-Bowl",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Rucola",
+          "brand": "NA",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 0.85
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Grünländer mild & nussig Scheiben",
+          "brand": "Grünländer",
+          "unit": "g",
+          "pack_size": 140,
+          "packs_used": 1,
+          "used_amount": 140.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Tomate (1 Stk)",
+        "Paprika (1 Stk)",
+        "Oliven (50 g)"
+      ],
+      "steps": [
+        "Joghurt in eine Schüssel geben.",
+        "Rucola, gewürfelte Tomate und Paprika hinzufügen.",
+        "Grünländer Scheiben klein schneiden und untermischen.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R014",
+      "slug": "sweet-snack-bites",
+      "title": "Süße Snack-Bites",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 6,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "Vegetarisch",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Mars Snickers Minis",
+          "brand": "Mars",
+          "unit": "g",
+          "pack_size": 227,
+          "packs_used": 1,
+          "used_amount": 227.0,
+          "price_eur": 2.99,
+          "price_before_eur": 2.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Oatly Haferdrink Barista",
+          "brand": "Oatly",
+          "unit": "l",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "REWE Bio Hafer Cookies Milchschokolade",
+          "brand": "REWE",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.59,
+          "price_before_eur": 2.59
+        }
+      ],
+      "without_offers": [
+        "Honig (2 EL)",
+        "Nüsse (50 g)",
+        "Zimt (1 TL)"
+      ],
+      "steps": [
+        "Snickers in kleine Stücke schneiden.",
+        "Haferdrink und Honig in einer Schüssel vermengen.",
+        "Snickers und zerbröselte Hafer Cookies hinzufügen.",
+        "Gut vermischen und in kleine Portionen aufteilen.",
+        "Kühlen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R015",
+      "slug": "tasty-pasta-salad",
+      "title": "Leckerer Nudelsalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Oatly Haferdrink Barista",
+          "brand": "Oatly",
+          "unit": "l",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Mini Cherry Rispentomaten",
+          "brand": "Delizioso",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Grünländer mild & nussig Scheiben",
+          "brand": "Grünländer",
+          "unit": "g",
+          "pack_size": 140,
+          "packs_used": 1,
+          "used_amount": 140.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Basilikum (1/2 Bund)",
+        "Oliven (50 g)",
+        "Pfefferoni (1 Stk)"
+      ],
+      "steps": [
+        "Nudeln nach Packungsanleitung kochen.",
+        "Tomaten halbieren und mit den gekochten Nudeln vermengen.",
+        "Grünländer Scheiben klein schneiden und hinzufügen.",
+        "Mit Oatly Haferdrink, Salz und Pfeffer abschmecken.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R016",
+      "slug": "delicious-apple-crumble",
+      "title": "Leckerer Apfel-Crumble",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 6,
+      "duration_minutes": 35,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "Vegetarisch",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Rote Tafeläpfel",
+          "brand": "NA",
+          "unit": "kg",
+          "pack_size": 2,
+          "packs_used": 1000,
+          "used_amount": 2000.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Zucker",
+          "brand": "NA",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 0.5,
+          "price_before_eur": 0.5
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Meggle Feine Butter",
+          "brand": "Meggle",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.49
+        }
+      ],
+      "without_offers": [
+        "Haferflocken (100 g)",
+        "Zimt (1 TL)",
+        "Nüsse (50 g)"
+      ],
+      "steps": [
+        "Äpfel schälen, entkernen und in Stücke schneiden.",
+        "Mit Zucker und Zimt vermengen und in eine Auflaufform geben.",
+        "Haferflocken, Butter und Nüsse vermischen und über die Äpfel streuen.",
+        "Im Ofen bei 180°C ca. 25 Minuten backen.",
+        "Warm servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R017",
+      "slug": "hearty-potato-soup",
+      "title": "Herzhafte Kartoffelsuppe",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienarm",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Speisekartoffeln",
+          "brand": "NA",
+          "unit": "kg",
+          "pack_size": 3,
+          "packs_used": 1000,
+          "used_amount": 3000.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Rucola",
+          "brand": "NA",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 0.85
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O021",
+          "name": "Knorr Suppenliebe",
+          "brand": "Knorr",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 0.69,
+          "price_before_eur": 0.69
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Karotte (1 Stk)",
+        "Petersilie (1/2 Bund)"
+      ],
+      "steps": [
+        "Kartoffeln schälen und würfeln.",
+        "Zwiebel und Karotte klein schneiden.",
+        "In einem Topf Öl erhitzen und Zwiebel anbraten.",
+        "Kartoffeln, Karotte und Knorr Suppenliebe hinzufügen.",
+        "Mit Wasser aufgießen und ca. 20 Minuten kochen lassen.",
+        "Mit Rucola garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R018",
+      "slug": "refreshing-fruit-salad",
+      "title": "Erfrischender Obstsalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O022",
+          "name": "Helle Tafeltrauben",
+          "brand": "NA",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O023",
+          "name": "Riesenorangen",
+          "brand": "NA",
+          "unit": "kg",
+          "pack_size": 2.5,
+          "packs_used": 1000,
+          "used_amount": 2500.0,
+          "price_eur": 4.44,
+          "price_before_eur": 4.44
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O024",
+          "name": "Rote Tafeläpfel",
+          "brand": "NA",
+          "unit": "kg",
+          "pack_size": 2,
+          "packs_used": 1000,
+          "used_amount": 2000.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        }
+      ],
+      "without_offers": [
+        "Zitrone (1/2 Stk)",
+        "Minze (1/2 Bund)",
+        "Honig (1 EL)"
+      ],
+      "steps": [
+        "Trauben waschen und abtropfen lassen.",
+        "Orangen schälen und in Stücke schneiden.",
+        "Äpfel würfeln.",
+        "Alle Früchte in eine Schüssel geben und vermengen.",
+        "Mit Zitronensaft und Minze garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R019",
+      "slug": "savory-vegetable-stir-fry",
+      "title": "Herzhafter Gemüse-Wok",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O025",
+          "name": "Rucola",
+          "brand": "NA",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 0.85
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O026",
+          "name": "Mini Cherry Rispentomaten",
+          "brand": "Delizioso",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.49,
+          "price_before_eur": 2.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O027",
+          "name": "Speisekartoffeln",
+          "brand": "NA",
+          "unit": "kg",
+          "pack_size": 3,
+          "packs_used": 1,
+          "used_amount": 3.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.49
+        }
+      ],
+      "without_offers": [
+        "Paprika (1 Stk)",
+        "Zucchini (1 Stk)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Kartoffeln schälen und in Würfel schneiden.",
+        "Paprika und Zucchini klein schneiden.",
+        "In einer Pfanne Öl erhitzen und Kartoffeln anbraten.",
+        "Paprika, Zucchini und Rucola hinzufügen und kurz mitbraten.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R020",
+      "slug": "creamy-pasta-dish",
+      "title": "Cremiges Pasta-Gericht",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O028",
+          "name": "Oatly Haferdrink Barista",
+          "brand": "Oatly",
+          "unit": "l",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O029",
+          "name": "Grünländer mild & nussig Scheiben",
+          "brand": "Grünländer",
+          "unit": "g",
+          "pack_size": 140,
+          "packs_used": 1,
+          "used_amount": 140.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O030",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (1 Zehe)",
+        "Petersilie (1/2 Bund)",
+        "Pfefferoni (1 Stk)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanleitung kochen.",
+        "In einer Pfanne Oatly Haferdrink erhitzen.",
+        "Grünländer Scheiben und Jogurt hinzufügen und gut verrühren.",
+        "Pasta unter die Sauce mischen und mit Gewürzen abschmecken.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R021",
+      "slug": "haferdrink-smoothie-r021",
+      "title": "Haferdrink Smoothie",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Oatly Haferdrink Barista",
+          "brand": "Oatly",
+          "unit": "l",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Oatly Haferdrink Barista",
+          "brand": "Oatly",
+          "unit": "l",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        }
+      ],
+      "without_offers": [
+        "Banane (1 Stk)"
+      ],
+      "steps": [
+        "Haferdrink, Banane, Honig und Zimt in einen Mixer geben.",
+        "Alles gut pürieren, bis eine cremige Konsistenz erreicht ist.",
+        "In Gläser füllen und sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R022",
+      "slug": "grilled-chicken-salad",
+      "title": "Gegrillter Hähnchensalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Wiesenhof Hähnchen Grillbraten",
+          "brand": "Wiesenhof",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 2,
+          "used_amount": 160.0,
+          "price_eur": 2.98,
+          "price_before_eur": 2.98
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Rucola",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 0.85
+        }
+      ],
+      "without_offers": [
+        "Kirschtomaten (200 g)",
+        "Olivenöl (2 EL)"
+      ],
+      "steps": [
+        "Hähnchen Grillbraten in einer Pfanne anbraten.",
+        "Rucola und Kirschtomaten in eine Schüssel geben.",
+        "Hähnchen in Streifen schneiden und hinzufügen.",
+        "Mit Olivenöl und Zitronensaft anrichten und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R023",
+      "slug": "pizza-salami-r023",
+      "title": "Pizza Salami",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "Laktosefrei",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Original Wagner Steinofen Pizza Salami",
+          "brand": "Original Wagner",
+          "unit": "g",
+          "pack_size": 320,
+          "packs_used": 1,
+          "used_amount": 320.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Original Wagner Steinofen Pizza Salami",
+          "brand": "Original Wagner",
+          "unit": "g",
+          "pack_size": 320,
+          "packs_used": 1,
+          "used_amount": 320.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Oregano (1 TL)"
+      ],
+      "steps": [
+        "Pizza nach Packungsanweisung im Ofen backen.",
+        "Mit Oregano und Chili bestreuen.",
+        "In Stücke schneiden und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R024",
+      "slug": "yogurt-parfait",
+      "title": "Joghurt Parfait",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Laktosefrei",
+        "Kalorienarm",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        }
+      ],
+      "without_offers": [
+        "Himbeeren (100 g)"
+      ],
+      "steps": [
+        "Joghurt in Schalen verteilen.",
+        "Mit Himbeeren und Müsli garnieren.",
+        "Mit Honig beträufeln und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R025",
+      "slug": "snickers-brownies-r025",
+      "title": "Snickers Brownies",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "Vegetarisch",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Mars Snickers Minis",
+          "brand": "Mars",
+          "unit": "g",
+          "pack_size": 227,
+          "packs_used": 1,
+          "used_amount": 227.0,
+          "price_eur": 2.99,
+          "price_before_eur": 2.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Mars Snickers Minis",
+          "brand": "Mars",
+          "unit": "g",
+          "pack_size": 227,
+          "packs_used": 1,
+          "used_amount": 227.0,
+          "price_eur": 2.99,
+          "price_before_eur": 2.99
+        }
+      ],
+      "without_offers": [
+        "Butter (100 g)"
+      ],
+      "steps": [
+        "Butter und Zucker schmelzen und gut vermengen.",
+        "Eier hinzufügen und gut verrühren.",
+        "Mehl und Snickers klein schneiden und unterheben.",
+        "In eine Backform geben und bei 180°C ca. 20 Minuten backen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R026",
+      "slug": "flammkuchen",
+      "title": "Flammkuchen Elsässer Art",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "Laktosefrei",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Original Wagner Flammkuchen Elsässer Art",
+          "brand": "Original Wagner",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Original Wagner Flammkuchen Elsässer Art",
+          "brand": "Original Wagner",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)"
+      ],
+      "steps": [
+        "Flammkuchen nach Packungsanweisung im Ofen backen.",
+        "Mit Zwiebelringen und Sahne belegen.",
+        "In Stücke schneiden und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R027",
+      "slug": "potato-salad",
+      "title": "Kartoffelsalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Laktosefrei",
+        "Kalorienarm",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Speisekartoffeln",
+          "brand": "NAHKAUF",
+          "unit": "kg",
+          "pack_size": 3,
+          "packs_used": 1,
+          "used_amount": 3.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Speisekartoffeln",
+          "brand": "NAHKAUF",
+          "unit": "kg",
+          "pack_size": 3,
+          "packs_used": 1,
+          "used_amount": 3.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.49
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)"
+      ],
+      "steps": [
+        "Kartoffeln kochen, abkühlen lassen und schälen.",
+        "In Würfel schneiden und in eine Schüssel geben.",
+        "Mit Zwiebel, Essig und Öl vermengen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R028",
+      "slug": "fruit-salad",
+      "title": "Obstsalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Helle Tafeltrauben",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Helle Tafeltrauben",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        }
+      ],
+      "without_offers": [
+        "Äpfel (2 Stk)"
+      ],
+      "steps": [
+        "Trauben, Äpfel und Banane klein schneiden.",
+        "In einer Schüssel vermengen und mit Zitronensaft beträufeln.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R029",
+      "slug": "chicken-wrap",
+      "title": "Hähnchen Wrap",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Wiesenhof Hähnchen Grillbraten",
+          "brand": "Wiesenhof",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 2,
+          "used_amount": 160.0,
+          "price_eur": 2.98,
+          "price_before_eur": 2.98
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Wiesenhof Hähnchen Grillbraten",
+          "brand": "Wiesenhof",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 1,
+          "used_amount": 80.0,
+          "price_eur": 2.98,
+          "price_before_eur": 2.98
+        }
+      ],
+      "without_offers": [
+        "Tortilla-Wraps (4 Stk)"
+      ],
+      "steps": [
+        "Hähnchen Grillbraten in einer Pfanne anbraten.",
+        "Wraps mit Salat, Hähnchen und Tomate füllen.",
+        "Wraps aufrollen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R030",
+      "slug": "creamy-pasta",
+      "title": "Cremige Pasta",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "Vegetarisch",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        }
+      ],
+      "without_offers": [
+        "Pasta (200 g)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen.",
+        "In einer Pfanne Knoblauch anbraten und Joghurt hinzufügen.",
+        "Pasta unterheben und mit Petersilie garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R031",
+      "slug": "haferflocken-fruehstueck",
+      "title": "Haferflocken Frühstücksbrei",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kölln Bio Haferflocken",
+          "brand": "Kölln",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kölln Bio Haferflocken",
+          "brand": "Kölln",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.0
+        }
+      ],
+      "without_offers": [
+        "Honig (2 EL)"
+      ],
+      "steps": [
+        "Haferflocken mit Wasser in einem Topf zum Kochen bringen.",
+        "Bei niedriger Hitze 10 Minuten köcheln lassen, bis die gewünschte Konsistenz erreicht ist.",
+        "Mit Honig, Zimt und in Scheiben geschnittener Banane servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R032",
+      "slug": "huehner-grillbraten-salat",
+      "title": "Hähnchen Grillbraten Salat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Wiesenhof Hähnchen Grillbraten",
+          "brand": "Wiesenhof",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 2,
+          "used_amount": 160.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Rucola",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 1.0
+        }
+      ],
+      "without_offers": [
+        "Kirschtomaten (200 g)",
+        "Gurke (1 Stk)"
+      ],
+      "steps": [
+        "Hähnchen Grillbraten in einer Pfanne anbraten.",
+        "Rucola, Kirschtomaten und Gurke in einer Schüssel vermengen.",
+        "Das angebratene Hähnchen in Streifen schneiden und auf den Salat legen.",
+        "Mit Balsamico beträufeln und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R033",
+      "slug": "pizza-salami-r033",
+      "title": "Pizza Salami",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "Laktosefrei",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Original Wagner Steinofen Pizza Salami",
+          "brand": "Wagner",
+          "unit": "g",
+          "pack_size": 320,
+          "packs_used": 1,
+          "used_amount": 320.0,
+          "price_eur": 1.89,
+          "price_before_eur": 2.5
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Original Wagner Steinofen Pizza Salami",
+          "brand": "Wagner",
+          "unit": "g",
+          "pack_size": 320,
+          "packs_used": 1,
+          "used_amount": 320.0,
+          "price_eur": 1.89,
+          "price_before_eur": 2.5
+        }
+      ],
+      "without_offers": [
+        "Oregano (1 TL)"
+      ],
+      "steps": [
+        "Pizza nach Packungsanleitung im Ofen backen.",
+        "Mit Oregano und Chili bestreuen.",
+        "In Stücke schneiden und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R034",
+      "slug": "lachsfilet-mit-gemuese",
+      "title": "Lachsfilet mit Gemüse",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Followfood Bio Lachs Filets",
+          "brand": "Followfood",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 7.99,
+          "price_before_eur": 8.5
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Rucola",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 1.0
+        }
+      ],
+      "without_offers": [
+        "Zucchini (1 Stk)",
+        "Paprika (1 Stk)"
+      ],
+      "steps": [
+        "Lachsfilet in einer Pfanne anbraten.",
+        "Zucchini und Paprika in Streifen schneiden und mit anbraten.",
+        "Mit Rucola und Zitronensaft servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R035",
+      "slug": "snickers-minis-dessert",
+      "title": "Snickers Minis Dessert",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "Vegetarisch",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Mars Snickers Minis",
+          "brand": "Mars",
+          "unit": "g",
+          "pack_size": 227,
+          "packs_used": 2,
+          "used_amount": 454.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.5
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Mars Snickers Minis",
+          "brand": "Mars",
+          "unit": "g",
+          "pack_size": 227,
+          "packs_used": 1,
+          "used_amount": 227.0,
+          "price_eur": 2.99,
+          "price_before_eur": 3.5
+        }
+      ],
+      "without_offers": [
+        "Sahne (200 ml)"
+      ],
+      "steps": [
+        "Sahne steif schlagen.",
+        "Snickers Minis klein schneiden und unter die Sahne heben.",
+        "Mit Erdbeeren garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R036",
+      "slug": "jogurt-mit-fruechten",
+      "title": "Joghurt mit Früchten",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.5
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.5
+        }
+      ],
+      "without_offers": [
+        "Himbeeren (100 g)"
+      ],
+      "steps": [
+        "Joghurt in Schalen füllen.",
+        "Mit Himbeeren und Blaubeeren garnieren.",
+        "Sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R037",
+      "slug": "gratinierte-kartoffeln",
+      "title": "Gratinierte Kartoffeln",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 40,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Speisekartoffeln",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 3000,
+          "packs_used": 1,
+          "used_amount": 3000.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Speisekartoffeln",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 3000,
+          "packs_used": 1,
+          "used_amount": 3000.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        }
+      ],
+      "without_offers": [
+        "Sahne (200 ml)"
+      ],
+      "steps": [
+        "Kartoffeln schälen und in Scheiben schneiden.",
+        "Mit Sahne und Gewürzen in eine Auflaufform geben.",
+        "Mit Käse bestreuen und im Ofen backen, bis sie goldbraun sind."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R038",
+      "slug": "fladenbrot-mit-dip",
+      "title": "Fladenbrot mit Dip",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Miracel Whip Salatcreme",
+          "brand": "Miracel",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.79,
+          "price_before_eur": 2.0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Miracel Whip Salatcreme",
+          "brand": "Miracel",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.79,
+          "price_before_eur": 2.0
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Miracel Whip mit gepresstem Knoblauch und gehackter Petersilie vermengen.",
+        "Mit Zitronensaft abschmecken.",
+        "Mit Fladenbrot servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R039",
+      "slug": "obstsalat-r039",
+      "title": "Obstsalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Helle Tafeltrauben",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Helle Tafeltrauben",
+          "brand": "NAHKAUF",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.0
+        }
+      ],
+      "without_offers": [
+        "Äpfel (2 Stk)"
+      ],
+      "steps": [
+        "Trauben, Äpfel und Orangen klein schneiden.",
+        "Mit Zitronensaft und Zucker vermengen.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R040",
+      "slug": "pasta-mit-salat",
+      "title": "Pasta mit Salat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kölln Bio Haferflocken",
+          "brand": "Kölln",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.0
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kölln Bio Haferflocken",
+          "brand": "Kölln",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.0
+        }
+      ],
+      "without_offers": [
+        "Zucchini (1 Stk)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanleitung kochen.",
+        "Zucchini und Paprika anbraten.",
+        "Mit Pasta und frischem Basilikum vermengen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R041",
+      "slug": "creamy-chicken-salad-r041",
+      "title": "Cremiger Hähnchensalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Wiesenhof Hähnchen Grillbraten",
+          "brand": "Wiesenhof",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 2,
+          "used_amount": 160.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.59
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Miracel Whip Salatcreme",
+          "brand": "Miracel",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Grünländer mild & nussig Scheiben",
+          "brand": "Grünländer",
+          "unit": "g",
+          "pack_size": 140,
+          "packs_used": 1,
+          "used_amount": 140.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.99
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Paprika (1 Stk)",
+        "Salat (100 g)"
+      ],
+      "steps": [
+        "Hähnchen Grillbraten in kleine Stücke schneiden.",
+        "Zwiebel und Paprika würfeln.",
+        "In einer Schüssel Hähnchen, Zwiebel, Paprika und Miracel Whip vermengen.",
+        "Mit Salz und Pfeffer abschmecken.",
+        "Auf frischem Salat anrichten und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R042",
+      "slug": "spicy-pizza",
+      "title": "Würzige Salami-Pizza",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "Laktosefrei",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Original Wagner Steinofen Pizza Salami",
+          "brand": "Wagner",
+          "unit": "g",
+          "pack_size": 320,
+          "packs_used": 1,
+          "used_amount": 320.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Original Wagner Steinofen Pizza Salami",
+          "brand": "Wagner",
+          "unit": "g",
+          "pack_size": 320,
+          "packs_used": 1,
+          "used_amount": 320.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.99
+        }
+      ],
+      "without_offers": [
+        "Oregano (1 TL)"
+      ],
+      "steps": [
+        "Pizza nach Packungsanleitung backen.",
+        "Mit Oregano, Olivenöl und Chili bestreuen.",
+        "In Stücke schneiden und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R043",
+      "slug": "creamy-yogurt-dip",
+      "title": "Cremiger Joghurtdip",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.39
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Andechser Natur Bio Jogurt mild",
+          "brand": "Andechser",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.39
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Jogurt in eine Schüssel geben.",
+        "Knoblauch pressen und hinzufügen.",
+        "Mit Zitronensaft und Dill vermengen.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R044",
+      "slug": "salmon-pasta",
+      "title": "Lachs-Pasta",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Meine Lieblinge Bio-Graved Lachs",
+          "brand": "Meine Lieblinge",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 2,
+          "used_amount": 160.0,
+          "price_eur": 3.79,
+          "price_before_eur": 3.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Meine Lieblinge Bio-Graved Lachs",
+          "brand": "Meine Lieblinge",
+          "unit": "g",
+          "pack_size": 80,
+          "packs_used": 1,
+          "used_amount": 80.0,
+          "price_eur": 3.79,
+          "price_before_eur": 3.89
+        }
+      ],
+      "without_offers": [
+        "Pasta (300 g)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanleitung kochen.",
+        "Zwiebel würfeln und in einer Pfanne anbraten.",
+        "Sahne und Lachs hinzufügen und kurz erhitzen.",
+        "Pasta unterheben und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R045",
+      "slug": "fruit-salad-r045",
+      "title": "Frischer Obstsalat",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Helle Tafeltrauben",
+          "brand": "REWE",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Rote Tafeläpfel",
+          "brand": "REWE",
+          "unit": "g",
+          "pack_size": 2000,
+          "packs_used": 1,
+          "used_amount": 2000.0,
+          "price_eur": 1.99,
+          "price_before_eur": 2.09
+        }
+      ],
+      "without_offers": [
+        "Banane (2 Stk)",
+        "Zitrone (1/2 Stk)"
+      ],
+      "steps": [
+        "Äpfel und Trauben waschen und klein schneiden.",
+        "Banane in Scheiben schneiden.",
+        "Alle Früchte in einer Schüssel vermengen.",
+        "Mit Zitronensaft und Minze abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R046",
+      "slug": "oatmeal-bowl",
+      "title": "Haferflocken-Bowl",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Kölln Bio Haferflocken",
+          "brand": "Kölln",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Kölln Bio Haferflocken",
+          "brand": "Kölln",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.79
+        }
+      ],
+      "without_offers": [
+        "Mandeln (50 g)"
+      ],
+      "steps": [
+        "Haferflocken mit Wasser aufkochen.",
+        "Mit Zimt und Honig abschmecken.",
+        "In eine Schüssel geben und mit Mandeln garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R047",
+      "slug": "chocolate-cookies",
+      "title": "Schokoladen-Cookies",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "Vegetarisch",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "REWE Bio Hafer Cookies Milchschokolade",
+          "brand": "REWE",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.59,
+          "price_before_eur": 2.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "REWE Bio Hafer Cookies Milchschokolade",
+          "brand": "REWE",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.59,
+          "price_before_eur": 2.69
+        }
+      ],
+      "without_offers": [
+        "Butter (100 g)"
+      ],
+      "steps": [
+        "Butter schmelzen und mit Zucker verrühren.",
+        "Eier hinzufügen und gut vermischen.",
+        "Hafer Cookies zerbröseln und unterheben.",
+        "Teig auf ein Blech geben und backen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R048",
+      "slug": "vegetable-stir-fry",
+      "title": "Gemüsepfanne",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Rucola",
+          "brand": "REWE",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 0.95
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Rucola",
+          "brand": "REWE",
+          "unit": "g",
+          "pack_size": 125,
+          "packs_used": 1,
+          "used_amount": 125.0,
+          "price_eur": 0.85,
+          "price_before_eur": 0.95
+        }
+      ],
+      "without_offers": [
+        "Karotten (2 Stk)"
+      ],
+      "steps": [
+        "Gemüse klein schneiden.",
+        "In einer Pfanne mit Öl anbraten.",
+        "Rucola hinzufügen und kurz mitbraten.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R049",
+      "slug": "chocolate-smoothie",
+      "title": "Schokoladen-Smoothie",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Oatly Haferdrink Barista",
+          "brand": "Oatly",
+          "unit": "l",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Oatly Haferdrink Barista",
+          "brand": "Oatly",
+          "unit": "l",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Banane (1 Stk)"
+      ],
+      "steps": [
+        "Banane, Kakaopulver und Honig in einen Mixer geben.",
+        "Mit Haferdrink auffüllen und pürieren.",
+        "In Gläser füllen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R050",
+      "slug": "spicy-soup",
+      "title": "Würzige Suppe",
+      "retailer": "NAHKAUF",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Knorr Suppenliebe",
+          "brand": "Knorr",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 0.69,
+          "price_before_eur": 0.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Knorr Suppenliebe",
+          "brand": "Knorr",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 0.69,
+          "price_before_eur": 0.79
+        }
+      ],
+      "without_offers": [
+        "Karotten (2 Stk)"
+      ],
+      "steps": [
+        "Gemüse klein schneiden.",
+        "Knorr Suppenliebe mit Wasser aufkochen.",
+        "Gemüse hinzufügen und 20 Minuten köcheln lassen.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    }
+  ]
+}

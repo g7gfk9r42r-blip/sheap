@@ -1,0 +1,295 @@
+{
+  "total_pages": 16,
+  "total_offers": 80,
+  "pages": {
+    "page_1": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 2
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 4
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 4
+        }
+      ],
+      "total_extracted": 6,
+      "tile_count_estimate": 4
+    },
+    "page_2": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 6
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 0,
+          "skipped": "gap_too_small"
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 6
+        }
+      ],
+      "total_extracted": 6,
+      "tile_count_estimate": 7
+    },
+    "page_3": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 2
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 5
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 6
+        }
+      ],
+      "total_extracted": 7,
+      "tile_count_estimate": 8
+    },
+    "page_4": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 4
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 0,
+          "skipped": "gap_too_small"
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 4
+        }
+      ],
+      "total_extracted": 4,
+      "tile_count_estimate": 4
+    },
+    "page_5": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 6
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 5
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 7
+        }
+      ],
+      "total_extracted": 11,
+      "tile_count_estimate": 8
+    },
+    "page_6": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 5
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 0,
+          "skipped": "gap_too_small"
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 5
+        }
+      ],
+      "total_extracted": 5,
+      "tile_count_estimate": 6
+    },
+    "page_7": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 3
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 4
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 4
+        }
+      ],
+      "total_extracted": 7,
+      "tile_count_estimate": 4
+    },
+    "page_8": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 5
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 4
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 5
+        }
+      ],
+      "total_extracted": 9,
+      "tile_count_estimate": 8
+    },
+    "page_9": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 7
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 5
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 7
+        }
+      ],
+      "total_extracted": 12,
+      "tile_count_estimate": 10
+    },
+    "page_10": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 1
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 5
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 6
+        }
+      ],
+      "total_extracted": 6,
+      "tile_count_estimate": 8
+    },
+    "page_11": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 0
+        }
+      ],
+      "total_extracted": 0,
+      "tile_count_estimate": null
+    },
+    "page_12": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 0
+        }
+      ],
+      "total_extracted": 0,
+      "tile_count_estimate": null
+    },
+    "page_13": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 0
+        }
+      ],
+      "total_extracted": 0,
+      "tile_count_estimate": null
+    },
+    "page_14": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 0
+        }
+      ],
+      "total_extracted": 0,
+      "tile_count_estimate": null
+    },
+    "page_15": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 0
+        }
+      ],
+      "total_extracted": 0,
+      "tile_count_estimate": null
+    },
+    "page_16": {
+      "passes": [
+        {
+          "pass": 1,
+          "type": "initial",
+          "extracted": 3
+        },
+        {
+          "pass": 2,
+          "type": "completeness_check",
+          "extracted": 4
+        },
+        {
+          "pass": 3,
+          "type": "microtext",
+          "extracted": 4
+        }
+      ],
+      "total_extracted": 7,
+      "tile_count_estimate": 4
+    }
+  }
+}

@@ -1,0 +1,7554 @@
+[
+  {
+    "id": "496829cb6b89eab6",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 1",
+    "servings": 2,
+    "cookTimeMinutes": 28,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "a3bc492f7f2b569e",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 2",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "b556fac4f5b34910",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 3",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "dba8593f876900ad",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 4",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "565e9db10c4525fd",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 5",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "f95ea68724e1b950",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 6",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "82057d3497df9f80",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 7",
+    "servings": 2,
+    "cookTimeMinutes": 24,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "2b87fbdf91f5858d",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 8",
+    "servings": 2,
+    "cookTimeMinutes": 29,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "3c7b38b4fe6e7c5b",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 9",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6ac2f8afb9352f0e",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 10",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "c18939fc3c4fe9b1",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 11",
+    "servings": 2,
+    "cookTimeMinutes": 27,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6fffaf9358444c2a",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 12",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "f354bdb96c9c2ab2",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 13",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "24f62a6f77fc4a1b",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 14",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "01ab69ebcc194878",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 15",
+    "servings": 2,
+    "cookTimeMinutes": 24,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "1f936fbaf209f573",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 16",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "d3bdfd8becba5fe5",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 17",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "5eb6112550a942e1",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 18",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "43f50e9afadf4361",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 19",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "a68e85e90ed13414",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 20",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "aac5302f73d3a45a",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 21",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "af8d39f0cd2ea856",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 22",
+    "servings": 2,
+    "cookTimeMinutes": 29,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "ce36e5b77e7fcde1",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 23",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "9346fe42eca53569",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 24",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "9fe65329addc538d",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 25",
+    "servings": 2,
+    "cookTimeMinutes": 21,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "631b4d0d832dceef",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 26",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "9434a498daff7a36",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 27",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "2dbb89f197b1b6a4",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 28",
+    "servings": 2,
+    "cookTimeMinutes": 30,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "b3b5fa50f28ad28c",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 29",
+    "servings": 2,
+    "cookTimeMinutes": 24,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "1db46ecc89362087",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 30",
+    "servings": 2,
+    "cookTimeMinutes": 29,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6f34fe3d0c0bc5eb",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 31",
+    "servings": 2,
+    "cookTimeMinutes": 29,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "53683492f4b14c32",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 32",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "1df06d8aaef5baf6",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 33",
+    "servings": 2,
+    "cookTimeMinutes": 30,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "b868019000ad3b02",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 34",
+    "servings": 2,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "526a32ed2742db82",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 35",
+    "servings": 2,
+    "cookTimeMinutes": 30,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "4c78eade179d8bfc",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 36",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "c5d17d5307c62ab9",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 37",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "caae45bbec7ec842",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 38",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "248eb4302c90d008",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 39",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6fa11fdea707e02e",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 40",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "eaf3aec8870f3218",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 41",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "066b7d81f1be60d4",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 42",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "408cf76b90aa2b2c",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 43",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "0d938b96a7cb513d",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 44",
+    "servings": 2,
+    "cookTimeMinutes": 21,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "3d51b546cd348813",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 45",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "8e003faa18179cb1",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 46",
+    "servings": 2,
+    "cookTimeMinutes": 27,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "25dd11913d7049f0",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 47",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "f6a71c972dd2d200",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 48",
+    "servings": 2,
+    "cookTimeMinutes": 17,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "dffe3a0e0020e01c",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 49",
+    "servings": 2,
+    "cookTimeMinutes": 28,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "9f69ef1416fff1ab",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 50",
+    "servings": 2,
+    "cookTimeMinutes": 21,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "2c65dec169fb4431",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 51",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "c4fcc1a9a0d7dd41",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 52",
+    "servings": 2,
+    "cookTimeMinutes": 21,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "ad273a4a717354ef",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 53",
+    "servings": 2,
+    "cookTimeMinutes": 15,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6c5a957bf6ff8441",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 54",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "563ce81c84b8b683",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 55",
+    "servings": 2,
+    "cookTimeMinutes": 27,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "b3474be84591a462",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 56",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "e065c5cb5bada8f7",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 57",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "620fe1509f642811",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 58",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "1a353964709be513",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 59",
+    "servings": 2,
+    "cookTimeMinutes": 21,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "05f2052ccb826fdc",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 60",
+    "servings": 2,
+    "cookTimeMinutes": 21,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "95d03d264c28fd6a",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 61",
+    "servings": 2,
+    "cookTimeMinutes": 28,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "d355613611fd8054",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 62",
+    "servings": 2,
+    "cookTimeMinutes": 23,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "fd63c078eb9e52ce",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 63",
+    "servings": 2,
+    "cookTimeMinutes": 25,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "eeaa11f5ccbea29c",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 64",
+    "servings": 2,
+    "cookTimeMinutes": 16,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "444e8cdb29802ae4",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 65",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "378f754ba7bc09f2",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 66",
+    "servings": 2,
+    "cookTimeMinutes": 17,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "6196718b5a8ce90b",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 67",
+    "servings": 2,
+    "cookTimeMinutes": 22,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "5d96500d764ae052",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 68",
+    "servings": 2,
+    "cookTimeMinutes": 17,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "eb742e6e1e43617d",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 69",
+    "servings": 2,
+    "cookTimeMinutes": 24,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "470cae5dc1061324",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 70",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "58dc4b5308e0f513",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 71",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "cc056c253db2bb88",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Gedämpftes Gemüse 72",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "e09895b49c8e6139",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 73",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "b4f854e9031a0202",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 74",
+    "servings": 2,
+    "cookTimeMinutes": 26,
+    "ingredients": [
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "0624c771886c892a",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfache Pasta 75",
+    "servings": 2,
+    "cookTimeMinutes": 27,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "318f78c7eb738bba",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 76",
+    "servings": 2,
+    "cookTimeMinutes": 18,
+    "ingredients": [
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "c1cea2260bc83871",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfaches Risotto 77",
+    "servings": 2,
+    "cookTimeMinutes": 17,
+    "ingredients": [
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "9a9634e62fa30b77",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Schnelle Pfanne 78",
+    "servings": 2,
+    "cookTimeMinutes": 20,
+    "ingredients": [
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Knoblauch",
+        "amountText": "10g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "8d4a13be5451728a",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Einfacher Salat 79",
+    "servings": 2,
+    "cookTimeMinutes": 27,
+    "ingredients": [
+      {
+        "name": "Reis",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Salz",
+        "amountText": "5g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Tomaten",
+        "amountText": "200g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  },
+  {
+    "id": "0a336617de3fde81",
+    "supermarket": "kaufland",
+    "weekKey": "2025-W52",
+    "shortTitle": "Klassische Tomatensauce 80",
+    "servings": 2,
+    "cookTimeMinutes": 19,
+    "ingredients": [
+      {
+        "name": "Nudeln",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Olivenöl",
+        "amountText": "30ml",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Zwiebel",
+        "amountText": "100g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      },
+      {
+        "name": "Pfeffer",
+        "amountText": "2g",
+        "fromOffer": false,
+        "matchedOfferId": null,
+        "availability": {
+          "available": true,
+          "source": "unknown",
+          "offerId": null,
+          "validFrom": null,
+          "validTo": null,
+          "alwaysAvailable": false
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten.",
+      "In einer Pfanne erhitzen.",
+      "Würzen und servieren."
+    ],
+    "nutritionRange": {
+      "kcal": [
+        250,
+        600
+      ],
+      "protein_g": [
+        5,
+        25
+      ],
+      "carbs_g": [
+        30,
+        80
+      ],
+      "fat_g": [
+        5,
+        25
+      ]
+    },
+    "tags": [
+      "pantry",
+      "simple"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Brokkoli",
+    "brand": null,
+    "unitText": "500g",
+    "basePrice": 0.88,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": "Aktion",
+    "category": "food",
+    "sourcePage": 29,
+    "flags": []
+  },
+  {
+    "name": "Rotkohl, lose",
+    "brand": null,
+    "unitText": "kg",
+    "basePrice": 0.66,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": "Aktion",
+    "category": "food",
+    "sourcePage": 29,
+    "flags": []
+  },
+  {
+    "name": "Feldsalat",
+    "brand": null,
+    "unitText": "150g",
+    "basePrice": 0.88,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": "Aktion",
+    "category": "food",
+    "sourcePage": 29,
+    "flags": []
+  }
+]

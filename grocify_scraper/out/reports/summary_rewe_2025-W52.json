@@ -1,0 +1,14 @@
+{
+  "supermarket": "rewe",
+  "week_key": "2025-W52",
+  "total_offers": 47,
+  "total_recipes": 50,
+  "flagged_offers": 30,
+  "flag_rate": 0.6382978723404256,
+  "validation_summary": {
+    "passed": 17,
+    "flagged": 30,
+    "rejected": 0
+  },
+  "generated_at": "2025-12-23T14:49:55.869730"
+}

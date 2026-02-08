@@ -1,0 +1,34 @@
+{
+  "total": 78,
+  "passed": 24,
+  "flagged": 54,
+  "rejected": 0,
+  "gate_results": [
+    {
+      "gate": 1,
+      "name": "Schema & Required Fields",
+      "passed": 78
+    },
+    {
+      "gate": 2,
+      "name": "Price Consistency",
+      "passed": 78
+    },
+    {
+      "gate": 3,
+      "name": "Loyalty Rules",
+      "passed": 78
+    },
+    {
+      "gate": 4,
+      "name": "Brand & Quantity",
+      "passed": 78
+    },
+    {
+      "gate": 5,
+      "name": "Duplicates & Outliers",
+      "passed": 78
+    }
+  ],
+  "generated_at": "2025-12-24T14:32:01.706434"
+}

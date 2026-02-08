@@ -1,0 +1,11 @@
+{
+  "tileCount": 4,
+  "descriptors": [
+    "Spumante - prickelnd-frischer Schaumwein",
+    "Feldsalat oder Feldsalat-Mix - 125 g",
+    "Feinkostsalat - 125 g bis 200 g",
+    "Griechisches Oliven\u00f6l - 500 ml"
+  ],
+  "confidence": 0.9,
+  "attempts": 2
+}

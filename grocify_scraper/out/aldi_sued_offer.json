@@ -1,0 +1,994 @@
+[
+  {
+    "id": "4d726952ff085470",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "4d726952ff085470",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "4d726952ff085470",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "3a9531b6e529fdcd",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "KI-generiert",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 4.29,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 4.29,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "0700095a0fbfd36e",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-g-Packung,",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 2.99,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 2.99,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "e9846bd8ef138e04",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-ml-",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 1.99,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 1.99,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "dde0756a39ef8544",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-g-",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 1.99,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 1.99,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "64063672075cf226",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "100-g-Packung,",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 1.29,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 1.29,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "1099c1d539eb96de",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "25-g-Packung,",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 1.19,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 1.19,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "4d726952ff085470",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "3de002f7f8f963ac",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "4d726952ff085470",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "eb755138324eae1f",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "aabc0391855422e6",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "TIEFPREIS-",
+    "brand": "TIEFPREIS-",
+    "brandConfidence": "medium",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 7.99,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 7.99,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "6689568921925318",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      },
+      {
+        "amount": 31.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "6689568921925318",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      },
+      {
+        "amount": 31.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "6689568921925318",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      },
+      {
+        "amount": 31.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "6689568921925318",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      },
+      {
+        "amount": 31.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "6689568921925318",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 29.12,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 29.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      },
+      {
+        "amount": 31.12,
+        "currency": "EUR",
+        "condition": {
+          "type": "multi_buy",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": 18,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "c5db258330db4c19",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Restzahlung bis 30 Tage vor Reiseantritt. Maßgeblich sind Reisebestätigung, AGB sowie die rechtlichen Informationen zur Pauschalreise (Einsicht auf aldi-reisen.de).",
+    "brand": "ALDI",
+    "brandConfidence": "medium",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 1.26,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 1.26,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "20b81cf3a17e548f",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+    "brand": "KB",
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 0.11,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 0.11,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      },
+      {
+        "amount": 0.24,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "b930cc7836bc4a92",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Letzter Verkaufspreis. Niedrigster",
+    "brand": null,
+    "brandConfidence": "low",
+    "category": null,
+    "quantity": {
+      "value": 93.0,
+      "unit": "l"
+    },
+    "basePrice": {
+      "amount": 1.93,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 1.93,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  },
+  {
+    "id": "df173e044407bcc1",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Mo. 22.4. – Sa. 27.4.",
+    "brand": "MILCHVIELFALT ZUM",
+    "brandConfidence": "medium",
+    "category": null,
+    "quantity": {
+      "value": null,
+      "unit": null
+    },
+    "basePrice": {
+      "amount": 0.29,
+      "currency": "EUR"
+    },
+    "referencePrice": null,
+    "priceTiers": [
+      {
+        "amount": 0.29,
+        "currency": "EUR",
+        "condition": {
+          "type": "standard",
+          "label": null,
+          "requiresCard": false,
+          "requiresApp": false,
+          "minQty": null,
+          "notes": null
+        }
+      }
+    ],
+    "discount": null,
+    "source": {
+      "primary": "pdf",
+      "pdfFile": "/Users/romw24/dev/AppProjektRoman/roman_app/server/media/prospekte/aldi_sued/54bf1abc-1382-4ecb-842f-b8a626542844.pdf",
+      "page": null
+    },
+    "confidence": "medium",
+    "flags": []
+  }
+]

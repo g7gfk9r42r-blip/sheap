@@ -1,0 +1,11 @@
+{
+  "tileCount": 4,
+  "descriptors": [
+    "Rinder-Bugfilet-Braten mit Preis",
+    "Senf mit Preis",
+    "Wildpreiselbeeren mit Preis",
+    "Frische Linguine mit Preis"
+  ],
+  "confidence": 0.9,
+  "attempts": 2
+}

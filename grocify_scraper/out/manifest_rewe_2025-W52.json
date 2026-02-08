@@ -1,0 +1,27 @@
+{
+  "supermarket": "rewe",
+  "weekKey": "2025-W52",
+  "generatedAt": "2025-12-24T16:46:36.240161",
+  "counts": {
+    "offers": 61,
+    "recipes": 80
+  },
+  "perPageQuality": {},
+  "recheckedPages": 0,
+  "totalGptCalls": 44,
+  "reconcileReport": {
+    "matched": 0,
+    "pdfOnly": 61,
+    "rawOnly": 0
+  },
+  "files": {
+    "offers": "out/offers/offers_rewe_2025-W52.json",
+    "recipes": "out/recipes/recipes_rewe_2025-W52.json",
+    "reports": [
+      "out/reports/reconcile_rewe_2025-W52.json",
+      "out/reports/flagged_rewe_2025-W52.json",
+      "out/reports/page_quality_rewe_2025-W52.json"
+    ],
+    "imageJobs": "out/images/image_jobs_rewe_2025-W52.json"
+  }
+}

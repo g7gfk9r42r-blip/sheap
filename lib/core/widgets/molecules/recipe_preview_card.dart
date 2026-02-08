@@ -135,8 +135,21 @@ class _RecipePreviewCardState extends State<RecipePreviewCard> {
           debugPrint('   ImageSchema source: $source');
         }
         
-        // We no longer ship recipe images inside the app bundle by default.
-        // If an asset path is given, try the equivalent remote URL; else fall back to emoji.
+        // Im Web oder wenn keine Server-URL verfügbar: lade direkt aus App-Bundle
+        if (kIsWeb || _convertToNetworkUrl(finalPath) == null) {
+          return Image.asset(
+            finalPath,
+            fit: BoxFit.cover,
+            errorBuilder: (context, error, stackTrace) {
+              return _EmojiPlaceholder(
+                emoji: _getEmojiForRecipe(recipeTitle),
+                size: imageHeight * 0.5,
+              );
+            },
+          );
+        }
+        
+        // Sonst: versuche Remote-URL zu laden
         final networkUrl = _convertToNetworkUrl(finalPath);
         if (networkUrl != null) {
           return RecipeImage(

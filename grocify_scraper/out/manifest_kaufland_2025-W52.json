@@ -1,0 +1,27 @@
+{
+  "supermarket": "kaufland",
+  "weekKey": "2025-W52",
+  "generatedAt": "2025-12-24T16:11:09.497847",
+  "counts": {
+    "offers": 0,
+    "recipes": 80
+  },
+  "perPageQuality": {},
+  "recheckedPages": 0,
+  "totalGptCalls": 0,
+  "reconcileReport": {
+    "matched": 0,
+    "pdfOnly": 0,
+    "rawOnly": 0
+  },
+  "files": {
+    "offers": "out/offers/offers_kaufland_2025-W52.json",
+    "recipes": "out/recipes/recipes_kaufland_2025-W52.json",
+    "reports": [
+      "out/reports/reconcile_kaufland_2025-W52.json",
+      "out/reports/flagged_kaufland_2025-W52.json",
+      "out/reports/page_quality_kaufland_2025-W52.json"
+    ],
+    "imageJobs": "out/images/image_jobs_kaufland_2025-W52.json"
+  }
+}

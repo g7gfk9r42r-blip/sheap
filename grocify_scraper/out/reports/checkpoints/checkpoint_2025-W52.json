@@ -1,0 +1,35 @@
+{
+  "weekKey": "2025-W52",
+  "version": 1,
+  "globalLoop": 0,
+  "supermarkets": {
+    "biomarkt": {
+      "status": "RECIPES_DONE",
+      "pdf": {
+        "pagesTotal": 0,
+        "pagesDone": 0,
+        "pageStats": {}
+      },
+      "raw": {
+        "loaded": false,
+        "count": 0
+      },
+      "offers": {
+        "pdfCount": 49,
+        "rawCount": 31,
+        "mergedCount": 78,
+        "stableLoops": 3
+      },
+      "artifacts": {
+        "offersOut": "out/offers/offers_biomarkt_2025-W52.json",
+        "reportsOut": [
+          "out/reports/validation_biomarkt_2025-W52.json",
+          "out/reports/flagged_biomarkt_2025-W52.json",
+          "out/reports/summary_biomarkt_2025-W52.json"
+        ],
+        "recipesOut": "out/recipes/recipes_biomarkt_2025-W52.json"
+      }
+    }
+  },
+  "last_updated": "2025-12-24T14:32:01.710477"
+}

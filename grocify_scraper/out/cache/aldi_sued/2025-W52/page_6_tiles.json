@@ -1,0 +1,12 @@
+{
+  "tileCount": 6,
+  "descriptors": [
+    "Kartoffelkn\u00f6del, 1.19\u20ac",
+    "Schweinefilet, 4.99\u20ac",
+    "Entrec\u00f4te-Braten, 17.99\u20ac",
+    "Cremefine, 0.79\u20ac",
+    "Steak vom irischen Weiderind, 6.99\u20ac"
+  ],
+  "confidence": 0.9,
+  "attempts": 2
+}

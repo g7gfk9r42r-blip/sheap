@@ -1,0 +1,11 @@
+{
+  "tileCount": 4,
+  "descriptors": [
+    "Knabber-Snack mit Preis 2,49",
+    "Mirasoles Appassimento mit Preis 8,49",
+    "Italienischer Wein mit Preis 4,99",
+    "Handtuch Doppelpack oder Badetuch mit Preis 17,99"
+  ],
+  "confidence": 0.9,
+  "attempts": 2
+}

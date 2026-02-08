@@ -89,6 +89,9 @@ flutter:
     - assets/logo/
     - assets/Logo Jawoll/
 
+    # Recipe images (required for Web and fallback on mobile)
+    - assets/recipe_images/
+
     # Local fallback recipes (tiny JSON files only; do NOT include whole folders)
     - assets/prospekte/aldi_nord/aldi_nord_recipes.json
     - assets/prospekte/aldi_sued/aldi_sued_recipes.json

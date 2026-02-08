@@ -198,6 +198,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
           _searchFocusNode.unfocus();
         },
         child: SafeArea(
+          bottom: false,
           child: CustomScrollView(
             controller: _scrollController,
             physics: const AlwaysScrollableScrollPhysics(),
@@ -579,16 +580,12 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
               ],
             ),
             const SizedBox(height: 14),
-            SizedBox(
-              height: 40,
-              child: ListView.separated(
-                scrollDirection: Axis.horizontal,
-                itemCount: _categories.length,
-                separatorBuilder: (_, __) => const SizedBox(width: 12),
-                itemBuilder: (context, index) {
-                  final category = _categories[index];
+            Wrap(
+              spacing: 12,
+              runSpacing: 8,
+              children: [
+                ..._categories.map((category) {
                   final isActive = _selectedCategory == category;
-                  
                   return _CategoryChip(
                     label: category,
                     isActive: isActive,
@@ -599,8 +596,8 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
                       HapticFeedback.mediumImpact();
                     },
                   );
-                },
-              ),
+                }),
+              ],
             ),
           ],
         ),

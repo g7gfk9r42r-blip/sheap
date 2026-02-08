@@ -1,0 +1,12 @@
+{
+  "tileCount": 5,
+  "descriptors": [
+    "Heidelbeeren, Preis 1,49",
+    "Orangen, Preis 1,69",
+    "Saftorangen, Preis 1,13",
+    "Avocado, Preis 0,75",
+    "Speisezwiebeln rot, Preis 0,99"
+  ],
+  "confidence": 0.9,
+  "attempts": 2
+}

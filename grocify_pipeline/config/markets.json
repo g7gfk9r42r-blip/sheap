@@ -1,0 +1,55 @@
+{
+  "markets": [
+    {
+      "id": "rewe",
+      "name": "REWE",
+      "enabled": true
+    },
+    {
+      "id": "edeka",
+      "name": "EDEKA",
+      "enabled": true
+    },
+    {
+      "id": "lidl",
+      "name": "Lidl",
+      "enabled": true
+    },
+    {
+      "id": "aldi_sued",
+      "name": "ALDI Süd",
+      "enabled": true
+    },
+    {
+      "id": "aldi_nord",
+      "name": "ALDI Nord",
+      "enabled": true
+    },
+    {
+      "id": "netto",
+      "name": "Netto",
+      "enabled": true
+    },
+    {
+      "id": "penny",
+      "name": "PENNY",
+      "enabled": true
+    },
+    {
+      "id": "norma",
+      "name": "Norma",
+      "enabled": true
+    },
+    {
+      "id": "kaufland",
+      "name": "Kaufland",
+      "enabled": true
+    },
+    {
+      "id": "biomarkt",
+      "name": "Biomarkt",
+      "enabled": true
+    }
+  ]
+}
+

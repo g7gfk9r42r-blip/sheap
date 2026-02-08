@@ -1,0 +1,10 @@
+{
+  "tileCount": 3,
+  "descriptors": [
+    "Gurke, Preis 1,11\u20ac",
+    "Raclette-Kartoffeln, Preis 1,29\u20ac",
+    "Sonnentomaten, Preis 2,49\u20ac"
+  ],
+  "confidence": 0.9,
+  "attempts": 2
+}

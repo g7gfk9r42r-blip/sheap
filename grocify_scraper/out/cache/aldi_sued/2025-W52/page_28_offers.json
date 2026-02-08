@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Zahnpasta oder -b\u00fcrsten",
+    "brand": "Colgate",
+    "unitText": "3 St\u00fcck + 3 gratis",
+    "basePrice": 2.99,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": "Aktion",
+    "category": "other",
+    "sourcePage": 28,
+    "flags": []
+  },
+  {
+    "name": "Ultra-Soft-Toilettenpapier",
+    "brand": "Zewa",
+    "unitText": "16 Rollen \u00e0 150 Blatt",
+    "basePrice": 6.99,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": "UVP 8.39",
+    "category": "other",
+    "sourcePage": 28,
+    "flags": []
+  },
+  {
+    "name": "BIFENSIS\u00ae Adult",
+    "brand": "Purina One",
+    "unitText": "750-g-Packung",
+    "basePrice": 2.65,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": "UVP 3.95",
+    "category": "food",
+    "sourcePage": 28,
+    "flags": []
+  },
+  {
+    "name": "Knabbermix",
+    "brand": "FELIX",
+    "unitText": "200-g-Packung",
+    "basePrice": 2.99,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": "UVP 3.79",
+    "category": "food",
+    "sourcePage": 28,
+    "flags": []
+  }
+]

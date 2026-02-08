@@ -12,7 +12,7 @@ import '../settings/settings_screen.dart';
 import '../onboarding/onboarding_repository.dart';
 import '../onboarding/utils/preference_matcher.dart';
 import '../recipes/presentation/recipes_screen.dart';
-import '../../widgets/water_tracker_card.dart';
+
 import '../../core/widgets/molecules/recipe_preview_card.dart';
 import 'day_reflection_screen.dart';
 import '../../app/main_navigation.dart';
@@ -54,22 +54,12 @@ class _HomeScreenState extends State<HomeScreen> {
   // Cached upcoming recipes for today
   List<_PlannedRecipeEntry> _cachedUpcomingRecipes = [];
 
-  // Water tracking state
-  double _waterAmount = 0.0; // in liters
-  final double _waterGoal = 3.0; // liters
-
-  // Weight tracking state
-  double _currentWeight = 75.0; // in kg (initial value, should be loaded from prefs)
-  final double _startWeight = 80.0; // initial weight when user started
-
   // Weekly highlights - cached for performance
   List<Recipe> _weeklyHighlights = [];
   bool _isLoadingHighlights = true;
 
   // Settings state
   SharedPreferences? _prefs;
-  bool _showWaterGoal = true;
-  bool _showWeightTracking = true;
   
   // Calendar/Streak state (Dummy data für jetzt)
   Set<int> _activeDays = {1, 2, 4, 7, 12, 13}; // Days of month where recipes were cooked
@@ -88,10 +78,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _loadSettings() async {
     _prefs = await SharedPreferences.getInstance();
-    setState(() {
-      _showWaterGoal = _prefs?.getBool('home_show_water_goal') ?? true;
-      _showWeightTracking = _prefs?.getBool('home_show_weight_tracking') ?? true;
-    });
   }
 
   @override
@@ -286,67 +272,7 @@ class _HomeScreenState extends State<HomeScreen> {
               const SizedBox(height: 24),
 
               // 4. Wasserzähler Card (mit Überschrift) - nur wenn aktiviert
-              if (_showWaterGoal) ...[
-              Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(
-                'Wassertracker',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.w700,
-                      color: _HomeDesignColors.textPrimary,
-                      letterSpacing: -0.3,
-                    ),
-                  ),
-                  const SizedBox(height: 12),
-                  WaterTrackerCard(
-                    currentLitres: _waterAmount,
-                    goalLitres: _waterGoal,
-                    totalCups: 8,
-                    onCupTap: (cupIndex) {
-                      setState(() {
-                        const litresPerCup = 0.25;
-                        final targetLitres = (cupIndex + 1) * litresPerCup;
-                        _waterAmount = targetLitres.clamp(0.0, _waterGoal * 1.5);
-                      });
-                    },
-                  ),
-                ],
-              ),
-              const SizedBox(height: 24),
-              ],
-
-              // 5. Gewichtstracker Card (mit Überschrift) - nur wenn aktiviert
-              if (_showWeightTracking) ...[
-              Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(
-                    'Gewichtstracker',
-                    style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.w700,
-                      color: _HomeDesignColors.textPrimary,
-                      letterSpacing: -0.3,
-                    ),
-                  ),
-                  const SizedBox(height: 12),
-                  _WeightTrackerCard(
-                    currentWeight: _currentWeight,
-                    startWeight: _startWeight,
-                    onWeightChange: (delta) {
-                      setState(() {
-                        _currentWeight = (_currentWeight + delta).clamp(30.0, 300.0);
-                      });
-                    },
-                  ),
-                ],
-              ),
-              const SizedBox(height: 24),
-              ],
-
-              // 6. Tages-Intention Card (mit Überschrift)
+              // 4. Tages-Intention Card (mit Überschrift)
               Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
@@ -1250,162 +1176,6 @@ class _DayIntentionCard extends StatelessWidget {
   }
 }
 
-/// Gewichtstracker Card
-class _WeightTrackerCard extends StatelessWidget {
-  final double currentWeight;
-  final double startWeight;
-  final Function(double delta) onWeightChange;
-
-  const _WeightTrackerCard({
-    required this.currentWeight,
-    required this.startWeight,
-    required this.onWeightChange,
-  });
-
-  @override
-  Widget build(BuildContext context) {
-    final weightDiff = currentWeight - startWeight;
-    final isLoss = weightDiff < 0;
-
-    return Container(
-      width: double.infinity,
-      padding: const EdgeInsets.all(24),
-      decoration: BoxDecoration(
-        color: _HomeDesignColors.surface,
-        borderRadius: BorderRadius.circular(20),
-        border: Border.all(
-          color: _HomeDesignColors.border.withOpacity(0.6),
-          width: 1,
-        ),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.04),
-            blurRadius: 12,
-            offset: const Offset(0, 4),
-          ),
-        ],
-      ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            // Badge rechts oben (Titel wird außerhalb angezeigt)
-            Row(
-              mainAxisAlignment: MainAxisAlignment.end,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                if (weightDiff != 0)
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-                  decoration: BoxDecoration(
-                    color: isLoss
-                        ? _HomeDesignColors.accentEmerald.withOpacity(0.1)
-                        : _HomeDesignColors.textSecondary.withOpacity(0.1),
-                    borderRadius: BorderRadius.circular(12),
-                  ),
-                  child: Text(
-                    '${weightDiff > 0 ? '+' : ''}${weightDiff.toStringAsFixed(1)} kg',
-                    style: TextStyle(
-                      fontSize: 14,
-                      fontWeight: FontWeight.w600,
-                      color: isLoss
-                          ? _HomeDesignColors.accentEmerald
-                          : _HomeDesignColors.textSecondary,
-                    ),
-                  ),
-                ),
-            ],
-          ),
-          
-          const SizedBox(height: 24),
-          
-          // Große Zahl (zentriert)
-          Center(
-            child: Column(
-              children: [
-                Text(
-                  currentWeight.toStringAsFixed(1),
-                  style: TextStyle(
-                    fontSize: 64,
-                    fontWeight: FontWeight.w700,
-                    color: _HomeDesignColors.textPrimary,
-                    height: 1.0,
-                  ),
-                ),
-                Text(
-                  'kg',
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.w500,
-                    color: _HomeDesignColors.textSecondary,
-                  ),
-                ),
-              ],
-            ),
-          ),
-          
-          const SizedBox(height: 24),
-          
-          // Plus/Minus Buttons
-          Row(
-            children: [
-              Expanded(
-                child: InkWell(
-                  onTap: () => onWeightChange(-0.5),
-                  borderRadius: BorderRadius.circular(12),
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(vertical: 16),
-                    decoration: BoxDecoration(
-                      color: _HomeDesignColors.accentEmerald,
-                      borderRadius: BorderRadius.circular(12),
-                    ),
-                    child: const Icon(
-                      Icons.remove,
-                      color: Colors.white,
-                      size: 24,
-                    ),
-                  ),
-                ),
-              ),
-              const SizedBox(width: 16),
-              Expanded(
-                child: InkWell(
-                  onTap: () => onWeightChange(0.5),
-                  borderRadius: BorderRadius.circular(12),
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(vertical: 16),
-                    decoration: BoxDecoration(
-                      color: _HomeDesignColors.accentEmerald,
-                      borderRadius: BorderRadius.circular(12),
-                    ),
-                    child: const Icon(
-                      Icons.add,
-                      color: Colors.white,
-                      size: 24,
-                    ),
-                  ),
-                ),
-              ),
-            ],
-          ),
-          
-          const SizedBox(height: 20),
-          
-          // Startgewicht
-          Center(
-            child: Text(
-              'Startgewicht: ${startWeight.toStringAsFixed(1)} kg',
-              style: TextStyle(
-                fontSize: 14,
-                fontWeight: FontWeight.w400,
-                color: _HomeDesignColors.textSecondary,
-              ),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-}
 
 /// Streak Modal BottomSheet
 class _StreakModal extends StatelessWidget {

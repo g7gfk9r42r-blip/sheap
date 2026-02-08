@@ -1,0 +1,14 @@
+{
+  "supermarket": "aldi_sued",
+  "week_key": "2025-W52",
+  "total_offers": 30,
+  "total_recipes": 50,
+  "flagged_offers": 27,
+  "flag_rate": 0.9,
+  "validation_summary": {
+    "passed": 3,
+    "flagged": 27,
+    "rejected": 0
+  },
+  "generated_at": "2025-12-23T14:42:52.147115"
+}

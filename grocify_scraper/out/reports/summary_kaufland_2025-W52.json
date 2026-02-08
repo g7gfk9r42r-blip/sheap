@@ -1,0 +1,14 @@
+{
+  "supermarket": "kaufland",
+  "week_key": "2025-W52",
+  "total_offers": 60,
+  "total_recipes": 50,
+  "flagged_offers": 49,
+  "flag_rate": 0.8166666666666667,
+  "validation_summary": {
+    "passed": 11,
+    "flagged": 49,
+    "rejected": 0
+  },
+  "generated_at": "2025-12-23T14:46:36.349564"
+}

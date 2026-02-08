@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Frische-Kracher",
+    "brand": null,
+    "unitText": null,
+    "basePrice": 0.88,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "food",
+    "sourcePage": null,
+    "flags": [
+      "MISSING_PRICE",
+      "MISSING_BRAND",
+      "MISSING_QUANTITY"
+    ],
+    "source": "merged",
+    "id": "1805eee932338c88",
+    "confidence": "low"
+  },
+  {
+    "name": "Schweizer Raclette Käse",
+    "brand": null,
+    "unitText": null,
+    "basePrice": 0.59,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "food",
+    "sourcePage": null,
+    "flags": [
+      "MISSING_PRICE",
+      "MISSING_BRAND",
+      "MISSING_QUANTITY"
+    ],
+    "source": "merged",
+    "id": "ee165846523dd934",
+    "confidence": "low"
+  },
+  {
+    "name": "Cocktail-Set",
+    "brand": null,
+    "unitText": null,
+    "basePrice": 7.99,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "food",
+    "sourcePage": null,
+    "flags": [
+      "MISSING_PRICE",
+      "MISSING_BRAND",
+      "MISSING_QUANTITY"
+    ],
+    "source": "merged",
+    "id": "4942a75ccfda0090",
+    "confidence": "low"
+  }
+]

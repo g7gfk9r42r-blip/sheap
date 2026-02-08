@@ -1,0 +1,60 @@
+{
+  "test_prompt": "Extract offers from this supermarket leaflet page image with maximum accuracy.\n\nSTEP A — Page Classification:\nAnalyze the page content and classify it:\n- \"offers_page\": Page primarily contains product offers with prices\n- \"mixed_page\": Mix of offers and informational content\n- \"info_page\": Mostly informational (store hours, locations, recipes, etc.) - return empty offers array\n- \"nonfood_page\": Non-food items only (electronics, clothing, etc.) - return empty offers array\n\nProvide a concise \"page_reason\" (max 20 words) explaining the classification.\n\nSTEP B — Offer Enumeration:\n1. Count ALL distinct offer tiles/boxes that contain:\n   - A visible price (e.g., \"2.99\", \"€1.49\", \"3,50€\")\n   - Price-like text (e.g., \"GRATIS\", \"kostenlos\", percentage discounts)\n2. Set \"tile_count_estimate\" to this exact count\n3. Output exactly that many offers in the array (unless page_type is \"info_page\" or \"nonfood_page\")\n4. If a tile is partially unreadable, still include it with appropriate flags and lower confidence\n\nSTEP C — Field Extraction (for each offer):\n\nCRITICAL RULES:\n- Extract ONLY food items (meat, fish, dairy, vegetables, fruits, bread, pasta, frozen food, sweets, spices, oils, eggs, flour, sugar)\n- IGNORE: beverages (wine, beer, juice, soda), coffee, tea, household items, furniture, clothing, tools\n- If unsure if item is food, use flag \"not_food\" and set confidence lower\n\nRequired JSON schema per offer:\n\n{\n  \"source\": {\n    \"supermarket\": \"aldi_sued\",\n    \"week_key\": \"2025-W01\",\n    \"page\": 1,\n    \"tile_index\": 0\n  },\n  \"product\": {\n    \"title\": \"<string|null>\",\n    \"brand\": \"<string|null>\",\n    \"variant\": \"<string|null>\",\n    \"category_guess\": \"<string|null>\"\n  },\n  \"size\": {\n    \"amount\": <number|null>,\n    \"unit\": \"<string|null>\",\n    \"pack_count\": <int|null>\n  },\n  \"pricing\": {\n    \"currency\": \"EUR\",\n    \"price_current\": <number|null>,\n    \"price_regular\": <number|null>,\n    \"price_before\": <number|null>,\n    \"discount_percent\": <int|null>,\n    \"base_price\": {\n      \"value\": <number|null>,\n      \"unit\": \"<string|null>\"\n    },\n    \"price_options\": [\n      {\n        \"price\": <number|null>,\n        \"condition\": \"<string|null>\",\n        \"is_loyalty_required\": <boolean|null>\n      }\n    ]\n  },\n  \"conditions\": {\n    \"loyalty\": \"<string|null>\",\n    \"coupon\": \"<string|null>\",\n    \"date_range\": \"<string|null>\",\n    \"limit\": \"<string|null>\"\n  },\n  \"meta\": {\n    \"confidence\": <number>,\n    \"flags\": [\"needs_review\", \"unreadable_text\", \"multi_price\", \"loyalty_price\", \"uvp_present\", \"missing_brand\", \"missing_size\", \"not_food\", \"discount_visible\", \"base_price_shown\"],\n    \"raw_text_snippet\": \"<string|null>\"\n  }\n}\n\nEXTRACTION GUIDELINES:\n1. Price parsing:\n   - Use dot for decimals: 1.99, 2.49 (NOT 1,99 or 2,49)\n   - Extract the most prominent price as \"price_current\"\n   - If price is crossed out, use crossed price as \"price_before\" and new price as \"price_current\"\n   - For \"2 für 5.99\" or \"3x 2.99\", add to price_options array\n\n2. Size/Unit parsing:\n   - Extract both numeric amount AND unit separately\n   - Examples: \"500 g\" → amount: 500, unit: \"g\"\n   - \"1 kg\" → amount: 1, unit: \"kg\"\n   - \"6 Stück\" → amount: 6, unit: \"Stueck\"\n   - \"6x 200g\" → amount: 200, unit: \"g\", pack_count: 6\n\n3. Brand extraction:\n   - Only extract if brand name is clearly visible and distinct from product name\n   - If brand is part of product name, include in title, set brand to null\n\n4. Confidence scoring:\n   - 0.95: All text crystal clear, all fields extractable\n   - 0.8: Most text clear, minor uncertainties\n   - 0.5: Partial visibility, some guessing required\n   - 0.2: Very blurry/unreadable, mostly guessing\n\n5. Flags:\n   - Add \"needs_review\" if any field is uncertain\n   - Add \"unreadable_text\" if text is too small/blurry\n   - Add \"multi_price\" if multiple price conditions exist\n   - Add \"loyalty_price\" if any price requires loyalty card\n   - Add \"uvp_present\" if UVP/unverbindliche Preisempfehlung is visible\n   - Add \"missing_brand\" if brand should be visible but isn't\n   - Add \"missing_size\" if size/unit should be visible but isn't\n   - Add \"not_food\" if item might not be food (when uncertain)\n\n6. raw_text_snippet:\n   - Include the most important visible text that supports your extraction\n   - Focus on: product name, price, size, any special conditions\n   - Keep it concise (max 160 characters)\n   - Example: \"Milka Schokolade 200g 2.99€ mit K-Card 1.99€\"\n\nOUTPUT FORMAT:\nReturn ONLY a single valid JSON object (no markdown, no code blocks, no explanations):\n\n{\n  \"page_type\": \"offers_page\" | \"mixed_page\" | \"info_page\" | \"nonfood_page\",\n  \"page_reason\": \"<brief explanation>\",\n  \"tile_count_estimate\": <integer>,\n  \"offers\": [\n    // Array of offer objects matching the schema above\n    // Exactly tile_count_estimate items (unless info_page or nonfood_page)\n  ]\n}\n\nCRITICAL: Return ONLY valid JSON. No markdown code blocks. No explanations. No extra text.",
+  "example_response": {
+    "page_type": "offers_page",
+    "page_reason": "Page contains multiple food product offers with prices displayed prominently",
+    "tile_count_estimate": 12,
+    "offers": [
+      {
+        "source": {
+          "supermarket": "aldi_sued",
+          "week_key": "2025-W01",
+          "page": 1,
+          "tile_index": 0
+        },
+        "product": {
+          "title": "Milka Alpenmilch Schokolade",
+          "brand": "Milka",
+          "variant": "Alpenmilch",
+          "category_guess": "Suessigkeiten"
+        },
+        "size": {
+          "amount": 200,
+          "unit": "g",
+          "pack_count": null
+        },
+        "pricing": {
+          "currency": "EUR",
+          "price_current": 1.99,
+          "price_regular": 2.49,
+          "price_before": 2.49,
+          "discount_percent": 20,
+          "base_price": {
+            "value": 9.95,
+            "unit": "kg"
+          },
+          "price_options": [
+            {
+              "price": 1.99,
+              "condition": "mit K-Card",
+              "is_loyalty_required": true
+            }
+          ]
+        },
+        "conditions": {
+          "loyalty": "K-Card",
+          "coupon": null,
+          "date_range": "01.01.-07.01.",
+          "limit": null
+        },
+        "meta": {
+          "confidence": 0.95,
+          "flags": ["loyalty_price", "discount_visible", "base_price_shown"],
+          "raw_text_snippet": "Milka Alpenmilch 200g statt 2.49€ jetzt 1.99€ mit K-Card, 9.95€/kg"
+        }
+      }
+    ]
+  },
+  "usage": "This prompt is now integrated into the GPT Vision extractor. To test it, run:\n\ncd grocify_scraper\nexport OPENAI_API_KEY=\"your-key\"\npython3 process_aldi_sued_simple.py"
+}
+

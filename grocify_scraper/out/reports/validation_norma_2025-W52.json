@@ -1,0 +1,34 @@
+{
+  "total": 48,
+  "passed": 28,
+  "flagged": 20,
+  "rejected": 0,
+  "gate_results": [
+    {
+      "gate": 1,
+      "name": "_gate1_schema_required",
+      "status": "passed"
+    },
+    {
+      "gate": 2,
+      "name": "_gate2_price_consistency",
+      "status": "passed"
+    },
+    {
+      "gate": 3,
+      "name": "_gate3_loyalty_rules",
+      "status": "passed"
+    },
+    {
+      "gate": 4,
+      "name": "_gate4_brand_quantity",
+      "status": "passed"
+    },
+    {
+      "gate": 5,
+      "name": "_gate5_duplicates_outliers",
+      "status": "passed"
+    }
+  ],
+  "generated_at": "2025-12-23T14:49:23.642178"
+}

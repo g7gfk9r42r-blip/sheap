@@ -1,0 +1,3463 @@
+{
+  "retailer": "LIDL",
+  "week_key": "2026-W05",
+  "valid_from": "2026-01-26",
+  "recipes": [
+    {
+      "id": "R001",
+      "slug": "creamy-pasta-with-vegan-salami",
+      "title": "Cremige Pasta mit veganer Salami",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 2,
+          "used_amount": 180.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (2 Zehen)",
+        "Petersilie (1 Bund)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung in Salzwasser kochen.",
+        "In einer Pfanne Öl erhitzen und die Zwiebel sowie den Knoblauch anbraten.",
+        "Vegane Salami hinzufügen und kurz mitbraten.",
+        "Gekochte Pasta und Joghurt unterrühren, mit Petersilie garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R002",
+      "slug": "spicy-chicken-wings",
+      "title": "Würzige Hähnchenflügel",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 45,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O313",
+          "name": "McEnnedy Chicken Wings",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O321",
+          "name": "McEnnedy Sauce",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 348,
+          "packs_used": 1,
+          "used_amount": 348.0,
+          "price_eur": 1.79,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Chili (1 Stk)",
+        "Knoblauch (2 Zehen)",
+        "Paprika (1 Stk)"
+      ],
+      "steps": [
+        "Hähnchenflügel mit Gewürzen und Sauce marinieren und 30 Minuten ziehen lassen.",
+        "Im Ofen bei 200°C ca. 25 Minuten backen, bis sie knusprig sind.",
+        "Mit geschnittenem Porree und Chili servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R003",
+      "slug": "vegan-burger",
+      "title": "Veganer Burger",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O089",
+          "name": "Vemondo Veganes Hack",
+          "brand": "Vemondo",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 2,
+          "used_amount": 400.0,
+          "price_eur": 1.39,
+          "price_before_eur": 1.59
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 1,
+          "used_amount": 90.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Tomate (1 Stk)",
+        "Zwiebel (1 Stk)"
+      ],
+      "steps": [
+        "Veganes Hack in einer Pfanne anbraten.",
+        "Burgerbrötchen toasten und mit Joghurt bestreichen.",
+        "Mit Salat, Tomate und Zwiebel belegen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R004",
+      "slug": "chicken-nuggets",
+      "title": "Hähnchen Nuggets",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O314",
+          "name": "McEnnedy American Style Chicken Nuggets",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O321",
+          "name": "McEnnedy Sauce",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 348,
+          "packs_used": 1,
+          "used_amount": 348.0,
+          "price_eur": 1.79,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Chili (1 Stk)",
+        "Knoblauch (2 Zehen)",
+        "Paprika (1 Stk)"
+      ],
+      "steps": [
+        "Nuggets nach Packungsanweisung zubereiten.",
+        "Mit Sauce und geschnittenem Porree servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R005",
+      "slug": "yogurt-fruit-parfait",
+      "title": "Joghurt-Frucht-Parfait",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienarm",
+        "Laktosefrei",
+        "Vegan"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Alesto Selection Studentenfutter Classic",
+          "brand": "Alesto",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Erdbeeren (200 g)",
+        "Himbeeren (200 g)",
+        "Honig (2 EL)"
+      ],
+      "steps": [
+        "Joghurt in Gläser füllen.",
+        "Obst und Studentenfutter darauf schichten.",
+        "Mit Honig beträufeln und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R006",
+      "slug": "chocolate-banana-smoothie",
+      "title": "Schokoladen-Bananen-Smoothie",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 5,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Alesto Selection Studentenfutter Classic",
+          "brand": "Alesto",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Banane (1 Stk)",
+        "Kakaopulver (2 EL)",
+        "Agavendicksaft (1 EL)"
+      ],
+      "steps": [
+        "Alle Zutaten in einen Mixer geben.",
+        "Gut pürieren, bis eine cremige Konsistenz erreicht ist.",
+        "In Gläser füllen und sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R007",
+      "slug": "vegan-salad-bowl",
+      "title": "Vegane Salatschüssel",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 1,
+          "used_amount": 90.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Tomate (1 Stk)",
+        "Gurke (1 Stk)",
+        "Oliven (100 g)"
+      ],
+      "steps": [
+        "Porree und Gemüse klein schneiden.",
+        "In einer Schüssel anrichten und mit Salami garnieren.",
+        "Mit Dressing nach Wahl servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R008",
+      "slug": "sweet-potato-fries",
+      "title": "Süßkartoffel-Pommes",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 1,
+          "used_amount": 90.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        }
+      ],
+      "without_offers": [
+        "Süßkartoffeln (600 g)",
+        "Paprika (1 Stk)",
+        "Chili (1 Stk)"
+      ],
+      "steps": [
+        "Süßkartoffeln schälen und in Pommes schneiden.",
+        "Mit Öl und Gewürzen vermengen und im Ofen backen.",
+        "Mit Joghurt und Salami servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R009",
+      "slug": "chocolate-chip-cookies",
+      "title": "Schokoladenkekse",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 12,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienreich",
+        "Laktosefrei",
+        "Vegan"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Alesto Selection Studentenfutter Classic",
+          "brand": "Alesto",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Zucker (200 g)",
+        "Mehl (300 g)",
+        "Schokoladenstückchen (100 g)"
+      ],
+      "steps": [
+        "Alle Zutaten vermengen und zu einem Teig kneten.",
+        "Kekse formen und auf ein Blech legen.",
+        "Im Ofen bei 180°C ca. 15 Minuten backen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R010",
+      "slug": "fruit-salad",
+      "title": "Fruchtsalat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Alesto Selection Studentenfutter Classic",
+          "brand": "Alesto",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Äpfel (2 Stk)",
+        "Banane (1 Stk)",
+        "Trauben (100 g)"
+      ],
+      "steps": [
+        "Obst klein schneiden und in eine Schüssel geben.",
+        "Mit Joghurt vermengen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R011",
+      "slug": "joghurt-mit-fruechten",
+      "title": "Fruchtiger Joghurt-Genuss",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Frische Beeren (200 g)"
+      ],
+      "steps": [
+        "Joghurt in eine Schüssel geben.",
+        "Beeren und Nüsse hinzufügen.",
+        "Mit Honig süßen und gut vermischen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R012",
+      "slug": "pasta-mit-pesto",
+      "title": "Pasta mit Pesto und Garnelen",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Nordsee Knusper-Garnelen",
+          "brand": "Nordsee",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 2,
+          "used_amount": 400.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.59
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Barilla Pesto",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 190,
+          "packs_used": 1,
+          "used_amount": 190.0,
+          "price_eur": 1.99,
+          "price_before_eur": 3.49
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (2 Zehen)",
+        "Petersilie (1 Bund)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen.",
+        "Garnelen in einer Pfanne anbraten.",
+        "Pasta abgießen, mit Pesto und Garnelen vermengen.",
+        "Mit frischen Kräutern garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R013",
+      "slug": "chicken-wings-mit-salat",
+      "title": "Chicken Wings mit frischem Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O092",
+          "name": "Metzgerfrisch Frische Hähnchen-Mini-Steaks",
+          "brand": "Metzgerfrisch",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 6.66,
+          "price_before_eur": 9.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O320",
+          "name": "McEnnedy BBQ Salat",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.69,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Eisbergsalat (200 g)",
+        "Tomaten (2 Stk)"
+      ],
+      "steps": [
+        "Hähnchen-Mini-Steaks marinieren und im Ofen backen.",
+        "Salat vorbereiten und anrichten.",
+        "Chicken Wings mit Salat servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R014",
+      "slug": "veganer-burger",
+      "title": "Veganer Burger mit Pommes",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O089",
+          "name": "Vemondo Veganes Hack",
+          "brand": "Vemondo",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 2,
+          "used_amount": 400.0,
+          "price_eur": 1.39,
+          "price_before_eur": 1.59
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O332",
+          "name": "McEnedy Burger Slices",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.69,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Burger Brötchen (4 Stk)",
+        "Salat (1 Handvoll)"
+      ],
+      "steps": [
+        "Veganes Hack in einer Pfanne anbraten.",
+        "Burger Brötchen toasten und belegen.",
+        "Mit Salat und Tomaten garnieren.",
+        "Pommes nach Packungsanweisung zubereiten."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R015",
+      "slug": "pasta-salat",
+      "title": "Mediterraner Pasta-Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O059",
+          "name": "Cherrystrauchtomaten, lose",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (4 EL)",
+        "Basilikum (1 Bund)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen und abkühlen lassen.",
+        "Tomaten und Feta klein schneiden.",
+        "Alle Zutaten vermengen und mit Olivenöl und Basilikum abschmecken."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R016",
+      "slug": "chicken-nuggets-mit-salat",
+      "title": "Chicken Nuggets mit frischem Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O314",
+          "name": "McEnnedy American Style Chicken Nuggets",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O320",
+          "name": "McEnnedy BBQ Salat",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 350,
+          "packs_used": 1,
+          "used_amount": 350.0,
+          "price_eur": 1.69,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Eisbergsalat (200 g)",
+        "Tomaten (2 Stk)"
+      ],
+      "steps": [
+        "Chicken Nuggets nach Packungsanweisung zubereiten.",
+        "Salat vorbereiten und anrichten.",
+        "Chicken Nuggets mit Salat servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R017",
+      "slug": "veganer-pasta-salat",
+      "title": "Veganer Pasta-Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O089",
+          "name": "Vemondo Veganes Hack",
+          "brand": "Vemondo",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.39,
+          "price_before_eur": 1.59
+        }
+      ],
+      "without_offers": [
+        "Paprika (1 Stk)",
+        "Zucchini (1 Stk)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen und abkühlen lassen.",
+        "Gemüse klein schneiden.",
+        "Alle Zutaten vermengen und mit Olivenöl abschmecken."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R018",
+      "slug": "fruchtiger-joghurt",
+      "title": "Fruchtiger Joghurt mit Nüssen",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Frische Beeren (200 g)"
+      ],
+      "steps": [
+        "Joghurt in eine Schüssel geben.",
+        "Beeren und Nüsse hinzufügen.",
+        "Mit Honig süßen und gut vermischen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R019",
+      "slug": "chicken-salat",
+      "title": "Hähnchen-Salat mit frischen Kräutern",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O351",
+          "name": "McEnedy Hähnchenbrust Filetstücke",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 2,
+          "used_amount": 300.0,
+          "price_eur": 1.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O351",
+          "name": "McEnedy Hähnchenbrust Filetstücke",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 1.99,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Eisbergsalat (200 g)"
+      ],
+      "steps": [
+        "Hähnchenbrust grillen und in Streifen schneiden.",
+        "Salat und Gemüse klein schneiden.",
+        "Alle Zutaten vermengen und mit Dressing abschmecken."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R020",
+      "slug": "veganer-burger-mit-pommes",
+      "title": "Veganer Burger mit Pommes",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O089",
+          "name": "Vemondo Veganes Hack",
+          "brand": "Vemondo",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 2,
+          "used_amount": 400.0,
+          "price_eur": 1.39,
+          "price_before_eur": 1.59
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O332",
+          "name": "McEnedy Burger Slices",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.69,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Burger Brötchen (4 Stk)",
+        "Salat (1 Handvoll)"
+      ],
+      "steps": [
+        "Veganes Hack in einer Pfanne anbraten.",
+        "Burger Brötchen toasten und belegen.",
+        "Mit Salat und Tomaten garnieren.",
+        "Pommes nach Packungsanweisung zubereiten."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R021",
+      "slug": "creamy-pasta-with-salami",
+      "title": "Cremige Pasta mit Veganer Salami",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 2,
+          "used_amount": 180.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (2 Zehen)",
+        "Petersilie (1 Bund)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung in Salzwasser kochen.",
+        "In einer Pfanne Öl erhitzen, Zwiebel und Knoblauch anbraten.",
+        "Vegane Salami hinzufügen und kurz mitbraten.",
+        "Joghurt unterrühren und mit Pfeffer abschmecken.",
+        "Pasta abgießen und mit der Sauce vermengen.",
+        "Mit frischer Petersilie garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R022",
+      "slug": "chicken-wings-with-salad",
+      "title": "Hähnchenflügel mit frischem Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O092",
+          "name": "Metzgerfrisch Frische Hähnchen-Mini-Steaks",
+          "brand": "Metzgerfrisch",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 6.66,
+          "price_before_eur": 9.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "Stück",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O361",
+          "name": "Cherrystrauchtomaten",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 2.99,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Olivenöl (2 EL)",
+        "Essig (1 EL)"
+      ],
+      "steps": [
+        "Hähnchenflügel mit Salz und Pfeffer würzen und im Ofen bei 200°C 25 Minuten backen.",
+        "In der Zwischenzeit den Salat zubereiten: Salat, Porree und Cherrystrauchtomaten mischen.",
+        "Mit Olivenöl und Essig anmachen.",
+        "Hähnchenflügel aus dem Ofen nehmen und mit dem Salat servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R023",
+      "slug": "vegan-burger-r023",
+      "title": "Veganer Burger mit Erdnussbutter",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O329",
+          "name": "McEnedy Peanut Butter",
+          "brand": "McEnedy",
+          "unit": "g",
+          "pack_size": 454,
+          "packs_used": 1,
+          "used_amount": 454.0,
+          "price_eur": 2.29,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O350",
+          "name": "McEnedy Mac & Cheese",
+          "brand": "McEnedy",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 3.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 2,
+          "used_amount": 180.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        }
+      ],
+      "without_offers": [
+        "Burgerbrötchen (4 Stück)",
+        "Salat (1 Blatt)",
+        "Tomate (1 Scheibe)"
+      ],
+      "steps": [
+        "Burgerbrötchen toasten.",
+        "Erdnussbutter auf die Brötchen streichen.",
+        "Vegane Salami und Mac & Cheese darauflegen.",
+        "Mit Salat und Tomate garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R024",
+      "slug": "chicken-nuggets-with-salad",
+      "title": "Hähnchen Nuggets mit Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O313",
+          "name": "McEnnedy American Style Chicken Nuggets",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "Stück",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O361",
+          "name": "Cherrystrauchtomaten",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 2.99,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Olivenöl (2 EL)",
+        "Essig (1 EL)"
+      ],
+      "steps": [
+        "Nuggets nach Packungsanweisung zubereiten.",
+        "In der Zwischenzeit Salat, Porree und Cherrystrauchtomaten mischen.",
+        "Mit Olivenöl und Essig anmachen.",
+        "Nuggets servieren und mit dem Salat anrichten."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R025",
+      "slug": "vegan-pasta-salad",
+      "title": "Veganer Pasta-Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 2,
+          "used_amount": 180.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Paprika (1 Stk)",
+        "Petersilie (1 Bund)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen und abkühlen lassen.",
+        "In einer Schüssel die gekochte Pasta mit der veganen Salami, Zwiebel und Paprika vermengen.",
+        "Mit Joghurt und Gewürzen anmachen.",
+        "Mit frischer Petersilie garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R026",
+      "slug": "chicken-wings-with-sweet-sauce",
+      "title": "Hähnchenflügel mit süßer Sauce",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O092",
+          "name": "Metzgerfrisch Frische Hähnchen-Mini-Steaks",
+          "brand": "Metzgerfrisch",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 6.66,
+          "price_before_eur": 9.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 2,
+          "used_amount": 180.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Honig (2 EL)",
+        "Sojasauce (2 EL)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Hähnchenflügel in einer Mischung aus Honig, Sojasauce und Knoblauch marinieren.",
+        "Im Ofen bei 200°C 25 Minuten backen.",
+        "Mit frischem Salat servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R027",
+      "slug": "vegan-bowl",
+      "title": "Vegane Bowl mit Quinoa",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 35,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 2,
+          "used_amount": 180.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Ben's Original Express Reis",
+          "brand": "Ben's Original",
+          "unit": "g",
+          "pack_size": 220,
+          "packs_used": 3,
+          "used_amount": 660.0,
+          "price_eur": 1.29,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Avocado (1 Stück)",
+        "Paprika (1 Stück)",
+        "Koriander (1 Bund)"
+      ],
+      "steps": [
+        "Reis nach Packungsanweisung kochen.",
+        "In einer Schüssel Reis, Joghurt, vegane Salami und gewürfelte Avocado vermengen.",
+        "Mit frischen Kräutern garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R028",
+      "slug": "chicken-salad",
+      "title": "Hähnchen-Salat mit Erdnüssen",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O092",
+          "name": "Metzgerfrisch Frische Hähnchen-Mini-Steaks",
+          "brand": "Metzgerfrisch",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 6.66,
+          "price_before_eur": 9.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O329",
+          "name": "McEnedy Peanut Butter",
+          "brand": "McEnedy",
+          "unit": "g",
+          "pack_size": 454,
+          "packs_used": 1,
+          "used_amount": 454.0,
+          "price_eur": 2.29,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "Stück",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Olivenöl (2 EL)",
+        "Essig (1 EL)"
+      ],
+      "steps": [
+        "Hähnchenbrust in einer Pfanne braten und in Stücke schneiden.",
+        "In einer Schüssel Salat, Porree und Hähnchen vermengen.",
+        "Mit Erdnussbutter und Gewürzen anmachen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R029",
+      "slug": "sweet-potato-bowl",
+      "title": "Süßkartoffel-Bowl mit Quinoa",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 2,
+          "used_amount": 180.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Ben's Original Express Reis",
+          "brand": "Ben's Original",
+          "unit": "g",
+          "pack_size": 220,
+          "packs_used": 3,
+          "used_amount": 660.0,
+          "price_eur": 1.29,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Avocado (1 Stück)",
+        "Paprika (1 Stück)",
+        "Koriander (1 Bund)"
+      ],
+      "steps": [
+        "Quinoa nach Packungsanweisung kochen.",
+        "In einer Schüssel Quinoa, Joghurt, vegane Salami und gewürfelte Avocado vermengen.",
+        "Mit frischen Kräutern garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R030",
+      "slug": "chicken-salad-with-peanut-sauce",
+      "title": "Hähnchen-Salat mit Erdnusssauce",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O092",
+          "name": "Metzgerfrisch Frische Hähnchen-Mini-Steaks",
+          "brand": "Metzgerfrisch",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 6.66,
+          "price_before_eur": 9.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O329",
+          "name": "McEnedy Peanut Butter",
+          "brand": "McEnedy",
+          "unit": "g",
+          "pack_size": 454,
+          "packs_used": 1,
+          "used_amount": 454.0,
+          "price_eur": 2.29,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O360",
+          "name": "Porree",
+          "brand": "LIDL",
+          "unit": "Stück",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Olivenöl (2 EL)",
+        "Essig (1 EL)"
+      ],
+      "steps": [
+        "Hähnchenbrust in einer Pfanne braten und in Stücke schneiden.",
+        "In einer Schüssel Salat, Porree und Hähnchen vermengen.",
+        "Mit Erdnussbutter und Gewürzen anmachen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R031",
+      "slug": "joghurt-pasta-salat",
+      "title": "Joghurt-Pasta-Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Ben's Original Express Reis",
+          "brand": "Ben's Original",
+          "unit": "g",
+          "pack_size": 220,
+          "packs_used": 2,
+          "used_amount": 440.0,
+          "price_eur": 1.29,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Zwiebel (1 Stk)",
+        "Knoblauch (2 Zehen)",
+        "Petersilie (1 Bund)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen und abkühlen lassen.",
+        "Joghurt mit gewürfelten Zwiebeln, Knoblauch und Petersilie vermengen.",
+        "Gekochte Pasta unter die Joghurtmischung heben und gut vermengen.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R032",
+      "slug": "chicken-wings-mit-salat-r032",
+      "title": "Chicken Wings mit Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O313",
+          "name": "McEnnedy Chicken Wings",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O361",
+          "name": "Cherrystrauchtomaten",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 2.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Ben's Original Express Reis",
+          "brand": "Ben's Original",
+          "unit": "g",
+          "pack_size": 220,
+          "packs_used": 2,
+          "used_amount": 440.0,
+          "price_eur": 1.29,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Olivenöl (2 EL)",
+        "Zitronensaft (1 EL)"
+      ],
+      "steps": [
+        "Chicken Wings marinieren und im Ofen bei 200°C ca. 25 Minuten backen.",
+        "Salat waschen und in eine Schüssel geben.",
+        "Cherrystrauchtomaten halbieren und zum Salat hinzufügen.",
+        "Mit Olivenöl und Zitronensaft anmachen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R033",
+      "slug": "veganer-pasta-salat-r033",
+      "title": "Veganer Pasta-Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O115",
+          "name": "Vemondo Vegane Gyros-Alternative",
+          "brand": "Vemondo",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O118",
+          "name": "Vemondo Veganes Pesto",
+          "brand": "Vemondo",
+          "unit": "g",
+          "pack_size": 190,
+          "packs_used": 2,
+          "used_amount": 380.0,
+          "price_eur": 0.89,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Paprika (1 Stück)",
+        "Zucchini (1 Stück)",
+        "Basilikum (1 Bund)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen und abkühlen lassen.",
+        "Vemondo Vegane Gyros-Alternative in einer Pfanne anbraten.",
+        "Paprika und Zucchini würfeln und zusammen mit dem Pesto zur Pasta geben.",
+        "Alles gut vermengen und mit frischem Basilikum garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R034",
+      "slug": "chicken-nuggets-mit-salat-r034",
+      "title": "Chicken Nuggets mit Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O314",
+          "name": "McEnnedy American Style Chicken Nuggets",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O361",
+          "name": "Cherrystrauchtomaten",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 2.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Olivenöl (2 EL)",
+        "Zitronensaft (1 EL)"
+      ],
+      "steps": [
+        "Nuggets nach Packungsanweisung zubereiten.",
+        "Salat waschen und in eine Schüssel geben.",
+        "Cherrystrauchtomaten halbieren und zum Salat hinzufügen.",
+        "Mit Olivenöl und Zitronensaft anmachen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R035",
+      "slug": "veganer-burger-mit-salat",
+      "title": "Veganer Burger mit Salat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O115",
+          "name": "Vemondo Veganes Hack",
+          "brand": "Vemondo",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 2,
+          "used_amount": 400.0,
+          "price_eur": 1.39,
+          "price_before_eur": 1.59
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O361",
+          "name": "Cherrystrauchtomaten",
+          "brand": "LIDL",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 2.99,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Olivenöl (2 EL)",
+        "Zitronensaft (1 EL)"
+      ],
+      "steps": [
+        "Vemondo Veganes Hack in einer Pfanne anbraten und zu Burger-Patties formen.",
+        "Salat waschen und in eine Schüssel geben.",
+        "Cherrystrauchtomaten halbieren und zum Salat hinzufügen.",
+        "Mit Olivenöl und Zitronensaft anmachen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R036",
+      "slug": "pasta-mit-pesto-r036",
+      "title": "Pasta mit Pesto",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Barilla Pesto",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 190,
+          "packs_used": 2,
+          "used_amount": 380.0,
+          "price_eur": 1.99,
+          "price_before_eur": 3.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Petersilie (1 Bund)",
+        "Parmesan (50 g)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen.",
+        "Pasta abgießen und mit Pesto vermengen.",
+        "Mit frischer Petersilie und Parmesan servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R037",
+      "slug": "chicken-nuggets-mit-pommes",
+      "title": "Chicken Nuggets mit Pommes",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O313",
+          "name": "McEnnedy Chicken Wings",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O340",
+          "name": "McEnnedy Pommes-Snack",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 175,
+          "packs_used": 4,
+          "used_amount": 700.0,
+          "price_eur": 1.29,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Ketchup (50 g)",
+        "Salat (1 Kopf)"
+      ],
+      "steps": [
+        "Nuggets nach Packungsanweisung zubereiten.",
+        "Pommes nach Packungsanweisung zubereiten.",
+        "Mit Ketchup und frischem Salat servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R038",
+      "slug": "veganer-burger-mit-pommes-r038",
+      "title": "Veganer Burger mit Pommes",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O115",
+          "name": "Vemondo Veganes Hack",
+          "brand": "Vemondo",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 2,
+          "used_amount": 400.0,
+          "price_eur": 1.39,
+          "price_before_eur": 1.59
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O340",
+          "name": "McEnnedy Pommes-Snack",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 175,
+          "packs_used": 4,
+          "used_amount": 700.0,
+          "price_eur": 1.29,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O118",
+          "name": "Vemondo Veganes Pesto",
+          "brand": "Vemondo",
+          "unit": "g",
+          "pack_size": 190,
+          "packs_used": 2,
+          "used_amount": 380.0,
+          "price_eur": 0.89,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Olivenöl (2 EL)",
+        "Zitronensaft (1 EL)"
+      ],
+      "steps": [
+        "Vemondo Veganes Hack in einer Pfanne anbraten und zu Burger-Patties formen.",
+        "Pommes nach Packungsanweisung zubereiten.",
+        "Mit frischem Salat und Ketchup servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R039",
+      "slug": "muffins-mit-joghurt",
+      "title": "Muffins mit Joghurt",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O327",
+          "name": "McEnedy Muffins XXL",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 540,
+          "packs_used": 1,
+          "used_amount": 540.0,
+          "price_eur": 2.69,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Zucker (100 g)",
+        "Mehl (200 g)",
+        "Backpulver (1 Päckchen)"
+      ],
+      "steps": [
+        "Joghurt mit Zucker und Mehl vermengen.",
+        "Backpulver hinzufügen und gut vermischen.",
+        "In Muffinförmchen füllen und bei 180°C ca. 20 Minuten backen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R040",
+      "slug": "apfelmus-mit-joghurt",
+      "title": "Apfelmus mit Joghurt",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O053",
+          "name": "Birnen, lose",
+          "brand": "LIDL",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O054",
+          "name": "Rote Äpfel",
+          "brand": "LIDL",
+          "unit": "kg",
+          "pack_size": 1,
+          "packs_used": 1,
+          "used_amount": 1.0,
+          "price_eur": 1.29,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Zimt (1 TL)",
+        "Zucker (50 g)"
+      ],
+      "steps": [
+        "Äpfel und Birnen schälen, entkernen und in Stücke schneiden.",
+        "Mit Zucker und Zimt in einem Topf weich kochen.",
+        "Abkühlen lassen und mit Joghurt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R041",
+      "slug": "joghurt-mit-fruechten-r041",
+      "title": "Joghurt mit frischen Früchten",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 2,
+          "used_amount": 500.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Der Große Bauer Joghurt",
+          "brand": "Bauer",
+          "unit": "g",
+          "pack_size": 250,
+          "packs_used": 1,
+          "used_amount": 250.0,
+          "price_eur": 0.49,
+          "price_before_eur": 0.99
+        }
+      ],
+      "without_offers": [
+        "Frische Erdbeeren (200 g)"
+      ],
+      "steps": [
+        "Joghurt in eine Schüssel geben.",
+        "Erdbeeren und Banane klein schneiden und zum Joghurt hinzufügen.",
+        "Mit Honig süßen und gut vermischen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R042",
+      "slug": "pasta-mit-pesto-r042",
+      "title": "Pasta mit Pesto",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Barilla Pesto",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 190,
+          "packs_used": 1,
+          "used_amount": 190.0,
+          "price_eur": 1.99,
+          "price_before_eur": 3.49
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (1 Zehe)",
+        "Parmesan (50 g)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen.",
+        "Pasta abgießen und mit Pesto vermischen.",
+        "Mit gehacktem Knoblauch und Parmesan servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R043",
+      "slug": "veganer-salat",
+      "title": "Veganer Salat mit Kichererbsen",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Billie Green Vegane Salami Versch. Sorten",
+          "brand": "Billie Green",
+          "unit": "g",
+          "pack_size": 90,
+          "packs_used": 1,
+          "used_amount": 90.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Alesto Selection Studentenfutter Classic",
+          "brand": "Alesto",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Rucola (100 g)",
+        "Tomaten (2 Stk)"
+      ],
+      "steps": [
+        "Rucola und gewürfelte Tomaten in eine Schüssel geben.",
+        "Kichererbsen und vegane Salami hinzufügen.",
+        "Mit Zitronensaft und Gewürzen abschmecken."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R044",
+      "slug": "garnelen-pasta",
+      "title": "Pasta mit Garnelen",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Nordsee Knusper-Garnelen",
+          "brand": "Nordsee",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 2,
+          "used_amount": 400.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.59
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Barilla Pasta",
+          "brand": "Barilla",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 0.99,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (2 EL)",
+        "Knoblauch (1 Zehe)"
+      ],
+      "steps": [
+        "Pasta nach Packungsanweisung kochen.",
+        "Garnelen in Olivenöl und gehacktem Knoblauch anbraten.",
+        "Pasta abgießen, mit Garnelen vermischen und mit Petersilie garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R045",
+      "slug": "pizza-mit-salat",
+      "title": "Pizza mit Beilagensalat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienreich",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Dr. Oetker Ristorante Pizza/Bistro Flammkuchen Elsässer Art",
+          "brand": "Dr. Oetker",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 3.99,
+          "price_before_eur": 6.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Dr. Oetker Ristorante Pizza/Bistro Flammkuchen Elsässer Art",
+          "brand": "Dr. Oetker",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 3.99,
+          "price_before_eur": 6.79
+        }
+      ],
+      "without_offers": [
+        "Eisbergsalat (200 g)"
+      ],
+      "steps": [
+        "Pizza nach Packungsanweisung backen.",
+        "Eisbergsalat und Cherrytomaten in einer Schüssel vermengen.",
+        "Mit Balsamico beträufeln und zu der Pizza servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R046",
+      "slug": "chicken-wings-mit-salat-r046",
+      "title": "Chicken Wings mit Beilagensalat",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O313",
+          "name": "McEnnedy Chicken Wings",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O313",
+          "name": "McEnnedy Chicken Wings",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 750,
+          "packs_used": 1,
+          "used_amount": 750.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Eisbergsalat (200 g)"
+      ],
+      "steps": [
+        "Chicken Wings nach Packungsanweisung zubereiten.",
+        "Eisbergsalat und gewürfelte Paprika in einer Schüssel vermengen.",
+        "Mit Zitronensaft beträufeln und zu den Chicken Wings servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R047",
+      "slug": "veganer-burger-r047",
+      "title": "Veganer Burger mit Pommes",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 35,
+      "difficulty": "medium",
+      "categories": [
+        "Vegan",
+        "Kalorienreich",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O329",
+          "name": "McEnedy Peanut Butter",
+          "brand": "McEnedy",
+          "unit": "g",
+          "pack_size": 454,
+          "packs_used": 1,
+          "used_amount": 454.0,
+          "price_eur": 2.29,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Alesto Selection Studentenfutter Classic",
+          "brand": "Alesto",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Burgerbrötchen (4 Stk)",
+        "Salat (100 g)"
+      ],
+      "steps": [
+        "Burgerbrötchen aufschneiden und leicht toasten.",
+        "Mit Erdnussbutter bestreichen und mit Salat und Tomate belegen.",
+        "Mit Pommes servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R048",
+      "slug": "chicken-nuggets-mit-dip",
+      "title": "Chicken Nuggets mit Dip",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O314",
+          "name": "McEnnedy American Style Chicken Nuggets",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O314",
+          "name": "McEnnedy American Style Chicken Nuggets",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 4.49,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Ketchup (50 g)"
+      ],
+      "steps": [
+        "Chicken Nuggets nach Packungsanweisung zubereiten.",
+        "Mit Ketchup und Mayonnaise servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R049",
+      "slug": "snack-box",
+      "title": "Snack Box mit verschiedenen Leckereien",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Low Carb"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Dr. Oetker Ristorante Pizza/Bistro Flammkuchen Elsässer Art",
+          "brand": "Dr. Oetker",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 3.99,
+          "price_before_eur": 6.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Alesto Selection Studentenfutter Classic",
+          "brand": "Alesto",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.69,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Chips (100 g)",
+        "Nüsse (50 g)"
+      ],
+      "steps": [
+        "Pizza nach Packungsanweisung backen.",
+        "Snack Box mit Studentenfutter, Chips und Nüssen füllen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R050",
+      "slug": "schnelle-burger",
+      "title": "Schnelle Burger mit Pommes",
+      "retailer": "LIDL",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Vegetarisch"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O351",
+          "name": "McEnedy Hähnchenbrust Filetstücke",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 3,
+          "used_amount": 450.0,
+          "price_eur": 1.99,
+          "price_before_eur": null
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O351",
+          "name": "McEnedy Hähnchenbrust Filetstücke",
+          "brand": "McEnnedy",
+          "unit": "g",
+          "pack_size": 150,
+          "packs_used": 1,
+          "used_amount": 150.0,
+          "price_eur": 1.99,
+          "price_before_eur": null
+        }
+      ],
+      "without_offers": [
+        "Burgerbrötchen (4 Stk)"
+      ],
+      "steps": [
+        "Hähnchenbruststücke in einer Pfanne braten.",
+        "Burgerbrötchen aufschneiden und leicht toasten.",
+        "Mit Hähnchen, Salat und Tomate belegen und servieren."
+      ],
+      "notes": ""
+    }
+  ]
+}

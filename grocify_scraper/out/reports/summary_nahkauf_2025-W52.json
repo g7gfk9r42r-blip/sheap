@@ -1,0 +1,14 @@
+{
+  "supermarket": "nahkauf",
+  "week_key": "2025-W52",
+  "total_offers": 45,
+  "total_recipes": 50,
+  "flagged_offers": 10,
+  "flag_rate": 0.2222222222222222,
+  "validation_summary": {
+    "passed": 35,
+    "flagged": 10,
+    "rejected": 0
+  },
+  "generated_at": "2025-12-23T14:46:38.634098"
+}

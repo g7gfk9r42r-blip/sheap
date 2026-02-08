@@ -1,0 +1,12 @@
+{
+  "tileCount": 5,
+  "descriptors": [
+    "K\u00f6nigshofer Salami, 2,79 \u20ac",
+    "Wiener W\u00fcrstchen, 3,49 \u20ac",
+    "Mini-Wiener-W\u00fcrstchen, 2,49 \u20ac",
+    "Kasseler, 2,30 \u20ac",
+    "Rindergulasch, 2,79 \u20ac"
+  ],
+  "confidence": 0.9,
+  "attempts": 2
+}

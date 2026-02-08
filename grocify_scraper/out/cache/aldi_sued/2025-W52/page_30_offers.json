@@ -1,0 +1,58 @@
+[
+  {
+    "name": "H\u00e4hnchen-Raclette-Platte",
+    "brand": "Meine Metzgerei",
+    "unitText": "400g",
+    "basePrice": 3.79,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "food",
+    "sourcePage": 30,
+    "flags": []
+  },
+  {
+    "name": "Sonnentomaten, lose",
+    "brand": "Kleine Sch\u00e4tze",
+    "unitText": "1kg",
+    "basePrice": 2.49,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "food",
+    "sourcePage": 30,
+    "flags": []
+  },
+  {
+    "name": "Raclette-Kartoffeln",
+    "brand": null,
+    "unitText": "1,5kg",
+    "basePrice": 1.29,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "food",
+    "sourcePage": 30,
+    "flags": []
+  },
+  {
+    "name": "Raclette-Platte",
+    "brand": "Meine Metzgerei",
+    "unitText": "500g",
+    "basePrice": 5.99,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "food",
+    "sourcePage": 30,
+    "flags": []
+  }
+]

@@ -1,0 +1,3731 @@
+[
+  {
+    "id": "2845e2ba6e603259",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "TIEFPREIS- mit ausschließlich an Personen ab 18 Jahren, 200-ml-",
+    "tags": [
+      "quick",
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 9,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "TIEFPREIS-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "aabc0391855422e6",
+        "isFromOffer": true,
+        "price": {
+          "standard": 7.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 9.98,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "39ee57bd7035a899",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen. mit zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "tags": [
+      "mealprep",
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 3,
+    "timeMinutes": 34,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 87.36,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "1c85be452a2df0f8",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren mit TIEFPREIS-, zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "tags": [
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 11,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "TIEFPREIS-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "aabc0391855422e6",
+        "isFromOffer": true,
+        "price": {
+          "standard": 7.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 37.11,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "2c0888685b02ab0b",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen. mit 25-g-Packung,, Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+    "tags": [
+      "balanced",
+      "budget",
+      "easy",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 49,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3de002f7f8f963ac",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 59.43,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "98d9414b3c4acaba",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel mit ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "tags": [
+      "mealprep",
+      "family",
+      "budget"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 58,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3de002f7f8f963ac",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "eb755138324eae1f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 116.48,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "953c1f5736c0a3f1",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-ml- mit zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., 200-g-Packung,",
+    "tags": [
+      "quick",
+      "quick",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 9,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "0700095a0fbfd36e",
+        "isFromOffer": true,
+        "price": {
+          "standard": 2.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 34.1,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "fbd2298a196f2cd1",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "25-g-Packung, mit 200-ml-, 25-g-Packung,",
+    "tags": [
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 6,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 4.37,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "566742f4b3e8db8e",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "KI-generiert mit ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "tags": [
+      "quick",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 3,
+    "timeMinutes": 8,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "KI-generiert",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3a9531b6e529fdcd",
+        "isFromOffer": true,
+        "price": {
+          "standard": 4.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "eb755138324eae1f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 62.53,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "e1b255d250ff70c3",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren mit zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., KI-generiert",
+    "tags": [
+      "mealprep",
+      "family",
+      "budget"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 4,
+    "timeMinutes": 59,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KI-generiert",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3a9531b6e529fdcd",
+        "isFromOffer": true,
+        "price": {
+          "standard": 4.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "Letzter Verkaufspreis. Niedrigster",
+        "amount": 93.0,
+        "unit": "l",
+        "fromOfferId": "b930cc7836bc4a92",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.93,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 35.34,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "4eac76bdc21e4fa0",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen. mit KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und, KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+    "tags": [
+      "mealprep",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 85,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 29.6,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "9c2c996e809e1e49",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Letzter Verkaufspreis. Niedrigster mit ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., ausschließlich an Personen ab 18 Jahren",
+    "tags": [
+      "mealprep",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 72,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "Letzter Verkaufspreis. Niedrigster",
+        "amount": 93.0,
+        "unit": "l",
+        "fromOfferId": "b930cc7836bc4a92",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.93,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "eb755138324eae1f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "0700095a0fbfd36e",
+        "isFromOffer": true,
+        "price": {
+          "standard": 2.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 34.04,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "ccf418bec931048b",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-ml- mit zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., 25-g-Packung,",
+    "tags": [
+      "mealprep",
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 3,
+    "timeMinutes": 57,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "100-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "64063672075cf226",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 33.59,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "6eebc98b2c131c5c",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Letzter Verkaufspreis. Niedrigster mit 100-g-Packung,, 25-g-Packung,",
+    "tags": [
+      "quick",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 8,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "Letzter Verkaufspreis. Niedrigster",
+        "amount": 93.0,
+        "unit": "l",
+        "fromOfferId": "b930cc7836bc4a92",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.93,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "100-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "64063672075cf226",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 4.41,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "e154a62e961e49b9",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren mit Mo. 22.4. – Sa. 27.4., zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "tags": [
+      "balanced",
+      "budget",
+      "quick"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 4,
+    "timeMinutes": 21,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "Mo. 22.4. – Sa. 27.4.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "df173e044407bcc1",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 29.41,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "548f6971f18c9c6a",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren mit 200-g-Packung,, KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+    "tags": [
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 3,
+    "timeMinutes": 20,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "0700095a0fbfd36e",
+        "isFromOffer": true,
+        "price": {
+          "standard": 2.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 3.23,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "bc3db94985aced40",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-g-Packung, mit ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+    "tags": [
+      "mealprep",
+      "budget"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 4,
+    "timeMinutes": 81,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "200-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "0700095a0fbfd36e",
+        "isFromOffer": true,
+        "price": {
+          "standard": 2.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "eb755138324eae1f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3de002f7f8f963ac",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 90.35,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "068e009f958f8875",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen. mit KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und, zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "tags": [
+      "balanced",
+      "budget",
+      "quick"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 4,
+    "timeMinutes": 23,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 58.48,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "8c928b8a68897cc3",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "100-g-Packung, mit 25-g-Packung,, ausschließlich an Personen ab 18 Jahren",
+    "tags": [
+      "quick",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 11,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "100-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "64063672075cf226",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 2.48,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "6ab267a6f2b22739",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und mit zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., ausschließlich an Personen ab 18 Jahren",
+    "tags": [
+      "quick",
+      "family",
+      "budget"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 20,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 29.36,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "4b917268fc9f33dc",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-g- mit KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und, Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+    "tags": [
+      "balanced",
+      "budget",
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 31,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "200-g-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "dde0756a39ef8544",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3de002f7f8f963ac",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 31.35,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "91c047166f645462",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "100-g-Packung, mit 200-ml-, Letzter Verkaufspreis. Niedrigster",
+    "tags": [
+      "mealprep",
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 41,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "100-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "64063672075cf226",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "Letzter Verkaufspreis. Niedrigster",
+        "amount": 93.0,
+        "unit": "l",
+        "fromOfferId": "b930cc7836bc4a92",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.93,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 5.21,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "beace95d874be5bf",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "25-g-Packung, mit ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "tags": [
+      "mealprep",
+      "budget",
+      "quick"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 1,
+    "timeMinutes": 37,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "eb755138324eae1f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "eb755138324eae1f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "TIEFPREIS-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "aabc0391855422e6",
+        "isFromOffer": true,
+        "price": {
+          "standard": 7.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 67.42,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "6914cc817b8e48e2",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-g-Packung, mit zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., ausschließlich an Personen ab 18 Jahren",
+    "tags": [
+      "mealprep",
+      "easy",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 71,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "200-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "0700095a0fbfd36e",
+        "isFromOffer": true,
+        "price": {
+          "standard": 2.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "eb755138324eae1f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 61.23,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "18dc759580e8f174",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-g-Packung, mit ausschließlich an Personen ab 18 Jahren, KI-generiert",
+    "tags": [
+      "balanced",
+      "budget",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 4,
+    "timeMinutes": 38,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "200-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "0700095a0fbfd36e",
+        "isFromOffer": true,
+        "price": {
+          "standard": 2.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KI-generiert",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3a9531b6e529fdcd",
+        "isFromOffer": true,
+        "price": {
+          "standard": 4.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 7.28,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "6746c9c73a4e94f7",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel mit 200-g-Packung,, 200-g-",
+    "tags": [
+      "mealprep",
+      "budget"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 64,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3de002f7f8f963ac",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "0700095a0fbfd36e",
+        "isFromOffer": true,
+        "price": {
+          "standard": 2.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-g-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "dde0756a39ef8544",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 35.29,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "bf1e489af2a121a4",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen. mit ausschließlich an Personen ab 18 Jahren, Letzter Verkaufspreis. Niedrigster",
+    "tags": [
+      "balanced",
+      "budget",
+      "easy",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 3,
+    "timeMinutes": 24,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "Letzter Verkaufspreis. Niedrigster",
+        "amount": 93.0,
+        "unit": "l",
+        "fromOfferId": "b930cc7836bc4a92",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.93,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 31.05,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "9c986d6b05474bd3",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "KI-generiert mit TIEFPREIS-, 100-g-Packung,",
+    "tags": [
+      "mealprep",
+      "quick"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 36,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "KI-generiert",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3a9531b6e529fdcd",
+        "isFromOffer": true,
+        "price": {
+          "standard": 4.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "TIEFPREIS-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "aabc0391855422e6",
+        "isFromOffer": true,
+        "price": {
+          "standard": 7.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "100-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "64063672075cf226",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KI-generiert",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3a9531b6e529fdcd",
+        "isFromOffer": true,
+        "price": {
+          "standard": 4.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 17.86,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "5e629882d617d7eb",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und mit ausschließlich an Personen ab 18 Jahren, 200-ml-",
+    "tags": [
+      "balanced",
+      "budget",
+      "quick"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 31,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 2.23,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "92a87760130d521d",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen. mit zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., ausschließlich an Personen ab 18 Jahren",
+    "tags": [
+      "quick",
+      "budget"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 20,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 58.24,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "30220159322cccbe",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "TIEFPREIS- mit 100-g-Packung,, KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+    "tags": [
+      "balanced",
+      "budget",
+      "easy",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 22,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "TIEFPREIS-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "aabc0391855422e6",
+        "isFromOffer": true,
+        "price": {
+          "standard": 7.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "100-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "64063672075cf226",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 9.52,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "5dee0d772410cce1",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "100-g-Packung, mit ausschließlich an Personen ab 18 Jahren, 200-g-Packung,",
+    "tags": [
+      "quick",
+      "budget"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 3,
+    "timeMinutes": 10,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "100-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "64063672075cf226",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "0700095a0fbfd36e",
+        "isFromOffer": true,
+        "price": {
+          "standard": 2.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 4.28,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "05121cf6f5c8f185",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Mo. 22.4. – Sa. 27.4. mit ausschließlich an Personen ab 18 Jahren, Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+    "tags": [
+      "quick",
+      "easy",
+      "quick"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 3,
+    "timeMinutes": 14,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "Mo. 22.4. – Sa. 27.4.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "df173e044407bcc1",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "Verfügung stehen und daher zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3de002f7f8f963ac",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 29.41,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "ea4ae49c52e829dc",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "Restzahlung bis 30 Tage vor Reiseantritt. Maßgeblich sind Reisebestätigung, AGB sowie die rechtlichen Informationen zur Pauschalreise (Einsicht auf aldi-reisen.de). mit 200-ml-, 200-ml-",
+    "tags": [
+      "mealprep",
+      "budget",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 75,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "Restzahlung bis 30 Tage vor Reiseantritt. Maßgeblich sind Reisebestätigung, AGB sowie die rechtlichen Informationen zur Pauschalreise (Einsicht auf aldi-reisen.de).",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "c5db258330db4c19",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.26,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 5.24,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "907fe050ecc079fb",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "25-g-Packung, mit ausschließlich an Personen ab 18 Jahren, 200-g-",
+    "tags": [
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 11,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-g-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "dde0756a39ef8544",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 3.18,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "4d08d72458388a19",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-ml- mit ausschließlich an Personen ab 18 Jahren, 25-g-Packung,",
+    "tags": [
+      "mealprep",
+      "budget"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 3,
+    "timeMinutes": 80,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 3.18,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "3fd08024f8568813",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "200-ml- mit ausschließlich an Personen ab 18 Jahren, KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+    "tags": [
+      "quick",
+      "family",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 10,
+    "difficulty": "easy",
+    "ingredients": [
+      {
+        "name": "200-ml-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "e9846bd8ef138e04",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 2.23,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "3e00f40e7709c880",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen. mit TIEFPREIS-, 200-g-",
+    "tags": [
+      "quick",
+      "easy"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 9,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "TIEFPREIS-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "aabc0391855422e6",
+        "isFromOffer": true,
+        "price": {
+          "standard": 7.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "200-g-",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "dde0756a39ef8544",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.99,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 39.1,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "2f7f241e11faddb5",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "KI-generiert mit zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen., 25-g-Packung,",
+    "tags": [
+      "quick",
+      "budget",
+      "family"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 2,
+    "timeMinutes": 16,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "KI-generiert",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "3a9531b6e529fdcd",
+        "isFromOffer": true,
+        "price": {
+          "standard": 4.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "25-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "1099c1d539eb96de",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.19,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 34.6,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "88203f1fc5fdda23",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen. mit ausschließlich an Personen ab 18 Jahren, ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+    "tags": [
+      "mealprep",
+      "easy",
+      "budget"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 4,
+    "timeMinutes": 53,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "eb755138324eae1f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "100-g-Packung,",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "64063672075cf226",
+        "isFromOffer": true,
+        "price": {
+          "standard": 1.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 59.53,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  },
+  {
+    "id": "fdec8092516e5ae3",
+    "supermarket": "aldi_sued",
+    "weekKey": "2025-W52",
+    "title": "ausschließlich an Personen ab 18 Jahren mit Mo. 22.4. – Sa. 27.4., KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+    "tags": [
+      "mealprep",
+      "quick"
+    ],
+    "heroImageUrl": "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food",
+    "images": [
+      "https://via.placeholder.com/400x300/607D8B/FFFFFF?text=Food"
+    ],
+    "servings": 3,
+    "timeMinutes": 87,
+    "difficulty": "medium",
+    "ingredients": [
+      {
+        "name": "ausschließlich an Personen ab 18 Jahren",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "6689568921925318",
+        "isFromOffer": true,
+        "price": {
+          "standard": null,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "Mo. 22.4. – Sa. 27.4.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "df173e044407bcc1",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.29,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "KB Schritte). Es handelt sich um die technisch mögliche Maximalgeschwindigkeit. Die tatsächlich und durchschnittlich erreichte Geschwindigkeit kann davon abweichen und",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "20b81cf3a17e548f",
+        "isFromOffer": true,
+        "price": {
+          "standard": 0.24,
+          "loyalty": null,
+          "condition_label": null
+        }
+      },
+      {
+        "name": "zu bestimmten Zeiten der Aktion ausverkauft sein können. Alle Artikel ohne Dekoration. Artikel teilweise mit Serviervorschlägen.",
+        "amount": null,
+        "unit": null,
+        "fromOfferId": "4d726952ff085470",
+        "isFromOffer": true,
+        "price": {
+          "standard": 29.12,
+          "loyalty": null,
+          "condition_label": null
+        }
+      }
+    ],
+    "steps": [
+      "Zutaten vorbereiten und waschen.",
+      "Zutaten nach Rezept zusammenfügen.",
+      "Alles gut vermischen und würzen.",
+      "Nach Packungsanleitung zubereiten.",
+      "Heiß servieren."
+    ],
+    "nutritionRange": {
+      "kcal": {
+        "min": 796,
+        "max": 1327
+      },
+      "protein_g": {
+        "min": 9.375,
+        "max": 46.875
+      },
+      "carbs_g": {
+        "min": 93.75,
+        "max": 250.0
+      },
+      "fat_g": {
+        "min": 1.875,
+        "max": 31.25
+      }
+    },
+    "pricing": {
+      "estimatedTotal": {
+        "standard": 29.65,
+        "with_loyalty": null
+      },
+      "notes": null
+    },
+    "warnings": []
+  }
+]

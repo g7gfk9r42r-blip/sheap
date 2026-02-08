@@ -1,0 +1,11 @@
+{
+  "tileCount": 4,
+  "descriptors": [
+    "Vegane K\u00e4se-alternative, Preis 2,49",
+    "Berg-Raclette, Preis 2,49",
+    "Silberzwiebeln, Preis 1,29",
+    "Oliven, Preis 3,49"
+  ],
+  "confidence": 0.9,
+  "attempts": 2
+}

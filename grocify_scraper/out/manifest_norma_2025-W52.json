@@ -1,0 +1,27 @@
+{
+  "supermarket": "norma",
+  "weekKey": "2025-W52",
+  "generatedAt": "2025-12-24T16:32:10.078277",
+  "counts": {
+    "offers": 31,
+    "recipes": 80
+  },
+  "perPageQuality": {},
+  "recheckedPages": 0,
+  "totalGptCalls": 24,
+  "reconcileReport": {
+    "matched": 0,
+    "pdfOnly": 31,
+    "rawOnly": 0
+  },
+  "files": {
+    "offers": "out/offers/offers_norma_2025-W52.json",
+    "recipes": "out/recipes/recipes_norma_2025-W52.json",
+    "reports": [
+      "out/reports/reconcile_norma_2025-W52.json",
+      "out/reports/flagged_norma_2025-W52.json",
+      "out/reports/page_quality_norma_2025-W52.json"
+    ],
+    "imageJobs": "out/images/image_jobs_norma_2025-W52.json"
+  }
+}

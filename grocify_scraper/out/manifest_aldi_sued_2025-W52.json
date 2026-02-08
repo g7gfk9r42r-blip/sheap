@@ -1,0 +1,27 @@
+{
+  "supermarket": "aldi_sued",
+  "weekKey": "2025-W52",
+  "generatedAt": "2025-12-24T23:02:12.566690",
+  "counts": {
+    "offers": 3,
+    "recipes": 0
+  },
+  "perPageQuality": {},
+  "recheckedPages": 0,
+  "totalGptCalls": 1,
+  "reconcileReport": {
+    "matched": 0,
+    "pdfOnly": 3,
+    "rawOnly": 0
+  },
+  "files": {
+    "offers": "out/offers/offers_aldi_sued_2025-W52.json",
+    "recipes": "out/recipes/recipes_aldi_sued_2025-W52.json",
+    "reports": [
+      "out/reports/reconcile_aldi_sued_2025-W52.json",
+      "out/reports/flagged_aldi_sued_2025-W52.json",
+      "out/reports/page_quality_aldi_sued_2025-W52.json"
+    ],
+    "imageJobs": "out/images/image_jobs_aldi_sued_2025-W52.json"
+  }
+}

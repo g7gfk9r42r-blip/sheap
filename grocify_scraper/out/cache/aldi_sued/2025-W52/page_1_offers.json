@@ -1,0 +1,22 @@
+[
+  {
+    "product": "Frische-Kracher",
+    "price": "0.88",
+    "discount": "26%",
+    "validity": "Mo. 22.12. \u2013 Mi. 24.12.",
+    "sourcePage": 1
+  },
+  {
+    "product": "Schweizer Raclette K\u00e4se",
+    "price": "0.59",
+    "discount": "40%",
+    "validity": "ab Mo. 22.12.",
+    "sourcePage": 1
+  },
+  {
+    "product": "Cocktail-Set",
+    "price": "7.99",
+    "validity": "ab Mo. 22.12.",
+    "sourcePage": 1
+  }
+]

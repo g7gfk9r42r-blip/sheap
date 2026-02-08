@@ -1,0 +1,62 @@
+// vercel.json - Erweiterte Konfiguration für Media-Serving
+
+{
+  "version": 2,
+  "env": [
+    "ADMIN_SECRET",
+    "OPENAI_API_KEY",
+    "REPLICATE_API_TOKEN",
+    "DATABASE_URL"
+  ],
+  "builds": [
+    {
+      "src": "server/index.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    // Media-Verzeichnis: statisch, mit langem Cache
+    {
+      "src": "/media/(?<path>.*)",
+      "dest": "/server/media/$path",
+      "headers": {
+        "Cache-Control": "public, max-age=604800"  // 1 Woche
+      }
+    },
+    
+    // API-Routes: keine Cache (immer fresh)
+    {
+      "src": "/api/(?<path>.*)",
+      "dest": "/server/index.js",
+      "headers": {
+        "Cache-Control": "no-cache, no-store, must-revalidate"
+      }
+    },
+    
+    // Health-Check
+    {
+      "src": "/healthz",
+      "dest": "/server/index.js"
+    },
+    
+    // Fallback für alle anderen Requests
+    {
+      "src": "/(.*)",
+      "dest": "/server/index.js"
+    }
+  ],
+  
+  "crons": [
+    {
+      "path": "/admin/refresh-offers?key=${ADMIN_SECRET}",
+      "schedule": "0 18 * * 0"
+    },
+    {
+      "path": "/admin/refresh-recipes?key=${ADMIN_SECRET}",
+      "schedule": "30 18 * * 0"
+    }
+  ],
+  
+  "outputDirectory": "out",
+  "public": false
+}

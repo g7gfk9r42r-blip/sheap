@@ -1,0 +1,3301 @@
+{
+  "retailer": "ALDI_NORD",
+  "week_key": "2026-W05",
+  "valid_from": "2026-01-26",
+  "recipes": [
+    {
+      "id": "R001",
+      "slug": "smashed-brokkoli-mit-frischkaese-und-zitrone",
+      "title": "Smashed Brokkoli mit Frischkäse und Zitrone",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kulturchampignons weiß",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 2.49
+        }
+      ],
+      "without_offers": [
+        "Brokkoli (300 g)",
+        "Frischkäse (200 g)"
+      ],
+      "steps": [
+        "Brokkoli in einem Topf mit Wasser zum Kochen bringen und 5 Minuten blanchieren.",
+        "Kulturchampignons in Scheiben schneiden und in einer Pfanne mit etwas Öl anbraten.",
+        "Blanchierten Brokkoli mit einer Gabel zerdrücken, Zitronensaft hinzufügen und mit Salz und Pfeffer abschmecken.",
+        "Frischkäse unter den Brokkoli mischen und alles zusammen anrichten."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R002",
+      "slug": "huehnerbrustfilet-mit-zitronensauce",
+      "title": "Hähnchenbrustfilet mit Zitronensauce",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Hähnchenbrustfilet",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 3.99,
+          "price_before_eur": 4.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 2.49
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (2 Zehen)",
+        "Petersilie (1 Bund)"
+      ],
+      "steps": [
+        "Hähnchenbrustfilet in einer Pfanne mit Öl anbraten bis es goldbraun ist.",
+        "Zitronensaft und gepressten Knoblauch hinzufügen und kurz aufkochen lassen.",
+        "Mit frischer Petersilie garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R003",
+      "slug": "gemuese-pasta-mit-frischkaese",
+      "title": "Gemüse-Pasta mit Frischkäse",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Kulturchampignons weiß",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        }
+      ],
+      "without_offers": [
+        "Pasta (300 g)",
+        "Frischkäse (200 g)"
+      ],
+      "steps": [
+        "Zwiebeln und Champignons in einer Pfanne anbraten.",
+        "Pasta nach Packungsanweisung kochen.",
+        "Frischkäse unter das Gemüse mischen und mit der Pasta vermengen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R004",
+      "slug": "huehnerfluegel-mit-bbq-sauce",
+      "title": "Hähnchenflügel mit BBQ-Sauce",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 40,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Hähnchenflügel XXL",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.39
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Hähnchenflügel XXL",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.39
+        }
+      ],
+      "without_offers": [
+        "BBQ-Sauce (200 g)"
+      ],
+      "steps": [
+        "Hähnchenflügel mit Salz und Pfeffer würzen und im Ofen bei 200°C 30 Minuten backen.",
+        "BBQ-Sauce in den letzten 10 Minuten auf die Flügel geben.",
+        "Mit frischer Paprika servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R005",
+      "slug": "lachsfilet-mit-zitronenbutter",
+      "title": "Lachsfilet mit Zitronenbutter",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Lachsfiletportionen",
+          "brand": "GOLDEN SEAFOOD",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 7.99,
+          "price_before_eur": 9.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 2.49
+        }
+      ],
+      "without_offers": [
+        "Butter (50 g)",
+        "Dill (1 Bund)"
+      ],
+      "steps": [
+        "Lachsfilet in einer Pfanne mit Öl anbraten.",
+        "Butter mit Zitronensaft und Dill vermischen und über den Lachs geben.",
+        "Mit frischem Gemüse servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R006",
+      "slug": "chicken-wings-mit-salaten",
+      "title": "Chicken Wings mit Salaten",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 35,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Hähnchenflügel XXL",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.39
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Hähnchenflügel XXL",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.39
+        }
+      ],
+      "without_offers": [
+        "Beilagensalat (400 g)"
+      ],
+      "steps": [
+        "Hähnchenflügel würzen und im Ofen bei 200°C 30 Minuten backen.",
+        "Beilagensalat zubereiten und mit Dressing anrichten.",
+        "Chicken Wings mit Salaten servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R007",
+      "slug": "vegetarische-pasta-mit-tomaten",
+      "title": "Vegetarische Pasta mit Tomaten",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Romatomaten",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.11,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.99
+        }
+      ],
+      "without_offers": [
+        "Pasta (300 g)",
+        "Basilikum (1 Bund)"
+      ],
+      "steps": [
+        "Zwiebeln anbraten und Romatomaten hinzufügen.",
+        "Pasta nach Packungsanweisung kochen.",
+        "Tomaten und Zwiebeln mit der Pasta vermengen und mit frischem Basilikum garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R008",
+      "slug": "grillgemuese-mit-frischkaese",
+      "title": "Grillgemüse mit Frischkäse",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kulturchampignons weiß",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.99
+        }
+      ],
+      "without_offers": [
+        "Paprika (2 Stk)",
+        "Frischkäse (200 g)"
+      ],
+      "steps": [
+        "Paprika und Zwiebeln in Stücke schneiden und in einer Grillpfanne anbraten.",
+        "Kulturchampignons hinzufügen und weiter braten.",
+        "Mit Frischkäse servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R009",
+      "slug": "fruchtiger-salat-mit-nuessen",
+      "title": "Fruchtiger Salat mit Nüssen",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kulturheidelbeeren",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Äpfel rot",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 3000,
+          "packs_used": 1,
+          "used_amount": 3000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.99
+        }
+      ],
+      "without_offers": [
+        "Walnüsse (100 g)",
+        "Honig (2 EL)"
+      ],
+      "steps": [
+        "Äpfel in Würfel schneiden und mit Heidelbeeren vermengen.",
+        "Walnüsse grob hacken und hinzufügen.",
+        "Mit Honig beträufeln und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R010",
+      "slug": "schnelle-pizza-mit-gemuese",
+      "title": "Schnelle Pizza mit Gemüse",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Mini-Cherryrispentomaten",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.69,
+          "price_before_eur": 3.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.99
+        }
+      ],
+      "without_offers": [
+        "Pizzateig (400 g)",
+        "Oregano (1 TL)"
+      ],
+      "steps": [
+        "Pizzateig ausrollen und auf ein Backblech legen.",
+        "Zwiebeln und Cherrytomaten gleichmäßig darauf verteilen.",
+        "Mit Oregano bestreuen und im Ofen bei 200°C 15 Minuten backen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R011",
+      "slug": "blueberry-smoothie",
+      "title": "Heidelbeer-Smoothie",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienarm",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kulturheidelbeeren",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Wasser (200 ml)",
+        "Zucker (1 EL)"
+      ],
+      "steps": [
+        "Die Kulturheidelbeeren in einen Mixer geben.",
+        "Die Zitrone auspressen und den Saft hinzufügen.",
+        "Wasser und Zucker hinzufügen und alles gut mixen, bis eine cremige Konsistenz erreicht ist.",
+        "In Gläser füllen und sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R012",
+      "slug": "orange-salad",
+      "title": "Saftorangen-Salat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienarm",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Saftorangen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 3000,
+          "packs_used": 1,
+          "used_amount": 3000.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (2 EL)",
+        "Pfeffer (1 TL)"
+      ],
+      "steps": [
+        "Die Saftorangen schälen und in Scheiben schneiden.",
+        "Die Zwiebel fein hacken.",
+        "Orangen und Zwiebeln in einer Schüssel vermengen.",
+        "Mit Olivenöl und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R013",
+      "slug": "grilled-mushrooms",
+      "title": "Gegrillte Champignons",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienarm",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Kulturchampignons weiß",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (2 Zehen)",
+        "Petersilie (1 Bund)"
+      ],
+      "steps": [
+        "Die Champignons putzen und in Scheiben schneiden.",
+        "Die Zwiebel und den Knoblauch fein hacken.",
+        "In einer Schüssel mit Olivenöl, Salz und Pfeffer vermengen.",
+        "Auf dem Grill oder in einer Grillpfanne für 10-15 Minuten garen.",
+        "Mit frischer Petersilie garnieren und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R014",
+      "slug": "potato-salad",
+      "title": "Kartoffelsalat mit Zwiebeln",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 6,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienarm",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Speisekartoffeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Essig (3 EL)",
+        "Senf (1 TL)"
+      ],
+      "steps": [
+        "Die Kartoffeln kochen, abkühlen lassen und in Würfel schneiden.",
+        "Die Zwiebeln fein hacken.",
+        "In einer Schüssel Kartoffeln, Zwiebeln, Essig und Senf vermengen.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R015",
+      "slug": "kiwi-smoothie",
+      "title": "Kiwi-Smoothie",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienarm",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "ZESPRI™ Kiwi Gold",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 4,
+          "packs_used": 1,
+          "used_amount": 4.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Wasser (200 ml)",
+        "Zucker (1 EL)"
+      ],
+      "steps": [
+        "Die Kiwis schälen und in Stücke schneiden.",
+        "Die Zitrone auspressen und den Saft hinzufügen.",
+        "Wasser und Zucker hinzufügen und alles gut mixen, bis eine cremige Konsistenz erreicht ist.",
+        "In Gläser füllen und sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R016",
+      "slug": "stuffed-peppers",
+      "title": "Gefüllte Paprika",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "High Protein",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Rinderhackfleisch",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 10.99,
+          "price_before_eur": 10.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Paprika (4 Stück)",
+        "Gewürze (nach Geschmack)"
+      ],
+      "steps": [
+        "Die Zwiebeln fein hacken und in einer Pfanne anbraten.",
+        "Das Rinderhackfleisch hinzufügen und braten, bis es durchgegart ist.",
+        "Die Paprika entkernen und mit der Hackfleischmischung füllen.",
+        "Im Ofen bei 180 Grad für 20 Minuten backen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R017",
+      "slug": "chicken-wings",
+      "title": "Hähnchenflügel mit Marinade",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 6,
+      "duration_minutes": 45,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "High Protein",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Hähnchenflügel XXL",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 4.39,
+          "price_before_eur": 4.39
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (2 Zehen)",
+        "Chili (nach Geschmack)"
+      ],
+      "steps": [
+        "Die Hähnchenflügel mit Salz, Pfeffer, Knoblauch und Chili marinieren.",
+        "Die Zwiebeln in Ringe schneiden und in einer Pfanne anbraten.",
+        "Die marinierten Hähnchenflügel hinzufügen und bei mittlerer Hitze braten, bis sie goldbraun sind.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R018",
+      "slug": "vegetable-stir-fry",
+      "title": "Gemüsepfanne",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienarm",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Zuckererbsen",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 2.19,
+          "price_before_eur": 2.19
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Kulturchampignons weiß",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        }
+      ],
+      "without_offers": [
+        "Paprika (1 Stück)",
+        "Sojasauce (2 EL)"
+      ],
+      "steps": [
+        "Zuckererbsen und Champignons in einer Pfanne mit Öl anbraten.",
+        "Paprika in Streifen schneiden und hinzufügen.",
+        "Mit Sojasauce abschmecken und kurz weiterbraten.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R019",
+      "slug": "fruit-salad",
+      "title": "Obstsalat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Kalorienarm",
+        "Vegan",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Tafeltrauben dunkel",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Äpfel rot",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 3000,
+          "packs_used": 1,
+          "used_amount": 3000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Zitronensaft (1 EL)",
+        "Honig (1 EL)"
+      ],
+      "steps": [
+        "Die Trauben waschen und halbieren.",
+        "Die Äpfel in Würfel schneiden.",
+        "In einer Schüssel mit Zitronensaft und Honig vermengen.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R020",
+      "slug": "chicken-salad",
+      "title": "Hähnchensalat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "High Protein",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Hähnchen-Geschnetzeltes XXL",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 7.79,
+          "price_before_eur": 7.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Dressing (nach Geschmack)"
+      ],
+      "steps": [
+        "Das Hähnchen-Geschnetzelte in einer Pfanne anbraten.",
+        "Die Zwiebeln fein hacken und hinzufügen.",
+        "In einer Schüssel mit Salat und Dressing vermengen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R021",
+      "slug": "blueberry-smoothie-r021",
+      "title": "Kulturheidelbeeren Smoothie",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kulturheidelbeeren",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Wasser (200 ml)",
+        "Zucker (1 EL)"
+      ],
+      "steps": [
+        "Die Kulturheidelbeeren in einen Mixer geben.",
+        "Die Zitrone auspressen und den Saft hinzufügen.",
+        "Wasser und Zucker hinzufügen und alles gut mixen, bis eine homogene Masse entsteht.",
+        "In Gläser füllen und sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R022",
+      "slug": "orange-salad-r022",
+      "title": "Saftorangen Salat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Saftorangen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 3000,
+          "packs_used": 1,
+          "used_amount": 3000.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (2 EL)",
+        "Pfeffer (nach Geschmack)"
+      ],
+      "steps": [
+        "Die Saftorangen schälen und in Scheiben schneiden.",
+        "Die Zwiebel fein hacken.",
+        "Die Orangen und Zwiebeln in einer Schüssel vermengen.",
+        "Mit Olivenöl und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R023",
+      "slug": "grilled-chicken-salad",
+      "title": "Gegrillter Hähnchen-Salat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Hähnchenflügel",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 4.39,
+          "price_before_eur": 4.39
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Mini-Cherryrispentomaten",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.69,
+          "price_before_eur": 2.69
+        }
+      ],
+      "without_offers": [
+        "Salat (200 g)",
+        "Olivenöl (2 EL)"
+      ],
+      "steps": [
+        "Die Hähnchenflügel grillen, bis sie durchgegart sind.",
+        "Die Mini-Cherrytomaten halbieren.",
+        "In einer Schüssel den Salat, die Tomaten und die Hähnchenflügel vermengen.",
+        "Mit Olivenöl und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R024",
+      "slug": "mushroom-pasta",
+      "title": "Pasta mit Kulturchampignons",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Kulturchampignons",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Penne",
+          "brand": "CUCINA",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (2 EL)",
+        "Knoblauch (2 Zehen)"
+      ],
+      "steps": [
+        "Die Penne nach Packungsanweisung kochen.",
+        "Die Kulturchampignons in einer Pfanne mit Olivenöl und Knoblauch anbraten.",
+        "Die gekochte Pasta hinzufügen und gut vermengen.",
+        "Mit Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R025",
+      "slug": "potato-casserole",
+      "title": "Kartoffelauflauf",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 6,
+      "duration_minutes": 40,
+      "difficulty": "medium",
+      "categories": [
+        "Kalorienreich",
+        "Laktosefrei",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Speisekartoffeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Käsescheiben",
+          "brand": "BIO",
+          "unit": "g",
+          "pack_size": 260,
+          "packs_used": 6,
+          "used_amount": 1560.0,
+          "price_eur": 2.59,
+          "price_before_eur": 2.59
+        }
+      ],
+      "without_offers": [
+        "Sahne (200 ml)",
+        "Pfeffer (nach Geschmack)"
+      ],
+      "steps": [
+        "Die Kartoffeln schälen und in Scheiben schneiden.",
+        "Die Käsescheiben und Kartoffeln abwechselnd in eine Auflaufform schichten.",
+        "Mit Sahne übergießen und im Ofen backen, bis die Oberfläche goldbraun ist.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R026",
+      "slug": "chicken-nuggets",
+      "title": "Hähnchen-Nuggets",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Chicken-Nuggets",
+          "brand": "JACK’S FARM",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.79,
+          "price_before_eur": 3.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Ketchup (nach Geschmack)",
+        "Pfeffer (nach Geschmack)"
+      ],
+      "steps": [
+        "Die Chicken-Nuggets nach Packungsanweisung zubereiten.",
+        "Die Zwiebeln in Ringe schneiden und anbraten.",
+        "Die Nuggets mit den Zwiebeln servieren und nach Belieben mit Ketchup garnieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R027",
+      "slug": "vegetable-stir-fry-r027",
+      "title": "Gemüsepfanne",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Zuckererbsen",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Romatomaten",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.11,
+          "price_before_eur": 1.11
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (2 EL)",
+        "Knoblauch (2 Zehen)"
+      ],
+      "steps": [
+        "Die Zuckererbsen und Romatomaten in einer Pfanne mit Olivenöl anbraten.",
+        "Mit Knoblauch und Pfeffer würzen.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R028",
+      "slug": "fruit-salad-r028",
+      "title": "Obstsalat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Tafeltrauben",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Äpfel",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 3000,
+          "packs_used": 1,
+          "used_amount": 3000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Zitronensaft (1 EL)",
+        "Zucker (1 TL)"
+      ],
+      "steps": [
+        "Die Tafeltrauben und Äpfel in kleine Stücke schneiden.",
+        "In einer Schüssel vermengen und mit Zitronensaft und Zucker abschmecken.",
+        "Servieren und genießen."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R029",
+      "slug": "pasta-salad",
+      "title": "Pasta-Salat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Penne",
+          "brand": "CUCINA",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Mini-Cherryrispentomaten",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.69,
+          "price_before_eur": 2.69
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (2 EL)",
+        "Basilikum (nach Geschmack)"
+      ],
+      "steps": [
+        "Die Penne nach Packungsanweisung kochen.",
+        "Die Mini-Cherrytomaten halbieren.",
+        "In einer Schüssel die gekochte Pasta und die Tomaten vermengen.",
+        "Mit Olivenöl, Basilikum und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R030",
+      "slug": "chicken-stir-fry",
+      "title": "Hähnchen-Gemüse-Pfanne",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Laktosefrei"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Hähnchen-Geschnetzeltes",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 7.79,
+          "price_before_eur": 7.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Zuckererbsen",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (2 EL)",
+        "Knoblauch (2 Zehen)"
+      ],
+      "steps": [
+        "Das Hähnchen-Geschnetzelte in einer Pfanne anbraten.",
+        "Die Zuckererbsen hinzufügen und kurz mitbraten.",
+        "Mit Olivenöl, Knoblauch und Pfeffer würzen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R031",
+      "slug": "smashed-brokkoli-mit-frischkaese-und-zitrone-r031",
+      "title": "Smashed Brokkoli mit Frischkäse und Zitrone",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kulturchampignons weiß",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Frischkäse",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.19,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (1 Zehe)",
+        "Pfeffer (nach Geschmack)",
+        "Öl (2 EL)"
+      ],
+      "steps": [
+        "Brokkoli in kochendem Wasser blanchieren, bis er weich ist.",
+        "In einer Schüssel Brokkoli mit einer Gabel zerdrücken.",
+        "Frischkäse und Zitronensaft hinzufügen und gut vermengen.",
+        "Mit Salz, Pfeffer und Knoblauch abschmecken.",
+        "Mit etwas Öl anbraten und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R032",
+      "slug": "gegrillte-haehnchenfluegel-mit-zitronenmarinade",
+      "title": "Gegrillte Hähnchenflügel mit Zitronenmarinade",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Hähnchenflügel XXL",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.39
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Olivenöl",
+          "brand": "BERTOLLI",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 5.99,
+          "price_before_eur": 7.99
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (2 Zehen)",
+        "Pfeffer (nach Geschmack)",
+        "Salz (nach Geschmack)"
+      ],
+      "steps": [
+        "Hähnchenflügel mit Zitronensaft, Olivenöl, Knoblauch, Salz und Pfeffer marinieren.",
+        "Für mindestens 30 Minuten im Kühlschrank ziehen lassen.",
+        "Grill vorheizen und die Hähnchenflügel grillen, bis sie goldbraun sind.",
+        "Mit frischen Zitronenscheiben servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R033",
+      "slug": "tafeltrauben-salat-mit-nuessen",
+      "title": "Tafeltrauben-Salat mit Nüssen",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Tafeltrauben dunkel",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Walnüsse",
+          "brand": "TRADER JOE’S",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 4.79,
+          "price_before_eur": 4.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Pfeffer (nach Geschmack)",
+        "Öl (1 EL)",
+        "Honig (1 TL)"
+      ],
+      "steps": [
+        "Tafeltrauben waschen und halbieren.",
+        "Walnüsse grob hacken.",
+        "In einer Schüssel Tafeltrauben, Walnüsse und Zitronensaft vermengen.",
+        "Mit Öl, Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R034",
+      "slug": "rinderhackfleisch-bowl-mit-gemuese",
+      "title": "Rinderhackfleisch-Bowl mit Gemüse",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 25,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Rinderhackfleisch XXL",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 10.99,
+          "price_before_eur": 10.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Kulturchampignons weiß",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Paprika (1 Stk)",
+        "Pfeffer (nach Geschmack)",
+        "Öl (2 EL)"
+      ],
+      "steps": [
+        "Zwiebeln und Paprika würfeln und in einer Pfanne mit Öl anbraten.",
+        "Rinderhackfleisch hinzufügen und gut anbraten.",
+        "Kulturchampignons hinzufügen und kurz mitbraten.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R035",
+      "slug": "gegrillte-salmonfilets-mit-zitronen",
+      "title": "Gegrillte Lachsfilets mit Zitronen",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 20,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Lachsfiletportionen",
+          "brand": "GOLDEN SEAFOOD",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 7.99,
+          "price_before_eur": 9.49
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Olivenöl",
+          "brand": "BERTOLLI",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 5.99,
+          "price_before_eur": 7.99
+        }
+      ],
+      "without_offers": [
+        "Pfeffer (nach Geschmack)",
+        "Knoblauch (1 Zehe)",
+        "Dill (nach Geschmack)"
+      ],
+      "steps": [
+        "Lachsfilets mit Zitronensaft, Olivenöl, Knoblauch, Salz und Pfeffer marinieren.",
+        "Grill vorheizen und die Lachsfilets grillen, bis sie gar sind.",
+        "Mit frischen Zitronenscheiben und Dill servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R036",
+      "slug": "zuckererbsen-mit-frischkaese",
+      "title": "Zuckererbsen mit Frischkäse",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Laktosefrei",
+        "Kalorienarm"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Zuckererbsen",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.79,
+          "price_before_eur": 2.19
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Frischkäse",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.19,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Pfeffer (nach Geschmack)",
+        "Öl (1 EL)"
+      ],
+      "steps": [
+        "Zuckererbsen in kochendem Wasser blanchieren.",
+        "In einer Schüssel mit Frischkäse vermengen.",
+        "Mit Öl, Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R037",
+      "slug": "spaghetti-mit-tomatensauce",
+      "title": "Spaghetti mit Tomatensauce",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Spaghetti XXL",
+          "brand": "CUCINA",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Tomatensauce",
+          "brand": "SPEISEZEIT",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 2.29,
+          "price_before_eur": 2.29
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (2 Zehen)",
+        "Pfeffer (nach Geschmack)"
+      ],
+      "steps": [
+        "Spaghetti nach Packungsanweisung kochen.",
+        "In einer Pfanne Knoblauch anbraten und Tomatensauce hinzufügen.",
+        "Mit Salz, Pfeffer und Basilikum abschmecken.",
+        "Spaghetti mit der Sauce vermengen und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R038",
+      "slug": "huehnerbrustfilet-mit-gemuese",
+      "title": "Hühnchenbrustfilet mit Gemüse",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Hähnchenbrustfilet",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 2,
+          "used_amount": 800.0,
+          "price_eur": 3.99,
+          "price_before_eur": 4.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O021",
+          "name": "Kulturchampignons weiß",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O022",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Paprika (1 Stk)",
+        "Pfeffer (nach Geschmack)",
+        "Öl (2 EL)"
+      ],
+      "steps": [
+        "Zwiebeln und Paprika würfeln und in einer Pfanne mit Öl anbraten.",
+        "Hühnchenbrustfilets hinzufügen und gut anbraten.",
+        "Kulturchampignons hinzufügen und kurz mitbraten.",
+        "Mit Salz und Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R039",
+      "slug": "chicken-wings-mit-salatsauce",
+      "title": "Chicken Wings mit Salatsauce",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O023",
+          "name": "Hähnchenflügel XXL",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 3.49,
+          "price_before_eur": 4.39
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O024",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "kg",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O025",
+          "name": "Kulturchampignons weiß",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.99
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Pfeffer (nach Geschmack)",
+        "Öl (2 EL)"
+      ],
+      "steps": [
+        "Hähnchenflügel mit Zitronensaft, Öl, Salz und Pfeffer marinieren.",
+        "Im Ofen oder auf dem Grill garen, bis sie knusprig sind.",
+        "Mit frischem Salat und einer Salatsauce servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R040",
+      "slug": "fruchtiger-salat-mit-kiwi-und-trauben",
+      "title": "Fruchtiger Salat mit Kiwi und Trauben",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O026",
+          "name": "ZESPRI™ Kiwi Gold",
+          "brand": "ALDI",
+          "unit": "Stück",
+          "pack_size": 4,
+          "packs_used": 1,
+          "used_amount": 4.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O027",
+          "name": "Tafeltrauben dunkel",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        }
+      ],
+      "without_offers": [
+        "Honig (1 EL)",
+        "Zitronensaft (nach Geschmack)"
+      ],
+      "steps": [
+        "Kiwi schälen und in Stücke schneiden.",
+        "Tafeltrauben waschen und halbieren.",
+        "In einer Schüssel Kiwi und Trauben vermengen.",
+        "Mit Honig und Zitronensaft abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R041",
+      "slug": "blueberry-smoothie-r041",
+      "title": "Kulturheidbeer-Smoothie",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O001",
+          "name": "Kulturheidelbeeren",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O002",
+          "name": "Saftorangen",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 3000,
+          "packs_used": 1,
+          "used_amount": 3000.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O003",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        }
+      ],
+      "without_offers": [
+        "Wasser (200 ml)",
+        "Zucker (1 EL)"
+      ],
+      "steps": [
+        "Kulturheidelbeeren, Saftorangen und Zitronen in einen Mixer geben.",
+        "Wasser und Zucker hinzufügen.",
+        "Alles gut mixen, bis eine homogene Masse entsteht.",
+        "In Gläser füllen und sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R042",
+      "slug": "chicken-wings-bbq",
+      "title": "BBQ Hähnchen-Wings",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienreich",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O004",
+          "name": "Hähnchenflügel",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 4.39,
+          "price_before_eur": 4.39
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O005",
+          "name": "BBQ Sauce",
+          "brand": "ALDI",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O006",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Knoblauch (2 Zehen)",
+        "Pfeffer (1 TL)"
+      ],
+      "steps": [
+        "Hähnchenflügel in eine Schüssel geben und mit BBQ Sauce marinieren.",
+        "Zwiebeln und Knoblauch hinzufügen und gut vermischen.",
+        "Im Ofen bei 200 Grad ca. 25 Minuten backen.",
+        "Mit Pfeffer abschmecken und servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R043",
+      "slug": "vegetable-stir-fry-r043",
+      "title": "Gemüse-Pfanne",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O007",
+          "name": "Kulturchampignons",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O008",
+          "name": "Mini-Cherrytomaten",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.69,
+          "price_before_eur": 2.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O009",
+          "name": "Zuckererbsen",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 200,
+          "packs_used": 1,
+          "used_amount": 200.0,
+          "price_eur": 1.79,
+          "price_before_eur": 1.79
+        }
+      ],
+      "without_offers": [
+        "Sojasauce (2 EL)",
+        "Ingwer (1 Stück)"
+      ],
+      "steps": [
+        "Kulturchampignons, Mini-Cherrytomaten und Zuckererbsen in einer Pfanne anbraten.",
+        "Mit Sojasauce und Ingwer würzen.",
+        "Kurz garen und heiß servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R044",
+      "slug": "potato-salad-r044",
+      "title": "Kartoffelsalat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 6,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O010",
+          "name": "Speisekartoffeln",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O011",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O012",
+          "name": "Olivenöl",
+          "brand": "ALDI",
+          "unit": "ml",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 5.99,
+          "price_before_eur": 5.99
+        }
+      ],
+      "without_offers": [
+        "Essig (2 EL)",
+        "Petersilie (1 Bund)"
+      ],
+      "steps": [
+        "Speisekartoffeln kochen und abkühlen lassen.",
+        "Zwiebeln klein schneiden und mit Olivenöl vermischen.",
+        "Kartoffeln würfeln und alles gut vermengen.",
+        "Mit Essig und Petersilie abschmecken."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R045",
+      "slug": "fruit-salad-r045",
+      "title": "Obstsalat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O013",
+          "name": "Tafeltrauben dunkel",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O014",
+          "name": "Äpfel rot",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 3000,
+          "packs_used": 1,
+          "used_amount": 3000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O015",
+          "name": "Kiwi Gold",
+          "brand": "ZESPRI™",
+          "unit": "g",
+          "pack_size": 4,
+          "packs_used": 1,
+          "used_amount": 4.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        }
+      ],
+      "without_offers": [
+        "Zitrone (1 Stk)",
+        "Honig (1 EL)"
+      ],
+      "steps": [
+        "Tafeltrauben, Äpfel und Kiwi klein schneiden.",
+        "In einer Schüssel vermengen.",
+        "Mit Zitronensaft und Honig abschmecken.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R046",
+      "slug": "pasta-salad-r046",
+      "title": "Nudelsalat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 6,
+      "duration_minutes": 25,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O016",
+          "name": "Penne",
+          "brand": "CUCINA",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O017",
+          "name": "Kulturchampignons",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O018",
+          "name": "Mini-Cherrytomaten",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 300,
+          "packs_used": 1,
+          "used_amount": 300.0,
+          "price_eur": 2.69,
+          "price_before_eur": 2.69
+        }
+      ],
+      "without_offers": [
+        "Basilikum (1 Bund)",
+        "Olivenöl (2 EL)"
+      ],
+      "steps": [
+        "Penne nach Packungsanweisung kochen.",
+        "Kulturchampignons und Mini-Cherrytomaten klein schneiden.",
+        "Alles in einer Schüssel vermengen und mit Basilikum und Olivenöl abschmecken.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R047",
+      "slug": "chicken-salad-r047",
+      "title": "Hähnchen-Salat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 20,
+      "difficulty": "medium",
+      "categories": [
+        "High Protein",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O019",
+          "name": "Hähnchen-Geschnetzeltes",
+          "brand": "MEINE METZGEREI",
+          "unit": "g",
+          "pack_size": 800,
+          "packs_used": 1,
+          "used_amount": 800.0,
+          "price_eur": 7.79,
+          "price_before_eur": 7.79
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O020",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O021",
+          "name": "Kulturheidelbeeren",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        }
+      ],
+      "without_offers": [
+        "Salat (1 Kopf)",
+        "Dressing (nach Wahl)"
+      ],
+      "steps": [
+        "Hähnchen-Geschnetzeltes in einer Pfanne braten.",
+        "Zwiebeln klein schneiden und hinzufügen.",
+        "Mit Kulturheidelbeeren und Dressing vermengen.",
+        "Auf einem Bett aus Salat servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R048",
+      "slug": "kiwi-smoothie-r048",
+      "title": "Kiwi-Smoothie",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 2,
+      "duration_minutes": 10,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O022",
+          "name": "Kiwi Gold",
+          "brand": "ZESPRI™",
+          "unit": "g",
+          "pack_size": 4,
+          "packs_used": 1,
+          "used_amount": 4.0,
+          "price_eur": 1.69,
+          "price_before_eur": 1.69
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O023",
+          "name": "Zitronen",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.89,
+          "price_before_eur": 1.89
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O024",
+          "name": "Kulturheidelbeeren",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 3.33,
+          "price_before_eur": 3.33
+        }
+      ],
+      "without_offers": [
+        "Wasser (200 ml)",
+        "Zucker (1 EL)"
+      ],
+      "steps": [
+        "Kiwis, Zitronen und Kulturheidelbeeren in einen Mixer geben.",
+        "Wasser und Zucker hinzufügen.",
+        "Alles gut mixen, bis eine homogene Masse entsteht.",
+        "In Gläser füllen und sofort servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R049",
+      "slug": "chickpea-salad",
+      "title": "Kichererbsensalat",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "categories": [
+        "Vegan",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O025",
+          "name": "Kulturchampignons",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O026",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O027",
+          "name": "Kichererbsen",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 400,
+          "packs_used": 1,
+          "used_amount": 400.0,
+          "price_eur": 1.49,
+          "price_before_eur": 1.49
+        }
+      ],
+      "without_offers": [
+        "Olivenöl (2 EL)",
+        "Petersilie (1 Bund)"
+      ],
+      "steps": [
+        "Kulturchampignons und Zwiebeln klein schneiden.",
+        "Kichererbsen hinzufügen und alles gut vermengen.",
+        "Mit Olivenöl und Petersilie abschmecken.",
+        "Kalt servieren."
+      ],
+      "notes": ""
+    },
+    {
+      "id": "R050",
+      "slug": "pasta-with-tomato-sauce",
+      "title": "Pasta mit Tomatensauce",
+      "retailer": "ALDI_NORD",
+      "week_key": "2026-W05",
+      "valid_from": "2026-01-26",
+      "servings": 4,
+      "duration_minutes": 30,
+      "difficulty": "easy",
+      "categories": [
+        "Vegetarisch",
+        "Kalorienarm",
+        "Gluten-free"
+      ],
+      "image_hint": "stock",
+      "base_ingredients": [
+        "Salz",
+        "Pfeffer",
+        "Öl",
+        "Wasser",
+        "Zucker",
+        "Gewürze"
+      ],
+      "ingredients": [
+        {
+          "from_offer": true,
+          "offer_id": "O028",
+          "name": "Spaghetti",
+          "brand": "CUCINA",
+          "unit": "g",
+          "pack_size": 1000,
+          "packs_used": 1,
+          "used_amount": 1000.0,
+          "price_eur": 1.29,
+          "price_before_eur": 1.29
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O029",
+          "name": "Tomatensauce",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 500,
+          "packs_used": 1,
+          "used_amount": 500.0,
+          "price_eur": 1.99,
+          "price_before_eur": 1.99
+        },
+        {
+          "from_offer": true,
+          "offer_id": "O030",
+          "name": "Zwiebeln",
+          "brand": "ALDI",
+          "unit": "g",
+          "pack_size": 5000,
+          "packs_used": 1,
+          "used_amount": 5000.0,
+          "price_eur": 2.22,
+          "price_before_eur": 2.22
+        }
+      ],
+      "without_offers": [
+        "Basilikum (1 Bund)",
+        "Parmesan (nach Geschmack)"
+      ],
+      "steps": [
+        "Spaghetti nach Packungsanweisung kochen.",
+        "Zwiebeln klein schneiden und in einer Pfanne anbraten.",
+        "Tomatensauce hinzufügen und kurz köcheln lassen.",
+        "Spaghetti mit der Sauce vermengen und mit Basilikum und Parmesan servieren."
+      ],
+      "notes": ""
+    }
+  ]
+}

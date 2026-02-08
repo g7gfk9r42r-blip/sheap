@@ -1,0 +1,81 @@
+{
+  "run_id": "20260126-182450",
+  "week": "2026-W05",
+  "valid_from": "2026-01-26",
+  "markets": [
+    "aldi_sued",
+    "aldi_nord",
+    "rewe",
+    "biomarkt",
+    "penny",
+    "nahkauf",
+    "tegut",
+    "lidl",
+    "norma",
+    "kaufland",
+    "netto"
+  ],
+  "model": "gpt-4o-mini",
+  "image_backend": "replicate",
+  "publish_server": true,
+  "results": {
+    "lidl_extraction": {
+      "ok": true
+    },
+    "aldi_sued": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    },
+    "aldi_nord": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    },
+    "rewe": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    },
+    "biomarkt": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    },
+    "penny": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    },
+    "nahkauf": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": false,
+      "published_ok": true
+    },
+    "tegut": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    },
+    "lidl": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    },
+    "norma": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    },
+    "kaufland": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    },
+    "netto": {
+      "recipes_ok": true,
+      "weekly_refresh_ok": true,
+      "published_ok": true
+    }
+  }
+}

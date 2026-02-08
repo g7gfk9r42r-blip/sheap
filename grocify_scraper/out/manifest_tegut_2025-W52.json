@@ -1,0 +1,27 @@
+{
+  "supermarket": "tegut",
+  "weekKey": "2025-W52",
+  "generatedAt": "2025-12-24T16:51:22.480648",
+  "counts": {
+    "offers": 293,
+    "recipes": 80
+  },
+  "perPageQuality": {},
+  "recheckedPages": 0,
+  "totalGptCalls": 58,
+  "reconcileReport": {
+    "matched": 0,
+    "pdfOnly": 293,
+    "rawOnly": 0
+  },
+  "files": {
+    "offers": "out/offers/offers_tegut_2025-W52.json",
+    "recipes": "out/recipes/recipes_tegut_2025-W52.json",
+    "reports": [
+      "out/reports/reconcile_tegut_2025-W52.json",
+      "out/reports/flagged_tegut_2025-W52.json",
+      "out/reports/page_quality_tegut_2025-W52.json"
+    ],
+    "imageJobs": "out/images/image_jobs_tegut_2025-W52.json"
+  }
+}

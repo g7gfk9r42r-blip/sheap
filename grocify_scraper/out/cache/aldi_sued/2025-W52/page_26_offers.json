@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Ultraslim-Lesehilfe",
+    "brand": "UP2FASHION",
+    "unitText": "je St\u00fcck",
+    "basePrice": 2.99,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "other",
+    "sourcePage": 26,
+    "flags": []
+  },
+  {
+    "name": "Winterstr\u00fcmpfe",
+    "brand": "UP2FASHION",
+    "unitText": "2 Paar",
+    "basePrice": 4.99,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "multi",
+    "notes": null,
+    "category": "other",
+    "sourcePage": 26,
+    "flags": []
+  },
+  {
+    "name": "Ledersocken",
+    "brand": "UP2FASHION",
+    "unitText": "je Paar",
+    "basePrice": 9.99,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "other",
+    "sourcePage": 26,
+    "flags": []
+  },
+  {
+    "name": "Maxi-Schal",
+    "brand": "UP2FASHION",
+    "unitText": "je St\u00fcck",
+    "basePrice": 7.99,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "other",
+    "sourcePage": 26,
+    "flags": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "tileCount": 4,
+  "descriptors": [
+    "Obst & Gem\u00fcse Angebot mit Preis",
+    "Fleischprodukt mit Preis",
+    "Snackprodukt mit Preis",
+    "S\u00fc\u00dfigkeit mit Preis"
+  ],
+  "confidence": 0.9,
+  "attempts": 2
+}

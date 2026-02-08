@@ -2,15 +2,9 @@
 import 'package:flutter/material.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter/material.dart';
 import '../../core/theme/grocify_theme.dart';
-import 'onboarding_controller.dart';
 import 'onboarding_repository.dart';
-import 'models/user_profile_local.dart';
-import 'steps/intro_step.dart';
-import 'steps/name_step.dart';
-import 'steps/quick_prefs_step.dart';
-import 'steps/supermarket_step.dart';
-import 'steps/success_step.dart';
 import '../auth/data/auth_service_local.dart';
 import '../customer/data/customer_data_store.dart';
 import '../customer/domain/models/customer_preferences.dart';
@@ -24,178 +18,137 @@ class OnboardingFlow extends StatefulWidget {
 }
 
 class _OnboardingFlowState extends State<OnboardingFlow> {
-  late OnboardingController _controller;
+  bool _dialogShown = false;
 
   @override
   void initState() {
     super.initState();
-    _controller = OnboardingController();
-    _controller.addListener(_onControllerChanged);
     _loadPackageInfo();
-  }
-
-  @override
-  void dispose() {
-    _controller.removeListener(_onControllerChanged);
-    _controller.dispose();
-    super.dispose();
-  }
-
-  void _onControllerChanged() {
-    setState(() {});
+    WidgetsBinding.instance.addPostFrameCallback((_) => _showQuickIntroIfNeeded());
   }
 
   Future<void> _loadPackageInfo() async {
     try {
       final info = await PackageInfo.fromPlatform();
-      if (mounted) {
-        _controller.updateProfile((p) => p.copyWith(
-          appVersion: '${info.version} (${info.buildNumber})',
-        ));
-      }
-    } catch (e) {
-      // Ignore
-    }
+      debugPrint('App version: ${info.version} (${info.buildNumber})');
+    } catch (_) {}
   }
 
-  Future<void> _completeOnboarding() async {
-    final profile = _controller.profile.copyWith(
-      deviceLocale: Localizations.localeOf(context).toString(),
-    );
-    
-    await OnboardingRepository.saveUserProfile(profile);
-    await OnboardingRepository.setOnboardingCompleted(true);
+  Future<void> _showQuickIntroIfNeeded() async {
+    if (!mounted || _dialogShown) return;
+    _dialogShown = true;
 
-    // Apply onboarding choices to the signed-in user (local files only, no Firestore).
-    try {
-      final user = await AuthServiceLocal.instance.getCurrentUser();
-      if (user != null) {
-        final diet = profile.dietPreferences.contains(DietPreference.vegan)
-            ? 'vegan'
-            : (profile.dietPreferences.contains(DietPreference.vegetarian) ? 'vegetarian' : 'none');
-
-        final goal = switch (profile.goalType) {
-          GoalType.loseWeight => 'lose_weight',
-          GoalType.maintainWeight => 'maintain_weight',
-          GoalType.gainWeight => 'gain_weight',
-          null => null,
-        };
-
-        await UserProfileService.instance.updateProfile(
-          user.uid,
-          displayName: (profile.name ?? '').trim().isEmpty ? null : profile.name!.trim(),
-          diet: diet,
-          goals: goal == null ? null : [goal],
-          allergies: (profile.allergies ?? '')
-              .split(RegExp(r'[,;]'))
-              .map((s) => s.trim().toLowerCase())
-              .where((s) => s.isNotEmpty)
-              .toList(),
-          favoriteMarkets: profile.favoriteSupermarkets.isEmpty ? null : profile.favoriteSupermarkets,
-        );
-
-        final store = CustomerDataStore.instance;
-        final existing = await store.loadPreferences();
-        await store.savePreferences(
-          CustomerPreferences(
-            diet: CustomerDietX.fromString(diet),
-            primaryGoal: goal,
-            dislikedIngredients: existing.dislikedIngredients,
-            allergens: (profile.allergies ?? '')
-                .split(RegExp(r'[,;]'))
-                .map((s) => s.trim().toLowerCase())
-                .where((s) => s.isNotEmpty)
-                .toList(),
-            calorieGoal: existing.calorieGoal,
-            language: existing.language,
-            personalizationEnabled: true,
-          ),
-        );
-      }
-    } catch (_) {
-      // Never block onboarding completion on persistence.
-    }
-    
-    if (mounted) {
-      Navigator.of(context).pushReplacementNamed('/');
-    }
-  }
-
-  Widget _buildProgressIndicator() {
-    final progress = (_controller.currentStep + 1) / _controller.totalSteps;
-    
-    return Container(
-      margin: const EdgeInsets.symmetric(horizontal: GrocifyTheme.screenPadding),
-      child: Column(
-        children: [
-          const SizedBox(height: GrocifyTheme.spaceSM),
-          LinearProgressIndicator(
-            value: progress,
-            backgroundColor: GrocifyTheme.border,
-            valueColor: AlwaysStoppedAnimation<Color>(GrocifyTheme.primary),
-            minHeight: 3,
-          ),
-          const SizedBox(height: GrocifyTheme.spaceXS),
-          Text(
-            '${_controller.currentStep + 1} / ${_controller.totalSteps}',
-            style: TextStyle(
-              fontSize: 12,
-              color: GrocifyTheme.textSecondary,
+    await showDialog<void>(
+      context: context,
+      barrierDismissible: false,
+      builder: (ctx) {
+        return Dialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          child: Container(
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+                colors: [
+                  GrocifyTheme.primary.withOpacity(0.05),
+                  GrocifyTheme.primary.withOpacity(0.1),
+                ],
+              ),
+              borderRadius: BorderRadius.circular(20),
+            ),
+            padding: const EdgeInsets.all(24),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                // Icon mit Gradient-Hintergrund
+                Container(
+                  width: 80,
+                  height: 80,
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                      colors: [
+                        GrocifyTheme.primary,
+                        GrocifyTheme.primary.withOpacity(0.7),
+                      ],
+                    ),
+                    borderRadius: BorderRadius.circular(16),
+                  ),
+                  child: const Icon(
+                    Icons.favorite,
+                    color: Colors.white,
+                    size: 40,
+                  ),
+                ),
+                const SizedBox(height: 20),
+                Text(
+                  'Willkommen bei Grocify',
+                  style: TextStyle(
+                    fontSize: 22,
+                    fontWeight: FontWeight.bold,
+                    color: GrocifyTheme.textPrimary,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 16),
+                Text(
+                  'Die App lädt wöchentlich frische Rezepte basierend auf aktuellen Angeboten. Du kannst deine Präferenzen jederzeit in den Einstellungen anpassen.',
+                  style: TextStyle(
+                    fontSize: 15,
+                    color: GrocifyTheme.textSecondary,
+                    height: 1.5,
+                  ),
+                  textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 28),
+                Container(
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                      colors: [
+                        GrocifyTheme.primary,
+                        GrocifyTheme.primary.withOpacity(0.85),
+                      ],
+                    ),
+                    borderRadius: BorderRadius.circular(12),
+                  ),
+                  child: MaterialButton(
+                    onPressed: () async {
+                      try {
+                        await OnboardingRepository.setOnboardingCompleted(true);
+                      } catch (_) {}
+                      Navigator.of(ctx).pop();
+                      if (mounted) Navigator.of(context).pushReplacementNamed('/');
+                    },
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 40),
+                    child: const Text(
+                      'Loslegen',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontWeight: FontWeight.bold,
+                        fontSize: 16,
+                      ),
+                    ),
+                  ),
+                ),
+              ],
             ),
           ),
-        ],
-      ),
+        );
+      },
     );
-  }
-
-  Widget _buildCurrentStep() {
-    switch (_controller.currentStep) {
-      case 0:
-        return IntroStep(onNext: _controller.nextStep);
-      case 1:
-        return NameStep(
-          profile: _controller.profile,
-          onUpdate: (p) => _controller.updateProfile((_) => p),
-          onNext: _controller.nextStep,
-          onSkip: _controller.nextStep,
-        );
-      case 2:
-        return QuickPrefsStep(
-          profile: _controller.profile,
-          onUpdate: (p) => _controller.updateProfile((_) => p),
-          onNext: _controller.nextStep,
-          onSkip: _controller.nextStep,
-        );
-      case 3:
-        return SupermarketStep(
-          profile: _controller.profile,
-          onUpdate: (p) => _controller.updateProfile((_) => p),
-          onNext: _controller.nextStep,
-          onSkip: _controller.nextStep,
-        );
-      case 4:
-        return SuccessStep(onComplete: _completeOnboarding);
-      default:
-        return const SizedBox.shrink();
-    }
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: GrocifyTheme.background,
-      body: Column(
-        children: [
-          // Progress Indicator (nicht bei Intro und Success)
-          if (_controller.currentStep > 0 && _controller.currentStep < 4)
-            _buildProgressIndicator(),
-          
-          // Current Step
-          Expanded(
-            child: _buildCurrentStep(),
-          ),
-        ],
-      ),
+      body: const Center(child: SizedBox.shrink()),
     );
   }
 }

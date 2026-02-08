@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Kessel-Chips",
+    "brand": "SUNSNACKS",
+    "unitText": "150g",
+    "basePrice": 1.19,
+    "loyaltyPrice": 0.99,
+    "loyaltyLabel": "ALDI Card",
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "snack",
+    "sourcePage": 33,
+    "flags": []
+  },
+  {
+    "name": "Kartoffel Chips",
+    "brand": "SUNSNACKS",
+    "unitText": "200g",
+    "basePrice": 1.49,
+    "loyaltyPrice": 1.39,
+    "loyaltyLabel": "ALDI Card",
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "snack",
+    "sourcePage": 33,
+    "flags": []
+  },
+  {
+    "name": "Tortilla-Chips",
+    "brand": "SUNSNACKS",
+    "unitText": "300g",
+    "basePrice": 1.59,
+    "loyaltyPrice": 1.49,
+    "loyaltyLabel": "ALDI Card",
+    "currency": "EUR",
+    "priceMechanic": "single",
+    "notes": null,
+    "category": "snack",
+    "sourcePage": 33,
+    "flags": []
+  },
+  {
+    "name": "Light Chips",
+    "brand": "SUNSNACKS",
+    "unitText": "500g",
+    "basePrice": null,
+    "loyaltyPrice": null,
+    "loyaltyLabel": null,
+    "currency": "EUR",
+    "priceMechanic": "multi",
+    "notes": "2 Preise sichtbar",
+    "category": "snack",
+    "sourcePage": 33,
+    "flags": [
+      "MULTI_PRICE_UNLABELED"
+    ]
+  }
+]

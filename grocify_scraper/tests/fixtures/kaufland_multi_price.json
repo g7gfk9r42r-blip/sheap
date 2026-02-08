@@ -1,0 +1,60 @@
+[
+  {
+    "title": "STANDARD: 2.49",
+    "prices": [
+      {
+        "amount": 2.49,
+        "condition": {"type": "standard"},
+        "is_reference": false
+      }
+    ]
+  },
+  {
+    "title": "K-Card Preis: 1.99",
+    "prices": [
+      {
+        "amount": 1.99,
+        "condition": {
+          "type": "loyalty",
+          "label": "K-Card",
+          "requires_card": true
+        },
+        "is_reference": false
+      }
+    ]
+  },
+  {
+    "title": "UVP: 3.99",
+    "prices": [
+      {
+        "amount": 3.99,
+        "condition": {"type": "standard"},
+        "is_reference": true
+      }
+    ]
+  },
+  {
+    "title": "Milch 1L STANDARD: 1.29 KARTE: 0.99",
+    "prices": [
+      {
+        "amount": 1.29,
+        "condition": {"type": "standard"},
+        "is_reference": false
+      },
+      {
+        "amount": 0.99,
+        "condition": {
+          "type": "loyalty",
+          "label": "K-Card",
+          "requires_card": true
+        },
+        "is_reference": false
+      }
+    ],
+    "quantity": {
+      "value": 1,
+      "unit": "l"
+    }
+  }
+]
+

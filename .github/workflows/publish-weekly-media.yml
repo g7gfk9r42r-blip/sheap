@@ -1,0 +1,45 @@
+name: Publish Weekly Media
+
+on:
+  schedule:
+    - cron: '0 19 * * 0' # Sunday 19:00 UTC (publish final media bundle)
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Show environment
+        run: |
+          echo "GITHUB_REPOSITORY=$GITHUB_REPOSITORY"
+
+      - name: Ensure python is usable
+        run: python3 --version
+
+      - name: Run weekly_pro to generate media
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python3 tools/weekly_pro.py --image-backend none --publish-server --strict || (echo "weekly_pro failed" && exit 1)
+
+      - name: Upload media bundle to server
+        env:
+          ADMIN_SECRET: ${{ secrets.ADMIN_SECRET }}
+          BASE_URL: ${{ secrets.API_BASE_URL }}
+        run: |
+          python3 tools/upload_media_bundle.py --base-url "$BASE_URL" --admin-secret "$ADMIN_SECRET"
+
+      - name: Notify success
+        if: ${{ success() }}
+        run: echo "Weekly media published successfully"

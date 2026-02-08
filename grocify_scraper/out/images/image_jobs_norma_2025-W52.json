@@ -1,0 +1,562 @@
+[
+  {
+    "recipeId": "1ca393670ac1a0e7",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 1 with Nudeln, Olivenöl, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "54c907892ee39b4c",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 2 with Pfeffer, Olivenöl, Reis. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "a0c4e07ff303dc5d",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 3 with Nudeln, Knoblauch, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "e78b11f4f74227de",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 4 with Tomaten, Pfeffer, Knoblauch. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "78ab0ecd024ef48c",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 5 with Reis, Olivenöl, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "dbf24baba1610f87",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 6 with Nudeln, Zwiebel, Reis. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "4fae6483ebe8046a",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 7 with Knoblauch, Zwiebel, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "61e62090c84275f0",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 8 with Tomaten, Pfeffer, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "3fa8e623fb28c1af",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 9 with Olivenöl, Salz, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "b79f9ff2acd4dfcc",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 10 with Knoblauch, Nudeln, Reis. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "b378a4f16bed7103",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 11 with Olivenöl, Salz, Nudeln. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "199bb5f6b1c4b5e8",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 12 with Zwiebel, Pfeffer, Olivenöl. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "323312ead65e6f44",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 13 with Olivenöl, Zwiebel, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "5fa1bed4c74ed211",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 14 with Zwiebel, Salz, Nudeln. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "2fd2a90890c172d3",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 15 with Pfeffer, Nudeln, Salz. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "503f0b57e0f730ab",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 16 with Olivenöl, Tomaten, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "73012bc5b6af49b0",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 17 with Nudeln, Zwiebel, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "5559002a2bfb5b29",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 18 with Nudeln, Zwiebel, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "5d55ec3cccffc3a0",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 19 with Salz, Knoblauch, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "6f86364ee81f7ed2",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 20 with Tomaten, Zwiebel, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "d7e153162822ebd1",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 21 with Zwiebel, Olivenöl, Salz. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "659ba2e378cd3dff",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 22 with Nudeln, Olivenöl, Salz. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "9226826d8566234d",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 23 with Zwiebel, Pfeffer, Reis. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "469a5d55b16814e7",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 24 with Knoblauch, Zwiebel, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "10b2f3feea15cfd8",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 25 with Nudeln, Tomaten, Olivenöl. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "60f47eef04a25552",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 26 with Reis, Tomaten, Olivenöl. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "af349b4f05add103",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 27 with Olivenöl, Knoblauch, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "59de004935b6fc99",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 28 with Salz, Olivenöl, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "5f101693903289a2",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 29 with Reis, Tomaten, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "dd2668d4ad1a9d89",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 30 with Nudeln, Salz, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "7c2ae994b9acbf5e",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 31 with Salz, Nudeln, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "1eeec276ab8326af",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 32 with Olivenöl, Pfeffer, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "2b0213d3deb21fff",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 33 with Salz, Knoblauch, Reis. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "144df5be90753211",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 34 with Salz, Zwiebel, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "326432ec6e354cab",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 35 with Olivenöl, Nudeln, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "694fe04b7f8de7e0",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 36 with Reis, Olivenöl, Knoblauch. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "070b8c3f8d105bc9",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 37 with Reis, Nudeln, Olivenöl. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "e86c1ff3721715f6",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 38 with Pfeffer, Reis, Olivenöl. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "0a0190f39eb92945",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 39 with Pfeffer, Tomaten, Olivenöl. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "1f77e2e3b5e1cf06",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 40 with Reis, Zwiebel, Nudeln. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "930d49dab46248d3",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 41 with Pfeffer, Tomaten, Knoblauch. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "b93c5b66bf13bb26",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 42 with Pfeffer, Zwiebel, Nudeln. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "f82118fff2226eb2",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 43 with Salz, Tomaten, Nudeln. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "76807339b9a1422f",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 44 with Zwiebel, Salz, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "7779cbe9c7282edd",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 45 with Zwiebel, Nudeln, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "d82ad042cbca6cc8",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 46 with Nudeln, Reis, Salz. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "5fac158d395813d1",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 47 with Salz, Tomaten, Olivenöl. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "080af6ef58dbe90f",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 48 with Nudeln, Olivenöl, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "fa5865fa42fb811e",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 49 with Pfeffer, Nudeln, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "0a77e00589736e49",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 50 with Salz, Zwiebel, Nudeln. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "03bea2020e8027b6",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 51 with Salz, Olivenöl, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "7ee7c3e6966b29d5",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 52 with Tomaten, Salz, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "a962d210e8f3332f",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 53 with Pfeffer, Zwiebel, Nudeln. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "d7ab7216c59a718b",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 54 with Salz, Tomaten, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "e166181d814b4b14",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 55 with Knoblauch, Nudeln, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "0702604a628713e5",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 56 with Zwiebel, Pfeffer, Salz. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "2d34a89b6f344bf7",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 57 with Tomaten, Nudeln, Salz. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "c01f2131ace334b3",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 58 with Tomaten, Reis, Salz. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "76f800c7ea01c507",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 59 with Zwiebel, Knoblauch, Olivenöl. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "9dd48e37a78b3c93",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 60 with Reis, Olivenöl, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "21b0f26eb9b89e07",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 61 with Zwiebel, Pfeffer, Nudeln. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "98c40c093b27a05e",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 62 with Nudeln, Tomaten, Reis. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "a3ffbee13cfa5737",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 63 with Salz, Pfeffer, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "f4c690a67617a351",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 64 with Nudeln, Olivenöl, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "2e500ded1cab1a4c",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 65 with Tomaten, Zwiebel, Knoblauch. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "8a8312902b9a6154",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 66 with Salz, Tomaten, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "e868cb3e201d7210",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 67 with Nudeln, Salz, Knoblauch. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "06756d6d4fd0be4a",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 68 with Tomaten, Knoblauch, Salz. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "c84a426165ec8fc6",
+    "imagePrompt": "Photorealistic top-down food photography of Einfache Pasta 69 with Reis, Tomaten, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "d707f67d7cf8fe9b",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 70 with Reis, Knoblauch, Nudeln. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "b63b7c1b540b7a5a",
+    "imagePrompt": "Photorealistic top-down food photography of Einfaches Risotto 71 with Tomaten, Nudeln, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "e207c7a2b2fa7e10",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 72 with Pfeffer, Salz, Knoblauch. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "564a98f9d51c5361",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 73 with Knoblauch, Nudeln, Zwiebel. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "420023e7d04d3016",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 74 with Reis, Nudeln, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "a19b34d9fca9a12e",
+    "imagePrompt": "Photorealistic top-down food photography of Klassische Tomatensauce 75 with Pfeffer, Salz, Olivenöl. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "61b8cc62ee6d49f1",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 76 with Pfeffer, Nudeln, Reis. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "282dff15786a8295",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 77 with Pfeffer, Nudeln, Reis. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "8c6b0b55fedfad68",
+    "imagePrompt": "Photorealistic top-down food photography of Gedämpftes Gemüse 78 with Pfeffer, Zwiebel, Tomaten. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "fe5d65c4f47adf47",
+    "imagePrompt": "Photorealistic top-down food photography of Schnelle Pfanne 79 with Tomaten, Salz, Reis. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  },
+  {
+    "recipeId": "8a1e183e7e10fb53",
+    "imagePrompt": "Photorealistic top-down food photography of Einfacher Salat 80 with Salz, Knoblauch, Pfeffer. Natural lighting, professional food styling, appetizing presentation, no text, 1:1 aspect ratio, high quality, restaurant quality",
+    "aspectRatio": "1:1",
+    "style": "photorealistic",
+    "lighting": "natural"
+  }
+]
