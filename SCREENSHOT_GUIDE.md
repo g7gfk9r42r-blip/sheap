@@ -12,13 +12,14 @@
 
 | Requirement | Specification |
 |---|---|
-| **Resolution** | 1170 × 2532 px (standard iPhone) |
-| **Format** | PNG or JPEG |
-| **Count** | 2–10 screenshots (recommended 5–10) |
-| **Device** | Show iPhone 15 Pro / 14 Pro (not notch visible) |
-| **Content** | Real app screens (no mockups) |
-| **Text** | Clear, readable app features highlighted |
-| **Language** | German (or market language) |
+| **Resolution** | **1284 × 2778 px** (iPhone 6,5" - 14/15 Pro Max) oder 2778 × 1284 px (Querformat) |
+| **Alternative** | 1242 × 2688 px oder 2688 × 1242 px (Querformat) |
+| **Format** | PNG oder JPEG |
+| **Count** | bis zu 10 Screenshots (empfohlen 5–10) |
+| **Device** | iPhone mit 6,5" Display (Pro Max Modelle) |
+| **Content** | Echte App-Bildschirme (keine Mockups) |
+| **Text** | Klar lesbar, App-Features hervorgehoben |
+| **Sprache** | German |
 
 ### Google Play Store
 

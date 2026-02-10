@@ -2,13 +2,8 @@
 import 'package:flutter/material.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/material.dart';
 import '../../core/theme/grocify_theme.dart';
 import 'onboarding_repository.dart';
-import '../auth/data/auth_service_local.dart';
-import '../customer/data/customer_data_store.dart';
-import '../customer/domain/models/customer_preferences.dart';
-import '../user/data/user_profile_service.dart';
 
 class OnboardingFlow extends StatefulWidget {
   const OnboardingFlow({super.key});
