@@ -33,6 +33,9 @@ fi
 echo "=== Flutter version ==="
 flutter --version
 
+echo "=== Flutter precache (iOS) ==="
+flutter precache --ios
+
 echo "=== Flutter pub get ==="
 flutter pub get
 
