@@ -39,6 +39,34 @@ flutter precache --ios
 echo "=== Flutter pub get ==="
 flutter pub get
 
+echo "=== Firebase plist setup (iOS) ==="
+IOS_PLIST_PATH="$REPO_ROOT/ios/Runner/GoogleService-Info.plist"
+if [[ ! -f "$IOS_PLIST_PATH" ]]; then
+  if [[ -n "${FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64:-}" ]]; then
+    echo "Writing GoogleService-Info.plist from FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64"
+    echo "$FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64" | base64 --decode > "$IOS_PLIST_PATH"
+  elif [[ -n "${FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST:-}" ]]; then
+    echo "Writing GoogleService-Info.plist from FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST"
+    printf "%s" "$FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST" > "$IOS_PLIST_PATH"
+  else
+    echo "ERROR: Missing Firebase iOS plist for CI."
+    echo "Set one of these Xcode Cloud environment variables:"
+    echo "  - FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64"
+    echo "  - FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST"
+    exit 1
+  fi
+fi
+
+if [[ ! -s "$IOS_PLIST_PATH" ]]; then
+  echo "ERROR: Generated $IOS_PLIST_PATH is empty."
+  exit 1
+fi
+
+if ! grep -q "<plist" "$IOS_PLIST_PATH"; then
+  echo "ERROR: $IOS_PLIST_PATH does not look like a valid plist."
+  exit 1
+fi
+
 echo "=== CocoaPods install ==="
 cd ios
 pod --version
