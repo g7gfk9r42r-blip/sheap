@@ -105,6 +105,25 @@ if ! grep -q "<plist" "$IOS_PLIST_PATH"; then
   exit 1
 fi
 
+if ! plutil -lint "$IOS_PLIST_PATH"; then
+  echo "ERROR: $IOS_PLIST_PATH is not a valid property list."
+  exit 1
+fi
+
+# Normalize to canonical XML plist to avoid parser quirks in xcodebuild.
+if ! plutil -convert xml1 "$IOS_PLIST_PATH" -o "$IOS_PLIST_PATH"; then
+  echo "ERROR: Failed to normalize $IOS_PLIST_PATH via plutil."
+  exit 1
+fi
+
+echo "Validating key iOS plist files..."
+for p in "$REPO_ROOT/ios/Runner/Info.plist" "$IOS_PLIST_PATH"; do
+  if ! plutil -lint "$p"; then
+    echo "ERROR: Invalid plist detected: $p"
+    exit 1
+  fi
+done
+
 echo "=== CocoaPods install ==="
 cd ios
 pod --version
