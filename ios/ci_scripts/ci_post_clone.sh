@@ -41,20 +41,56 @@ flutter pub get
 
 echo "=== Firebase plist setup (iOS) ==="
 IOS_PLIST_PATH="$REPO_ROOT/ios/Runner/GoogleService-Info.plist"
-if [[ ! -f "$IOS_PLIST_PATH" ]]; then
-  if [[ -n "${FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64:-}" ]]; then
-    echo "Writing GoogleService-Info.plist from FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64"
-    if ! printf "%s" "$FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64" | base64 --decode > "$IOS_PLIST_PATH" 2>/dev/null; then
-      printf "%s" "$FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64" | base64 -D > "$IOS_PLIST_PATH"
+
+first_non_empty_var() {
+  for name in "$@"; do
+    if [[ -n "${!name:-}" ]]; then
+      echo "$name"
+      return 0
     fi
-  elif [[ -n "${FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST:-}" ]]; then
-    echo "Writing GoogleService-Info.plist from FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST"
-    printf "%s" "$FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST" > "$IOS_PLIST_PATH"
+  done
+  return 1
+}
+
+present_secret_names() {
+  env | cut -d= -f1 | rg -E "GOOGLESERVICE|GOOGLE_SERVICE|FIREBASE_IOS.*PLIST" || true
+}
+
+if [[ ! -f "$IOS_PLIST_PATH" ]]; then
+  PLIST_B64_VAR="$(first_non_empty_var \
+    FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64 \
+    FIREBASE_IOS_GOOGLE_SERVICE_INFO_PLIST_BASE64 \
+    GOOGLE_SERVICE_INFO_PLIST_BASE64 \
+    GOOGLESERVICE_INFO_PLIST_BASE64 \
+  || true)"
+  PLIST_RAW_VAR="$(first_non_empty_var \
+    FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST \
+    FIREBASE_IOS_GOOGLE_SERVICE_INFO_PLIST \
+    GOOGLE_SERVICE_INFO_PLIST \
+    GOOGLESERVICE_INFO_PLIST \
+  || true)"
+
+  if [[ -n "$PLIST_B64_VAR" ]]; then
+    echo "Writing GoogleService-Info.plist from ${PLIST_B64_VAR}"
+    if ! printf "%s" "${!PLIST_B64_VAR}" | base64 --decode > "$IOS_PLIST_PATH" 2>/dev/null; then
+      printf "%s" "${!PLIST_B64_VAR}" | base64 -D > "$IOS_PLIST_PATH"
+    fi
+  elif [[ -n "$PLIST_RAW_VAR" ]]; then
+    echo "Writing GoogleService-Info.plist from ${PLIST_RAW_VAR}"
+    printf "%s" "${!PLIST_RAW_VAR}" > "$IOS_PLIST_PATH"
   else
     echo "ERROR: Missing Firebase iOS plist for CI."
-    echo "Set one of these Xcode Cloud environment variables:"
+    echo "Set one of these Xcode Cloud environment variables (Secret):"
     echo "  - FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST_BASE64"
+    echo "  - FIREBASE_IOS_GOOGLE_SERVICE_INFO_PLIST_BASE64"
+    echo "  - GOOGLE_SERVICE_INFO_PLIST_BASE64"
+    echo "  - GOOGLESERVICE_INFO_PLIST_BASE64"
     echo "  - FIREBASE_IOS_GOOGLESERVICE_INFO_PLIST"
+    echo "  - FIREBASE_IOS_GOOGLE_SERVICE_INFO_PLIST"
+    echo "  - GOOGLE_SERVICE_INFO_PLIST"
+    echo "  - GOOGLESERVICE_INFO_PLIST"
+    echo "Detected related env names:"
+    present_secret_names
     exit 1
   fi
 fi
