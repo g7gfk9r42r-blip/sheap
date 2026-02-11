@@ -1,5 +1,9 @@
 #!/bin/bash
 set -euo pipefail
 
-# Delegate to ios script (kept for compatibility)
+# Ensure repo root
+REPO_ROOT="${CI_WORKSPACE:-$(pwd)}"
+cd "$REPO_ROOT"
+
+# Delegate to ios script
 ./ios/ci_scripts/ci_post_clone.sh
