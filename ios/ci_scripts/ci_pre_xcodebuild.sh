@@ -1,6 +1,5 @@
-#!/bin/zsh
+#!/bin/bash
 set -euo pipefail
 
-echo "==> Ensure Generated.xcconfig exists"
-flutter pub get
-flutter build ios --release --no-codesign
+cd "${CI_WORKSPACE:-$(pwd)}/ios"
+pod install

@@ -1,6 +1,5 @@
 #!/bin/bash
 set -euo pipefail
 
-echo "== Pre-xcodebuild: ensure pods present =="
-cd ios
-pod install
+# Delegate to ios script (kept for compatibility)
+./ios/ci_scripts/ci_pre_xcodebuild.sh
