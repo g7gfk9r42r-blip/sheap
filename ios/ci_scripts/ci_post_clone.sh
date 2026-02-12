@@ -72,8 +72,11 @@ if [[ ! -f "$IOS_PLIST_PATH" ]]; then
 
   if [[ -n "$PLIST_B64_VAR" ]]; then
     echo "Writing GoogleService-Info.plist from ${PLIST_B64_VAR}"
-    if ! printf "%s" "${!PLIST_B64_VAR}" | base64 --decode > "$IOS_PLIST_PATH" 2>/dev/null; then
-      printf "%s" "${!PLIST_B64_VAR}" | base64 -D > "$IOS_PLIST_PATH"
+    B64_CONTENT="$(printf "%s" "${!PLIST_B64_VAR}" | tr -d '[:space:]')"
+    # Common copy artifact from zsh prompt when users copy terminal output.
+    B64_CONTENT="${B64_CONTENT%%%}"
+    if ! printf "%s" "$B64_CONTENT" | base64 --decode > "$IOS_PLIST_PATH" 2>/dev/null; then
+      printf "%s" "$B64_CONTENT" | base64 -D > "$IOS_PLIST_PATH"
     fi
   elif [[ -n "$PLIST_RAW_VAR" ]]; then
     echo "Writing GoogleService-Info.plist from ${PLIST_RAW_VAR}"
