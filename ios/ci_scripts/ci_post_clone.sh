@@ -53,7 +53,7 @@ first_non_empty_var() {
 }
 
 present_secret_names() {
-  env | cut -d= -f1 | rg -E "GOOGLESERVICE|GOOGLE_SERVICE|FIREBASE_IOS.*PLIST" || true
+  env | cut -d= -f1 | grep -E "GOOGLESERVICE|GOOGLE_SERVICE|FIREBASE_IOS.*PLIST" || true
 }
 
 if [[ ! -f "$IOS_PLIST_PATH" ]]; then
@@ -128,6 +128,6 @@ for p in "$REPO_ROOT/ios/Runner/Info.plist" "$IOS_PLIST_PATH"; do
 done
 
 echo "=== CocoaPods install ==="
-cd ios
-pod --version
-pod install --repo-update
+cd "$(dirname "$0")/.."
+export COCOAPODS_DISABLE_STATS=true
+pod install --no-repo-update
